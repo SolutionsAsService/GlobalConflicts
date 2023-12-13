@@ -1,0 +1,65 @@
+{
+    "Falklands_War": {
+      "context": {
+        "part_of": ["Cold War", "Falkland Islands Sovereignty Dispute"]
+      },
+      "date": "2 April – 14 June 1982",
+      "duration": "2 months, 1 week and 5 days",
+      "location": [
+        "Falkland Islands",
+        "South Georgia and the South Sandwich Islands"
+      ],
+      "result": "British victory",
+      "belligerents": {
+        "United_Kingdom": null,
+        "Argentina": null
+      },
+      "commanders_and_leaders": {
+        "United_Kingdom": [
+          "Margaret Thatcher",
+          "Terence Lewin",
+          "Henry Leach",
+          "John Fieldhouse",
+          "Sandy Woodward",
+          "Jeremy Moore",
+          "Michael Clapp",
+          "Julian Thompson",
+          "Tony Wilson"
+        ],
+        "Argentina": [
+          "Leopoldo Galtieri",
+          "Jorge Anaya",
+          "Basilio Lami Dozo",
+          "Juan Lombardo",
+          "Ernesto Horacio Crespo",
+          "Mario Menéndez"
+        ]
+      },
+      "casualties_and_losses": {
+        "United_Kingdom": {
+          "casualties": {
+            "killed": 255,
+            "wounded": 775,
+            "captured": 107
+          },
+          "losses": {
+            "ships": ["2 destroyers", "2 frigates", "1 landing ship", "1 landing craft", "1 container ship"],
+            "aircraft": ["24 helicopters", "10 fighters"]
+          }
+        },
+        "Argentina": {
+          "casualties": {
+            "killed": 649,
+            "wounded": 1657,
+            "captured": 11313
+          },
+          "losses": {
+            "ships": ["1 cruiser", "1 submarine", "4 cargo vessels", "2 patrol boats", "1 naval trawler"],
+            "aircraft": ["25 helicopters", "35 fighters", "2 bombers", "4 cargo aircraft", "25 COIN aircraft", "9 armed trainers"],
+            "civilians": "3 Falkland Islanders killed by shelling"
+          }
+        }
+      }
+    }
+  }
+  

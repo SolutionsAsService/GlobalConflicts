@@ -1,0 +1,58 @@
+{
+    "Congo_Crisis": {
+      "context": {
+        "part_of": ["Cold War", "Decolonisation of Africa"]
+      },
+      "date": "5 July 1960 – 25 November 1965",
+      "location": "Republic of the Congo",
+      "result": "The Congo established as an independent unitary state under the authoritarian presidency of Mobutu Sese Seko",
+      "belligerents": {
+        "1960_63_Congo_and_Allies": {
+          "main": ["Democratic Republic of the Congo (Republic of the Congo)"],
+          "support": ["Soviet Union (1960)", "United Nations ONUC"]
+        },
+        "1960_63_Separatists_and_Allies": {
+          "main": ["Katanga", "South Kasai"],
+          "support": ["Belgium"]
+        },
+        "1960_62_Rebels_and_Allies": {
+          "main": ["Democratic Republic of the Congo (Free Republic of the Congo)"],
+          "support": ["Soviet Union"]
+        },
+        "1963_65_Congo_and_International_Allies": {
+          "main": ["Democratic Republic of the Congo"],
+          "support": ["United States", "Belgium", "United Nations ONUC (1964)"]
+        },
+        "1963_65_Rebels_and_Support": {
+          "main": ["Kwilu and Simba rebels"],
+          "support": ["Soviet Union", "China", "Cuba"]
+        }
+      },
+      "commanders_and_leaders": {
+        "Congo_and_Allies": [
+          "Joseph Kasa-Vubu",
+          "Patrice Lumumba (Executed)",
+          "Cyrille Adoula",
+          "Dag Hammarskjöld †",
+          "U Thant",
+          "Joseph-Désiré Mobutu",
+          "Moïse Tshombe (from 1964)"
+        ],
+        "Separatists_and_Allies": [
+          "Moïse Tshombe (State of Katanga)",
+          "Albert Kalonji (South Kasai)",
+          "Gaston Eyskens (Belgium)",
+          "Théo Lefèvre (Belgium)"
+        ],
+        "Rebels_and_Support": [
+          "Antoine Gizenga (POW)",
+          "Pierre Mulele",
+          "Christophe Gbenye"
+        ]
+      },
+      "casualties_and_losses": {
+        "total_killed": "Approximately 100,000"
+      }
+    }
+  }
+  

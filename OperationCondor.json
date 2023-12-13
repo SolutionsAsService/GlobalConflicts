@@ -1,0 +1,31 @@
+{
+    "Operation Condor": {
+      "type": "Covert operation",
+      "location": "South America",
+      "active_members": ["Argentina", "Bolivia", "Brazil", "Chile", "Paraguay", "Uruguay"],
+      "sporadic_member": "Peru",
+      "collaborator_and_financier": "United States",
+      "supported_by": ["France"],
+      "commanded_by": {
+        "Argentina": "Jorge Rafael Videla",
+        "Bolivia": "Hugo Banzer",
+        "Brazil": ["Ernesto Geisel", "João Figueiredo"],
+        "Chile": "Augusto Pinochet",
+        "Paraguay": "Alfredo Stroessner",
+        "Peru": "Francisco Morales Bermúdez",
+        "Uruguay": ["Juan María Bordaberry", "Gregorio Conrado Álvarez", "Aparicio Méndez"],
+        "United States": "Henry Kissinger",
+        "France": ["François Mitterand", "Valéry Giscard d’Estaing"]
+      },
+      "target": "Democratic governments and political parties, unions, student organizations, journalists, artists, teachers, intellectuals, opponents to the military juntas and left-wing sympathizers (including socialists, peronists, anarchists, communists)",
+      "date_range": "1975–1983",
+      "executed_by": "Intelligence agencies of respective participating countries",
+      "outcome": "Concluded after the fall of the Berlin Wall",
+      "casualties": {
+        "suspected_leftist_sympathizers_killed": "60,000–80,000",
+        "killed_in_cross_border_operations": "400–500",
+        "political_prisoners": "400,000+"
+      }
+    }
+  }
+  
