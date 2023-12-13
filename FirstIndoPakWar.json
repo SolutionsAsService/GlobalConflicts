@@ -1,0 +1,67 @@
+{
+    "name": "Indo-Pakistani War of 1947-1948",
+    "other_names": ["First Kashmir War"],
+    "dates": "22 October 1947 – 5 January 1949",
+    "duration": "1 year, 2 months and 2 weeks",
+    "location": ["Jammu and Kashmir"],
+    "result": "Indian victory",
+    "territorial_changes": "One-third of Jammu and Kashmir controlled by Pakistan. Indian control over remainder.",
+    "belligerents": {
+      "India": [
+        "Indian Army",
+        "Indian Air Force (Combat, transport and supply)",
+        "Jammu and Kashmir State Forces"
+      ],
+      "Pakistan": [
+        "Pakistan Army",
+        "Pakistan Air Force (Supply support only)",
+        "Pakistani paramilitaries",
+        "Gilgit Scouts",
+        "Kurram Militia",
+        "Frontier Scouts",
+        "Pashtun tribal militias",
+        "Azad Kashmir irregular forces",
+        "Muslim League National Guard",
+        "Swat Army",
+        "Furqan Force"
+      ]
+    },
+    "commanders_and_leaders": {
+      "India": [
+        "Lord Mountbatten",
+        "Jawaharlal Nehru",
+        "Rob Lockhart",
+        "Roy Bucher",
+        "K. M. Cariappa",
+        "Hari Singh",
+        "Mehr Chand Mahajan",
+        "Sheikh Abdullah"
+      ],
+      "Pakistan": [
+        "Mohammad Ali Jinnah",
+        "Liaquat Ali Khan",
+        "Frank Messervy",
+        "Douglas Gracey",
+        "Col. Akbar Khan",
+        "Khurshid Anwar",
+        "Zaman Kiani",
+        "William Brown"
+      ]
+    },
+    "casualties_and_losses": {
+      "India": {
+        "army_deaths": "1,103",
+        "J&K_forces_killed_or_missing": "1,990",
+        "RIAF_members": "32",
+        "wounded": "3,154",
+        "total_military_casualties": "6,279"
+      },
+      "Pakistan": {
+        "killed": "6,000",
+        "wounded": "~14,000",
+        "total_military_casualties": "20,000"
+      }
+    },
+    "conflict_beginning": "Conflict began when Pashtun tribesmen and Tanoli from Pakistan invaded the princely state of Jammu and Kashmir, prompting the armies of India and Pakistan to get involved shortly afterwards."
+  }
+  

@@ -1,0 +1,78 @@
+{
+    "name": "First Arab-Israeli War",
+    "other_names": ["Israeli War of Independence"],
+    "dates": "15 May 1948 – 10 March 1949",
+    "duration": "9 months, 3 weeks and 2 days",
+    "location": [
+      "Former British Mandate of Palestine",
+      "Sinai Peninsula",
+      "Southern Lebanon"
+    ],
+    "result": [
+      "Israeli victory",
+      "Partial Jordanian victory",
+      "Palestinian Arab, Egyptian, and Syrian defeat"
+    ],
+    "territorial_changes": "Israel keeps the area allotted to it by the Partition Plan and captures approximately 60% of the area allotted to the Arab state; Jordanian rule of the West Bank, Egyptian occupation of the Gaza Strip",
+    "belligerents": {
+      "Israel": [
+        "Yishuv",
+        "Haganah",
+        "Palmach",
+        "Irgun",
+        "Lehi",
+        "Allied Bedouin tribes",
+        "Israel Defense Forces",
+        "Foreign volunteers (Mahal)"
+      ],
+      "Arab_League": [
+        "Egypt",
+        "Transjordan",
+        "Iraq",
+        "Syria",
+        "Lebanon",
+        "Saudi Arabia",
+        "Yemen",
+        "Arab Liberation Army",
+        "Al-Najjada",
+        "Holy War Army"
+      ]
+    },
+    "commanders_and_leaders": {
+      "Israel": [
+        "David Ben-Gurion",
+        "Yisrael Galili",
+        "Yaakov Dori",
+        "Yigael Yadin",
+        "Mickey Marcus †",
+        "Yigal Allon",
+        "Yitzhak Rabin",
+        "Moshe Dayan",
+        "Others"
+      ],
+      "Arab_League": [
+        "Azzam Pasha",
+        "King Farouk I",
+        "Ahmed Ali al-Mwawi",
+        "Muhammad Naguib",
+        "King Abdallah I",
+        "John Bagot Glubb",
+        "Habis Majali",
+        "Muzahim al-Pachachi",
+        "Husni al-Za'im",
+        "Haj Amin al-Husseini",
+        "Hasan Salama †",
+        "Fawzi al-Qawuqji",
+        "Others"
+      ]
+    },
+    "strength": {
+      "Israel": "29,677 initially, rising to 117,500",
+      "Arab_League": "Initial strength of 13,000, rising to between 51,100 and 63,500"
+    },
+    "casualties_and_losses": {
+      "Israel": "6,373 killed (about 4,000 fighters and 2,400 civilians)",
+      "Arab_League": "Arab armies: 3,700–7,000 killed, Palestinian Arabs: 3,000–13,000 killed (both fighters and civilians)"
+    }
+  }
+  

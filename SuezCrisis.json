@@ -1,0 +1,80 @@
+{
+    "name": "Suez Crisis",
+    "other_names": ["Second Arab-Israeli War", "Tripartite Aggression", "Sinai War"],
+    "dates": "29 October 1956 – 7 November 1956",
+    "duration": "1 week and 2 days",
+    "location": ["Gaza Strip", "Egypt (Sinai and Suez Canal zone)"],
+    "result": "See the Aftermath section",
+    "territorial_changes": "Israeli occupation of Sinai (until March 1957)",
+    "belligerents": {
+      "Israel": "Israel",
+      "United_Kingdom": "United Kingdom",
+      "France": "French Fourth Republic",
+      "Egypt": "Egypt"
+    },
+    "commanders_and_leaders": {
+      "Israel": [
+        "David Ben-Gurion",
+        "Moshe Dayan",
+        "Asaf Simhoni",
+        "Haim Bar-Lev",
+        "Avraham Yoffe",
+        "Israel Tal",
+        "Ariel Sharon",
+        "Uri Ben-Ari"
+      ],
+      "United_Kingdom": [
+        "Anthony Eden",
+        "Gerald Templer",
+        "Charles Keightley",
+        "Hugh Stockwell",
+        "Manley Power"
+      ],
+      "France": [
+        "René Coty",
+        "Guy Mollet",
+        "Pierre Barjot",
+        "André Beaufre",
+        "Jacques Massu"
+      ],
+      "Egypt": [
+        "Gamal Abdel Nasser",
+        "Abdel Hakim Amer",
+        "Saadedden Mutawally",
+        "Sami Yassa",
+        "Jaafar al-Abd",
+        "Salahedin Moguy",
+        "Raouf Mahfouz Zaki"
+      ]
+    },
+    "strength": {
+      "Israel": "175,000",
+      "United_Kingdom": "45,000",
+      "France": "34,000",
+      "Egypt": "300,000"
+    },
+    "casualties_and_losses": {
+      "Israel": {
+        "killed": "172",
+        "wounded": "817",
+        "captured": "1"
+      },
+      "United_Kingdom": {
+        "killed": "22",
+        "wounded": "96"
+      },
+      "France": {
+        "killed": "10",
+        "wounded": "33"
+      },
+      "Egypt": {
+        "killed": "1,650-3,000",
+        "civilians_killed": "1,000",
+        "wounded": "4,900",
+        "captured": "5,000-30,000",
+        "tanks_destroyed": "125",
+        "aircraft_destroyed": "215+"
+      }
+    }
+  }
+  

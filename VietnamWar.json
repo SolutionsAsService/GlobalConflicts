@@ -1,0 +1,98 @@
+{
+    "name": "Vietnam War",
+    "other_names": ["Second Indochina War"],
+    "dates": "1 November 1955 – 30 April 1975",
+    "duration": "19 years, 5 months, 4 weeks and 1 day",
+    "location": [
+      "South Vietnam",
+      "North Vietnam",
+      "Cambodia",
+      "Laos",
+      "South China Sea",
+      "Gulf of Thailand"
+    ],
+    "result": "Eastern Bloc victory",
+    "territorial_changes": "Reunification of North and South Vietnam into the Socialist Republic of Vietnam in 1976",
+    "belligerents": {
+      "North_Vietnam_allies": [
+        "North Vietnam",
+        "Viet Cong and PRG",
+        "Pathet Lao",
+        "Khmer Rouge",
+        "GRUNK (1970–1975)",
+        "China (1965-1969)",
+        "Soviet Union",
+        "North Korea"
+      ],
+      "South_Vietnam_allies": [
+        "South Vietnam",
+        "United States",
+        "South Korea",
+        "Australia",
+        "New Zealand",
+        "Laos",
+        "Cambodia (1967–1970)",
+        "Khmer Republic (1970–1975)",
+        "Thailand",
+        "Philippines"
+      ]
+    },
+    "commanders_and_leaders": {
+      "North_Vietnam": [
+        "Hồ Chí Minh",
+        "Lê Duẩn",
+        "Võ Nguyên Giáp",
+        "Phạm Văn Đồng",
+        "Trần Văn Trà"
+      ],
+      "South_Vietnam": [
+        "Ngô Đình Diệm",
+        "Nguyễn Văn Thiệu",
+        "Nguyễn Cao Kỳ"
+      ],
+      "United_States": [
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Robert McNamara",
+        "William Westmoreland",
+        "Creighton Abrams"
+      ]
+    },
+    "strength": {
+      "North_Vietnam": [
+        "690,000 (1966, including PAVN and Viet Cong)",
+        "200,000 Viet Cong (1968)",
+        "170,000 China (1968)",
+        "70,000 Khmer Rouge (1972)",
+        "48,000 Pathet Lao (1970)",
+        "3,000 Soviet Union",
+        "200 North Korea"
+      ],
+      "South_Vietnam": [
+        "850,000 South Vietnam (1968)",
+        "543,000 United States (Peak in 1969)",
+        "200,000 Khmer Republic (1973)",
+        "72,000 Laos",
+        "48,000 South Korea per year (1965–1973)",
+        "32,000 Thailand per year (1965–1973)",
+        "8,300 Australia (Peak)",
+        "552 New Zealand (Peak in 1968)",
+        "2,061 Philippines"
+      ]
+    },
+    "casualties_and_losses": {
+      "North_Vietnam_allies": {
+        "military_dead": "~1,100,000",
+        "military_wounded": "~604,200",
+        "civilian_dead": "30,000–182,000"
+      },
+      "South_Vietnam_allies": {
+        "military_dead": "333,620 - 392,364",
+        "military_wounded": "~1,340,000",
+        "civilian_dead": "195,000–430,000"
+      },
+      "Vietnamese_civilian_dead": "405,000–2,000,000",
+      "total_dead": "1,326,494–3,447,494"
+    }
+  }
+  

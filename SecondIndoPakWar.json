@@ -1,0 +1,69 @@
+{
+    "name": "Second Indo-Pakistani War",
+    "other_names": ["Second Kashmir War"],
+    "dates": "5 August – 23 September 1965",
+    "duration": "1 month, 2 weeks and 4 days",
+    "location": ["Kashmir", "Punjab", "Rajasthan", "Bengal"],
+    "result": "Ceasefire (Both nations declared victory), Ceasefire through UNSC Resolution 211, No permanent territorial changes, Return to the status quo ante bellum",
+    "territorial_changes": "No territorial changes",
+    "belligerents": {
+      "India": {},
+      "Pakistan": {}
+    },
+    "commanders_and_leaders": {
+      "India": [
+        "Sarvepalli Radhakrishnan (President of India)",
+        "Lal Bahadur Shastri (Prime Minister of India)",
+        "Gen. J. N. Chaudhuri (Chief of the Army Staff)",
+        "and others"
+      ],
+      "Pakistan": [
+        "Muhammad Ayub Khan (President of Pakistan)",
+        "Gen. Musa Khan (Cdr-in-Chief, Army)",
+        "and others"
+      ]
+    },
+    "strength": {
+      "India": {
+        "infantry": "700,000 (whole army)",
+        "aircraft": "700+",
+        "tanks": "720",
+        "artillery": "628"
+      },
+      "Pakistan": {
+        "infantry": "260,000 (whole army)",
+        "aircraft": "280",
+        "tanks": "756",
+        "artillery": "552"
+      }
+    },
+    "casualties_and_losses": {
+      "India": {
+        "neutral_claims": {
+          "men": "3,000",
+          "tanks": "150–190",
+          "aircraft": "60–75",
+          "territory_lost": "540 km²"
+        },
+        "Indian_claims": {
+          "aircraft_lost": "35–59",
+          "territory_lost": "520 km²"
+        }
+      },
+      "Pakistan": {
+        "neutral_claims": {
+          "men": "3,800",
+          "tanks": "200–300",
+          "aircraft": "20",
+          "territory_lost": "Over 1,840 km²"
+        },
+        "Pakistani_claims": {
+          "men_killed_or_captured": "8,200",
+          "aircraft_destroyed": "110–113",
+          "tanks_captured_or_destroyed": "500",
+          "territory_gained": "2602–2575 km²"
+        }
+      }
+    }
+  }
+  
