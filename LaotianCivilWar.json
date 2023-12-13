@@ -1,0 +1,87 @@
+{
+    "Laotian_Civil_War": {
+      "context": {
+        "part_of": ["Indochina Wars", "Cold War", "Vietnam War (Second Indochina War)"]
+      },
+      "date": "23 May 1959 – 2 December 1975",
+      "duration": "16 years, 6 months, 1 week and 2 days",
+      "location": "Laos",
+      "result": {
+        "outcome": "Pathet Lao and North Vietnamese victory",
+        "consequences": [
+          "Establishment of the Lao People's Democratic Republic",
+          "End of the Kingdom of Laos",
+          "Small scale insurgency by anti-Pathet Lao factions"
+        ]
+      },
+      "belligerents": {
+        "Pathet_Lao_and_Allies": {
+          "main": ["Pathet Lao", "North Vietnam"],
+          "support": [
+            "Albania",
+            "Bulgaria",
+            "China",
+            "Cuba",
+            "Czechoslovakia",
+            "East Germany",
+            "Hungary",
+            "Khmer Rouge",
+            "North Korea",
+            "Poland",
+            "Romania",
+            "Soviet Union"
+          ],
+          "neutralists": ["Neutralists (1960–1962)", "Patriotic Neutralists (1963-1969)"]
+        },
+        "Royal_Lao_Government_and_Allies": {
+          "main": ["Kingdom of Laos", "Neutralists (1962–1966)", "United States", "South Vietnam", "Thailand"],
+          "support": [
+            "Australia",
+            "Khmer Republic (from 1970)",
+            "New Zealand",
+            "South Korea",
+            "Taiwan",
+            "Philippines"
+          ]
+        }
+      },
+      "commanders_and_leaders": {
+        "Pathet_Lao_and_Allies": [
+          "Souphanouvong",
+          "Kaysone Phomvihane",
+          "Phoumi Vongvichit",
+          "Deuane Sunnalath",
+          "Nouhak Phoumsavanh"
+        ],
+        "Royal_Lao_Government_and_Allies": [
+          "Souvanna Phouma",
+          "Phoumi Nosavan",
+          "Vang Pao",
+          "Boun Oum",
+          "Kong Le",
+          "Lyndon B. Johnson",
+          "Richard Nixon",
+          "Robert McNamara",
+          "Clark Clifford",
+          "Melvin Laird",
+          "Thanom Kittikachorn"
+        ]
+      },
+      "strength": {
+        "Pathet_Lao_and_Allies": {
+          "1960": 8000,
+          "1970": 48000
+        },
+        "Royal_Lao_Government_and_Allies": {
+          "1954": 50000,
+          "1962": "17,000−21,000 Thai mercenaries",
+          "1964": "19,000–23,000 Hmong militiamen"
+        }
+      },
+      "casualties_and_losses": {
+        "Pathet_Lao_and_Allies": "Unknown, estimated c. 42,000 dead",
+        "Royal_Lao_Government_and_Allies": "15,000 dead, 20,000–62,000 total dead"
+      }
+    }
+  }
+  

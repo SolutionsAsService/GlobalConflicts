@@ -1,0 +1,82 @@
+{
+    "First_Sudanese_Civil_War": {
+      "context": {
+        "part_of": ["Sudanese Civil Wars", "Cold War"]
+      },
+      "date": "18 August 1955 – 27 March 1972",
+      "duration": "16 years, 7 months, 1 week and 2 days",
+      "location": "Southern Sudan",
+      "result": {
+        "outcome": "Stalemate",
+        "agreement": "Addis Ababa Agreement",
+        "consequence": "Establishment of the Southern Sudan Autonomous Region with various defined powers"
+      },
+      "belligerents": {
+        "Sudan_and_Allies": {
+          "main": [
+            "Anglo-Egyptian Sudan (until 1956)",
+            "Republic of the Sudan (until 1969)",
+            "Democratic Republic of the Sudan (from 1969)"
+          ],
+          "combat_support": ["Uganda", "Libya"],
+          "non_combat_support": [
+            "United Arab Republic",
+            "Soviet Union",
+            "United Kingdom",
+            "China",
+            "Yugoslavia",
+            "East Germany",
+            "Czechoslovakia",
+            "Saudi Arabia",
+            "Libya",
+            "Algeria",
+            "United States",
+            "West Germany"
+          ]
+        },
+        "Rebels_and_Allies": {
+          "main": [
+            "SDF mutineers, bandits, and unaffiliated separatist militias",
+            "ALF (1965–1970)",
+            "Anyanya (from 1963)"
+          ],
+          "supported_by": [
+            "Israel (from 1969)",
+            "Ethiopia",
+            "Uganda (from about 1970)",
+            "Democratic Republic of the Congo",
+            "Kenya",
+            "France"
+          ]
+        }
+      },
+      "commanders_and_leaders": {
+        "Sudan_and_Allies": [
+          "Alexander Knox Helm",
+          "Ismail al-Azhari",
+          "Gaafar Nimeiry"
+        ],
+        "Rebels_and_Allies": [
+          "Joseph Lagu",
+          "Gordon Muortat Mayen",
+          "David Ben-Uziel"
+        ]
+      },
+      "strength": {
+        "Sudanese_Armed_Forces": {
+          "1955": "6,000–7,000",
+          "late_1971": "36,000"
+        },
+        "Rebels": {
+          "Anyanya": {
+            "early": "6,000–12,000",
+            "late_1960s": "c. 18,000"
+          }
+        }
+      },
+      "casualties_and_losses": {
+        "total": "500,000–1 million killed"
+      }
+    }
+  }
+  

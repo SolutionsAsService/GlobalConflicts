@@ -1,0 +1,60 @@
+{
+    "1958_Lebanon_Crisis": {
+      "context": {
+        "part_of": ["Cold War", "Arab Cold War"]
+      },
+      "date": "15 July – 25 October 1958",
+      "duration": "3 months, 1 week and 3 days",
+      "location": [
+        "Port of Beirut",
+        "Beirut International Airport",
+        "Lebanon"
+      ],
+      "result": "Government victory",
+      "belligerents": {
+        "Lebanon_Government_and_Allies": {
+          "main": [
+            "Lebanese Armed Forces",
+            "Kataeb Party",
+            "Syrian Social Nationalist Party",
+            "Tashnag"
+          ],
+          "support": "United States"
+        },
+        "Lebanon_Opposition_and_Allies": {
+          "main": [
+            "Najjadeh Party",
+            "Progressive Socialist Party",
+            "Lebanese Communist Party",
+            "Al-Mourabitoun"
+          ],
+          "support": [
+            "Soviet Union",
+            "United Arab Republic"
+          ]
+        }
+      },
+      "commanders_and_leaders": {
+        "Lebanon_Government_and_Allies": [
+          "Camille Chamoun",
+          "Naim Moghabghab",
+          "Fouad Chehab",
+          "Pierre Gemayel",
+          "Dwight D. Eisenhower"
+        ],
+        "Lebanon_Opposition_and_Allies": [
+          "Rashid Karami",
+          "Saeb Salam",
+          "Adnan Al-Hakim",
+          "Kamal Jumblatt",
+          "Ibrahim Kulaylat",
+          "Gamal Abdel Nasser"
+        ]
+      },
+      "casualties_and_losses": {
+        "Lebanon_Government_and_Allies": "Approximately 1,000 killed or injured, United States: 1 killed, 1 wounded",
+        "Lebanon_Opposition_and_Allies": "Over 5,000 killed or injured"
+      }
+    }
+  }
+  
