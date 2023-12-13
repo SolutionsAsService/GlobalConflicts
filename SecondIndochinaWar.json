@@ -1,0 +1,88 @@
+{
+    "Second_Indochina_War": {
+      "date": "December 19, 1946 – August 1, 1954",
+      "duration": "7 years, 7 months, 1 week and 6 days",
+      "location": "French Indochina",
+      "result": {
+        "outcome": "DR Vietnam-allied victory",
+        "events": [
+          "1954 Geneva Conference",
+          "Departure of the French from Indochina",
+          "Independence of Democratic Republic of Vietnam, State of Vietnam, Kingdom of Laos, and Kingdom of Cambodia",
+          "Partition of Vietnam into North and South",
+          "Start of the Vietnam War"
+        ],
+        "territorial_changes": "Division of Vietnam between North Vietnam and South Vietnam on 22 July 1954, Independence of Laos and Cambodia"
+      },
+      "belligerents": {
+        "DR_Vietnam_and_Allies": {
+          "main": ["DR Vietnam", "Việt Minh", "Lao Issara (1945–1949)", "Pathet Lao (1949–1954)", "Khmer Issarak", "United Issarak Front (1950–1954)"],
+          "supported_by": ["East Germany (1950–1954)", "Soviet Union (1952–1954)", "People's Republic of China (1949–1954)"]
+        },
+        "French_Union_and_Allies": {
+          "main": ["France", "French Indochina", "Kingdom of Cambodia", "Kingdom of Laos", "State of Vietnam", "Bình Xuyên", "Hòa Hảo", "Cao Đài"],
+          "supported_by": ["United States (1950–1954)"]
+        }
+      },
+      "commanders_and_leaders": {
+        "DR_Vietnam_and_Allies": [
+          "Hồ Chí Minh",
+          "Võ Nguyên Giáp",
+          "Phạm Văn Đồng",
+          "Trường Chinh",
+          "Hoàng Văn Thái",
+          "Nguyễn Bình",
+          "Nguyễn Văn Lập",
+          "Souphanouvong",
+          "Kaysone Phomvihane",
+          "Son Ngoc Minh",
+          "Tou Samouth"
+        ],
+        "French_Union_and_Allies": [
+          "Charles de Gaulle",
+          "Philippe Leclerc",
+          "Jean-Étienne Valluy",
+          "Roger Blaizot",
+          "Marcel Carpentier",
+          "Jean de Tassigny",
+          "Raoul Salan",
+          "Henri Navarre",
+          "Paul Ély",
+          "Alphonse Pierre Juin",
+          "Bảo Đại",
+          "Norodom Sihanouk",
+          "Sisavang Vong"
+        ]
+      },
+      "strength": {
+        "DR_Vietnam_and_Allies": {
+          "Regulars": 125000,
+          "Regional": 75000,
+          "Irregulars": 250000,
+          "Former_Imperial_Japanese_Army_volunteers": 5000,
+          "Total": 455000
+        },
+        "French_Union_and_Allies": {
+          "Expeditionary_Corps": 190000,
+          "Local_auxiliary": 55000,
+          "State_of_Vietnam": 150000,
+          "Total": 395000
+        }
+      },
+      "casualties_and_losses": {
+        "DR_Vietnam_and_Allies": {
+          "Western_historian_estimate": "175,000–300,000 dead or missing",
+          "Vietnamese_government_figure": 191605,
+          "Total": "c. 191,605 dead or missing"
+        },
+        "French_Union_and_Allies": {
+          "dead": 74220,
+          "wounded": 64127,
+          "State_of_Vietnam_dead_or_missing": 58877,
+          "Total": "c. 134,500 dead or missing"
+        },
+        "civilian_deaths": "400,000–842,707 total killed, 125,000–400,000 civilians killed"
+      }
+    }
+  }
+  

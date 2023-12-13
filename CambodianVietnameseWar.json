@@ -1,0 +1,84 @@
+{
+    "Cambodian_Vietnamese_War": {
+      "context": {
+        "part_of": ["Third Indochina War", "Cold War", "Sino-Soviet Split"]
+      },
+      "date": "30 April 1977 – 23 October 1991",
+      "duration": "14 years, 5 months, 3 weeks and 2 days",
+      "location": "Cambodia, Southern Vietnam, eastern Thailand",
+      "result": {
+        "outcome": "Vietnamese/People's Republic of Kampuchea victory",
+        "details": [
+          "Khmer Rouge removed from power and collapse of Democratic Kampuchea",
+          "End of the Cambodian genocide",
+          "Establishment, then disestablishment of the People's Republic of Kampuchea",
+          "Chinese invasion of Vietnam and continued border skirmishes",
+          "Vietnamese occupation until 1989",
+          "Start of CGDK insurgency and Thai border skirmishes",
+          "Signing of the 1991 Paris Peace Accords agreeing to UN-led transition"
+        ]
+      },
+      "belligerents": {
+        "pre_invasion": {
+          "Democratic_Kampuchea": ["Democratic Kampuchea (1977–1982)"],
+          "Vietnam_and_Allies": ["Vietnam", "People's Republic of Kampuchea", "FUNSK (from 1978)"]
+        },
+        "post_invasion": {
+          "CGDK": ["Khmer Rouge", "KPNLF", "FUNCINPEC"],
+          "Allies": ["China (border conflict)", "Thailand (border clashes)"],
+          "Vietnam_and_New_Allies": {
+            "until_April_1989": ["Vietnam", "People's Republic of Kampuchea"],
+            "from_April_1989": ["Cambodia State of Cambodia"]
+          }
+        }
+      },
+      "commanders_and_leaders": {
+        "CGDK_and_Allies": [
+          "Pol Pot",
+          "Khieu Samphan",
+          "Ieng Sary",
+          "Son Sann",
+          "Dien Del",
+          "Norodom Sihanouk"
+        ],
+        "Vietnam_and_Allies": [
+          "Lê Duẩn",
+          "Trường Chinh",
+          "Nguyễn Văn Linh",
+          "Văn Tiến Dũng",
+          "Lê Đức Anh",
+          "Heng Samrin",
+          "Hun Sen",
+          "Pen Sovan",
+          "Chea Sim"
+        ]
+      },
+      "strength": {
+        "1979": {
+          "Democratic_Kampuchea": "73000",
+          "Vietnam": "150,000–200,000 soldiers",
+          "Laos": "1,000 soldiers"
+        },
+        "1989": {
+          "Democratic_Kampuchea": "30000"
+        }
+      },
+      "casualties_and_losses": {
+        "1975_1979": {
+          "Democratic_Kampuchea": "c. 15,000 killed",
+          "Vietnam": "10,000 killed"
+        },
+        "1979_1989": {
+          "Democratic_Kampuchea": "more than 100,000 killed",
+          "Vietnam": "15,000–25,300 killed, 30,000 wounded",
+          "People's Republic of Kampuchea": "Unknown",
+          "Total": "25,000–52,000 killed"
+        },
+        "civilian_losses": {
+          "Cambodian": "200,000+ killed (excluding deaths from famine)",
+          "Vietnamese": "30,000+ killed (1975–1978)"
+        }
+      }
+    }
+  }
+  

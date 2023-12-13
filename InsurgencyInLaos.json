@@ -1,0 +1,47 @@
+{
+    "Insurgency_in_Laos": {
+      "context": "Part of the Third Indochina War",
+      "date": "2 December 1975 – Present (to a lesser extent since 2007)",
+      "location": {
+        "Southern_Laos": "royalists and rightists",
+        "Central_and_Northern_Laos": "Hmong rebels"
+      },
+      "belligerents": {
+        "Lao_PDR_and_Allies": {
+          "main": ["Lao PDR", "Lao People's Revolutionary Party"],
+          "supported_by": {
+            "Vietnam": "Vietnam People's Army (alleged direct involvement & intervention)",
+            "Soviet_Union": "until 1989"
+          }
+        },
+        "Lao_Resistance_Movement_and_Allies": {
+          "main": ["Lao Resistance Movement", "Hmong insurgents"],
+          "supported_by": {
+            "Thailand": "until 1990",
+            "United_States": "until 1990"
+          }
+        },
+        "Neo_Hom": {
+          "active": "1981–2007",
+          "supported_by": ["Kingdom of Laos"]
+        },
+        "Royalists": {
+          "groups": ["Lao National Liberation Front", "Royal Lao Democratic Government (1982)"],
+          "supported_by": ["Royal Lao Government in Exile", "China (until 1988)"]
+        },
+        "Cambodia_Khmer_Rouge": {
+          "groups": ["Democratic Kampuchea (until 1979)", "Party of Democratic Kampuchea (1981–1990)"],
+          "active": "until 1999"
+        },
+        "Rightists": {
+          "group": "United Front for the Liberation of Laos",
+          "supported_by": "Thailand (early to mid–1980s)"
+        }
+      },
+      "casualties_and_losses": {
+        "total_killed": "100,000",
+        "displaced": "300,000"
+      }
+    }
+  }
+  
