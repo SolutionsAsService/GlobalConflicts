@@ -1,0 +1,145 @@
+{
+  "name": "Yom Kippur War",
+  "other_names": ["October War", "Ramadan War", "Fourth Arab–Israeli War"],
+  "dates": "6–25 October 1973",
+  "duration": "2 weeks and 5 days",
+  "location": ["Golan Heights", "Sinai Peninsula", "Suez Canal (both banks)", "surrounding regions"],
+  "result": "Israeli victory",
+  "territorial_changes": {
+    "Egyptian_control": "Eastern bank of the Suez Canal, excluding Israeli crossing near Deversoir Air Base",
+    "Israeli_occupation": {
+      "Sinai": "1,600 km2 near Egyptian capital Cairo",
+      "Syria": "500 km2 of the Syrian Bashan region on Golan Heights"
+    }
+  },
+  "belligerents": {
+    "Israel": [],
+    "Coalition": [
+      "Egypt",
+      "Syria",
+      "Saudi Arabia",
+      "Algeria",
+      "Jordan",
+      "Iraq",
+      "Libya",
+      "Kuwait",
+      "Tunisia",
+      "Morocco",
+      "Cuba",
+      "North Korea"
+    ]
+  },
+  "commanders_and_leaders": {
+    "Israel": [
+      "Golda Meir",
+      "Ephraim Katzir",
+      "Moshe Dayan",
+      "David Elazar",
+      "Israel Tal",
+      "Shmuel Gonen",
+      "Yitzhak Hofi",
+      "Binyamin Peled",
+      "Haim Bar-Lev",
+      "Albert Mandler †",
+      "Ariel Sharon"
+    ],
+    "Egypt": [
+      "Anwar Sadat",
+      "Ahmad Ismail Ali",
+      "Saad El Shazly",
+      "Abdel Ghani el-Gamasy"
+    ],
+    "Syria": [
+      "Hafez al-Assad",
+      "Mustafa Tlass"
+    ]
+  },
+  "strength": {
+    "Israel": {
+      "troops": "375,000–415,000",
+      "tanks": "1,700",
+      "armored_carriers": "3,000",
+      "artillery_units": "945",
+      "combat_aircraft": "440"
+    },
+    "Coalition": {
+      "Egypt": {
+        "troops": "650,000–800,000",
+        "tanks": "1,700",
+        "armored_carriers": "2,400",
+        "artillery_units": "1,120",
+        "combat_aircraft": "400",
+        "helicopters": "140",
+        "naval_vessels": "104",
+        "missile_batteries": "150"
+      },
+      "Syria": {
+        "troops": "150,000",
+        "tanks": "1,200",
+        "armored_carriers": "800–900",
+        "artillery_units": "600"
+      },
+      "Expeditionary_Forces": {
+        "Saudi_Arabia": {
+          "troops": "23,000",
+          "crossed_into_combat": "3,000"
+        },
+        "Morocco": {
+          "troops": "5,500",
+          "tanks": "30",
+          "combat_aircraft": "52"
+        },
+        "Cuba": {
+          "troops": "500–1,000"
+        }
+      }
+    }
+  },
+  "casualties_and_losses": {
+    "Israel": {
+      "dead": "2,521–2,800",
+      "wounded": "7,250–8,800",
+      "captured": "293",
+      "tanks_destroyed": "400",
+      "tanks_damaged_or_captured": "663",
+      "armored_vehicles_destroyed_or_captured": "407",
+      "aircraft_destroyed": "102–387"
+    },
+    "Coalition": {
+      "Egypt": {
+        "dead": "5,000–15,000",
+        "captured": "8,372"
+      },
+      "Syria": {
+        "dead": "3,000–3,500",
+        "captured": "392"
+      },
+      "Morocco": {
+        "captured": "6"
+      },
+      "Iraq": {
+        "dead": "278",
+        "wounded": "898",
+        "captured": "13"
+      },
+      "Cuba": {
+        "dead": "180",
+        "wounded": "250"
+      },
+      "Jordan": {
+        "dead": "23",
+        "wounded": "77"
+      },
+      "Total casualties": {
+        "dead": "8,000–18,500",
+        "wounded": "18,000–35,000",
+        "captured": "8,783",
+        "tanks destroyed": "2,250–2,300",
+        "aircraft destroyed": "341–514",
+        "naval vessels sunk": "19"
+      }
+    }
+  }
+}
+
+    

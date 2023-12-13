@@ -1,0 +1,151 @@
+{
+    "Korean_War": {
+      "date": {
+        "de_facto": "25 June 1950 – 27 July 1953",
+        "de_jure": "25 June 1950 – present"
+      },
+      "duration": {
+        "de_facto": "3 years, 1 month and 2 days",
+        "de_jure": "73 years, 5 months, 2 weeks and 3 days"
+      },
+      "location": [
+        "Korean Peninsula",
+        "Yellow Sea",
+        "Sea of Japan",
+        "Korea Strait",
+        "China–North Korea border"
+      ],
+      "result": "Inconclusive",
+      "territorial_changes": {
+        "description": "Korean Demilitarized Zone established",
+        "details": {
+          "North_Korea_gains": "city of Kaesong",
+          "North_Korea_loses": "3,900 km2, including the city of Sokcho"
+        }
+      },
+      "belligerents": {
+        "UN_and_Allies": {
+          "South_Korea": null,
+          "United_Nations": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Turkey",
+            "Australia",
+            "Philippines",
+            "New Zealand",
+            "Thailand",
+            "Ethiopia",
+            "Greece",
+            "France",
+            "Colombia",
+            "Belgium",
+            "South Africa",
+            "Netherlands",
+            "Luxembourg"
+          ],
+          "Medical_support": [
+            "Sweden",
+            "India",
+            "Denmark",
+            "Norway",
+            "Italy",
+            "West Germany"
+          ],
+          "Other_support": [
+            "Israel",
+            "Taiwan",
+            "Japan",
+            "Pakistan",
+            "Uruguay",
+            "El Salvador",
+            "Spain",
+            "Yugoslavia"
+          ]
+        },
+        "Communist_and_Eastern_Bloc": {
+          "North_Korea": null,
+          "China": null,
+          "Soviet_Union": "unofficial",
+          "Supported_by": [
+            "Bulgaria",
+            "Czechoslovakia",
+            "East Germany",
+            "Hungary",
+            "Mongolia",
+            "Poland",
+            "Romania"
+          ]
+        }
+      },
+      "commanders_and_leaders": {
+        "South_Korea": [
+          "Syngman Rhee",
+          "Chung Il-kwon",
+          "Paik Sun-yup",
+          "Lee Hyung-geun",
+          "Shin Sung-mo"
+        ],
+        "North_Korea": [
+          "Kim Il Sung",
+          "Kim Tu-bong",
+          "Pak Hon-yong",
+          "Choe Yong-gon",
+          "Kim Chaek"
+        ],
+        "United_Nations": [
+          "Trygve Lie",
+          "Dag Hammarskjöld"
+        ],
+        "United_States": [
+          "Harry S. Truman",
+          "Dwight D. Eisenhower",
+          "George C. Marshall",
+          "Robert A. Lovett",
+          "Douglas MacArthur",
+          "Matthew Ridgway",
+          "Mark W. Clark",
+          "Walton Walker",
+          "James Van Fleet"
+        ],
+        "United_Kingdom": [
+          "Clement Attlee",
+          "Winston Churchill"
+        ],
+        "China": [
+          "Mao Zedong",
+          "Zhou Enlai",
+          "Peng Dehuai",
+          "Chen Geng",
+          "Deng Hua",
+          "Hong Xuezhi",
+          "Song Shilun",
+          "Han Xianchu"
+        ],
+        "Soviet_Union": [
+          "Joseph Stalin",
+          "Pavel Zhigarev"
+        ]
+      },
+      "strength": {
+        "UN_and_Allies": {
+          "peak_strength": 968302,
+          "total_strength": 3257797
+        },
+        "Communist_and_Eastern_Bloc": {
+          "peak_strength": 1742000,
+          "total_strength": 3042000
+        }
+      },
+      "casualties_and_losses": {
+        "total_civilian_deaths": "2–3 million",
+        "UN_and_Allies": {
+          "South_Korea": 990968
+        },
+        "Communist_and_Eastern_Bloc": {
+          "North_Korea": 1550000
+        }
+      }
+    }
+  }
+  
