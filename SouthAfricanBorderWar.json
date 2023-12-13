@@ -1,0 +1,114 @@
+{
+    "South_African_Border_War": {
+      "context": {
+        "part_of": ["Cold War", "Decolonisation of Africa"]
+      },
+      "date": "26 August 1966 – 15 January 1990",
+      "duration": "23 years, 4 months, 2 weeks and 6 days",
+      "location": [
+        "South West Africa (Namibia)",
+        "Angola",
+        "Zambia"
+      ],
+      "result": {
+        "outcome": "Military stalemate",
+        "consequences": [
+          "Angolan Tripartite Accord",
+          "Withdrawal of South African forces from Namibia; withdrawal of Cuban forces from Angola",
+          "1989 Namibian parliamentary elections",
+          "SWAPO government assuming power in Namibia"
+        ],
+        "territorial_changes": "South West Africa gains independence from South Africa as the Republic of Namibia"
+      },
+      "belligerents": {
+        "South_Africa_and_Allies": {
+          "main": ["South Africa", "TGNU (1985–1989)", "Portugal (until 1974)", "UNITA (from 1975)", "FNLA (1975)"],
+          "support": null
+        },
+        "Rebels_and_Support": {
+          "main": [
+            "SWAPO (PLAN)",
+            "MPLA (FAPLA)",
+            "Cuba",
+            "SWANU",
+            "ANC (MK)",
+            "Zambia"
+          ],
+          "support": [
+            "Soviet Union",
+            "China (until 1975)",
+            "East Germany",
+            "Poland",
+            "Hungary",
+            "Czechoslovakia",
+            "Bulgaria",
+            "Romania",
+            "North Korea",
+            "Egypt",
+            "Ghana",
+            "Nigeria",
+            "Algeria",
+            "Libya",
+            "Tanzania"
+          ]
+        }
+      },
+      "commanders_and_leaders": {
+        "South_Africa_and_Allies": [
+          "Gerrit Viljoen",
+          "Willie van Niekerk",
+          "Louis Pienaar",
+          "B. J. Vorster",
+          "P. W. Botha",
+          "F. W. de Klerk",
+          "Constand Viljoen",
+          "Johannes Geldenhuys",
+          "Magnus Malan",
+          "Andreas Liebenberg",
+          "Georg Meiring",
+          "Cornelius Ndjoba †",
+          "Jonas Savimbi",
+          "Holden Roberto"
+        ],
+        "Rebels_and_Support": [
+          "Sam Nujoma",
+          "Tobias Hainyeko †",
+          "Peter Nanyemba",
+          "Dimo Hamaambo",
+          "Peter Mweshihange",
+          "Solomon Huwala",
+          "Agostinho Neto",
+          "José Eduardo dos Santos",
+          "António Franca",
+          "Iko Carreira",
+          "Fidel Castro"
+        ]
+      },
+      "strength": {
+        "South_Africa_and_Allies": {
+          "1988": "c. 71,000",
+          "details": {
+            "South_Africa": "30,743 SADF troops in Angola and Namibia",
+            "South_West_Africa": "22,000 SWATF troops, 8,300 SWAPOL police"
+          }
+        },
+        "Rebels_and_Support": {
+          "1988": "c. 122,000",
+          "details": {
+            "SWAPO": "32,000 PLAN guerrillas",
+            "Cuba": "40,000 FAR troops in southern Angola",
+            "Angola": "50,000 FAPLA troops"
+          }
+        }
+      },
+      "casualties_and_losses": {
+        "South_Africa_and_Allies": "2,365–2,500 dead",
+        "Rebels_and_Support": {
+          "dead": "11,335",
+          "Angolan_Civil_War_deaths": "2,016–5,000",
+          "Namibian_civilians": "947–1,087"
+        }
+      }
+    }
+  }
+  
