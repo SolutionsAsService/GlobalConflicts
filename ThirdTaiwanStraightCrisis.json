@@ -1,0 +1,78 @@
+{
+    "Third_Taiwan_Strait_Crisis": {
+      "context": {
+        "part_of": ["Chinese Civil War", "US-PRC Conflict"]
+      },
+      "date": "21 July 1995 – 23 March 1996",
+      "duration": "8 months and 2 days",
+      "location": "Taiwan Strait",
+      "result": "Ceasefire",
+      "belligerents": {
+        "ROC_and_US": {
+          "Republic_of_China": null,
+          "United_States": "naval support"
+        },
+        "PRC": ["People's Republic of China"]
+      },
+      "commanders_and_leaders": {
+        "ROC_and_US": [
+          "Lee Teng-hui",
+          "Lien Chan",
+          "Chiang Chung-ling",
+          "Tang Fei",
+          "Wu Shih-wen",
+          "Tang Yao-ming",
+          "Nelson Ku",
+          "Huang Hsien-jung",
+          "Wang Jo-yu",
+          "Bill Clinton",
+          "John Shalikashvili",
+          "Archie Clemins"
+        ],
+        "PRC": [
+          "Jiang Zemin",
+          "Li Peng",
+          "Liu Huaqing",
+          "Zhang Zhen",
+          "Zhang Lianzhong",
+          "Chi Haotian",
+          "Zhang Wannian",
+          "Fu Quanyou"
+        ]
+      },
+      "units_involved": {
+        "ROC_and_US": {
+          "ROC_Armed_Forces": null,
+          "United_States_Navy": null
+        },
+        "PRC": ["People's Liberation Army"]
+      },
+      "strength": {
+        "ROC_and_US": {
+          "Taiwan": [
+            "MIM-104 Patriot",
+            "MIM-23 Hawk",
+            "F-5 Tiger",
+            "F-CK-1",
+            "F-104 Starfighter",
+            "Knox-class frigate",
+            "Oliver Hazard Perry-class frigate"
+          ],
+          "United_States": [
+            "USS Independence (CV-62)",
+            "USS Nimitz (CVN-68)",
+            "USS Belleau Wood (LHA-3)",
+            "USS Bunker Hill (CG-52)"
+          ]
+        },
+        "PRC": {
+          "equipment": [
+            "DF-15",
+            "J-7 Fishbed",
+            "J-8 Finback"
+          ]
+        }
+      }
+    }
+  }
+  

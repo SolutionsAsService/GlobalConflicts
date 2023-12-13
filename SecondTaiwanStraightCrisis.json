@@ -1,0 +1,71 @@
+{
+    "Second_Taiwan_Strait_Crisis": {
+      "context": {
+        "part_of": ["Chinese Civil War", "Cold War"]
+      },
+      "date": "23 August – 2 December 1958",
+      "duration": "3 months, 1 week and 2 days",
+      "location": "Taiwan Strait",
+      "result": "Status quo ante bellum",
+      "belligerents": {
+        "ROC_and_US": ["Republic of China", "United States"],
+        "PRC": ["People's Republic of China"]
+      },
+      "commanders_and_leaders": {
+        "ROC_and_US": [
+          "Chiang Kai-shek",
+          "Chiang Ching-kuo",
+          "Hu Lien",
+          "Ji Xingwen",
+          "Zhao Jiaxiang",
+          "Zhang Jie",
+          "Dwight D. Eisenhower",
+          "Nathan Farragut Twining",
+          "Wallace M. Beakley",
+          "Benjamin O. Davis Jr.",
+          "Roland N. Smoot"
+        ],
+        "PRC": [
+          "Mao Zedong",
+          "Peng Dehuai",
+          "Ye Fei",
+          "Xu Xiangqian"
+        ]
+      },
+      "strength": {
+        "ROC_and_US": {
+          "troops": 92000,
+          "support": "Naval and air support"
+        },
+        "PRC": {
+          "troops": 215000
+        }
+      },
+      "casualties_and_losses": {
+        "ROC_and_US": {
+          "ROC_troops": {
+            "killed_and_missing": 514,
+            "injured": 2200,
+            "army_casualties": {
+              "dead_and_missing": "440",
+              "injured": 1911
+            }
+          },
+          "civilians": {
+            "killed": 80,
+            "injured": 221
+          },
+          "naval_losses": {
+            "sunk": "1 Landing Ship Medium",
+            "damaged": "1 Landing Ship Tank"
+          }
+        },
+        "PRC": {
+          "troop_casualties": "460 killed and wounded",
+          "naval_losses": "Several ships sunk and damaged",
+          "air_losses": "31 fighter jets shot down"
+        }
+      }
+    }
+  }
+  

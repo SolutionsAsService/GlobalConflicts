@@ -1,0 +1,43 @@
+{
+    "First_Taiwan_Strait_Crisis": {
+      "context": {
+        "part_of": ["Cold War", "Chinese Civil War"]
+      },
+      "date": "3 September 1954 – 1 May 1955",
+      "duration": "7 months and 4 weeks",
+      "location": "Taiwan Strait",
+      "result": {
+        "outcome": "Ceasefire; major escalation avoided",
+        "details": [
+          "The PRC takes control of the Yijiangshan and Dachen Islands",
+          "The ROC and US navies evacuate military personnel and civilians from the Dachen Islands",
+          "Formosa Resolution of 1955 and Sino-American Mutual Defense Treaty between the ROC and US"
+        ]
+      },
+      "belligerents": {
+        "ROC_and_US": ["Republic of China", "United States"],
+        "PRC": ["People's Republic of China"]
+      },
+      "commanders_and_leaders": {
+        "ROC_and_US": [
+          "Chiang Kai-shek",
+          "Liu Yuzhang",
+          "Dwight D. Eisenhower"
+        ],
+        "PRC": [
+          "Mao Zedong",
+          "Zhou Enlai",
+          "Peng Dehuai",
+          "Xu Xiangqian"
+        ]
+      },
+      "casualties_and_losses": {
+        "ROC_and_US": {
+          "ROC": 519,
+          "US": 2
+        },
+        "PRC": 393
+      }
+    }
+  }
+  
