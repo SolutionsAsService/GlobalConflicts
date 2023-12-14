@@ -1,0 +1,47 @@
+{
+    "Cuban Intervention in Angola": {
+      "part_of": ["Angolan Civil War", "South African Border War"],
+      "codename": "Operation Carlota",
+      "date_range": "1975–1991",
+      "location": "Angola",
+      "result": "Cuban and South African withdrawal in 1991",
+      "belligerents": {
+        "Cuban_Alliance": ["Cuba", "MPLA", "SWAPO", "ANC", "FLNC"],
+        "Supported_by_Cuba": ["UNITA", "FNLA (until 1978)"],
+        "South_African_Alliance": ["South Africa"],
+        "Supported_by_South_Africa": ["FLEC"]
+      },
+      "strength": {
+        "Cuba": {
+          "troops": "337,033–380,000",
+          "peak_troops": "60,000 (1988)",
+          "equipment": ["1,000 tanks", "600 vehicles", "1,600 artillery pieces", "Grad MLRS", "Attack helicopters"]
+        },
+        "MPLA": {
+          "troops": "40,000 (1976)", 
+          "peak_troops": "70,000 (1987)"
+        },
+        "Soviet_Union": {
+          "troops": "11,000 (total from 1975 to 1991)"
+        },
+        "UNITA": {
+          "troops": "65,000 (1990, highest)"
+        },
+        "FNLA": {
+          "troops": "22,000 (1975)",
+          "post_1976": "4,000–7,000"
+        },
+        "South_Africa": {
+          "troops": ["7,000 (1975–76)", "6,000 (1987–88)"]
+        }
+      },
+      "casualties_and_losses": {
+        "Cuba": "2,016–5,000 dead",
+        "Soviet_Union": "54 killed",
+        "South_Africa": "715 dead",
+        "Unknown_losses_for_UNITA_and_FNLA": "Unknown",
+        "Civilian_Casualties": "100,000 killed (1975–76)"
+      }
+    }
+  }
+  

@@ -1,0 +1,41 @@
+{
+    "Rhodesian Bush War": {
+        "context": {
+            "part_of": ["Cold War", "Decolonisation of Africa"]
+          },
+      "alternate_names": ["Second Chimurenga", "Zimbabwean War of Liberation"],
+      "date_range": "4 July 1964 – 12 December 1979",
+      "location": ["Rhodesia (now Zimbabwe)", "Zambia", "Mozambique", "Botswana"],
+      "result": {
+        "general": "Lancaster House Agreement, End to armed hostilities, Free elections with ZANU and ZAPU participation, Formation of Zimbabwe",
+        "territorial_changes": "Zimbabwe gains internationally recognised independence"
+      },
+      "belligerents": {
+        "Rhodesian_Forces": ["Southern Rhodesia (1964–1965)", "Rhodesia (1965–1979)", "Zimbabwe Rhodesia (1979)", "South Africa (from 1967)"],
+        "Opposition_Forces": ["ZANU (ZANLA)", "Mozambique", "ZAPU (ZIPRA)", "ANC (MK)"]
+      },
+      "commanders_and_leaders": {
+        "Rhodesia": ["Ian Smith", "P. K. van der Byl", "Peter Walls", "Mick McLaren", "Frank Mussell", "Ronald Reid-Daly", "Ken Flower", "Abel Muzorewa", "Ndabaningi Sithole", "James Chikerema"],
+        "South_Africa": ["B. J. Vorster", "P. W. Botha"],
+        "Opposition": ["Robert Mugabe", "Herbert Chitepo †", "Josiah Tongogara", "Ndabaningi Sithole", "Edgar Tekere", "Solomon Mujuru", "Samora Machel", "Joshua Nkomo", "Jason Moyo †", "Lookout Masuku", "Dumiso Dabengwa", "Oliver Tambo", "Joe Slovo"]
+      },
+      "strength": {
+        "Rhodesia_1979": {
+          "regulars": 10800,
+          "reservists": 15000,
+          "police": 8000,
+          "police_reservists": 19000
+        },
+        "Opposition_1979": {
+          "ZANU_ZANLA": 25500,
+          "ZAPU_ZIPRA": 20000
+        }
+      },
+      "casualties_and_losses": {
+        "Rhodesian_security_forces": "1,361 killed",
+        "Opposition_guerrillas": "~10,000 killed",
+        "Overall": "Around 20,000 people killed"
+      }
+    }
+  }
+  

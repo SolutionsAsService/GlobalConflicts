@@ -1,0 +1,23 @@
+{
+    "Second Matabele War": {
+      "alternate_names": "First Chimurenga",
+      "part_of": ["Matabele Wars", "Colonisation of Africa"],
+      "date_range": "March 1896 – October 1897",
+      "location": ["Matabeleland", "Mashonaland"],
+      "present_location": "Zimbabwe",
+      "result": "Company victory",
+      "belligerents": {
+        "British_South_Africa_Company": "British South Africa Company",
+        "Native_Forces": ["Matabele", "Shona"]
+      },
+      "commanders_and_leaders": {
+        "British_South_Africa_Company": ["Robert Baden-Powell", "Frederick Carrington", "Cecil Rhodes", "Herbert Plumer"],
+        "Native_Forces": ["Mlimo †", "Sikhombo Mguni", "Inyanda"]
+      },
+      "casualties_and_losses": {
+        "British_South_Africa_Company": "Approximately 400",
+        "Native_Forces": "Approximately 50,000"
+      }
+    }
+  }
+  

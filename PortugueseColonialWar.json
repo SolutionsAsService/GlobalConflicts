@@ -1,0 +1,56 @@
+{
+    "Portuguese Colonial War": {
+      "alternate_names": ["Guerra Colonial Portuguesa", "Overseas War", "War of Liberation", "Angolan War of Independence", "Guinea-Bissau War of Independence", "Mozambican War of Independence"],
+      "context": "Part of the Decolonisation of Africa and the Cold War",
+      "date": "4 February 1961 – 25 April 1974",
+      "location": ["Portuguese Angola", "Portuguese Mozambique", "Portuguese Guinea"],
+      "result": {
+        "general": "End of the Portuguese Empire, Carnation Revolution, Military stalemate in Angola, Guinea Bissau and Mozambique",
+        "agreements": ["Alvor Agreement", "Lusaka Accord"],
+        "territorial_changes": "Portuguese overseas territories in Africa become independent"
+      },
+      "belligerents": {
+        "Portugal": ["Portugal", "UNITA (after 1972)"],
+        "Portugal_Support": ["South Africa", "Rhodesia", "Malawi", "Israel", "France", "West Germany", "Francoist Spain", "United States (after 1968)"],
+        "Angola": ["MPLA", "UNITA (until 1972)", "FNLA", "FLEC"],
+        "Guinea": ["PAIGC", "FLING"],
+        "Mozambique": ["FRELIMO"],
+        "Opposition_Support": ["United States (until 1968)", "Soviet Union", "Cuba", "China", "Republic of the Congo (Léopoldville)", "Zaire", "People's Republic of the Congo", "Tanzania", "Zambia", "Senegal", "Guinea", "Romania", "East Germany", "Czechoslovakia", "Sweden", "Yugoslavia", "Bulgaria", "Algeria", "Israel", "Morocco", "Brazil", "Mexico"]
+      },
+      "commanders_and_leaders": {
+        "Portugal": ["António de Oliveira Salazar", "Marcelo Caetano", "Américo Tomás", "Francisco da Costa Gomes", "Arnaldo Schulz", "António de Spínola", "Bettencourt Rodrigues", "António Augusto dos Santos", "Kaúlza de Arriaga"],
+        "Angola": ["Agostinho Neto", "José Eduardo dos Santos", "Lúcio Lara", "Jonas Savimbi", "Holden Roberto", "Luís Ranque-Franque"],
+        "Guinea": ["Amílcar Cabral †", "Luís Cabral", "João Bernardo Vieira"],
+        "Mozambique": ["Eduardo Mondlane†", "Joaquim Chissano", "Filipe Samuel Magaia", "Samora Machel"]
+      },
+      "strength": {
+        "Portugal": "1,400,000 total men mobilized for military and civilian support service, 400,000 native African soldiers mobilized, Average of 107,000 men deployed every year",
+        "Opposition": "40,000–60,000 guerrillas (30,000 in Angola, 10,000 in Portuguese Guinea, 10–15,000 in Mozambique)"
+      },
+      "casualties_and_losses": {
+        "Portugal": {
+          "total_killed": 29000,
+          "mainland_portuguese_killed": 6338,
+          "african_portuguese_killed": 2493,
+          "african_troops_executed_by_paigc": 7447,
+          "wounded": 15507
+        },
+        "Opposition": {
+          "total_killed": 26000,
+          "killed_in_angola": 10000,
+          "killed_in_guinea": 6000,
+          "killed_in_mozambique": 10000,
+          "unknown_wounded": "Unknown"
+        },
+        "civilian_casualties": {
+          "total_dead": 110000,
+          "killed_in_mozambique": 50000,
+          "killed_in_angola": 50000,
+          "killed_in_guinea": 5000,
+          "white_settlers_killed": 5000,
+          "portuguese_evacuated": 300000
+        }
+      }
+    }
+  }
+  

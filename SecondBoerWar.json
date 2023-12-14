@@ -1,0 +1,47 @@
+{
+    "Second Boer War": {
+      "alternate_names": ["Tweede Vryheidsoorlog", "Boer War", "Anglo–Boer War", "South African War"],
+      "part_of": ["Boer Wars", "Scramble for Africa"],
+      "date_range": "11 October 1899 – 31 May 1902",
+      "location": ["Southern Africa (present-day South Africa, Lesotho, and Eswatini)"],
+      "result": {
+        "general": "British victory, Conquest and dissolution of the South African Republic and Orange Free State",
+        "treaty": "Treaty of Vereeniging",
+        "territorial_changes": "The Boer republics are absorbed into the British Empire"
+      },
+      "belligerents": {
+        "British_Empire": ["United Kingdom", "Cape Colony", "Natal Colony", "Basutoland", "Bechuanaland", "Rhodesia", "India", "Ceylon", "Canada", "New Zealand", "Australia"],
+        "Australian_Colonies": ["New South Wales", "Western Australia", "Tasmania", "South Australia", "Victoria", "Queensland"],
+        "Boer_Republics": ["South African Republic", "Orange Free State", "Cape Boers"],
+        "Foreign_Volunteers": ["Netherlands", "Germany", "Sweden-Norway", "Ireland", "Australia", "Italy", "Poland", "France", "Belgium", "Russia", "United States", "Denmark", "Austria-Hungary"]
+      },
+      "commanders_and_leaders": {
+        "British": ["Victoria", "Edward VII", "Robert Gascoyne-Cecil", "Joseph Chamberlain", "Alfred Milner", "Frederick Roberts", "Paul Methuen", "Redvers Buller", "Herbert Kitchener", "Rudolph Lambart", "Robert Baden-Powell", "Herbert Plumer", "François-Louis Lessard", "Walter Tunbridge"],
+        "Boer": ["Paul Kruger", "Koos de la Rey", "Louis Botha", "Schalk W. Burger", "Piet Cronjé", "Piet Joubert", "Martinus Steyn", "Christiaan de Wet"]
+      },
+      "strength": {
+        "British": "347,000 troops, 103,000 – 153,000 Colonial troops, 100,000 African auxiliaries, Total: 550,000 – 600,000",
+        "Boer": "25,000 Transvaal Boers, 15,000 Free State Boers, 6,000–7,000 Cape Boers, 10,000 African auxiliaries, 5,400+ Foreign volunteers, Total: 60,000 – 61,000+"
+      },
+      "casualties_and_losses": {
+        "British": {
+          "dead": 26092,
+          "sick_or_wounded_returned_home": 75430,
+          "wounded": 22828,
+          "missing": 934,
+          "total": "~125,284"
+        },
+        "Boer": {
+          "dead": 6189,
+          "captured": 24000,
+          "total": "~30,189"
+        },
+        "Civilian": {
+          "fatalities": 46370,
+          "women_and_children_in_camps": 26370,
+          "africans_in_camps": "20,000+"
+        }
+      }
+    }
+  }
+  

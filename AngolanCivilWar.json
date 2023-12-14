@@ -1,0 +1,56 @@
+{
+    "Angolan Civil War": {
+      "part_of": ["Cold War (until 1991)", "First & Second Congo War (from 1996 onwards)"],
+      "date_range": "11 November 1975 – 4 April 2002",
+      "location": "Angola",
+      "result": {
+        "general": "MPLA victory, Withdrawal of all foreign forces in 1989, Transition towards a multiparty political system in 1991/92, Dissolution of the FNLA's armed forces, Participation of UNITA and FNLA in the new political system from 1991/92, Jonas Savimbi's death in 2002 leading to UNITA's abandonment of armed struggle",
+        "ongoing": "Resistance of FLEC continued to this day"
+      },
+      "belligerents": {
+        "MPLA_Alliance": ["People's Republic of Angola", "MPLA", "Cuba (1975–1991)", "SWAPO (1975–1991)", "ANC (1975–1991)", "Executive Outcomes (1993–1995)", "FLNC (1975–2001)", "Namibia (2001–2002)"],
+        "MPLA_Support": {
+          "Material": ["Soviet Union (1975–1991)", "East Germany (1975–1989)", "Yugoslavia (1975–1991)", "North Korea (1980s)", "Brazil"],
+          "Diplomatic": ["Guyana", "Mexico"]
+        },
+        "UNITA_Alliance": ["Democratic People's Republic of Angola", "UNITA", "FNLA (1975–1976)", "South Africa (1975–1991)", "Zaire (1975)"],
+        "UNITA_Support": {
+          "Material": ["United States (1975–1991)", "Morocco (1970s)", "China (1975)", "FLEC"],
+          "Material_France": "France"
+        }
+      },
+      "commanders_and_leaders": {
+        "MPLA": ["Agostinho Neto †", "José Eduardo dos Santos", "Iko Carreira", "Kundi Paihama", "João Lourenço", "António Franca", "Lúcio Lara"],
+        "Cuban": ["Fidel Castro", "Antonio Batlle", "Abelardo Colomé Ibarra", "Arnaldo Ochoa", "Raul Arguello †"],
+        "Soviet": ["Vasily Petrov", "Valentin Varennikov"],
+        "Namibian": "Sam Nujoma",
+        "UNITA": ["Jonas Savimbi †", "Jeremias Chitunda †", "António Dembo", "Paulo Lukamba"],
+        "South_African": ["B. J. Vorster", "P. W. Botha"],
+        "Zairean": "Mobutu Sese Seko"
+      },
+      "strength": {
+        "MPLA": {
+          "troops": "40,000 (1976) to 130,000 (2001)",
+          "Cuban_troops": "36,000 to 60,000 with 400 tanks (1976–1988), Total: 337,033–380,000",
+          "Soviet_troops": "11,000 (1975 to 1991)",
+          "Brazilian_pilots": "Classified number (1999–2002)"
+        },
+        "UNITA": {
+          "militants": "65,000 (1990, highest)",
+          "FNLA": "22,000 (1975) to 4,000–7,000 (1976)",
+          "South_African_troops": "7,000 (1975–1976) to 6,000 (1987–1988)"
+        }
+      },
+      "casualties_and_losses": {
+        "MPLA": {
+          "unknown": "Unknown MPLA casualties",
+          "Cuban": "2,016–5,000 dead, 10,000–15,000 killed/wounded/missing, 56,000 deserters",
+          "Soviet": "54 killed"
+        },
+        "UNITA": "Unknown UNITA casualties",
+        "South_Africa": "2,365–2,500 dead (including South African Border War deaths)",
+        "Civilian": "800,000 killed, 4 million displaced, 70,000 amputees due to land mines"
+      }
+    }
+  }
+  
