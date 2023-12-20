@@ -1,6 +1,9 @@
 {
     "name": "First Arab-Israeli War",
     "other_names": ["Israeli War of Independence"],
+    "context": {
+        "part_of": ["Cold War", "Arab-Israeli Conflict"]
+      },
     "dates": "15 May 1948 – 10 March 1949",
     "duration": "9 months, 3 weeks and 2 days",
     "location": [
