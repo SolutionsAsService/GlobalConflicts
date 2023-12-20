@@ -1,0 +1,43 @@
+{
+    "First_South_Ossetia_War": {
+      "Context": {
+        "Part_of": ["Georgian–Ossetian Conflict", "Georgian Civil War", "Dissolution of the Soviet Union"],
+        "Summary": "The First South Ossetia War was a significant conflict that erupted in the Tskhinvali Region of Georgia. It stemmed from South Ossetia's aspirations for independence amidst the weakening Soviet control. Georgia, striving to maintain its territorial integrity, faced off against South Ossetian forces, who were backed by Russia. The war was characterized by intense fighting, particularly in and around Tskhinvali, and led to significant casualties and displacement. The conflict ended with a South Ossetian victory, setting the stage for a prolonged and unresolved dispute."
+      },
+      "Date": "January 5, 1991 – June 24, 1992",
+      "Location": "Tskhinvali Region, Georgia",
+      "Result": {
+        "General": "South Ossetian victory",
+        "Specific": "The ceasefire agreement in South Ossetia divided the region between Georgia and the unrecognized South Ossetian government, establishing the Joint Control Commission and joint peacekeeping forces. Military actions were disorganized, with undisciplined armed groups on both sides. Human Rights Watch reported Georgian paramilitary violence against Ossetian civilians and retaliatory actions by Ossetians against Georgians. The conflict resulted in approximately 1,000 casualties and forced over 40,000 Ossetian refugees into North Ossetia, while 23,000 ethnic Georgians fled South Ossetia. This refugee influx exacerbated ethnic tensions in Northern Ossetia and contributed to the Ossetian-Ingush conflict."
+      },
+      "Belligerents": {
+        "Georgia": {
+          "Main": "Georgia",
+          "Units": ["National Guard of Georgia", "Internal Troops of Georgia", "Local Militias"]
+        },
+        "South_Ossetia_Russia": {
+          "Main": ["South Ossetia", "Russia"],
+          "Units": ["South Ossetian Republican Guard", "South Ossetian Irregulars", "North Ossetian Volunteers", "North Caucasian Volunteers", "Russian Air Force"]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Georgia": ["Zviad Gamsakhurdia", "Eduard Shevardnadze", "Tengiz Kitovani", "Dilar Khabuliani"],
+        "South_Ossetia_Russia": ["Torez Kulumbegov", "Znaur Gassiev", "Oleg Teziev", "Valeriy Hubulov", "Alexander Rutskoy", "Ruslan Khasbulatov"]
+      },
+      "Strength": {
+        "Georgia": {
+          "National_Guard": "Unknown",
+          "Militias": "50-200 men per militia"
+        },
+        "South_Ossetia_Russia": {
+          "Republican_Guards": "About 2,400",
+          "Irregulars": "Unknown",
+          "North_Caucasian_Volunteers": "3,500"
+        }
+      },
+      "Casualties_and_Losses": {
+        "Total_Fatalities": "Approximately 1,000 overall"
+      }
+    }
+  }
+  

@@ -1,0 +1,39 @@
+{
+    "Tajik_Civil_War": {
+      "Context": {
+        "Part_of": "Post-Soviet Conflicts",
+        "Summary": "The Tajik Civil War was a multifaceted conflict in Tajikistan from 1992 to 1997, following the collapse of the Soviet Union. The war was primarily between the government and the United Tajik Opposition, which included a variety of groups with differing ideologies, ranging from Islamic factions to liberal democratic elements. The conflict was marked by a complex interplay of political, ethnic, and religious tensions, with significant involvement from neighboring countries and international organizations. The war resulted in a military stalemate, leading to a peace agreement and power-sharing arrangements."
+      },
+      "Date": "May 5, 1992 – June 27, 1997",
+      "Location": "Tajikistan",
+      "Result": "Military Stalemate",
+      "Belligerents": {
+        "Government_Side": {
+          "Tajikistan": ["Popular Front of Tajikistan", "Communist Party", "Socialist Party"],
+          "Supporting_Countries": ["Russia", "Uzbekistan", "Kazakhstan", "Kyrgyzstan"],
+          "UNMOT_Support": ["Austria", "Bangladesh", "Bulgaria", "Czech Republic", "Denmark", "Ghana", "Hungary", "Indonesia", "Jordan", "Nepal", "Nigeria", "Poland", "Switzerland", "Ukraine", "Uruguay"]
+        },
+        "Opposition_Side": {
+          "United_Tajik_Opposition": ["Islamic Renaissance Party", "Democratic Party", "Party of People's Unity", "Rastokhez Popular Movement", "Lali Badakhshan", "Gorno-Badakhshan"],
+          "International_Support": ["Jamiat-e Islami (until 1996)", "Afghanistan (until 1996)", "Hezb-e Islami Gulbuddin (until 1996)", "Taliban factions[a]", "al-Qaeda", "Islamic Movement of Uzbekistan", "Iran (alleged, denied)"]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Government": ["Rahmon Nabiyev", "Akbarsho Iskandrov", "Emomali Rahmon", "Islam Karimov", "Boris Yeltsin", "Nursultan Nazarbayev", "Askar Akayev"],
+        "Opposition": ["Sayid Abdulloh Nuri", "Mohammed Sharif Himmatzade", "Ibn al-Khattab", "Shadman Youssof"]
+      },
+      "Strength": {
+        "Government_Forces": "Approximately 78,178 total (Tajikistan, Russia, Uzbekistan, Kazakhstan, Kyrgyzstan)",
+        "Opposition_Forces": "Estimated around 50,000–70,000"
+      },
+      "Casualties_and_Losses": {
+        "Government_Side": "Unknown",
+        "Opposition_Side": "Unknown",
+        "Total": "20,000–150,000 killed, 1.2 million displaced"
+      },
+      "Notes": {
+        "Taliban_Neutrality": "The Islamic Emirate of Afghanistan, led by the Taliban, officially declared neutrality, though several factions participated in the conflict."
+      }
+    }
+  }
+  

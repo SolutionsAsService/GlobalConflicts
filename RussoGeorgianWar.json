@@ -1,0 +1,65 @@
+{
+    "Russo_Georgian_War": {
+      "Context": {
+        "Part_of": ["Abkhaz–Georgian Conflict", "Georgian–Ossetian Conflict", "Post-Soviet Conflicts"],
+        "Summary": "The Russo-Georgian War in August 2008 was a pivotal conflict in the Caucasus region. It involved Georgia and the Russian-backed separatist regions of South Ossetia and Abkhazia. The war began with Georgia's attempt to regain control over South Ossetia and quickly escalated as Russia intervened militarily. The conflict resulted in a Russian, South Ossetian, and Abkhaz victory, leading to significant territorial losses for Georgia, large-scale displacement of civilians, and heightened tensions between Russia and the West."
+      },
+      "Date": "August 7, 2008 – August 12, 2008",
+      "Location": "Georgia",
+      "Result": {
+        "General": "Russian, South Ossetian, and Abkhaz victory",
+        "Specific_Outcomes": [
+          "Ethnic cleansing of Georgians from South Ossetia and Abkhazia",
+          "Recognition of South Ossetia and Abkhazia by Russia",
+          "Russian military bases established in both regions",
+          "Severance of Georgia–Russia diplomatic relations"
+        ],
+        "Territorial_Changes": "Georgia loses control of Kodori Valley, Akhalgori, and northern Kareli Municipality"
+      },
+      "Belligerents": {
+        "Russian_Side": ["Russia", "South Ossetia", "Abkhazia"],
+        "Georgian_Side": ["Georgia"]
+      },
+      "Commanders_and_Leaders": {
+        "Russia": ["Dmitry Medvedev", "Vladimir Putin", "Anatoliy Serdyukov", "Nikolay Makarov", "..."],
+        "South_Ossetia": ["Eduard Kokoity", "Mikhail Mindzaev", "..."],
+        "Abkhazia": ["Sergei Bagapsh", "Mirab Kishmaria", "..."],
+        "Georgia": ["Mikheil Saakashvili", "Lado Gurgenidze", "Davit Kezerashvili", "..."]
+      },
+      "Strength": {
+        "Russian_Forces": {
+          "In_South_Ossetia": "58th Army, Airborne Troops, 4th Air Force Command, 42nd Guards Motor Rifle Division, ...",
+          "In_Abkhazia": "7th Guards Airborne Division, 76th Guards Air Assault Division, Black Sea Fleet, ...",
+          "Total_In_Abkhazia": "9,000 soldiers"
+        },
+        "South_Ossetia_Abkhazia": {
+          "South_Ossetia": "3,000 regular soldiers",
+          "Abkhazia": "1,000 special troops"
+        },
+        "Georgian_Forces": {
+          "In_South_Ossetia": "10,000–11,000 soldiers",
+          "In_Georgia_Proper": "10,000 reservists",
+          "In_Iraq": "2,000 soldiers",
+          "Ministry_of_Internal_Affairs": "5,000 police officers"
+        }
+      },
+      "Casualties_and_Losses": {
+        "Russia": {
+          "Military": "65-67 killed, 283 wounded",
+          "Volunteers": "10-15 killed"
+        },
+        "South_Ossetia": "Approx. 50 killed, 10 in Ministry of Internal Affairs",
+        "Abkhazia": "1 killed, 2 wounded",
+        "Georgia": {
+          "Military": "169 killed, 947 wounded",
+          "Ministry_of_Internal_Affairs": "11 killed, 227 wounded"
+        },
+        "Civilian_Casualties": {
+          "South_Ossetia": "162-365 killed, 255 wounded",
+          "Georgia": "224 killed, 547 injured"
+        },
+        "Refugees": "192,000 displaced"
+      }
+    }
+  }
+  

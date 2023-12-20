@@ -1,0 +1,65 @@
+{
+    "Second_Nagorno_Karabakh_War": {
+      "Context": {
+        "Part_of": "Nagorno-Karabakh Conflict",
+        "Description": "The Second Nagorno-Karabakh War erupted in September 2020 between the armed forces of Azerbaijan and the self-proclaimed Republic of Artsakh, backed by Armenia. The war was marked by the extensive use of drones and modern warfare technology. It resulted in significant territorial gains for Azerbaijan, leading to a ceasefire agreement in November 2020 facilitated by Russia. The war had profound humanitarian implications, including civilian casualties, ethnic cleansing allegations, and a large number of displaced people."
+      },
+      "Date": "September 27, 2020 – November 10, 2020",
+      "Location": "Nagorno-Karabakh and surrounding territories, Armenia–Azerbaijan border",
+      "Result": {
+        "General": "Azerbaijani victory",
+        "Specific_Outcomes": [
+          "Ceasefire agreement signed",
+          "Russian peacekeeping forces deployed",
+          "Ethnic cleansing of Armenian population in parts conquered by Azerbaijan",
+          "2023 Azerbaijani offensive in Nagorno-Karabakh"
+        ],
+        "Territorial_Changes": [
+          "Azerbaijan regains control of several areas",
+          "Post-ceasefire: Armenia cedes occupied territories surrounding Nagorno-Karabakh to Azerbaijan",
+          "Unblocking of economic and transport connections in the region"
+        ]
+      },
+      "Belligerents": {
+        "Azerbaijan_Side": {
+          "Main": "Azerbaijan",
+          "Foreign_Support": {
+            "Syrian_Mercenaries": {},
+            "Alleged_Support": "Turkey"
+          },
+          "Arms_Suppliers": "Israel"
+        },
+        "Armenian_Side": {
+          "Main": ["Artsakh", "Armenia"],
+          "Volunteers": "Armenian diaspora",
+          "Arms_Suppliers": "Russia"
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Azerbaijan": ["Ilham Aliyev", "Zakir Hasanov", "Karim Valiyev", "..."],
+        "Armenia": ["Arayik Harutyunyan", "Jalal Harutyunyan", "Mikael Arzumanyan", "..."],
+        "Russia": ["Peacekeeping forces commanders"]
+      },
+      "Strength": {
+        "Azerbaijan": "14,272+ servicemen, 2,580+ Syrian fighters, Turkey: 350 officers, Grey Wolves: 200, Chechen volunteers: 100–300",
+        "Armenia": "Unknown regular military, T-72 tanks, various types of armoured vehicles, Scud-B and OTR-21 Tochka tactical ballistic missiles"
+      },
+      "Casualties_and_Losses": {
+        "Azerbaijan": {
+          "Military": "2,906 servicemen killed, 11,110 wounded, 14 captured",
+          "Civilian": "100 killed, 416 injured, 3 captured",
+          "Displaced": "40,000 displaced"
+        },
+        "Armenia": {
+          "Military": "3,825 servicemen killed, ~11,000 wounded and sick, 60+ captured",
+          "Civilian": "85 killed, 165 injured, 40 captured",
+          "Displaced": "100,000 displaced"
+        },
+        "International": {
+          "Russian": "1 Mi-24 shot down, 2 crew members killed, 1 injured",
+          "Others": "2 French and 3 Russian journalists injured, 1 Iranian civilian injured"
+        }
+      }
+    }
+  }
+  

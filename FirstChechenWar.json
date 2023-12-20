@@ -1,0 +1,38 @@
+{
+    "First Chechen War": {
+      "Context": {
+        "Part_of": ["Post-Soviet Conflicts", "Chechen-Russian Conflict"],
+        "Summary": "The First Chechen War was a major conflict in the North Caucasus region of Russia, marking a violent struggle for independence by the Chechen Republic of Ichkeria from the Russian Federation. The war began after a failed attempt by Russian forces to regain control over the region, leading to widespread destruction and significant civilian casualties. Despite superior military strength, Russian forces faced fierce resistance from Chechen fighters. The conflict ended with the Khasavyurt Accord, leading to Chechnya's de facto independence until the outbreak of the Second Chechen War."
+      },
+      "Date": "December 11, 1994 – August 31, 1996",
+      "Location": "Chechnya and parts of Ingushetia, Stavropol Krai, and Dagestan, Russia",
+      "Result": {
+        "General": "Chechen victory",
+        "Specific_Outcomes": ["Khasavyurt Accord", "Treaty of Moscow", "Withdrawal of Russian army", "Continuation of Chechnya's de facto independence"]
+      },
+      "Belligerents": {
+        "Chechen_Republic_of_Ichkeria": {
+          "Main": "Chechen Republic of Ichkeria",
+          "Foreign_Volunteers": ["Foreign Mujahideen", "UNA-UNSO", "Grey Wolves"]
+        },
+        "Russia": {
+          "Main": "Russia",
+          "Loyalist_Opposition": []
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Chechen_Republic_of_Ichkeria": ["Dzhokhar Dudayev", "Zelimkhan Yandarbiyev", "Aslan Maskhadov", "Ruslan Gelayev", "Shamil Basayev", "Ibn Al-Khattab", "Oleksandr Muzychko", "..."],
+        "Russia": ["Boris Yeltsin", "Pavel Grachev", "Anatoly Kulikov", "Vladimir Shamanov", "Anatoly Kvashnin", "Anatoly Romanov", "Konstantin Pulikovsky", "..."]
+      },
+      "Strength": {
+        "Chechen_Republic_of_Ichkeria": "Approx. 1,000 (1994), Approx. 6,000 (late 1994), 200 foreign volunteers",
+        "Russia": "23,800 (1994), estimated 250,000 (1995)"
+      },
+      "Casualties_and_Losses": {
+        "Chechen_Republic_of_Ichkeria": "Approx. 3,000 killed, 4 foreign volunteers killed",
+        "Russia": "14,000 killed, Over 8,500 killed or missing, Up to 52,000 wounded",
+        "Civilians": "100,000–130,000 civilians killed, 80,000–100,000 (Human rights groups estimate), 30,000–40,000 (RFSSS data), 500,000+ displaced"
+      }
+    }
+  }
+  

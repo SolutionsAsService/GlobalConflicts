@@ -1,0 +1,41 @@
+{
+    "First Nagorno-Karabakh War": {
+      "Context": {
+        "Part_of": ["Nagorno-Karabakh Conflict", "Dissolution of the Soviet Union"],
+        "Summary": "The First Nagorno-Karabakh War was a territorial and ethnic conflict between Armenia and Azerbaijan over the disputed region of Nagorno-Karabakh. It began amid the weakening of Soviet power and escalated into full-scale warfare. The war resulted in Armenian forces gaining control over Nagorno-Karabakh and surrounding Azerbaijani territories, leading to significant displacement and casualties on both sides. The conflict ended with a ceasefire in 1994, leaving Nagorno-Karabakh and its surrounding areas in a state of unresolved, de facto independence."
+      },
+      "Date": "February 20, 1988 – May 12, 1994",
+      "Location": "Nagorno-Karabakh, Armenia, and Azerbaijan",
+      "Result": {
+        "General": "Armenian victory",
+        "Territorial_Changes": "De facto independence of Nagorno-Karabakh Republic, Armenian occupation of surrounding Azerbaijani territories"
+      },
+      "Belligerents": {
+        "Armenian_Side": ["Nagorno-Karabakh", "Armenia", "Armenian Revolutionary Federation", "Foreign groups including Kuban Cossacks, Ossetian volunteers, Slavic mercenaries"],
+        "Azerbaijani_Side": ["Azerbaijan", "Soviet Union (until 1991)", "Azerbaijan SSR", "Foreign groups including Hezbe Wahdat, Hezb-e-Islami, Grey Wolves, Chechen volunteers, UNA-UNSO, Slavic mercenaries, Turkish volunteers"]
+      },
+      "Commanders_and_Leaders": {
+        "Armenian_Side": ["Levon Ter-Petrosyan", "Serzh Sargsyan", "Robert Kocharyan", "Vazgen Sargsyan"],
+        "Azerbaijani_Side": ["Ayaz Mutallibov", "Yagub Mammadov", "Isa Gambar", "Abulfaz Elchibey", "Heydar Aliyev", "Isgandar Hamidov", "Surat Huseynov", "Gulbuddin Hekmatyar"]
+      },
+      "Strength": {
+        "Armenian_Side": "30,000–40,000 (1993–94)",
+        "Azerbaijani_Side": "42,600 (1993–94), with additional foreign support"
+      },
+      "Casualties_and_Losses": {
+        "Armenian_Side": {
+          "Military": "5,856–6,000 dead, 20,000 wounded, 196 missing",
+          "Civilian": "4,000 Armenian civilians dead"
+        },
+        "Azerbaijani_Side": {
+          "Military": "11,557 dead, 20,000–50,000 wounded, 4,210 missing",
+          "Civilian": "16,000 Azerbaijani civilians dead, 749 civilians missing"
+        },
+        "Displaced_Persons": {
+          "Azerbaijanis": "724,000 displaced from Armenia, Nagorno-Karabakh, and surrounding areas",
+          "Armenians": "300,000–500,000 displaced from Azerbaijan, Nagorno-Karabakh, and Nakhchivan"
+        }
+      }
+    }
+  }
+  

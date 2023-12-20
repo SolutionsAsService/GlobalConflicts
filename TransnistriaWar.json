@@ -1,0 +1,39 @@
+{
+    "Transnistria_War": {
+      "Context": {
+        "Part_of": "Dissolution of the Soviet Union and the Transnistria Conflict",
+        "Summary": "The Transnistria War was a conflict that took place from 1990 to 1992 in the region of Transnistria, within Moldova. It began due to tensions between the Moldovan government and the Transnistrian authorities, who sought independence or closer ties with Russia. The war involved the Moldovan Armed Forces and pro-Moldovan volunteers against Transnistrian forces supported by elements of the Russian 14th Guards Army. The conflict resulted in a de facto independent state in Transnistria, although it remains internationally recognized as part of Moldova."
+      },
+      "Date": "November 2, 1990 – July 21, 1992",
+      "Location": "Transnistria, Moldova",
+      "Result": "Russian–Transnistrian victory; Transnistria becomes a de facto independent state",
+      "Belligerents": {
+        "Moldova_Side": {
+          "Moldova": [],
+          "Support": ["Romania"]
+        },
+        "Transnistria_Side": {
+          "Transnistria": [],
+          "Russia": [],
+          "Diplomatic_Support": ["Ukraine"]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Moldova": ["Mircea Snegur", "Valeriu Muravschi", "Ion Costaș", "Pavel Creangă", "Tudor Dabija-Cazarov", "Constantin Antoci", "Nicolae Chirtoacă", "Leonid Carasev", "Boris Muravschi"],
+        "Transnistria": ["Igor Smirnov", "Vladimir Rilyakov", "Ștefan Chițac", "Nikolay Lepkhov", "Vladimir Atamaniuk", "Fedor Dobrov", "Yuri Grosul", "Vladimir Antyufeyev", "Tom Zenovich"],
+        "Russia": ["Boris Yeltsin", "Alexander Lebed"],
+        "Ukraine": ["Dmytro Korchynsky"]
+      },
+      "Units_involved": {
+        "Moldova": ["Armed Forces", "Ministry of Internal Affairs", "Police", "Popular Front of Moldova", "Pro-Moldovan Transnistrian volunteers", "Romanian volunteers and military advisors"],
+        "Transnistria": ["Armed Forces", "Republican Guard", "Ministry of Interior", "Militsiya", "Russian volunteers", "Don Cossacks", "Kuban CMS", "Orenburg Cossacks", "Union of Cossacks", "RNU", "Gagauz volunteers", "Ukrainian volunteers", "UNA-UNSO"],
+        "Russia": ["14th Guards Army (elements)"]
+      },
+      "Casualties_and_Losses": {
+        "Moldova_Side": "279–324 killed, 1,180 wounded",
+        "Transnistria_Side": "364–913 killed, 624 wounded",
+        "Civilians": "316–637 civilians killed in total"
+      }
+    }
+  }
+  
