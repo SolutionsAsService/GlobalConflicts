@@ -1,0 +1,39 @@
+{
+    "First Barbary War": {
+      "part_of": "Barbary Wars",
+      "date_range": "May 10, 1801 – June 10, 1805",
+      "location": ["Mediterranean coast of Tripoli", "Derna"],
+      "result": {
+        "general": "Peace treaty",
+        "terms": ["The United States paying ransom", "Tripolitania ships allowed to inspect American ships", "Freeing prisoners of American ships"]
+      },
+      "belligerents": {
+        "United_States_and_Allies": ["United States", "Sweden (1801–02)", "Sicily"],
+        "Opposition": ["Ottoman Tripolitania", "Morocco (1802)"]
+      },
+      "commanders_and_leaders": {
+        "United_States": ["Thomas Jefferson", "Richard Dale", "Richard Morris", "William Eaton", "Edward Preble", "Stephen Decatur"],
+        "Sweden": ["Gustav IV Adolf", "Rudolf Cederström"],
+        "Ottoman_Tripolitania": ["Yusuf Karamanli", "Rais Mahomet Rous", "Hassan Bey", "Shadi Nazmi Reis"],
+        "Morocco": "Slimane of Morocco"
+      },
+      "strength": {
+        "United_States": {
+          "First_Squadron": ["4 frigates", "1 schooner"],
+          "Second_Squadron": ["6 frigates", "1 schooner"],
+          "Third_Squadron": ["2 frigates", "3 brigs", "2 schooners", "1 ketch"],
+          "William_Eaton_Invasion": ["8 US Marines", "William Eaton", "3 midshipmen", "several civilians", "Approx. 500 Greek and Arab mercenaries"]
+        },
+        "Swedish_Royal_Navy": ["3 frigates"],
+        "Ottoman_Tripolitania": {
+          "naval_forces": "Various cruisers, 11–20 gunboats",
+          "land_forces": "4,000 soldiers"
+        }
+      },
+      "casualties_and_losses": {
+        "United_States_and_Allies": "Unknown",
+        "Ottoman_Tripolitania_and_Morocco": "Unknown"
+      }
+    }
+  }
+  

@@ -1,0 +1,33 @@
+{
+    "Second Barbary War": {
+      "date_range": "17–19 June 1815",
+      "location": "Mediterranean Sea",
+      "result": "American victory",
+      "belligerents": {
+        "United_States": "United States",
+        "Regency_of_Algiers": "Regency of Algiers"
+      },
+      "commanders_and_leaders": {
+        "United_States": ["James Madison", "Stephen Decatur"],
+        "Regency_of_Algiers": ["Omar Agha", "Raïs Hamidou †"]
+      },
+      "strength": {
+        "United_States": {
+          "naval_forces": ["3 frigates", "3 brigs", "2 schooners", "2 sloops"]
+        },
+        "Regency_of_Algiers": {
+          "naval_forces": ["5 frigates", "7 smaller warships"]
+        }
+      },
+      "casualties_and_losses": {
+        "United_States": "40 killed and wounded",
+        "Regency_of_Algiers": {
+          "killed": 53,
+          "wounded": "Many",
+          "captured": "486",
+          "ships_lost": ["2 ships captured", "1 ship sunk"]
+        }
+      }
+    }
+  }
+  

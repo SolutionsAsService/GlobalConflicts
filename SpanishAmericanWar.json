@@ -1,0 +1,40 @@
+{
+    "Spanish-American War": {
+      "context": ["Part of decolonization of the Americas", "Philippine Revolution", "Cuban War of Independence"],
+      "summary": "The war was a conflict between Spain and the United States, fueled by American intervention in the Cuban War of Independence. US victories in the Caribbean and the Pacific led to the collapse of Spanish colonial rule in these regions. The Treaty of Paris of 1898, which ended the war, marked a significant shift in global colonial power.",
+      "date_range": "April 21 – August 12, 1898",
+      "location": ["Cuba", "Puerto Rico", "Guam", "Philippines"],
+      "result": {
+        "general": "US victory",
+        "treaty": "Treaty of Paris of 1898",
+        "aftermath": ["Founding of the First Philippine Republic", "Beginning of the Philippine–American War", "Sale of Spanish Pacific colonies to Germany in 1899", "End of the Spanish Empire in America and Asia"]
+      },
+      "territorial_changes": "Spain relinquishes sovereignty over Cuba; cedes Puerto Rico, Guam, and the Philippines to the United States for $20 million",
+      "belligerents": {
+        "United_States_and_Allies": ["United States", "Cuban Revolutionaries", "Philippine Revolutionaries"],
+        "Spain": ["Captaincy General of Cuba", "Captaincy General of the Philippines", "Captaincy General of Puerto Rico"]
+      },
+      "commanders_and_leaders": {
+        "United_States_and_Allies": ["William McKinley", "Russell A. Alger", "John Davis Long", "Nelson Miles", "Theodore Roosevelt", "William Shafter", "Fitzhugh Lee", "George Dewey", "William Sampson", "Wesley Merritt", "Joseph Wheeler", "Charles Sigsbee", "Máximo Gómez", "Calixto García", "Demetrio Duany", "Emilio Aguinaldo", "Apolinario Mabini", "Baldomero Aguinaldo", "Antonio Luna"],
+        "Spain": ["Alfonso XIII", "Maria Christina", "Práxedes Mateo Sagasta", "Patricio Montojo", "Pascual Cervera", "Arsenio Linares", "Manuel de la Cámara", "Manuel Macías", "Ramón Blanco", "Antero Rubín", "Arsenio Martínez", "Valeriano Weyler", "José Toral", "Basilio Augustín", "Fermín Jáudenes", "Diego de los Ríos"]
+      },
+      "strength": {
+        "United_States_and_Allies": {
+          "total": "300,000",
+          "details": ["US Army: 72,339", "Cuban Revolutionaries: 53,000", "Philippine Revolutionaries: 40,000"]
+        },
+        "Spain": "Total: 339,783 (only 20-25% capable of field operations)"
+      },
+      "casualties_and_losses": {
+        "United_States_and_Allies": {
+          "total": "4,119",
+          "breakdown": ["2,446 dead", "1,662 wounded", "11 captured", "3 ships lost or damaged"]
+        },
+        "Spain": {
+          "total": "56,400–56,600",
+          "breakdown": ["15,700–15,800 dead", "700–800 wounded", "40,000+ captured", "19 ships lost"]
+        }
+      }
+    }
+  }
+  

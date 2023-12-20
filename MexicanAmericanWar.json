@@ -1,0 +1,46 @@
+{
+    "Mexican-American War": {
+      "date_range": "April 25, 1846 – February 2, 1848",
+      "location": ["Texas", "New Mexico", "California", "Northern, Central, and Eastern Mexico", "Mexico City"],
+      "result": {
+        "general": "American victory",
+        "treaty": "Treaty of Guadalupe Hidalgo",
+        "recognition": "Mexican recognition of U.S. sovereignty over Texas (among other territories)",
+        "end_of_conflict": "End of the conflict between Mexico and Texas"
+      },
+      "territorial_changes": {
+        "general": "Mexican Cession",
+        "details": "Mexico cedes to the U.S. present-day California, Texas, New Mexico, Utah, Nevada, Arizona, and parts of Colorado, Oklahoma, Kansas, Nebraska, and Wyoming for $15 million"
+      },
+      "belligerents": {
+        "United_States": "United States",
+        "California_Republic": "California Republic",
+        "Mexico": "Mexico"
+      },
+      "commanders_and_leaders": {
+        "United_States": ["James K. Polk", "George M. Dallas", "George Bancroft", "John E. Wool", "John Y. Mason", "William L. Marcy", "Winfield Scott", "Zachary Taylor", "Stephen W. Kearny", "John D. Sloat", "William J. Worth", "Robert F. Stockton", "Joseph Lane", "Franklin Pierce", "David Conner", "Matthew C. Perry", "John C. Frémont", "Thomas Childs", "Henry Burton", "Edward Baker", "Jefferson Davis", "Robert E. Lee", "Ulysses S. Grant", "Henry Clay Jr. †"],
+        "California_Republic": ["William B. Ide"],
+        "Mexico": ["Antonio López de Santa Anna", "Mariano Paredes", "Manuel Peña", "Mariano Arista", "Pedro de Ampudia", "José Flores", "Mariano Vallejo", "Nicolás Bravo", "José de Herrera", "Andrés Pico", "Manuel Armijo", "Martín Perfecto de Cos", "Pedro de Anaya", "Agustín de Iturbide", "Joaquín Rea", "Manuel Muñoz", "Gabriel Valencia †", "José de Urrea", "Juan Almonte", "Manuel Micheltorena", "John Riley", "Juan Seguín"]
+      },
+      "strength": {
+        "United_States": "73,532 soldiers",
+        "Mexico": "82,000 soldiers"
+      },
+      "casualties_and_losses": {
+        "United_States": {
+          "killed": 1733,
+          "wounded": 4152,
+          "dead_from_disease": 11550,
+          "missing": 695,
+          "total": "Approximately 13,283"
+        },
+        "Mexico": {
+          "killed": 5000,
+          "wounded": 20000,
+          "missing": 10000,
+          "total_civilian_and_military": "Approximately 25,000"
+        }
+      }
+    }
+  }
+  

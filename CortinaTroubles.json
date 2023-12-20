@@ -1,0 +1,26 @@
+{
+    "Cortina Troubles": {
+      "date_range": ["First Conflict: 1859 – 1860", "Second Conflict: 1861"],
+      "location": ["Texas, United States", "Tamaulipas, Mexico"],
+      "result": "American–Allied victory",
+      "belligerents": {
+        "United_States_and_Allies": ["United States", "Confederate States of America", "Texas Rangers", "Brownsville Tigers", "Matamoros militia"],
+        "Opposition": ["Mexico", "Cortinista militia"]
+      },
+      "commanders_and_leaders": {
+        "United_States_and_Allies": ["Samuel Heintzelman (USA)", "Cap. Stoneman (USA)", "Cap. Tobin (USA)", "John Ford (CSA)", "Santos Benavides (CSA)"],
+        "Opposition": "Juan Cortina"
+      },
+      "strength": {
+        "United_States_and_Allies": {
+          "forces": ["United States Army", "Confederate States Army", "Texas Rangers", "Brownsville Tigers", "Matamoros militia"]
+        },
+        "Opposition": "Unknown precise strength"
+      },
+      "casualties_and_losses": {
+        "United_States_and_Allies": "31 killed and wounded",
+        "Opposition": "216 killed"
+      }
+    }
+  }
+  
