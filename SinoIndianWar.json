@@ -1,0 +1,33 @@
+{
+    "Sino_Indian_War": {
+      "Context": {
+        "Part_of": ["Sino-Indian border dispute", "Cold War"],
+        "Summary": "The Sino-Indian War in 1962 was a brief but intense military conflict between China and India over territorial disputes in Aksai Chin and Arunachal Pradesh (then known as North-East Frontier Agency). The war stemmed from long-standing historical tensions and conflicting territorial claims, further complicated by the broader dynamics of the Cold War. Chinese forces, led by Mao Zedong and Zhou Enlai, launched a series of attacks on Indian positions, catching the Indian military, under the leadership of Jawaharlal Nehru and V. K. Krishna Menon, by surprise. Despite initial resistance, the Indian forces were overwhelmed by the Chinese offensive, leading to significant casualties and a tactical retreat. The war concluded with a unilateral ceasefire by China, resulting in a status quo ante bellum, leaving the border issues largely unresolved. The conflict had a profound impact on India's foreign policy and military strategy, leading to substantial military reforms and a re-evaluation of its international alignments."
+      },
+      "Date": "20 October – 21 November 1962",
+      "Location": "Aksai Chin, North-East Frontier Agency, and Assam",
+      "Result": "Chinese victory",
+      "Belligerents": {
+        "China": [],
+        "India": []
+      },
+      "Commanders_and_Leaders": {
+        "China": ["Mao Zedong", "Zhou Enlai"],
+        "India": ["Jawaharlal Nehru", "V. K. Krishna Menon", "Brij Mohan Kaul"]
+      },
+      "Strength": {
+        "China": "80,000",
+        "India": "22,000"
+      },
+      "Casualties_and_Losses": {
+        "China": {
+          "Chinese_sources": ["722 killed", "1,697 wounded"]
+        },
+        "India": {
+          "Indian_sources": ["1,300 killed (in Rezang La)", "1,383 killed", "1,696 missing", "548–1,047 wounded", "3,968 captured"],
+          "Chinese_sources": ["4,897 killed or wounded", "3,968 captured"]
+        }
+      }
+    }
+  }
+  

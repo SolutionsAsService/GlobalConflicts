@@ -1,0 +1,45 @@
+{
+    "Xinjiang_Conflict": {
+      "Context": {
+        "Part_of": ["Uyghur genocide", "Terrorism in China", "War on Terror"],
+        "Summary": "The Xinjiang conflict involves a series of violent clashes, including terrorist attacks, that have occurred in the Xinjiang region of China. The conflict began in the early 20th century and has persisted to the present day. It has involved various belligerents, including Chinese government forces and various Uyghur and East Turkestan independence movements. The conflict has been marked by periods of heightened violence, such as terrorist attacks from 1990 to 2006, and a second wave of violence between 2007 and 2016. Since 2016, there has been a reduction in terrorist attacks, but concerns over human rights issues, including the establishment of internment camps in Xinjiang, have increased."
+      },
+      "Date": "6 June 1930 – present",
+      "Location": "Xinjiang, China",
+      "Status": {
+        "Violent_Clashes": ["1990-2006", "2007-2016"],
+        "Limited_Violence_Outside_China": ["2015 Bangkok bombing"],
+        "Reduction_in_Terrorist_Attacks": ["2016 onwards"],
+        "Internment_Camps": ["Established since 2017"]
+      },
+      "Belligerents": {
+        "Peoples_Republic_of_China": {
+          "From_1949": ["Chinese Communist Party", "People's Police", "People's Armed Police", "People's Liberation Army", "Xinjiang Production and Construction Corps"]
+        },
+        "Republic_of_China": {
+          "Until_1954": ["Kuomintang", "National Revolutionary Army", "Republic of China Army", "Ma clique", "Xinjiang clique", "Xinjiang Provisional Government"]
+        },
+        "East_Turkestan_Independence_Movement": {
+          "Groups": ["Turkistan Islamic Party", "East Turkestan Liberation Organization", "East Turkistan Education and Solidarity Association", "East Turkestan People's Revolutionary Party", "United Revolutionary Front of East Turkestan", "Second East Turkestan Republic"],
+          "Supported_By": ["Al-Qaeda", "Tehrik-i-Taliban Pakistan", "Islamic Movement of Uzbekistan", "Islamic Jihad Union", "Hizb ut-Tahrir", "Soviet Union", "Mongolia"]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "China": ["Xi Jinping", "Ma Xingrui", "Chen Quanguo", "Hu Jintao", "Jiang Zemin", "Deng Xiaoping", "Hua Guofeng", "Mao Zedong"],
+        "East_Turkestan_Independence_Movement": ["Yusupbek Mukhlisi", "Abdul Haq", "Abdullah Mansour", "Hasan Mahsum", "Abdul Shakoor al-Turkistani"]
+      },
+      "Strength": {
+        "China": ["Western Theater Command", "People's Armed Police Xinjiang UAR Corps", "Tungan 36th Division"],
+        "East_Turkestan_Independence_Movement": "Unknown"
+      },
+      "Casualties_and_Losses": {
+        "China": {
+          "Dead": "1,000+ (2007–2014)",
+          "Injured": ">1,700",
+          "Arrested": "330,918+ (2013–2017)"
+        },
+        "East_Turkestan_Independence_Movement": "Unknown"
+      }
+    }
+  }
+  

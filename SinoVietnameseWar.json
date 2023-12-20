@@ -1,0 +1,38 @@
+{
+    "Sino_Vietnamese_War": {
+      "Context": {
+        "Part_of": ["Third Indochina War", "Sino-Soviet split", "Cold War"],
+        "Summary": "The Sino-Vietnamese War was a brief but intense military conflict between China and Vietnam, primarily along their shared border. It occurred from 17 February to 16 March 1979. The war's roots lay in Vietnam's relationship with the Soviet Union and its occupation of Cambodia, which threatened China's regional influence. China launched a punitive expedition into Vietnamese territory, aiming to force Vietnam to abandon its invasion of Cambodia. The war ended with both sides claiming victory. Chinese forces occupied parts of Vietnam temporarily before withdrawing, and Vietnam continued its occupation of Cambodia until 1989. The war exacerbated tensions between China and the Soviet Union and led to Vietnamese expulsions of overseas Chinese."
+      },
+      "Date": "17 February – 16 March 1979",
+      "Location": "China–Vietnam border, Northwest Vietnam, Northeast Vietnam",
+      "Result": {
+        "Overall": "Status quo ante bellum",
+        "Details": ["Both sides claim victory", "Temporary Chinese occupation of Vietnamese territory", "Continued Vietnamese occupation of Cambodia until 1989", "Increased expulsions of overseas Chinese from Vietnam", "Continuation of border clashes until 1991"]
+      },
+      "Belligerents": {
+        "China": [],
+        "Vietnam": ["Supported by: Soviet Union"]
+      },
+      "Commanders_and_Leaders": {
+        "China": ["Hua Guofeng", "Deng Xiaoping", "Ye Jianying", "Xu Xiangqian", "Yang Dezhi", "Xu Shiyou"],
+        "Vietnam": ["Lê Duẩn", "Võ Nguyên Giáp", "Tôn Đức Thắng", "Văn Tiến Dũng", "Đàm Quang Trung", "Vũ Lập"]
+      },
+      "Strength": {
+        "China": ["200,000 soldiers", "400–550 tanks and 60 APCs (Chinese claim)", "600,000 soldiers (Vietnamese claim)"],
+        "Vietnam": ["70,000–100,000 soldiers", "150,000 irregulars and militia"]
+      },
+      "Casualties_and_Losses": {
+        "China": {
+          "Chinese_estimate": ["6,954 killed", "14,800–21,000 wounded", "238 captured", "76 tanks/APCs destroyed, 533 damaged"],
+          "Vietnamese_estimate": ["62,000 casualties including 48,000 deaths", "420 tanks/APCs destroyed", "66 heavy mortars and guns destroyed"],
+          "Western_estimate": ["26,000 killed", "37,000 wounded", "260 captured"]
+        },
+        "Vietnam": {
+          "Chinese_estimate": ["42,000–57,000 soldiers killed", "70,000 militia killed", "1,636 captured", "185 tanks/APCs destroyed", "200 heavy mortars and guns destroyed", "6 missile launchers destroyed"],
+          "Western_estimate": ["30,000 killed", "32,000 wounded", "1,638 captured"]
+        }
+      }
+    }
+  }
+  

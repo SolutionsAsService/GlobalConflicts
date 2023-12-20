@@ -1,0 +1,55 @@
+{
+    "Cultural_Revolution": {
+      "Context": {
+        "Duration": "May 16, 1966 – October 6, 1976",
+        "Location": "Peoples_Republic_of_China",
+        "Motive": "Preservation of communism by purging capitalist and traditional elements, and power struggle between Maoists and pragmatists.",
+        "Organized_by": "Chinese Communist Party Politburo",
+        "Outcome": {
+          "Economic_Impact": "Economic activity impaired",
+          "Cultural_Impact": "Historical and cultural material irrevocably destroyed",
+          "Arrests": ["Jiang Qing", "Zhang Chunqiao", "Yao Wenyuan", "Wang Hongwen"]
+        },
+        "Deaths": "Estimates vary from hundreds of thousands to millions",
+        "Property_Damage": ["Cemetery of Confucius", "Temple of Heaven", "Ming tombs"]
+      },
+      "Formal_Name": {
+        "Simplified_Chinese": "无产阶级文化大革命",
+        "Traditional_Chinese": "無產階級文化大革命",
+        "Literal_Meaning": "Great Proletarian Cultural Revolution"
+      },
+      "Death_Toll_Estimates": {
+        "Andrew_G_Walder_2014": {
+          "Deaths": "1.1–1.6 million",
+          "Remarks": "Period between 1966 and 1971. Conservative interpretation of vague language in county annals. Some deaths actively covered up."
+        },
+        "Ding_Shu_1999": {
+          "Deaths": "2 million",
+          "Breakdown": {
+            "Red_Terror": "100,000",
+            "Suicides": "200,000",
+            "Violent_Struggles": "300,000–500,000",
+            "Cleansing_Class_Ranks": "500,000",
+            "Other_Campaigns": "200,000"
+          }
+        },
+        "CCP_History_Research_Center_1996": {
+          "Deaths": "1.728 million",
+          "Details": "Unnatural deaths. 9.4% CCP members, 252,000 intellectuals."
+        },
+        "Rudolph_J_Rummel_1991": {
+          "Deaths": "7.731 million",
+          "Details": "Includes Laogai camp deaths. Estimate of 5% death rate in camps."
+        },
+        "Ye_Jianying_1982": {
+          "Deaths": "3.42 million",
+          "Remarks": "Statement in CCP meeting. Includes deaths in cities and countryside."
+        },
+        "Agence_France_Presse_1979": {
+          "Deaths": "0.4 million",
+          "Remarks": "Obtained by AFP correspondent in Beijing, citing unnamed source."
+        }
+      }
+    }
+  }
+  

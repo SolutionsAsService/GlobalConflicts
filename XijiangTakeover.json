@@ -1,0 +1,26 @@
+{
+    "Incorporation_of_Xinjiang_into_the_PRC": {
+      "Context": {
+        "Part_of": ["Chinese Civil War", "Cold War"],
+        "Summary": "The Incorporation of Xinjiang into the People's Republic of China, occurring between October and December 1949, marked a pivotal moment in Chinese history. Also known in Chinese historiography as the 'Peaceful Liberation of Xinjiang,' this event was integral to the closing chapters of the Chinese Civil War and the broader Cold War era. The campaign saw the military forces of the newly established People's Republic of China, led by Mao Zedong and generals such as Peng Dehuai and Wang Zhen, confront the Republic of China's army in Xinjiang. Key leaders on the Republic of China side, like Burhan Shahidi and Tao Zhiyue, eventually surrendered to the PLA. The result was the incorporation of Xinjiang into the People's Republic of China, significantly altering the political landscape of the region and contributing to the consolidation of power by the Communist Party of China.",
+        "Alternative_Names": ["Peaceful Liberation of Xinjiang"]
+      },
+      "Date": "October 12 – December 22, 1949",
+      "Location": "Xinjiang Province, Republic of China",
+      "Result": "Xinjiang is incorporated into the People's Republic of China",
+      "Territorial_Changes": "Xinjiang becomes part of the PRC",
+      "Belligerents": {
+        "People's_Republic_of_China": ["People's Liberation Army", "First Field Army"],
+        "Republic_of_China": ["Republic of China Army"]
+      },
+      "Commanders_and_Leaders": {
+        "People's_Republic_of_China": ["Mao Zedong", "Peng Dehuai", "Wang Zhen"],
+        "Republic_of_China": ["Burhan Shahidi", "Tao Zhiyue", "Yulbars Khan", "Osman Batur"]
+      },
+      "Strength": {
+        "People's_Republic_of_China": "80,000",
+        "Republic_of_China": "100,000"
+      }
+    }
+  }
+  

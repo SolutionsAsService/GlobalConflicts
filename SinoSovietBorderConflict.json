@@ -1,0 +1,35 @@
+{
+    "Sino_Soviet_Border_Conflict": {
+      "Context": {
+        "Part_of": ["Cold War", "Sino-Soviet split"],
+        "Summary": "The Sino-Soviet border conflict was a series of military skirmishes between the Soviet Union and China in 1969, primarily along the disputed areas of the Argun and Amur rivers. This conflict was part of the larger Sino-Soviet split, characterized by ideological differences and territorial disputes between the two communist superpowers. The most significant and well-known clash occurred at Damansky/Zhenbao Island, where both sides suffered casualties. The conflict escalated tensions between China and the Soviet Union, leading to fears of a larger-scale war. Ultimately, the conflict ended with the status quo ante bellum, as neither side made any territorial gains. The skirmishes highlighted the deep rift between the Soviet and Chinese governments, significantly impacting international relations during the Cold War era."
+      },
+      "Date": "2 March 1969 – 11 September 1969",
+      "Location": "Border between China and the Soviet Union",
+      "Result": "Soviet victory",
+      "Territorial_Changes": "Status quo ante bellum",
+      "Belligerents": {
+        "Soviet_Union": [],
+        "China": []
+      },
+      "Commanders_and_Leaders": {
+        "Soviet_Union": ["Leonid Brezhnev"],
+        "China": ["Mao Zedong"]
+      },
+      "Strength": {
+        "Soviet_Union": "658,002",
+        "China": "814,003"
+      },
+      "Casualties_and_Losses": {
+        "Soviet_Union": {
+          "Soviet_sources": ["58 killed", "95 wounded"],
+          "Chinese_sources": ["27 tanks/APCs destroyed", "1 command car", "Dozens of trucks destroyed", "One Soviet T-62 tank captured"]
+        },
+        "China": {
+          "Soviet_sources": ["800 killed"],
+          "Chinese_sources": ["72 killed", "68 wounded"]
+        }
+      }
+    }
+  }
+  

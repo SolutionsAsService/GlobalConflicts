@@ -1,0 +1,35 @@
+{
+    "1960-61_Campaign_at_the_China_Burma_Border": {
+      "Context": {
+        "Part_of": ["Cross-Strait conflict", "Internal conflict in Myanmar", "Cold War in Asia"],
+        "Summary": "The Campaign at the China-Burma border from November 1960 to February 1961 was a significant military confrontation involving the People's Republic of China, Union of Burma, and the Republic of China. The conflict was rooted in the broader context of the Cross-Strait conflict and ongoing Cold War tensions in Asia. The campaign was initiated by the Republic of China's military presence in Burma, which led to tensions with both the Burmese and Chinese governments. Under the leadership of Zhou Enlai and others, Chinese forces engaged with the Republic of China's army in Burma. The conflict resulted in the withdrawal of Chinese nationalist forces from Burma, marking a significant shift in the regional power dynamics and impacting the Cross-Strait relations."
+      },
+      "Date": "November 14, 1960 – February 9, 1961",
+      "Location": "China-Burma border",
+      "Result": "Withdrawal of Chinese nationalist forces from Burma",
+      "Belligerents": {
+        "People's_Republic_of_China": [],
+        "Union_of_Burma": [],
+        "Republic_of_China": []
+      },
+      "Commanders_and_Leaders": {
+        "People's_Republic_of_China": ["Zhou Enlai", "Li Xifu", "Ding Rongchang", "Cui Jiangong"],
+        "Union_of_Burma": ["U Nu", "Ne Win"],
+        "Republic_of_China": ["Liu Yuanlin", "Wu Yunnuan", "Wu Zubo", "Li Wenhuan", "Zhang Weicheng", "Duan Xiwen"]
+      },
+      "Units_Involved": {
+        "People's_Republic_of_China": ["People's Liberation Army"],
+        "Union_of_Burma": ["Burma Army"],
+        "Republic_of_China": ["Republic of China Army (in Burma)"]
+      },
+      "Strength": {
+        "People's_Republic_of_China_and_Union_of_Burma": "6,700",
+        "Republic_of_China": "10,000"
+      },
+      "Casualties_and_Losses": {
+        "People's_Republic_of_China_and_Union_of_Burma": "258 casualties",
+        "Republic_of_China": "741 casualties"
+      }
+    }
+  }
+  

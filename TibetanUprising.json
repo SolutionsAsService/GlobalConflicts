@@ -1,0 +1,31 @@
+{
+    "1959_Tibetan_Uprising": {
+      "Context": {
+        "Part_of": "Cold War",
+        "Summary": "The 1959 Tibetan Uprising was a significant revolt in Lhasa, the capital of Tibet, against the rule of the People's Republic of China. Sparked by fears of a plot to abduct the 14th Dalai Lama, widespread protests and violent clashes erupted. The situation escalated as Tibetan and Khampa protesters and guerrillas, including remnants of the Tibetan Army and the group Chushi Gangdruk, actively resisted Chinese forces. Despite support from the Republic of China, the CIA, and diplomatic backing from India, the uprising was brutally suppressed by the People's Liberation Army. The conflict led to the dissolution of the Tibetan government (Kashag) and the flight of the Dalai Lama to India, marking a significant turning point in Tibetan history and Sino-Tibetan relations."
+      },
+      "Date": "March 10–23, 1959",
+      "Location": "Lhasa, Tibet Area, China",
+      "Result": "Uprising suppressed, dissolution of Kashag, flight of the 14th Dalai Lama to India",
+      "Belligerents": {
+        "Tibetan_Side": {
+          "Forces": ["Tibetan and Khampa protesters and guerrillas", "Remnants of the Tibetan Army"],
+          "Simultaneous_rebellion_in_Kham_and_Amdo": ["Chushi Gangdruk"],
+          "Supported_by": ["Republic of China", "United States (CIA)", "India (diplomatic)"]
+        },
+        "Chinese_Side": {
+          "People's_Republic_of_China": [],
+          "Forces": ["People's Liberation Army"]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Tibetan": ["Several leaders"],
+        "Chinese": ["Tan Guansan"]
+      },
+      "Casualties_and_Losses": {
+        "Tibetan": "85,000–87,000 casualties",
+        "Chinese": "2,000 killed"
+      }
+    }
+  }
+  

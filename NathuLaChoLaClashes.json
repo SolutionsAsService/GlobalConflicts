@@ -1,0 +1,41 @@
+{
+    "Nathu_La_and_Cho_La_Clashes": {
+      "Context": {
+        "Part_of": ["Sino-Indian border dispute", "Cold War"],
+        "Summary": "The Nathu La and Cho La clashes were a series of military engagements between India and China in September and October 1967. These skirmishes occurred at Nathu La and Cho La, located on the border between China and the Kingdom of Sikkim, then a protectorate of India. The confrontations stemmed from the broader Sino-Indian border dispute and were among the most significant military conflicts between the two countries following the 1962 Sino-Indian War. The clashes at Nathu La and Cho La are notable for their intensity and the use of artillery and infantry. The Indian Army successfully repelled the Chinese offensive, resulting in a strategic victory for India. These clashes marked a turning point in the Sino-Indian relations, leading to a tactical and psychological advantage for India in the ongoing border tensions."
+      },
+      "Date": {
+        "Nathu_La": "11–14 September 1967",
+        "Cho_La": "1 October 1967"
+      },
+      "Location": "Nathu La and Cho La, on the border between China and the Kingdom of Sikkim",
+      "Result": "Indian victory",
+      "Belligerents": {
+        "India": [],
+        "China": []
+      },
+      "Commanders_and_Leaders": {
+        "India": ["Zakir Husain (President)", "Indira Gandhi (Prime Minister)", "Gen. P. P. Kumaramangalam (Chief of the Army Staff)", "Lt. Gen. Jagjit Singh Aurora", "Maj. Gen. Sagat Singh", "Brig. Rai Singh Yadav (2 Grenadiers)"],
+        "China": ["Mao Zedong (Chairman of the CPC/CMC)", "Zhou Enlai (Chinese Premier)", "Maj. Gen. Wang Chenghan (Deputy commander of the Tibet Military District)", "Maj. Gen. Yu Zhiquan"]
+      },
+      "Units_Involved": {
+        "India": ["Part of the 112th Infantry Brigade"],
+        "China": ["31st Infantry Regiment", "4th Rifle Company", "6th Rifle Company", "2nd Machine Company", "2nd Artillery Company", "75th Artillery Battalion 308th Artillery Brigade", "3rd Artillery Regiment"]
+      },
+      "Strength": {
+        "India": ["Part of the 112th Infantry Brigade"],
+        "China": ["31st Infantry Regiment and other units"]
+      },
+      "Casualties_and_Losses": {
+        "India": {
+          "Indian_claims": ["88 killed", "163 wounded"],
+          "Chinese_claims": ["101 killed (65 Nathu La, 36 Cho La)"]
+        },
+        "China": {
+          "Indian_claims": ["340 killed", "450 wounded"],
+          "Chinese_claims": ["32 killed (Nathu La), unknown (Cho La)"]
+        }
+      }
+    }
+  }
+  
