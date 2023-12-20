@@ -1,0 +1,66 @@
+{
+    "Angolan_Civil_War": {
+      "Context": {
+        "Part_of": ["Cold War (until 1991)", "First & Second Congo War (from 1996 onwards)"],
+        "Summary": "The Angolan Civil War was a prolonged conflict in Angola that began immediately after the country gained independence from Portugal in 1975. It involved various factions and significant foreign intervention, with the MPLA, UNITA, and FNLA as key players. The war was marked by foreign military support, particularly from Cuba, the Soviet Union, and the United States, among others. It ended with an MPLA victory after the death of UNITA leader Jonas Savimbi in 2002."
+      },
+      "Date": "11 November 1975 – 4 April 2002",
+      "Location": "Angola",
+      "Result": {
+        "Outcome": "MPLA victory",
+        "Key_Events": ["Withdrawal of all foreign forces in 1989", "Transition towards a multiparty political system in 1991/92", "Dissolution of FNLA's armed forces", "UNITA's transition to a political party after Jonas Savimbi's death", "Continued resistance of FLEC"]
+      },
+      "Belligerents": {
+        "People's_Republic_of_Angola": {
+          "Main_Factions": ["MPLA", "Cuba (1975–1991)", "SWAPO (1975–1991)", "ANC (1975–1991)", "Executive Outcomes (1993–1995)", "FLNC (1975–2001)", "Namibia (2001–2002)"],
+          "Support": ["Soviet Union (1975–1991)", "East Germany (1975–1989)", "Yugoslavia (1975–1991)", "North Korea (1980s)", "Brazil", "Diplomatic Support from Guyana and Mexico"]
+        },
+        "Democratic_People's_Republic_of_Angola": {
+          "Main_Factions": ["UNITA", "FNLA (1975–1976 and 1976–1978)", "South Africa (1975–1991)", "Zaire (1975)", "FLEC"],
+          "Support": ["United States (1975–1991)", "Morocco (1970s)", "China (1975)", "France"]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Angola": ["Agostinho Neto †", "José Eduardo dos Santos", "Iko Carreira", "Kundi Paihama", "João Lourenço", "António Franca", "Lúcio Lara"],
+        "Cuba": ["Fidel Castro", "Antonio Batlle", "Abelardo Colomé Ibarra", "Arnaldo Ochoa", "Raul Arguello †"],
+        "Soviet_Union": ["Vasily Petrov", "Valentin Varennikov"],
+        "Namibia": ["Sam Nujoma"],
+        "UNITA": ["Jonas Savimbi †", "Jeremias Chitunda †", "António Dembo", "Paulo Lukamba", "Demosthenes Chilingutila", "Alberto Vinama", "Kafundanga Chingunji", "Arlindo Pena Ben-Ben", "Holden Roberto", "Daniel Chipenda (1975)", "Luis Ranque Franque", "Henrique N'zita Tiago", "Rodrigues Mingas"],
+        "South_Africa": ["B. J. Vorster (1975–1978)", "P. W. Botha (1978–1989)"],
+        "Zaire": ["Mobutu Sese Seko (1975)"]
+      },
+      "Strength": {
+        "Angola_MPLA": {
+          "Troops": ["40,000 (1976)", "70,000 (1987)", "130,000 (2001)"]
+        },
+        "Cuba": {
+          "Troops": ["36,000 with 400 tanks (1976)", "35,000–37,000 (1982)", "60,000 (1988)"],
+          "Total": "337,033–380,000",
+          "Equipment": ["1,000 tanks", "600 armored vehicles", "1,600 artillery pieces"]
+        },
+        "Soviet_Union": {
+          "Troops": "Altogether 11,000 (1975 to 1991)"
+        },
+        "Brazil": {
+          "Pilots": "Classified with tens of aircraft (1999–2002)"
+        },
+        "UNITA": {
+          "Militants": "65,000 (1990, highest)"
+        },
+        "FNLA": {
+          "Militants": ["22,000 (1975)", "4,000–7,000 (1976)"]
+        },
+        "South_Africa": {
+          "Troops": ["7,000 (1975–1976)", "6,000 (1987–1988)"]
+        }
+      },
+      "Casualties_and_Losses": {
+        "Angola": "Unknown",
+        "Cuba": ["2,016–5,000 dead", "10,000–15,000 killed, wounded or missing", "56,000 deserters"],
+        "Soviet_Union": "54 killed",
+        "South_Africa": ["2,365–2,500 dead (including South African Border War deaths)"],
+        "General": ["800,000 killed", "4 million displaced", "Nearly 70,000 Angolans became amputees due to land mines"]
+      }
+    }
+  }
+  

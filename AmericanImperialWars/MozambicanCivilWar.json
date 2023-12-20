@@ -1,0 +1,48 @@
+{
+    "Mozambican_Civil_War": {
+      "Context": {
+        "Part_of": "Cold War",
+        "Summary": "The Mozambican Civil War was a major conflict that took place in Mozambique from 1977 to 1992. It involved various factions fighting for control of the country, with significant foreign involvement. The war was characterized by guerrilla warfare and devastating human and economic costs. It ended with the Rome General Peace Accords in 1992, leading to multiparty elections in 1994 and the deployment of the United Nations Operation in Mozambique (UNOMOZ)."
+      },
+      "Date": "30 May 1977 – 4 October 1992",
+      "Location": "Mozambique",
+      "Result": {
+        "Outcome": "Stalemate",
+        "Rome_General_Peace_Accords": true,
+        "Multiparty_Elections": "1994",
+        "UNOMOZ_Deployment": true
+      },
+      "Belligerents": {
+        "Mozambique": {
+          "Factions": ["FRELIMO", "UNAMO (1988–1992)", "ZANU (until 1979)", "Zimbabwe (from 1980)", "Tanzania", "Malawi (from 1987)"]
+        },
+        "RENAMO": {
+          "Factions": ["PRM (merged with RENAMO in 1982)", "UNAMO (1987–1988)", "COREMO", "UNIPOMO", "FUMO", "Rhodesia (until 1979)", "South Africa (from 1978)"],
+          "Supported_By": []
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Mozambique": ["Samora Machel †", "Joaquim Chissano"],
+        "Zimbabwe": ["Robert Mugabe"],
+        "Tanzania": ["Julius Nyerere"],
+        "Malawi": ["Hastings Banda"],
+        "RENAMO": ["André Matsangaissa †", "Afonso Dhlakama", "Amos Sumane Executed", "Gimo Phiri"]
+      },
+      "Strength": {
+        "Mozambique": "80,000",
+        "Zimbabwe": "20,000",
+        "Tanzania": "6,000",
+        "Malawi": "500 (Romanian troops)",
+        "RENAMO": "~20,000"
+      },
+      "Casualties_and_Losses": {
+        "Mozambique": "Unknown",
+        "Zimbabwe": "296 soldiers and 24 pilots killed (1984–1990)",
+        "Tanzania": "99 soldiers killed",
+        "Malawi": "100+ killed",
+        "RENAMO": "Unknown",
+        "Total_killed": "1,000,000+ (including from famine)"
+      }
+    }
+  }
+  

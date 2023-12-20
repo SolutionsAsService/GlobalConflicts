@@ -1,0 +1,39 @@
+{
+    "Iran-Iraq War": {
+      "context": ["Cold War", "Saudi-Iran Proxy Conflict", "Iraqi-Kurdish Conflict"],
+      "date_range": "22 September 1980 – 20 August 1988",
+      "location": ["Iran", "Iraq"],
+      "result": "Inconclusive, No territorial changes; status quo antebellum",
+      "belligerents": {
+        "Iran": ["Iran", "KDP", "PUK", "ISCI", "Islamic Dawa Party", "Shia volunteers"],
+        "Iraq": ["Iraq", "MEK", "KDPI", "DRFLA", "Sipay Rizgari", "Arab volunteers"]
+      },
+      "commanders_and_leaders": {
+        "Iran": ["Ruhollah Khomeini", "Akbar Rafsanjani", "Mohammad-Ali Rajai †", "Ali Khamenei", "Mir-Hossein Mousavi"],
+        "Iraq": ["Saddam Hussein", "Adnan Khayr Allah", "Izzat Ibrahim al-Douri", "Tariq Aziz"]
+      },
+      "strength": {
+        "Iran": "Start of war: 110,000–215,000 soldiers",
+        "Iraq": "Start of war: 200,000–210,000 soldiers"
+      },
+      "casualties_and_losses": {
+        "Iran": {
+          "military_dead": "200,000–600,000",
+          "wounded": "320,000–500,000",
+          "prisoners_of_war": "40,000–42,875",
+          "civilian_dead": "11,000–16,000",
+          "economic_loss": "$627 billion"
+        },
+        "Iraq": {
+          "military_dead": "105,000–500,000",
+          "wounded": "400,000",
+          "prisoners_of_war": "70,000",
+          "economic_loss": "$561 billion"
+        },
+        "total_casualties": "1,000,000–2,000,000",
+        "civilian_dead": "100,000+",
+        "note": "Lebanon and Paris in France were also affected (1981 Iraqi embassy bombing in Beirut, Lebanon hostage crisis, 1983 Beirut barracks bombings, 1985–86 Paris attacks)"
+      }
+    }
+  }
+  
