@@ -1,0 +1,39 @@
+{
+    "Conflict": "Malayan Emergency",
+    "Part_of": ["Decolonization of Asia", "Cold War in Asia"],
+    "Duration": "June 16, 1948 – July 31, 1960",
+    "Location": "British Malaya",
+    "Result": "British-allied victory, Independence of the Federation of Malaya, CPM retreats to the Malayan-Thai border, Insurgency continues until 1989, Conflict resolved through the Peace Agreement of Hat Yai (1989)",
+    "Belligerents": {
+      "British_Empire_and_Commonwealth_Forces": {
+        "Countries": ["United Kingdom", "Federation of Malaya", "Singapore", "Kenya", "Southern Rhodesia", "Rhodesia and Nyasaland", "Fiji", "Australia", "New Zealand"],
+        "Supported_by": ["Thailand", "United States"]
+      },
+      "Communist_Forces": {
+        "Groups": ["Malayan Communist Party", "Malayan National Liberation Army"]
+      }
+    },
+    "Commanders_and_Leaders": {
+      "British_and_Allies": [
+        "Clement Attlee", "Winston Churchill", "Anthony Eden", "Harold Macmillan", "Harold Briggs", "Roy Urquhart", "Edward Gent", "Henry Gurney", "Gerald Templer", "William Goode", "Abdul Rahman of Negeri Sembilan", "Tunku Abdul Rahman", "Tun Razak", "Tun Ismail", "David Marshall", "Lim Yew Hock", "Yusof Ishak", "Lee Kuan Yew", "Robert Menzies", "Henry Wells", "Sidney Holland", "Walter Nash"
+      ],
+      "Communist_Leaders": [
+        "Chin Peng", "Yeung Kwo", "Lee An Tong", "Chang Ling-Yun", "Abdullah CD", "Rashid Maidin", "Shamsiah Fakeh", "S. A. Ganapathy", "Lau Yew", "Mat Indera", "Lee Meng", "Toh Kar Lim"
+      ]
+    },
+    "Forces_and_Casualties": {
+      "British_and_Allies": {
+        "Troops": "Over 451,000",
+        "Casualties": "1,443 killed, 2,406 wounded",
+        "Additional_Details": "Included Malayan Home Guard, regular Commonwealth personnel, and various regiments"
+      },
+      "Communist_Forces": {
+        "Troops": "Over 7,000",
+        "Casualties": "6,710 killed, 1,289 wounded, 1,287 captured, 2,702 surrendered",
+        "Additional_Details": "Included full-time MNLA troops and sympathizers"
+      }
+    },
+    "Civilian_Casualties": "Over 2,478 killed, 810 missing",
+    "Additional_Context": "The Malayan Emergency was a complex guerrilla war that significantly influenced the region's post-colonial history and contributed to Cold War dynamics in Southeast Asia."
+  }
+  

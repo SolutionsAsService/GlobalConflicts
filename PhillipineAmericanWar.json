@@ -1,0 +1,40 @@
+{
+    "Philippine-American War": {
+      "Date": {
+        "Philippine-American War": "February 4, 1899 – July 2, 1902",
+        "Moro Rebellion": "February 4, 1899 – June 15, 1913"
+      },
+      "Location": "Philippines",
+      "Result": "American victory, leading to American occupation of the Philippines and dissolution of the First Philippine Republic",
+      "Territorial Changes": "The Philippines becomes an unincorporated territory of the United States and later a U.S. Commonwealth until 1946",
+      "Belligerents": {
+        "1899-1902": {
+          "United States": ["Military Government"],
+          "Philippines": ["Philippine Republic", "Negros Republic", "Zamboanga Republic"],
+          "Foreign Support": ["Japanese Empire", "German Empire"]
+        },
+        "1902-1913": {
+          "United States": ["Insular Government"],
+          "Philippines": ["Tagalog Republic (until 1906)", "Maguindanao Sultanate (until 1905)", "Sulu Sultanate"]
+        }
+      },
+      "Commanders and Leaders": {
+        "United States": ["William McKinley", "Theodore Roosevelt", "Jacob G. Schurman", "William Howard Taft", "Arthur MacArthur, Jr.", "Elwell Stephen Otis", "Adna Chaffee", "Henry Lawton †", "Frederick N. Funston", "J. Franklin Bell", "Leonard Wood", "Tasker H. Bliss", "John J. Pershing"],
+        "Philippines": ["Emilio Aguinaldo", "Apolinario Mabini", "Pedro Paterno", "Antonio Luna †", "Artemio Ricarte", "José Alejandrino", "Miguel Malvar", "Gregorio del Pilar †", "Vicente Alvarez", "Gregorio Aglipay", "Dionisio Seguela", "Macario Sakay Executed", "Datu Ali †", "Jamalul Kiram II"]
+      },
+      "Units Involved": {
+        "United States": ["United States Army", "United States Volunteers", "United States Marine Corps", "United States Navy", "Macabebe Scouts", "Philippine Scouts", "Philippine Constabulary"],
+        "Philippines": ["Philippine Republican Army", "Philippine Republican Navy", "Babaylanes", "Pulajanes", "Moro people"],
+        "Supported by": ["Ishin Shishi"]
+      },
+      "Strength": {
+        "United States": "Approximately 126,000 total, 24,000 to 44,000 field strength",
+        "Philippines": "Approximately 80,000 to 100,000 regular and irregular"
+      },
+      "Casualties and Losses": {
+        "United States": "4,200 killed, 2,818 wounded, several succumbed to disease",
+        "Philippines": ["About 10,000 killed (Emilio Aguinaldo estimate)", "16,000–20,000 killed (American estimate)", "Filipino civilians: 200,000–250,000 died, mostly because of famine and disease"]
+      }
+    }
+  }
+  
