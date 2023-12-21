@@ -1,7 +1,7 @@
 {
     "Transnistria_War": {
       "Context": {
-        "Part_of": "Dissolution of the Soviet Union and the Transnistria Conflict",
+        "Part_of": ["Dissolution of the Soviet Union", "Post Soviet", "Transnistria Conflict"],
         "Summary": "The Transnistria War was a conflict that took place from 1990 to 1992 in the region of Transnistria, within Moldova. It began due to tensions between the Moldovan government and the Transnistrian authorities, who sought independence or closer ties with Russia. The war involved the Moldovan Armed Forces and pro-Moldovan volunteers against Transnistrian forces supported by elements of the Russian 14th Guards Army. The conflict resulted in a de facto independent state in Transnistria, although it remains internationally recognized as part of Moldova."
       },
       "Date": "November 2, 1990 – July 21, 1992",
