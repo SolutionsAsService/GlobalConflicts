@@ -1,0 +1,51 @@
+{
+    "Conflict_Name": "Ogaden War (Ethio-Somali War)",
+    "Part_of": ["Ethiopian Civil War", "Ethiopian–Somali conflict", "Cold War"],
+    "Duration": "July 13, 1977 – March 23, 1978",
+    "Location": "Ogaden, Ethiopia",
+    "Result": "Ethiopian victory, Breakdown of Somalia's ties with Soviet Bloc, Start of Somali Rebellion",
+    "Belligerents": {
+      "Ethiopia_Side": {
+        "Countries": ["Ethiopia", "Cuba", "South Yemen"],
+        "Supported_by": ["Soviet Union", "Israel", "East Germany", "North Korea"]
+      },
+      "Somalia_Side": {
+        "Countries": ["Somalia", "WSLF"],
+        "Supported_by": ["Egypt", "Saudi Arabia", "Iraq"]
+      }
+    },
+    "Commanders_and_Leaders": {
+      "Ethiopia": ["Mengistu Haile Mariam", "Tesfaye Gebre Kidan", "Merid Negussie", "Addis Tedla"],
+      "Cuba": ["Arnaldo Ochoa"],
+      "Soviet_Union": ["Vasily Petrov"],
+      "Somalia": ["Siad Barre", "Ali Samatar", "Mohamed Farrah Aidid", "Abdullahi Ahmed Irro", "Abdullahi Yusuf", "Mohamed Ali"]
+    },
+    "Strength": {
+      "Ethiopia": {
+        "Start": "35,000–47,000 soldiers, 37 aircraft, 62 tanks, 100 armored vehicles",
+        "Later": "75,000 soldiers, 1,500 Soviet advisors, 12,000–18,000 Cuban soldiers, 2,000 Yemeni soldiers"
+      },
+      "Somalia": {
+        "Start": "31,000–39,000 soldiers, 40 aircraft, 250 tanks, 350 armored vehicles, 600 artillery pieces",
+        "Later": "54,000–63,000 soldiers"
+      }
+    },
+    "Casualties_and_Losses": {
+      "Ethiopia": {
+        "Military": "6,133 killed, 10,563 wounded, 1,922 captured",
+        "Equipment_Losses": "23 aircraft, 139 tanks, 108 APCs, 99 vehicles"
+      },
+      "Cuba": {
+        "Military": "160 killed, 250 wounded, 6 tanks"
+      },
+      "South_Yemen": {
+        "Military": "90 killed, 150 wounded"
+      },
+      "Somalia": {
+        "Military": "6,453 killed, 2,409 wounded, 275 captured",
+        "Equipment_Losses": "28 aircraft, 11 helicopters, 200+ tanks, 30 APCs, 90 vehicles"
+      },
+      "Civilians": "25,000 civilians killed, 500,000 Somali inhabitants of Ethiopia displaced"
+    }
+  }
+  

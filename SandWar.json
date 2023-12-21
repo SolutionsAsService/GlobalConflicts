@@ -1,0 +1,31 @@
+{
+    "Sand_War": {
+      "Summary": "The Sand War, part of the Arab Cold War and the broader Cold War context, was a brief but intense conflict between Morocco and Algeria over disputed border regions. Centering around the oasis towns of Tindouf and Figuig, the war resulted in a military stalemate with no territorial changes. The Organization of African Unity mediated the conflict, leading to a ceasefire and the establishment of a demilitarized zone.",
+      "Duration": "September 25, 1963 – February 20, 1964",
+      "Location": "Around the oasis towns of Tindouf and Figuig",
+      "Result": "Military stalemate with no territorial changes. The conflict led to the closing of the border south of Figuig, Morocco/Béni Ounif, Algeria. Morocco abandoned its attempts to control Béchar and Tindouf after OAU mediation. A demilitarized zone was established.",
+      "Context": ["Arab Cold War", "Cold War"],
+      "Belligerents": {
+        "Morocco": {
+          "Support": "France"
+        },
+        "Algeria": {
+          "Support": ["Egypt", "Cuba"]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Morocco": ["Hassan II", "Driss Alami", "Colonel Habibi"],
+        "Algeria": ["Ahmed Ben Bella", "Houari Boumédiène"],
+        "Cuba": "Efigenio Ameijeiras"
+      },
+      "Strength": {
+        "Morocco": "Unknown",
+        "Algeria": "Unknown"
+      },
+      "Casualties_and_losses": {
+        "Morocco": "39 killed, 57 captured or 200 killed",
+        "Algeria": "60 killed, 250 wounded or 300 killed, 379 captured"
+      }
+    }
+  }
+  

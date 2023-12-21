@@ -1,0 +1,32 @@
+{
+    "Black_September": {
+      "Summary": "Black September was a conflict within the context of the Arab Cold War, occurring mainly in Jordan between the Jordanian government and various Palestinian armed groups. The conflict, lasting from September 1970 to July 1971, ended with a Jordanian victory. It led to the expulsion of Palestinian militants to Lebanon and the formation of the Black September Organization.",
+      "Duration": "6 September 1970 – 23 July 1971",
+      "Context": ["Cold War", "Arab Cold War", "Palestinian Question"],
+      "Location": "Jordan",
+      "Result": "Jordanian victory, with the repelling of the Syrian invasion and the expulsion of Palestinian militants to Lebanon.",
+      "Belligerents": {
+        "PLO_and_Allies": {
+          "Groups": ["Fatah", "PFLP", "DFLP"],
+          "Supported_By": ["OIPFG", "PMOI"],
+          "Syria": {
+            "Units": "Syrian Armed Forces, Palestine Liberation Army",
+            "Strength": "10,000 troops, 300 tanks",
+            "Casualties": "600 casualties, 120 tanks and APCs lost"
+          }
+        },
+        "Jordan": {
+          "Units": "Jordanian Armed Forces",
+          "Commanders": ["Hussein", "Habis Majali", "Zaid ibn Shaker", "Wasfi Tal"],
+          "Strength": "65,000–74,000 troops",
+          "Casualties": "537 killed"
+        }
+      },
+      "Commanders_and_Leaders": {
+        "PLO_Leaders": ["Yasser Arafat", "Abu Jihad", "Abu Ali Iyad †", "George Habash", "Nayef Hawatmeh"],
+        "Syria_Leader": "Salah Jadid"
+      },
+      "PLO_Casualties": "3,400 killed"
+    }
+  }
+  

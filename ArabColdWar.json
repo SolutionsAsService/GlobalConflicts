@@ -1,0 +1,154 @@
+{
+    "Arab_Cold_War": {
+      "Duration": "23 July 1952 – 11 February 1979",
+      "Location": "Arab world",
+      "Result": {
+        "Decline_of_Pan_Arabism": "After death of Gamal Abdel Nasser",
+        "Rise_of_Wahhabism_and_Islamism": "After death of Nasser, financed by Saudi oil exports",
+        "Creation_of_Gulf_Cooperation_Council": true,
+        "Failed_Arab_Union_Attempts": [
+          "Arab Federation",
+          "United Arab Republic",
+          "United Arab States",
+          "Federation of Arab Republics",
+          "United Arab Kingdom",
+          "Union of Arab Republics",
+          "Arab Islamic Republic"
+        ],
+        "Successful_Arab_Union_Attempts": [
+          "Unity of seven Arab emirates to form UAE",
+          "Yemeni unification"
+        ]
+      },
+      "Belligerents": {
+        "Pro_Nasser_Forces": [
+          "Republic of Egypt (1953–1958)",
+          "United Arab Republic (1958–1961/1971)",
+          "Arab Republic of Egypt (1971–1973)",
+          "Iraqi Republic (1958–1968)",
+          "Ba'athist Iraq (1968–1979)",
+          "Syria (1954–1958/1961, since 1963)",
+          "Libya (after 1969)",
+          "Algeria",
+          "Sudan (1969–1971)",
+          "South Yemen",
+          "North Yemen (1962–1970)",
+          "Mauritania (until 1984)",
+          "Palestine Liberation Organization",
+          "Polisario Front",
+          "Somalia (1969–1977)",
+          "Arab Nationalist Movement",
+          "Abu Nidal Organization",
+          "Ba'ath Party (until 1966)",
+          "DLF",
+          "PFLOAG",
+          "NDFLOAG",
+          "PFLO",
+          "Hezbollah"
+        ],
+        "Pro_Western_Forces": [
+          "Kingdom of Yemen",
+          "Saudi Arabia",
+          "Kingdom of Iraq (until 1958)",
+          "Ba'athist Iraq (from 1979)",
+          "Jordan",
+          "Morocco",
+          "Kingdom of Egypt (until 1953)",
+          "Arab Republic of Egypt (since 1974)",
+          "Syria (before 1954, 1961–1963)",
+          "Libya (until 1969)",
+          "Federation of South Arabia",
+          "Protectorate of South Arabia",
+          "Kingdom of Yemen (until 1970)",
+          "North Yemen (after 1970)",
+          "Muscat and Oman (until 1970)",
+          "Imamate of Oman (until 1959)",
+          "Oman (since 1970)",
+          "Zanzibar (until 1964)",
+          "Bahrain",
+          "Kuwait",
+          "Qatar",
+          "Somalia (since 1978)",
+          "Sudan (before 1969, since 1985)",
+          "Trucial States (until 1971)",
+          "United Arab Emirates (from 1971)",
+          "Muslim Brotherhood",
+          "Arab Federation (1958)"
+        ],
+        "Supported_By": {
+          "Pro_Nasser": [
+            "Soviet Union",
+            "People's Republic of China",
+            "Democratic Republic of Afghanistan",
+            "Bulgaria",
+            "Cuba",
+            "Czechoslovakia",
+            "Ethiopia",
+            "East Germany",
+            "Hungary",
+            "India",
+            "Iran",
+            "North Korea",
+            "Poland",
+            "Romania",
+            "Yugoslavia"
+          ],
+          "Pro_Western": [
+            "United States",
+            "United Kingdom",
+            "Republic of China",
+            "People's Republic of China",
+            "France",
+            "Afghanistan",
+            "Canada",
+            "Ethiopia",
+            "West Germany",
+            "Iran",
+            "Israel",
+            "Italy",
+            "Japan",
+            "South Korea",
+            "Pakistan",
+            "Turkey",
+            "CENTO"
+          ]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Pro_Nasser_Leaders": [
+          "Mohamed Naguib",
+          "Gamal Abdel Nasser",
+          "Anwar Sadat",
+          "Abd al-Karim Qasim",
+          "Ahmed Hassan al-Bakr",
+          "Muammar Gaddafi",
+          "Yasser Arafat",
+          "Hafez al-Assad",
+          "Houari Boumédiène",
+          "Siad Barre",
+          "Qahtan Muhammad al-Shaabi",
+          "Abdul Fattah Ismail",
+          "Ali Nasir Muhammad",
+          "Ali Salem al Beidh"
+        ],
+        "Pro_Western_Leaders": [
+          "King Faisal of Saudi Arabia",
+          "King Hussein of Jordan",
+          "Emir Jaber of Kuwait",
+          "Sultan Qaboos of Oman",
+          "King Hassan of Morocco",
+          "Emir Isa bin Salman of Bahrain",
+          "Emir Khalifa bin Hamad of Qatar",
+          "King Farouk of Egypt",
+          "Anwar Sadat",
+          "Hosni Mubarak",
+          "King Faisal II of Iraq",
+          "Saddam Hussein",
+          "King Idris of Libya",
+          "Ali Abdullah Saleh",
+          "Siad Barre"
+        ]
+      }
+    }
+  }
+  

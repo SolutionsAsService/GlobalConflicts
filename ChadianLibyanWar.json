@@ -1,0 +1,74 @@
+{
+    "Chadian_Libyan_War": {
+      "Duration": "29 January 1978 – 11 September 1987",
+      "Location": "Chad",
+      "Result": "Chadian-French victory",
+      "Territorial_Changes": "Chad regains control of the Aouzou Strip.",
+      "Belligerents": {
+        "Anti_Libyan_Chadian_Factions": [
+          "FAT",
+          "FAN",
+          "FANT",
+          "GUNT (1986–1987)"
+        ],
+        "Supporting_Nations": [
+          "France",
+          "Zaire",
+          "Nigeria",
+          "Senegal",
+          "NFSL"
+        ],
+        "Supported_By": [
+          "DR Sudan (1978–1985)",
+          "Sudan (1985–1987)",
+          "Egypt",
+          "Israel",
+          "Iraq",
+          "Algeria (pre-reapproachment)",
+          "United States"
+        ],
+        "Libyan_Forces": [
+          "Libya",
+          "Islamic Legion"
+        ],
+        "Pro_Libyan_Chadian_Factions": [
+          "FROLINAT",
+          "GUNT (1979–1986)",
+          "Codos (1983–1986)"
+        ],
+        "Supported_By_Libya": [
+          "Algeria",
+          "East Germany",
+          "Soviet Union"
+        ],
+        "Pro_Libyan_Palestinian_and_Lebanese_Groups": [
+          "PLO (1987)",
+          "Abu Nidal Organization"
+        ]
+      },
+      "Commanders_and_Leaders": {
+        "Chadian_Leaders": [
+          "Hissène Habré",
+          "Hassan Djamous",
+          "Idriss Déby"
+        ],
+        "French_Leaders": [
+          "V. Giscard d'Estaing",
+          "François Mitterrand"
+        ],
+        "Libyan_Leaders": [
+          "Muammar Gaddafi",
+          "Massoud Abdelhafid",
+          "Khalifa Haftar",
+          "Abdullah Senussi",
+          "Ahmed Oun",
+          "Abu-Bakr Yunis Jabr",
+          "Abdel Fatah Younis",
+          "Radwan Saleh Radwan"
+        ],
+        "GUNT_Leader": "Goukouni Oueddei",
+        "Palestinian_Leader": "Mahmoud A. Marzouq"
+      }
+    }
+  }
+  
