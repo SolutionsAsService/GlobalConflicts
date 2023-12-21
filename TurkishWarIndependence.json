@@ -1,0 +1,72 @@
+{
+    "Turkish_War_of_Independence": {
+      "Duration": "19 May 1919 – 11 October 1922 (armistice), 24 July 1923 (peace)",
+      "Location": "Anatolia, southwestern Caucasus, Upper Mesopotamia, and East Thrace",
+      "Summary": "The Turkish War of Independence (1919-1923) was a series of military campaigns and a revolution led by the Turkish National Movement. It occurred after parts of the Ottoman Empire were occupied and partitioned following its defeat in World War I. The conflict pitted Turkish Nationalists against Allied and separatist forces, with a focus on applying Wilsonian principles, including national self-determination, in Anatolia and Eastern Thrace. The outcome of this revolution was the collapse of the Ottoman Empire, the abolition of the Ottoman monarchy and the Islamic caliphate, and the declaration of the Republic of Turkey. This marked a transfer of sovereignty from the sultan-caliph to the nation and set the stage for a period of nationalist reform in Republican Turkey. The war was triggered by the occupation of Anatolia by the Allies and the establishment of a nationalist government led by Mustafa Kemal (Atatürk) in Ankara, which opposed the Ottoman government's appeasement of the Allied powers and their unfavorable Treaty of Sèvres.",
+      "Result": "Turkish victory",
+      "Territorial_Changes": "Establishment of the Republic of Turkey",
+      "Belligerents": {
+        "Turkish_Nationalists": {
+          "Forces": ["Ankara Government (1919–1923)", "Azerbaijan (1918–1920)", "Aras (1918–1919)", "Provisional Kars Government (1918–1919)", "Green Army (1919–1920)", "Syria (1919–1920)", "Alawite rebels (1919–1921)", "Oltu Council Government (1919–1920)", "Aleppo revolt (1920–1921)", "Kurdistan (1919; 1921–1923)", "Senusiyya"],
+          "Supported_by": ["Russian SFSR", "Ukrainian SSR", "Azerbaijan SSR", "Bukharan PSR", "Italy", "France", "Indian nationalists", "Afghanistan"]
+        },
+        "Entente": {
+          "Forces": ["Greece", "France", "United Kingdom", "Armenia (in 1920)"],
+          "Supported_by": ["United States", "Denikin's army", "Istanbul Government"]
+        },
+        "Separatists_and_Others": {
+          "Forces": ["Pontic Greek rebels", "Kurdish rebels", "Assyrian rebels", "Green Army", "Democratic Republic of Georgia (in 1921)"]
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Turkish_Nationalists": ["Mustafa Kemal Pasha", "Mustafa Fevzi Pasha", "Mustafa İsmet Pasha", "Kazım Karabekir Pasha", "Fahrettin Pasha", "Ali Fuat Pasha", "Refet Pasha", "Nureddin Pasha", "Ali İhsan Pasha", "Osman the Lame", "Ethem the Circassian"],
+        "Entente_and_Others": ["Constantine I", "Alexander I", "Eleftherios Venizelos", "Anastasios Papoulas", "Georgios Hatzianestis", "Leonidas Paraskevopoulos", "Kimon Digenis", "Nikolaos Trikoupis", "Henri Gouraud", "Drastamat Kanayan", "Movses Silikyan", "Sir George Milne", "Mehmed VI", "Damat Ferid Pasha", "Süleyman Şefik Pasha", "Anzavur Ahmed Pasha", "Ethem the Circassian", "Alişer"]
+      },
+      "Strength_and_Casualties": {
+        "Turkish_Nationalists": {
+          "Strength": "35,000 (May 1919), 86,000 (Nov 1920), 271,000 (Aug 1922)",
+          "Casualties": "13,000 killed, 22,690 died of disease, 5,362 died of wounds or other non-combat causes, 5,000 wounded, 7,000 prisoners"
+        },
+        "Entente_and_Others": {
+          "Strength": {
+            "Greece": "80,000 (Dec 1919), 200,000–250,000 (1922)",
+            "France": "60,000",
+            "United Kingdom": "30,000",
+            "Armenia": "20,000",
+            "Ottoman Empire": "7,000 (peak)"
+          },
+          "Casualties": {
+            "Greece": {
+              "Killed": "24,240",
+              "Missing": "18,095",
+              "Wounded": "48,880",
+              "Died_outside_combat": "4,878",
+              "Prisoners": "13,740"
+            },
+            "Armenia": {
+              "Killed": "1,100+",
+              "Prisoners": "3,000+"
+            },
+            "France": {
+              "Killed_or_wounded": "~7,000"
+            },
+            "Civilians": {
+              "Greek_killed": "264,000",
+              "Armenian_killed": "60,000–250,000",
+              "Turkish_killed_Western_Front": "15,000+",
+              "Buildings_destroyed": "30,000+",
+              "Villages_burnt": "250+"
+            }
+          }
+        }
+      },
+      "Notes": [
+        "Kuva-yi Milliye came under command of the Grand National Assembly after 4 September 1920.",
+        "Italy occupied Constantinople and southwestern Anatolia but never fought directly against Turkish army. Protected Turkish civilians and accepted refugees fleeing Greek invasion.",
+        "The Treaty of Ankara signed in 1921 ended the Franco-Turkish War.",
+        "The United Kingdom fought alongside Greek forces but did not engage in major fighting after the Greek Summer Offensive.",
+        "Ottoman government in Constantinople supported revolts against the Turkish National Movement."
+      ]
+    }
+  }
+  

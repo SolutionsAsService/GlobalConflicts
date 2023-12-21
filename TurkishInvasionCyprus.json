@@ -1,0 +1,54 @@
+{
+    "Turkish_Invasion_of_Cyprus": {
+      "Context": "Part of the Cyprus problem and Neo-Ottomanism",
+      "Duration": "20 July – 18 August 1974",
+      "Location": "Cyprus",
+      "Result": "Turkish victory",
+      "Territorial_Changes": "Turkey occupies 36.2% of Cyprus, formation of the Autonomous Turkish Cypriot Administration",
+      "Belligerents": {
+        "Turkey_and_Allies": ["Turkey", "Turkish Resistance Organisation"],
+        "Cyprus_and_Allies": ["Republic of Cyprus", "EOKA B", "Greece"]
+      },
+      "Commanders_and_Leaders": {
+        "Turkey": ["Fahri Korutürk", "Bülent Ecevit", "Necmettin Erbakan", "Rauf Denktaş"],
+        "Cyprus": ["Glafcos Clerides", "Nikos Sampson"],
+        "Greece": ["Dimitrios Ioannidis", "Phaedon Gizikis"]
+      },
+      "Strength": {
+        "Turkey": {
+          "Troops": "40,000",
+          "Tanks": "160–180 M47 and M48 tanks"
+        },
+        "Turkish_Cypriot_enclaves": {
+          "Men": "11,000–13,500",
+          "Under_full_mobilisation": "up to 20,000"
+        },
+        "Cyprus": {
+          "Troops": "12,000",
+          "Tanks": "Small number of T-34 tanks"
+        },
+        "Greece": {
+          "Troops": "1,800–2,000"
+        }
+      },
+      "Casualties_and_Losses": {
+        "Turkey_and_allies": {
+          "Total_casualties": "1,500–3,500 (military and civilian)",
+          "Killed_in_Action": "568 (498 TAF, 70 Resistance)",
+          "Wounded": "2,000",
+          "Civilians_killed": "270",
+          "Civilians_missing": "803"
+        },
+        "Cyprus_and_Greece": {
+          "Total_casualties": "4,500–6,000 (military and civilian)",
+          "Military_deaths": "309 (Cyprus), 105 (Greece)",
+          "Missing": "1,000–1,100"
+        },
+        "United_Nations": {
+          "Killed": "9",
+          "Wounded": "65"
+        }
+      }
+    }
+  }
+  
