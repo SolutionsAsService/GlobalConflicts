@@ -1,0 +1,40 @@
+{
+    "United_States_Invasion_of_Panama": {
+      "Context": ["War on Drugs", "American imperialism"],
+      "Duration": "December 20, 1989 – January 31, 1990",
+      "Location": "Panama",
+      "Result": "American victory",
+      "Belligerents": {
+        "Panama": ["Panama"],
+        "United_States_and_Allies": ["United States", "Panamanian opposition"]
+      },
+      "Commanders_and_Leaders": {
+        "Panama": ["Manuel Noriega", "Marcos Justine", "Francisco A. Rodríguez"],
+        "United_States": ["George H. W. Bush", "Dick Cheney", "Maxwell R. Thurman", "Norman Schwarzkopf Jr.", "Jack B. Farris", "Guillermo Endara"]
+      },
+      "Strength": {
+        "Panama": 16000,
+        "United_States": 27000
+      },
+      "Casualties_and_Losses": {
+        "Panama": {
+          "Military_killed": 314,
+          "Captured": 1908
+        },
+        "United_States": {
+          "Killed": 23,
+          "Wounded": 325
+        },
+        "Civilians": {
+          "US_military_estimate": 202,
+          "Americas_Watch_estimate": 300,
+          "United_Nations_estimate": 500,
+          "Central_American_Human_Rights_Commission_estimate": "2000–3000"
+        },
+        "Others": {
+          "Spanish_journalist_killed": 1
+        }
+      }
+    }
+  }
+  

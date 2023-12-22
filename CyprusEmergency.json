@@ -1,0 +1,48 @@
+{
+    "Cyprus_Emergency": {
+      "Context": "Part of the Cyprus problem and Decolonisation of Mediterranean Europe",
+      "Date": "26 November 1955 – 19 March 1959",
+      "Location": "British Cyprus",
+      "Result": {
+        "Outcome": "London-Zurich Agreement",
+        "Details": [
+          "Independence of the Republic of Cyprus",
+          "Enosis is not achieved"
+        ]
+      },
+      "Belligerents": {
+        "United_Kingdom": {
+          "Forces": ["United Kingdom", "British Cyprus"],
+          "Supported_By": "Turkey"
+        },
+        "EOKA": {
+          "Forces": "EOKA",
+          "Supported_By": "Greece"
+        }
+      },
+      "Commanders_and_leaders": {
+        "United_Kingdom": ["John Harding", "Hugh Foot", "Rauf Denktaş"],
+        "EOKA": ["Georgios Grivas", "Grigoris Afxentiou", "Evagoras Pallikarides", "Michalis Karaolis", "Andreas Dimitriou"]
+      },
+      "Strength": {
+        "United_Kingdom": {
+          "Troops": "Approximately 25,000–40,000"
+        },
+        "EOKA": {
+          "Fighters": "300",
+          "Active_Underground": "1,000"
+        }
+      },
+      "Casualties_and_losses": {
+        "United_Kingdom": {
+          "Dead": "104",
+          "Injured": "601"
+        },
+        "EOKA": {
+          "Killed": "102–112 (including 9 executed)",
+          "Injured": "Unknown"
+        }
+      }
+    }
+  }
+  

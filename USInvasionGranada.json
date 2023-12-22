@@ -1,0 +1,108 @@
+{
+    "United_States_Invasion_of_Grenada": {
+      "Part_of": ["Cold War", "American Imperialism"],
+      "Duration": "25–29 October 1983",
+      "Location": "Grenada",
+      "Result": "American–CPF victory",
+      "Summary": "The United States, along with the Caribbean Peace Force, invaded Grenada to topple the Grenadian People's Revolutionary Government, resulting in Hudson Austin's deposition and the swearing-in of Nicholas Brathwaite as office. Cuban and Soviet forces were expelled.",
+      "Belligerents": {
+        "United_States_led": [
+          "United States",
+          "Barbados",
+          "Jamaica",
+          "Organisation of Eastern Caribbean States",
+          "Antigua and Barbuda",
+          "Dominica",
+          "Saint Kitts and Nevis",
+          "Saint Lucia",
+          "Saint Vincent and the Grenadines"
+        ],
+        "Grenada_Cuba": [
+          "Grenada (PRG)",
+          "Cuba"
+        ]
+      },
+      "Commanders_and_leaders": {
+        "United_States_led": [
+          "Ronald Reagan",
+          "Joseph Metcalf III",
+          "Norman Schwarzkopf",
+          "Edward Trobaugh",
+          "Jack B. Farris",
+          "Paul Scoon",
+          "Nicholas Brathwaite",
+          "Tom Adams",
+          "Rudyard Lewis",
+          "Florizel Glasspole",
+          "Edward Seaga",
+          "Wilfred Jacobs",
+          "Vere Bird",
+          "Aurelius Marie",
+          "Eugenia Charles",
+          "Clement Arrindell",
+          "Kennedy Simmonds",
+          "Allen Montgomery Lewis",
+          "John Compton",
+          "Sydney Gun-Munro",
+          "Milton Cato"
+        ],
+        "Grenada_Cuba": [
+          "Hudson Austin",
+          "Fidel Castro",
+          "Pedro Tortoló"
+        ]
+      },
+      "Strength": {
+        "United_States": {
+          "Troops": 7300,
+          "Tanks": 4,
+          "LPH": "USS Guam LPH-9 Flagship ComPhibron",
+          "LHA": "USS Saipan (LHA-2)",
+          "Aircraft_carrier": 1,
+          "Destroyers": 3,
+          "Frigates": 2,
+          "Ammunition_ship": 1,
+          "F-14A_Tomcats": 27
+        },
+        "CPF": {
+          "Peacekeepers": 353
+        },
+        "Grenada": {
+          "Troops": 1300,
+          "APCs": 8,
+          "Armored_cars": 2,
+          "AA_guns": 12
+        },
+        "Cuba": {
+          "Personnel": 784,
+          "Construction_workers": 636
+        }
+      },
+      "Casualties_and_losses": {
+        "United_States": {
+          "Killed": 19,
+          "Wounded": 116,
+          "Injured": 36,
+          "Helicopters_destroyed": 9
+        },
+        "Grenada": {
+          "Killed": 45,
+          "Wounded": 358,
+          "APCs_destroyed": 6,
+          "Armored_car_destroyed": 1
+        },
+        "Cuba": {
+          "Killed": 24,
+          "Wounded": 59,
+          "Captured": 638,
+          "Transport_aircraft_captured": 2
+        },
+        "Soviet_Union": {
+          "Wounded": 2
+        },
+        "Civilian_Casualties": 24
+      }
+    }
+  }
+  
+  
