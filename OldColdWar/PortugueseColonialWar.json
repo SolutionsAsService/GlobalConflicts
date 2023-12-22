@@ -1,7 +1,7 @@
 {
     "Portuguese Colonial War": {
       "alternate_names": ["Guerra Colonial Portuguesa", "Overseas War", "War of Liberation", "Angolan War of Independence", "Guinea-Bissau War of Independence", "Mozambican War of Independence"],
-      "context": "Part of the Decolonisation of Africa and the Cold War",
+      "context": ["Decolonisation of Africa", "Cold War"],
       "date": "4 February 1961 – 25 April 1974",
       "location": ["Portuguese Angola", "Portuguese Mozambique", "Portuguese Guinea"],
       "result": {
