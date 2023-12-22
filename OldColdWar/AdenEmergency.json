@@ -2,7 +2,7 @@
     "Aden_Emergency": {
       "Duration": "14 October 1963 – 30 November 1967",
       "Location": "Western and Eastern Protectorates, Aden Protectorate, Middle East",
-      "Context" : "Cold War",
+      "Context" ["Cold War", "Arab Cold War", "Decolonisation of Asia" ],
       "Result": "Yemeni NLF victory, British withdrawal, Independence of South Yemen",
       "Belligerents": {
         "United_Kingdom_and_Allies": {
