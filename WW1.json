@@ -1,0 +1,455 @@
+{
+    "conflict": "World War I",
+    "images": [
+      "British soldiers in a trench during the Battle of the Somme, 1916",
+      "Ottoman Arab camel corps leaving for the Middle Eastern front, 1916",
+      "Zeppelin flies over German battleship SMS Grosser Kurfürst, 1917",
+      "German soldiers at the Battle of Verdun, 1916",
+      "Aftermath of the siege of Przemyśl in Austria-Hungary, 1914–1915",
+      "Bulgarian troops during the Monastir offensive, 1916"
+    ],
+    "date": {
+      "start": "28 July 1914",
+      "end": "11 November 1918",
+      "duration": "4 years, 3 months and 2 weeks"
+    },
+    "location": [
+      "Europe",
+      "Africa",
+      "Middle East",
+      "Pacific",
+      "Atlantic",
+      "Mediterranean and Adriatic"
+    ],
+    "result": "Allied Powers victory",
+    "territorialChanges": [
+      "Formation of new countries in Europe and the Middle East",
+      "Restoration of Polish independence and establishment of the Second Polish Republic",
+      "Transfer of German colonies and territories, partition of the Ottoman Empire, dissolution of Austria-Hungary"
+    ],
+    "belligerents": {
+        "alliesEntentePowers": {
+            "principalAlliedPowers": [
+                "France",
+                {
+                  "United Kingdom": [
+                    "Sultanate of Egypt",
+                    "Canada",
+                    "Australia",
+                    "India",
+                    "Ceylon",
+                    "New Zealand",
+                    "Newfoundland",
+                    "South Africa"
+                  ]
+                },
+                "Russia (until 1917)",
+                "United States (from 1917)",
+                "Italy",
+                "Japan"
+              ],
+            "associatedAlliesAndCoBelligerents": {
+              "1914": ["Serbia", "Belgium", "Montenegro", "Luxembourg"],
+              "1915": ["Nejd and Hasa", "Asir"],
+              "1916": ["Portugal", "Romania", "Hejaz"],
+              "1917": ["Greece", "China", "Siam", "Brazil"],
+              "1918": ["Czechoslovakia", "Armenia"]
+            },
+            "status": "Military alliance",
+            "historicalEra": "World War I",
+            "established": 1914,
+            "disestablished": 1918,
+            "precededby": [
+              "Anglo-Portuguese Alliance",
+              "Treaty of London (1915)",
+              "Franco-Russian Alliance",
+              "Anglo-Japanese Alliance",
+              "Entente Cordiale",
+              "Anglo-Russian entente of 1907",
+              "Franco-Japanese Treaty of 1907"
+            ],
+            "succeededby": [
+              "Franco-Polish alliance (1921)",
+              "Little Entente"
+            ]
+          },
+          "centralPowers": {
+            "principalCentralPowers": [
+              "Germany",
+              "Austria-Hungary",
+              "Ottoman Empire",
+              "Bulgaria (from 1915)"
+            ],
+            "status": "Military alliance",
+            "historicalEra": "World War I",
+            "established": 1914,
+            "dissolved": 1918,
+            "precededBy": [
+              "Dual Alliance (1879)",
+              "German–Ottoman alliance",
+              "Bulgaria–Germany treaty (1915)"
+            ]
+          }
+    },
+    "commandersAndLeaders": {
+      "AlliedPowers": [
+        "Raymond Poincaré (French Third Republic)",
+        "G. Clemenceau (French Third Republic)",
+        "H. H. Asquith (United Kingdom)",
+        "David Lloyd George (United Kingdom)",
+        "Nicholas II (Russian Empire)",
+        "Georgy Lvov (Russian Republic)",
+        "Alexander Kerensky (Russian Republic)",
+        "Antonio Salandra (Kingdom of Italy)",
+        "Paolo Boselli (Kingdom of Italy)",
+        "Vittorio Orlando (Kingdom of Italy)",
+        "Woodrow Wilson (United States)",
+        "Yoshihito (Empire of Japan)"
+      ],
+      "CentralPowers": [
+        "Wilhelm II (German Empire)",
+        "Franz Joseph I (Austria-Hungary)",
+        "Charles I (Austria-Hungary)",
+        "Mehmed V (Ottoman Empire)",
+        "Mehmed VI (Ottoman Empire)",
+        "Ferdinand I (Kingdom of Bulgaria)"
+      ]
+    },
+    
+        "casualtyData": [
+          {
+            "nation": "Australia",
+            "populationMillions": 5.0,
+            "combatDeathsMissing": "61,527",
+            "totalMilitaryDeaths": "59,330 to 62,149",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "59,330 to 62,149",
+            "deathsAsPercentageOfPopulation": "1.2% to 1.2%",
+            "militaryWounded": "152,171"
+          },
+          {
+            "nation": "Canada",
+            "populationMillions": 7.2,
+            "combatDeathsMissing": "56,638",
+            "totalMilitaryDeaths": "56,639 to 64,996",
+            "civilianDeaths": "1,963",
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "58,639 to 66,996",
+            "deathsAsPercentageOfPopulation": "0.8% to 0.9%",
+            "militaryWounded": "149,732"
+          },
+          {
+            "nation": "India",
+            "populationMillions": 315.1,
+            "combatDeathsMissing": "64,449",
+            "totalMilitaryDeaths": "64,449 to 73,905",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "64,449 to 73,905",
+            "deathsAsPercentageOfPopulation": "0% to 0%",
+            "militaryWounded": "69,214"
+          },
+          {
+            "nation": "New Zealand",
+            "populationMillions": 1.1,
+            "combatDeathsMissing": "18,166",
+            "totalMilitaryDeaths": "16,711 to 18,060",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "16,711 to 18,060",
+            "deathsAsPercentageOfPopulation": "1.5% to 1.6%",
+            "militaryWounded": "41,317"
+          },
+          {
+            "nation": "Newfoundland",
+            "populationMillions": 0.2,
+            "combatDeathsMissing": "1,204",
+            "totalMilitaryDeaths": "1,204 to 1,570",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "1,204 to 1,570",
+            "deathsAsPercentageOfPopulation": "0.6% to 0.8%",
+            "militaryWounded": "2,314"
+          },
+          {
+            "nation": "South Africa",
+            "populationMillions": 6.0,
+            "combatDeathsMissing": "7,121",
+            "totalMilitaryDeaths": "7,121 to 9,726",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "7,121 to 9,726",
+            "deathsAsPercentageOfPopulation": "0.1% to 0.2%",
+            "militaryWounded": "12,029"
+          },
+          {
+            "nation": "United Kingdom (and colonies)",
+            "populationMillions": 45.4,
+            "combatDeathsMissing": "744,000",
+            "totalMilitaryDeaths": "887,858",
+            "civilianDeaths": "16,829",
+            "increaseInCivilianDeaths": "107,000",
+            "totalDeaths": "867,829 to 1,011,687",
+            "deathsAsPercentageOfPopulation": "1.9% to 2.2%",
+            "militaryWounded": "1,675,000"
+          },
+          {
+            "nation": "Belgium",
+            "populationMillions": 7.4,
+            "combatDeathsMissing": "38,170",
+            "totalMilitaryDeaths": "38,170 to 58,637",
+            "civilianDeaths": "23,700",
+            "increaseInCivilianDeaths": "62,000",
+            "totalDeaths": "123,870 to 144,337",
+            "deathsAsPercentageOfPopulation": "1.7% to 2%",
+            "militaryWounded": "44,686"
+          },
+          {
+            "nation": "France",
+            "populationMillions": 39.6,
+            "combatDeathsMissing": "1,150,000",
+            "totalMilitaryDeaths": "1,357,000 to 1,397,800",
+            "civilianDeaths": "40,000",
+            "increaseInCivilianDeaths": "300,000",
+            "totalDeaths": "1,697,000 to 1,737,800",
+            "deathsAsPercentageOfPopulation": "4.3% to 4.4%",
+            "militaryWounded": "4,266,000"
+          },
+          {
+            "nation": "Greece",
+            "populationMillions": 4.8,
+            "combatDeathsMissing": "5,000",
+            "totalMilitaryDeaths": "5,000 to 26,000",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": "150,000",
+            "totalDeaths": "155,000 to 176,000",
+            "deathsAsPercentageOfPopulation": "3.2% to 3.7%",
+            "militaryWounded": "21,000"
+          },
+          {
+            "nation": "Italy",
+            "populationMillions": 35.6,
+            "combatDeathsMissing": "460,000",
+            "totalMilitaryDeaths": "460,000 to 709,000",
+            "civilianDeaths": "3,400",
+            "increaseInCivilianDeaths": "589,000",
+            "totalDeaths": "1,052,400 to 1,301,400",
+            "deathsAsPercentageOfPopulation": "3% to 3.7%",
+            "militaryWounded": "947,000 to 1,050,000"
+          },
+          {
+            "nation": "Japan",
+            "populationMillions": 53.6,
+            "combatDeathsMissing": "300",
+            "totalMilitaryDeaths": "300 to 4,661",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "300 to 4,661",
+            "deathsAsPercentageOfPopulation": "0% to 0%",
+            "militaryWounded": "907"
+          },
+          {
+            "nation": "Montenegro",
+            "populationMillions": 0.5,
+            "combatDeathsMissing": "3,000",
+            "totalMilitaryDeaths": "3,000 to 13,325",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "3,000 to 13,325",
+            "deathsAsPercentageOfPopulation": "0.6% to 2.7%",
+            "militaryWounded": "10,000"
+          },
+          {
+            "nation": "Portugal",
+            "populationMillions": 6.0,
+            "combatDeathsMissing": "7,222",
+            "totalMilitaryDeaths": "7,222",
+            "civilianDeaths": "13",
+            "increaseInCivilianDeaths": "82,000",
+            "totalDeaths": "89,235",
+            "deathsAsPercentageOfPopulation": "1.5%",
+            "militaryWounded": "13,751"
+          },
+          {
+            "nation": "Romania",
+            "populationMillions": 7.5,
+            "combatDeathsMissing": "335,706",
+            "totalMilitaryDeaths": "250,000 to 335,706",
+            "civilianDeaths": "130,000",
+            "increaseInCivilianDeaths": "200,000",
+            "totalDeaths": "580,000 to 665,706",
+            "deathsAsPercentageOfPopulation": "7.7% to 8.9%",
+            "militaryWounded": "120,000"
+          },
+          {
+            "nation": "Russia",
+            "populationMillions": 175.1,
+            "combatDeathsMissing": "775,369 to 1,700,000",
+            "totalMilitaryDeaths": "1,700,000 to 2,254,369",
+            "civilianDeaths": "410,000",
+            "increaseInCivilianDeaths": "730,000",
+            "totalDeaths": "2,840,000 to 3,394,369",
+            "deathsAsPercentageOfPopulation": "1.6% to 1.9%",
+            "militaryWounded": "3,749,000 to 4,950,000"
+          },
+          {
+            "nation": "Serbia",
+            "populationMillions": 4.5,
+            "combatDeathsMissing": "127,500",
+            "totalMilitaryDeaths": "300,000 to 450,000",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": "450,000 to 800,000",
+            "totalDeaths": "750,000 to 1,250,000",
+            "deathsAsPercentageOfPopulation": "16.7% to 27.8%",
+            "militaryWounded": "133,148"
+          },
+          {
+            "nation": "United States",
+            "populationMillions": 92.0,
+            "combatDeathsMissing": "53,402",
+            "totalMilitaryDeaths": "116,708",
+            "civilianDeaths": "757",
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "117,466",
+            "deathsAsPercentageOfPopulation": "0.1%",
+            "militaryWounded": "204,002"
+          },
+          {
+            "nation": "Austria-Hungary",
+            "populationMillions": 51.4,
+            "combatDeathsMissing": "1,016,200",
+            "totalMilitaryDeaths": "1,200,000 to 1,494,200",
+            "civilianDeaths": "120,000",
+            "increaseInCivilianDeaths": "467,000",
+            "totalDeaths": "1,787,000 to 2,081,200",
+            "deathsAsPercentageOfPopulation": "3.5% to 4%",
+            "militaryWounded": "3,620,000"
+          },
+          {
+            "nation": "Bulgaria",
+            "populationMillions": 4.5,
+            "combatDeathsMissing": "87,500",
+            "totalMilitaryDeaths": "87,500",
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": "100,000",
+            "totalDeaths": "187,500",
+            "deathsAsPercentageOfPopulation": "3.4%",
+            "militaryWounded": "152,390"
+          },
+          {
+            "nation": "Germany",
+            "populationMillions": 64.9,
+            "combatDeathsMissing": "1,800,000",
+            "totalMilitaryDeaths": "2,037,000 to 2,800,720",
+            "civilianDeaths": "720",
+            "increaseInCivilianDeaths": "424,000 to 763,000",
+            "totalDeaths": "2,198,420 to 2,800,720",
+            "deathsAsPercentageOfPopulation": "3.4% to 4.3%",
+            "militaryWounded": "4,215,662"
+          },
+          {
+            "nation": "Ottoman Empire",
+            "populationMillions": 21.3,
+            "combatDeathsMissing": "305,085",
+            "totalMilitaryDeaths": "325,000 to 771,844",
+            "civilianDeaths": "1,500,000",
+            "increaseInCivilianDeaths": "1,000,000",
+            "totalDeaths": "2,825,000 to 3,271,844",
+            "deathsAsPercentageOfPopulation": "13.3% to 15.4%",
+            "militaryWounded": "400,000 to 763,753"
+          },
+          {
+            "group": "Central Powers",
+            "populationMillions": 142.1,
+            "combatDeathsMissing": "3,208,785",
+            "totalMilitaryDeaths": "3,386,200 to 4,390,544",
+            "civilianDeaths": "1,620,720",
+            "increaseInCivilianDeaths": "1,991,000 to 2,330,000",
+            "totalDeaths": "6,997,920 to 8,341,264",
+            "deathsAsPercentageOfPopulation": "4.9% to 5.9%",
+            "militaryWounded": "8,388,052 to 8,751,805"
+          },
+          {
+            "nation": "Denmark",
+            "populationMillions": 2.8,
+            "combatDeathsMissing": "See footnote re: Danes in German military",
+            "totalMilitaryDeaths": null,
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "700",
+            "deathsAsPercentageOfPopulation": "0%",
+            "militaryWounded": null
+          },
+          {
+            "nation": "Luxembourg",
+            "populationMillions": 0.3,
+            "combatDeathsMissing": null,
+            "totalMilitaryDeaths": null,
+            "civilianDeaths": "2,800",
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "See footnote",
+            "deathsAsPercentageOfPopulation": null,
+            "militaryWounded": null
+          },
+          {
+            "nation": "Norway",
+            "populationMillions": 2.4,
+            "combatDeathsMissing": null,
+            "totalMilitaryDeaths": null,
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "1,180",
+            "deathsAsPercentageOfPopulation": "0.1%",
+            "militaryWounded": null
+          },
+          {
+            "nation": "Persia",
+            "populationMillions": 10.5,
+            "combatDeathsMissing": null,
+            "totalMilitaryDeaths": null,
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "2,000,000",
+            "deathsAsPercentageOfPopulation": "19%",
+            "militaryWounded": null
+          },
+          {
+            "nation": "Sweden",
+            "populationMillions": 5.6,
+            "combatDeathsMissing": null,
+            "totalMilitaryDeaths": null,
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "800",
+            "deathsAsPercentageOfPopulation": "0%",
+            "militaryWounded": null
+          },
+          {
+            "nation": "Albania",
+            "populationMillions": 0.8,
+            "combatDeathsMissing": null,
+            "totalMilitaryDeaths": null,
+            "civilianDeaths": null,
+            "increaseInCivilianDeaths": null,
+            "totalDeaths": "70,000",
+            "deathsAsPercentageOfPopulation": "8.75%",
+            "militaryWounded": null
+          },
+          {
+            "group": "Grand Total",
+            "populationMillions": 959.7,
+            "combatDeathsMissing": "8,042,189",
+            "totalMilitaryDeaths": "8,573,054 to 10,824,236",
+            "civilianDeaths": "2,250,099",
+            "increaseInCivilianDeaths": "5,411,000 to 8,100,000",
+            "totalDeaths": "15,000,000 to 22,000,000",
+            "deathsAsPercentageOfPopulation": "1.7% to 2.3%",
+            "militaryWounded": "22,101,100 to 23,665,873"
+          }
+        ]
+      }
+      
+    
+
+  
