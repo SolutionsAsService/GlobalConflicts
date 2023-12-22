@@ -1,0 +1,140 @@
+{
+    "WorldWarII": {
+      "overview": {
+        "date": "1 September 1939 – 2 September 1945 (6 years, 1 day)",
+        "location": [
+          "Europe",
+          "Pacific",
+          "Atlantic",
+          "Indian Ocean",
+          "South-East Asia",
+          "China",
+          "Japan",
+          "Middle East",
+          "Mediterranean",
+          "North Africa",
+          "Horn of Africa",
+          "Central Africa",
+          "Australia",
+          "Caribbean",
+          "North and South America"
+        ],
+        "result": "Allied victory"
+      },
+      "keyEvents": [
+        {
+          "description": "German Stuka dive bombers on the Eastern Front",
+          "year": 1943
+        },
+        {
+          "description": "British Matilda II tanks during the North African campaign",
+          "year": 1941
+        },
+        {
+          "description": "Soviet troops at the Battle of Stalingrad",
+          "year": "1942–1943"
+        },
+        {
+          "description": "U.S. warships in Lingayen Gulf in the Philippines",
+          "year": 1945
+        },
+        {
+          "description": "Soviet soldier raising a flag over the Reichstag after the Battle of Berlin",
+          "year": 1945
+        },
+        {
+          "description": "U.S. atomic bombing of Nagasaki in Japan",
+          "year": 1945
+        }
+      ],
+      "participants": {
+        "allies": {
+          "bigThree": [
+            {
+              "nation": "United Kingdom",
+              "leader": "Winston Churchill",
+              "entryDate": "September 1939"
+            },
+            {
+              "nation": "Soviet Union",
+              "leader": "Joseph Stalin",
+              "entryDate": "June 1941"
+            },
+            {
+              "nation": "United States",
+              "leader": "Franklin D. Roosevelt",
+              "entryDate": "December 1941"
+            }
+          ],
+          "governmentsInExile": [
+            {"nation": "Poland", "notes": "The Polish Underground State was allied with United Kingdom and United States."},
+            {"nation": "Czechoslovakia", "notes": "Led by Edvard Beneš from exile after Munich Agreement and German occupation."},
+            {"nation": "Norway"},
+            {"nation": "Netherlands"},
+            {"nation": "Belgium"},
+            {"nation": "Luxembourg"},
+            {"nation": "Free France", "leader": "Charles de Gaulle"},
+            {"nation": "Ethiopia", "leader": "Haile Selassie I"},
+            {"nation": "Greece"},
+            {"nation": "Yugoslavia"},
+            {"nation": "Philippines"}
+          ],
+          "otherAlliedCombatantStates": [
+            {"nation": "China", "leader": "Chiang Kai-shek", "notes": "At war with Japan since July 1937."},
+            {"nation": "Canada"},
+            {"nation": "Australia"},
+            {"nation": "New Zealand"},
+            {"nation": "South Africa"},
+            {"nation": "Brazil"},
+            {"nation": "Mongolia"},
+            {"nation": "Mexico"}
+          ],
+          "coBelligerents": [
+            {"nation": "Italy", "entryDate": "September 1943"},
+            {"nation": "Romania", "entryDate": "August 1944"},
+            {"nation": "Bulgaria", "entryDate": "September 1944"},
+            {"nation": "Finland", "entryDate": "September 1944"}
+          ]
+        },
+        "axis": {
+          "majorPowers": [
+            {
+              "nation": "German Reich",
+              "leader": "Adolf Hitler"
+            },
+            {
+              "nation": "Kingdom of Italy",
+              "leader": "Benito Mussolini",
+              "notes": "After the Italian surrender in September 1943, joined the Allies as a co-belligerent."
+            },
+            {
+              "nation": "Empire of Japan",
+              "leader": "Hirohito"
+            }
+          ],
+          "otherAxisStates": [
+            {"nation": "Kingdom of Hungary"},
+            {"nation": "Kingdom of Romania"},
+            {"nation": "Kingdom of Bulgaria"},
+            {"nation": "Republic of Finland", "notes": "Co-belligerent against the USSR and UK."},
+            {"nation": "Slovak Republic"},
+            {"nation": "Independent State of Croatia"},
+            {"nation": "Thailand", "notes": "Declared war on the UK and US in alliance with Japan in January 1942."}
+          ]
+        }
+      },
+      "casualties": {
+        "allies": {
+          "militaryDead": "Over 16,000,000",
+          "civilianDead": "Over 45,000,000",
+          "totalDead": "Over 61,000,000 (1937–1945)"
+        },
+        "axis": {
+          "militaryDead": "Over 8,000,000",
+          "civilianDead": "Over 4,000,000",
+          "totalDead": "Over 12,000,000 (1937–1945)"
+        }
+      }
+    }
+  }
+  
