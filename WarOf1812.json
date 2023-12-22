@@ -1,0 +1,103 @@
+{
+    "War_of_1812": {
+      "Part_of": ["Sixty Years' War", "Napoleonic Wars"],
+      "Date": "18 June 1812 – 17 February 1815",
+      "Duration": "2 years, 7 months, 4 weeks and 2 days",
+      "Location": ["North America", "Atlantic Ocean", "Pacific Ocean"],
+      "Result": "Inconclusive",
+      "Territorial_Changes": [
+        "Anglo–American status quo ante bellum",
+        "Spanish control over West Florida weakened",
+        "Decisive defeat and dissolution of Tecumseh's confederacy"
+      ],
+      "Belligerents": {
+        "United_States": {
+          "Allies": ["Choctaw", "Cherokee", "Lower Creek", "Seneca (in 1813)"]
+        },
+        "United_Kingdom": {
+          "Territories": ["British North America", "Upper Canada", "Lower Canada"],
+          "Allies": [
+            "Tecumseh's Confederacy",
+            "Pro-British Native American Tribes",
+            "Red Sticks",
+            "Six Nations of the Grand River"
+          ]
+        },
+        "Spain": {
+          "Involvement_Start": "From 1813"
+        }
+      },
+      "Commanders_and_Leaders": {
+        "United_States": [
+          "James Madison",
+          "Henry Dearborn",
+          "John Rodgers",
+          "Stephen Decatur",
+          "Andrew Jackson",
+          "William Henry Harrison",
+          "William Hull"
+        ],
+        "United_Kingdom": [
+          "Philip Broke",
+          "George Prévost",
+          "Isaac Brock †",
+          "Robert Ross †",
+          "George Downie †",
+          "Tecumseh †"
+        ]
+      },
+      "Military_Strength": {
+        "United_States": {
+          "Army": "7,000 at start, 35,800 at end",
+          "Rangers": "3,049",
+          "Militia": "458,463",
+          "Navy": {
+            "Frigates": "12",
+            "Other_Vessels": "14",
+            "Privateers": "515 ships"
+          },
+          "Choctaw_Allies": "125"
+        },
+        "United_Kingdom": {
+          "Army": "5,200 at start, 48,160 at end",
+          "Militia": "4,000",
+          "Navy": {
+            "Ships_of_the_line": "11",
+            "Frigates": "34",
+            "Other_Vessels": "52"
+          },
+          "Provincial_Marine": "9 ships at start",
+          "Native_American_Allies": "10,000–15,000"
+        }
+      },
+      "Casualties_and_Losses": {
+        "United_States": {
+          "Killed_in_Action": "2,200",
+          "Died_of_Disease": "5,200",
+          "Total_Deaths": "Up to 15,000",
+          "Wounded": "4,505",
+          "Captured": "20,000",
+          "Ships_Losses": {
+            "Frigates": "8",
+            "Merchant_Ships": "1,400",
+            "Privateers": "278"
+          },
+          "Slaves_Escaped_or_Freed": "4,000"
+        },
+        "United_Kingdom": {
+          "Combat_Disease_Deaths": "2,700",
+          "Total_Deaths": "10,000",
+          "Captured": "15,500",
+          "Merchant_Ships_Captured": "~1,344",
+          "Frigates_Captured": "4"
+        },
+        "Indigenous_Allies": {
+          "Total_Deaths": "10,000"
+        },
+        "Spain": {
+          "Casualties": "<20"
+        }
+      }
+    }
+  }
+  

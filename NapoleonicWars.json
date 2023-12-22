@@ -1,0 +1,123 @@
+{
+    "Napoleonic_Wars": {
+      "Date_Range": "18 May 1803 – 20 November 1815",
+      "Location": [
+        "Europe",
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "North America",
+        "Indian Ocean",
+        "Pacific Ocean"
+      ],
+      "Result": "Coalition victory, Fall of the First French Empire, Rise of the British Empire as the dominant world superpower",
+      "Territorial_Changes": [
+        "Restoration of the Bourbon monarchy in France",
+        "Formation of the United Kingdom of the Netherlands",
+        "Dissolution of the Holy Roman Empire",
+        "Rise of Prussian and Austrian influence in Europe"
+      ],
+      "Belligerents": {
+        "Coalition_Forces": {
+          "Major_Powers": [
+            "United Kingdom",
+            "Austria",
+            "Prussia",
+            "Russia"
+          ],
+          "Other_European_Powers": [
+            "Spain",
+            "Portugal",
+            "Sweden",
+            "Ottoman Empire",
+            "Kingdom of Sicily",
+            "Papal States",
+            "Sardinia",
+            "Duchy of Brunswick",
+            "Grand Duchy of Baden",
+            "Grand Duchy of Hesse",
+            "Kingdom of Bavaria",
+            "Kingdom of Württemberg",
+            "Kingdom of Saxony",
+            "Kingdom of the Netherlands",
+            "Switzerland",
+            "Duchy of Nassau",
+            "Principality of Liechtenstein",
+            "Montenegro"
+          ],
+          "American_Participants": [
+            "United States"
+          ],
+          "Asian_Participants": [
+            "Qajar Iran"
+          ],
+          "African_Participants": [
+            "Various North African states"
+          ]
+        },
+        "French_Empire_and_Allies": {
+          "French_Empire": [
+            "First French Empire"
+          ],
+          "Client_States": [
+            "Kingdom of Italy",
+            "Duchy of Warsaw",
+            "Confederation of the Rhine",
+            "Batavian Republic",
+            "Kingdom of Naples",
+            "Kingdom of Westphalia",
+            "Kingdom of Etruria",
+            "Swiss Confederation",
+            "Grand Duchy of Berg",
+            "Kingdom of Holland",
+            "Illyrian Provinces"
+          ],
+          "Allied_States": [
+            "Denmark–Norway",
+            "Kingdom of Spain (under Joseph Bonaparte)"
+          ]
+        },
+      "Military_Strength": {
+        "Coalition": {
+          "United_Kingdom": "250,000 at peak",
+          "Austria": "300,000 at peak",
+          "Prussia": "320,000 at peak",
+          "Russia": "900,000 at peak",
+          "Spain": "198,520 at peak",
+          "Portugal": "50,000 at peak",
+          "Sweden": "50,000 at peak",
+          "Ottoman_Empire": "350,000 regulars",
+          "Others": "100,000 at peak",
+          "Total": "Approximately 3,000,000 at peak strength"
+        },
+        "French_Empire_and_Allies": {
+          "French_Empire": "1,200,000 at peak",
+          "Allies": "500,000 at peak",
+          "Total": "Approximately 2,000,000 at peak strength"
+        }
+      },
+      "Casualties_and_Losses": {
+        "Coalition": {
+          "United_Kingdom": "300,000 total dead",
+          "Austria": "500,000 total dead",
+          "Prussia": "300,000 total dead including civilians",
+          "Russia": "600,000 total dead including civilians",
+          "Spain": "586,000 dead including civilians",
+          "Portugal": "250,000 total dead or missing including civilians",
+          "Italy": "120,000 total dead or missing including civilians",
+          "Ottoman_Empire": "50,000 total dead or missing",
+          "Total": "Approximately 4,000,000 total military and civilian dead or missing"
+        },
+        "French_Empire_and_Allies": {
+          "French_Empire": {
+            "Killed_in_Action": "306,000",
+            "Allies_Killed_in_Action": "65,000",
+            "Killed_by_Wounds_Accidents_Disease": "800,000",
+            "Civilians_Killed": "600,000",
+            "Total_Dead": "Approximately 2,000,000"
+          }
+        }
+      }
+    }
+  }
+}
+  

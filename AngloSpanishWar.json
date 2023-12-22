@@ -1,0 +1,53 @@
+{
+    "Anglo_Spanish_War": {
+      "Part_of": ["Anglo-Spanish Wars", "Coalition Wars"],
+      "Dates": {
+        "First_Phase": "August 1796 – March 1802",
+        "Second_Phase": "May 1804 – July 1808"
+      },
+      "Locations": [
+        "English Channel",
+        "Straits of Gibraltar",
+        "Balearic Islands",
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Viceroyalty of the Río de la Plata"
+      ],
+      "Result": {
+        "First_Phase_Result": "Compromise peace in 1802",
+        "Second_Phase_Result": "Cessation of hostilities and de facto Anglo-Spanish alliance upon outbreak of the Peninsular War (1808)"
+      },
+      "Territorial_Changes": {
+        "Trinidad": "Ceded to Britain (1802)",
+        "Minorca": "Returned to Spain (1802)"
+      },
+      "Belligerents": {
+        "1796_1802": {
+          "Spanish_Empire": [],
+          "French_Republic": []
+        },
+        "1804_1808": {
+          "Spanish_Empire": [],
+          "French_Empire": []
+        },
+        "British_Forces": {
+          "1796_1801": ["Great Britain"],
+          "1801_1802_and_1804_1808": ["United Kingdom"]
+        },
+        "Supporting_Forces": {
+          "Portugal": []
+        }
+      },
+      "Commanders_and_Leaders": {
+        "Spanish_Empire": ["Charles IV", "Manuel Godoy", "Santiago de Liniers", "Federico Gravina", "José de Córdoba", "Jose de Mazarredo"],
+        "French_Forces": ["Napoleon Bonaparte", "Paul Barras", "Pierre de Villeneuve", "Honoré Ganteaume"],
+        "British_Forces": ["George III", "John Jervis", "Horatio Nelson", "Cuthbert Collingwood", "Robert Calder", "Arthur Wellesley", "William Beresford"]
+      },
+      "Strength": {
+        "Spanish_Empire": ["76 ships of the line (1796-1802)", "83 ships of the line (1804-1808)"],
+        "French_Forces": ["200,000 soldiers (1801)", "50,000 soldiers (1807)"],
+        "British_Forces": ["100+ ships of the line", "80,000 soldiers (1801)", "50,000 soldiers (1807)"]
+      }
+    }
+  }
+  
