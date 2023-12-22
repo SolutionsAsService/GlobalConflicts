@@ -1,7 +1,7 @@
 {
     "Second_Nagorno_Karabakh_War": {
       "Context": {
-        "Part_of": "Nagorno-Karabakh Conflict",
+        "Part_of": ["Nagorno-Karabakh Conflict", "Post-Soviet" ],
         "Description": "The Second Nagorno-Karabakh War erupted in September 2020 between the armed forces of Azerbaijan and the self-proclaimed Republic of Artsakh, backed by Armenia. The war was marked by the extensive use of drones and modern warfare technology. It resulted in significant territorial gains for Azerbaijan, leading to a ceasefire agreement in November 2020 facilitated by Russia. The war had profound humanitarian implications, including civilian casualties, ethnic cleansing allegations, and a large number of displaced people."
       },
       "Date": "September 27, 2020 – November 10, 2020",
