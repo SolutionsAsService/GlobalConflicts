@@ -1,0 +1,49 @@
+{
+  "conflict": "Iran–Saudi Arabia proxy conflict",
+  "part_of": "Arab Winter",
+  "map_details": {
+    "Iran": "Iran territory",
+    "Saudi_Arabia": "Saudi Arabia territory",
+    "Proxy_conflict_locations": "Locations of proxy conflicts"
+  },
+  "duration": {
+    "start_date": "11 February 1979",
+    "status": "ongoing",
+    "total_time": "44 years, 10 months, 2 weeks and 5 days"
+  },
+  "location": "Various (primarily Middle East)",
+  "belligerents": {
+    "Iran_side": {
+      "Iran": "Iran",
+      "Proxies": ["Hezbollah Al-Hejaz", "OIRAP (1979–1988)", "Liwa Fatemiyoun", "Houthi movement", "Popular Mobilization Forces", "Al-Ashtar Brigades", "Al-Mukhtar Brigades", "Hezbollah", "Hamas", "Husseiniyoun", "Muslim Brotherhood", "Liwa Zainebiyoun", "IMN", "Polisario Front"],
+      "Support": ["Syria", "Lebanon", "Iraq (from 2006)", "Venezuela (Maduro government)", "North Korea", "Qatar (2017-2021, sometimes)", "Oman (alleged, denied by Oman)", "Libya (until 2011)", "Sudan (until 2015)"]
+    },
+    "Saudi_Arabia_side": {
+      "Saudi_Arabia": "Saudi Arabia",
+      "Proxies": ["FSA", "KDPI", "Jaish ul-Adl", "PJAK", "Komala", "Ahvaz National Resistance", "ASMLA", "PNA", "PAK", "JRTN", "LF", "MEK"],
+      "Support": ["United States", "Israel", "United Kingdom", "Canada", "France", "Egypt", "United Arab Emirates", "Jordan", "Bahrain", "Morocco", "Yemen", "Kuwait", "Sudan (2016–2019)", "Iraq (until 1990)", "Qatar (until 2017)", "Australia", "New Zealand"]
+    }
+  },
+  "commanders_and_leaders": {
+    "Iran": ["Ali Khamenei (Supreme Leader of Iran)", "Ebrahim Raisi (President of Iran)", "Esmail Ghaani (Quds Force commander)", "..."],
+    "Saudi_Arabia": ["King Salman (King of Saudi Arabia)", "Mohammad bin Salman (Crown Prince of Saudi Arabia and Prime Minister)", "..."]
+  },
+  "casualties_and_losses": {
+    "Iran_side": "Various estimates",
+    "Saudi_Arabia_side": "Various estimates",
+    "civilians": "3,000 killed overall"
+  },
+  "background": {
+    "origin": "Started after the Iranian Revolution in 1979",
+    "regional_influence": "Iran and Saudi Arabia have provided varying degrees of support to opposing sides in nearby conflicts.",
+    "conflict_zones": ["Syria", "Yemen", "Bahrain", "Lebanon", "Qatar", "Iraq"],
+    "global_influence": "The struggle extends globally including in West, North, and East Africa, South, Central, Southeast Asia, the Balkans, and the Caucasus."
+  },
+  "nature_of_conflict": "Waged on multiple levels over geopolitical, economic, and sectarian influence in pursuit of regional hegemony, resembling a new cold war.",
+  "recent_developments": {
+    "diplomatic_relations_restoration": "As of 10 March 2023, diplomatic relations between Iran and Saudi Arabia have been restored due to Chinese-Iraqi brokered talks.",
+    "potential_impacts": "Could have major positive implications in the political climate of the Middle East.",
+    "agreements": "The deal was concluded after Iranian agreement to stop its military support for the Houthi militants in the Yemeni civil war."
+  },
+  "summary": "The Iran–Saudi Arabia proxy conflict is an ongoing struggle for influence in the Middle East and other Muslim regions, characterized by support for opposing sides in various conflicts. The conflict has drawn comparisons to the Cold War, with both nations vying for geopolitical, economic, and sectarian influence. The rivalry has been marked by significant human rights violations and has had far-reaching implications for regional and global politics. Recent developments indicate potential easing of tensions with the restoration of diplomatic relations brokered by China and Iraq."
+}
