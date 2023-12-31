@@ -1,0 +1,56 @@
+{
+  "conflict": "Second Ivorian Civil War",
+  "location": "Ivory Coast",
+  "context": ["Aftermath of Arab Spring", "Ivorian Crisis"],
+  "duration": {
+    "start_date": "28 November 2010",
+    "end_date": "11 April 2011",
+    "total": "4 months and 2 weeks"
+  },
+  "result": "Gbagbo captured; Ouattara/UN/French victory",
+  "belligerents": {
+    "pro_Gbagbo_forces": {
+      "Ivory Coast Military": "Military of Ivory Coast",
+      "mercenaries": "Liberian mercenaries",
+      "political_support": ["COJEP", "FPI", "FNCI"]
+    },
+    "pro_Ouattara_forces": {
+      "name": "Republican Forces of Ivory Coast (RFCI)",
+      "support": ["RDR", "UNOCI", "France", "Ukraine"],
+      "leaders": {
+        "Ivory Coast": "Alassane Ouattara",
+        "RFCI": "Guillaume Soro",
+        "Liberia": "Benjamin Yeaten"
+      }
+    },
+    "international_support": {
+      "UN": "UNOCI led by Choi Young-jin",
+      "France": "Nicolas Sarkozy",
+      "Ukraine": "Viktor Yanukovych"
+    }
+  },
+  "casualties": {
+    "security_forces": "44–61 killed (before March)",
+    "RDR": "50+ killed",
+    "FNCI": "2 killed",
+    "UNOCI": "2 killed (before March)",
+    "total": "3,000 killed overall"
+  },
+  "map": "Map of the March 2011 Republican Forces (RFCI) offensive",
+  "key_events": {
+    "escalation": "Crisis escalated into full-scale military conflict in March 2011",
+    "Gbagbo's_entrenchment": "Gbagbo entrenched in Abidjan",
+    "UN_French_intervention": "UN and French forces took military action to protect civilians and forces",
+    "Gbagbo's_arrest": "Laurent Gbagbo arrested by French forces on 11 April 2011"
+  },
+  "human_rights_violations": "Numerous instances reported by international organizations, notably in Duékoué where Ouattara's forces killed hundreds",
+  "background": {
+    "presidential_dispute": "Conflict began after disputed 2010 presidential election between Laurent Gbagbo and Alassane Ouattara",
+    "international_recognition": "Ouattara was internationally recognized as president-elect"
+  },
+  "post_war": {
+    "Gbagbo_capture_date": "11 April 2011",
+    "outcome": "Ouattara assumed presidency; Gbagbo captured and later tried by the ICC"
+  },
+  "summary": "The Second Ivorian Civil War erupted following a disputed presidential election, pitting incumbent Laurent Gbagbo against internationally recognized winner Alassane Ouattara. The conflict saw the involvement of the Ivory Coast military, Liberian mercenaries, UN forces, and French troops. It culminated in the capture of Gbagbo and the victory of Ouattara's forces, but not before causing significant casualties and widespread human rights abuses, particularly in Duékoué. The war significantly impacted Ivory Coast's political landscape and its relations with the international community."
+}
