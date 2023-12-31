@@ -1,0 +1,49 @@
+{
+  "event": "Third Dzungar–Qing War",
+  "description": "A military conflict between the Qing dynasty and the Dzungar Khanate, marked by the Qing's efforts to quell Dzungar uprisings in Qinghai and Mongolia.",
+  "location": {
+    "primary": "Qinghai-Tibet plateau",
+    "additional_battles": ["Khoton Lake", "Erdene Zuu Monastery in Mongolia"]
+  },
+  "date_range": "1723-1732",
+  "belligerents": {
+    "Dzungar_Khanate": {},
+    "Qing_dynasty": "Led by the Yongzheng Emperor"
+  },
+  "commanders_and_leaders": {
+    "Dzungar_Khanate": "Unknown",
+    "Qing_dynasty": {
+      "Yongzheng_Emperor": {},
+      "Nian_Gengyao": "Led the initial campaign of 230,000",
+      "Yue_Zhongqi": "Fought the Oirats in Ürümqi"
+    }
+  },
+  "military_campaigns": {
+    "1723_campaign": {
+      "description": "Qing army of 230,000 led by Nian Gengyao was initially unable to engage the more mobile Dzungars but eventually defeated them."
+    },
+    "1731_campaign": {
+      "description": "A Qing army of 10,000 was annihilated near Khoton Lake, posing a significant threat to Qing control of Mongolia."
+    },
+    "1732_campaign": {
+      "description": "A Khalkha ally of the Qing Empire defeated the Dzungars near the Erdene Zuu Monastery, leading to peace and border determination between Qing and the Dzungar Khanate."
+    }
+  },
+  "political_and_strategic_outcomes": {
+    "Qinghai_incorporation": "Recommended by Nian Gengyao, Kokonor (Qinghai) was incorporated directly under Gansu as part of neidi (interior eighteen provinces).",
+    "peace_agreement": "The Qing made peace with the Dzungar Khanate and decided the border between them."
+  },
+  "financial_impact": {
+    "cost_to_treasury": "At least eight million silver taels for the 1723 campaign"
+  },
+  "cultural_notes": {
+    "Yue_Zhongqi_residence": "Lived at the Ji Xiaolan Residence"
+  },
+  "references": [
+    {
+      "source": "History of Civilizations of Central Asia: Development in Contrast: From the Sixteenth to the Mid-Nineteenth Century. UNESCO. 2003",
+      "ISBN": "978-92-3-103876-1"
+    },
+    // Additional references and citations as provided in the original text
+  ]
+}
