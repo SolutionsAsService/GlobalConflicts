@@ -1,0 +1,72 @@
+{
+  "event": "First Dzungar–Qing War",
+  "description": "A military conflict fought between the Dzungar Khanate and an alliance of the Qing dynasty and Northern Khalkhas, remnants of the Northern Yuan dynasty.",
+  "location": "Mongolia",
+  "date_range": "1687–1697",
+  "result": "Qing victory, weakening of the Dzungar Khanate, and death of Galdan Boshugtu Khan.",
+  "belligerents": {
+    "Dzungar_Khanate": "Led by Galdan Boshugtu Khan",
+    "Qing_dynasty_alliance": {
+      "Qing_dynasty": "Led by the Kangxi Emperor",
+      "Northern_Yuan_remnants": {},
+      "Kumul_Khanate": {}
+    }
+  },
+  "commanders_and_leaders": {
+    "Dzungar_Khanate": "Galdan Boshugtu Khan",
+    "Qing_dynasty": "Kangxi Emperor",
+    "Northern_Yuan_remnants": "Chakhundorji",
+    "Kumul_Khanate": "Abdullah Beg"
+  },
+  "military_strength": {
+    "Dzungar_Khanate": "20,000–30,000",
+    "Qing_dynasty_alliance": "100,000"
+  },
+  "casualties_and_losses": {
+    "Dzungar_Khanate": "Unknown",
+    "Qing_dynasty_alliance": "Unknown"
+  },
+  "key_battles": {
+    "Battle_of_Ulan_Butung": {
+      "date": "September 1690",
+      "description": "Qing forces fail to decisively defeat Dzungar forces despite outnumbering them."
+    },
+    "Battle_of_Jao_Modo": {
+      "date": "May 1696",
+      "description": "Qing army decisively defeated the Dzungar army, effectively destroying them as a military force."
+    }
+  },
+  "war_developments": {
+    "initial_conflict": "Dzungar attack on the Northern Yuan dynasty, leading to their defeat and flight south to the Qing dynasty.",
+    "Qing_mobilization": "Qing sent their army north to subdue the Dzungars motivated by the opportunity to gain control over Mongolia and the threat of a strong, unified Mongol state.",
+    "tactical_details": "Various battles and skirmishes, including the failed attempt by Qing forces to trap and crush the mobile Dzungar army and the eventual decisive defeat of the Dzungars."
+  },
+  "post_war_situation": {
+    "Qing_garrison": "Stationed in the area of present-day Ulaanbaatar, placing Khalkha Mongolia under Qing rule.",
+    "Outer_Mongolia_incorporation": "Effectively incorporated into the Qing Empire.",
+    "Dzungar_succession": "Tsewang Rabtan succeeded Galdan as Khan of the Dzungars."
+  },
+  "references": [
+    {
+      "source": "中国国家博物馆",
+      "note": "Military camp of the Chinese Emperor at Kherlen River during the campaign of 1696"
+    },
+    {
+      "source": "Rubie Sharon Watson, Marriage and Inequality in Chinese Society, 1991",
+      "ISBN": "978-0-520-07124-7"
+    },
+    {
+      "source": "Christian Tyler, Wild West China: The Taming of Xinjiang, 2003",
+      "ISBN": "978-0-8135-3533-3"
+    },
+    {
+      "source": "Peter C. Perdue, China Marches West: The Qing Conquest of Central Asia",
+      "page": "149"
+    },
+    {
+      "source": "Ruth W. Dunnell, Mark Elliot, James A. Millward, New Qing Imperial History: The Making of an Inner Asian Emire at Qing Chengde",
+      "page": "99"
+    },
+    // Additional references listed in the original text
+  ]
+}
