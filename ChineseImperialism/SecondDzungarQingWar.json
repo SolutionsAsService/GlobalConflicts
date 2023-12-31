@@ -1,0 +1,44 @@
+{
+  "event": "Second Dzungar–Qing War in Tibet",
+  "description": "A military conflict fought between the Dzungar Khanate and the Qing dynasty for control over Tibet.",
+  "location": "Tibet",
+  "historical_context": {
+    "Ganden_Phodrang": "Regime established by the 5th Dalai Lama with the support of Güshi Khan, founder of the Khoshut Khanate.",
+    "Tsewang_Rabtan_invasion": "Tsewang Rabtan of the Dzungar Khanate invaded Tibet in 1717, deposing and killing Lha-bzang Khan, the last ruler of the Khoshut Khanate."
+  },
+  "belligerents": {
+    "Dzungar_Khanate": "Led by Tsewang Rabtan",
+    "Qing_dynasty": "Led by the Kangxi Emperor, with support from Polhané Sönam Topgyé of Tsang and Kangchennas of Western Tibet"
+  },
+  "key_figures": {
+    "7th_Dalai_Lama_pretender": "Lha-bzang Khan",
+    "Qing_dynasty": {
+      "Kangxi_Emperor": {},
+      "Yue_Zhongqi": "Han Chinese General who conquered Tibet for the Qing",
+      "Jalangga": "Manchu Bannermen, succeeded Yue Zhongqi as commander in 1732"
+    }
+  },
+  "military_campaigns": {
+    "Qing_response_1718": "A Qing army was sent to clear traditional trade routes but was defeated by the Dzungars at the Battle of the Salween River.",
+    "Qing_expulsion_1720": "A Qing expedition expelled the Dzungars from Tibet in 1720, beginning Qing rule of Tibet."
+  },
+  "post_war_situation": {
+    "Qing_rule_of_Tibet": "Lasted until the fall of the Qing dynasty in 1912.",
+    "Dzungar_succession": "Tsewang Rabtan was succeeded by Tsewang Rabtan as Khan of the Dzungars."
+  },
+  "cultural_and_political_impact": {
+    "Qing_manipulation": "The Manchu Kangxi emperor incited anti-Muslim sentiment to gain support against the Dzungar leader Galdan, spreading false claims about Galdan's religious affiliations and intentions."
+  },
+  "references": [
+    {
+      "Dani_Masson_Unesco_2003": "History of Civilizations of Central Asia: Development in Contrast: From the Sixteenth to the Mid-Nineteenth Century. ISBN 978-92-3-103876-1.",
+      "Millward_2007": "p. 89",
+      "Haines_2017": "The 'Military Revolution' Arrives on the Central Eurasian Steppe: The Unique Case of the Zunghar (1676 - 1745)",
+      "Perdue_2007": "China Marches West: The Qing Conquest of Central Asia, 153",
+      "Peterson_2007": "The Cambridge History of China, pg.154",
+      "Sanders_2007": "Historical Dictionary of Mongolia, pg. 288",
+      "Millward_2007": "Eurasian Crossroads: A history of Xinjiang, pg. 91",
+      "Nolan_2007": "Wars in the Age of Louis Xiv, 1650-1715, pg. 224"
+      // Additional references listed in the original text
+  ]
+}
