@@ -1,0 +1,87 @@
+{
+  "event": "Sino-Burmese War (Third)",
+  "other_names" ["Qing invasions of Burma", "the Myanmar campaign of the Qing dynasty"]
+  "Chinese_name": "清緬戰爭",
+  "Burmese_name" : "တရုတ်-မြန်မာ စစ်ပွဲများ",
+  "description": "A military conflict fought between the Qing dynasty of China and the Konbaung dynasty of Burma, considered one of Qianlong Emperor's Ten Great Campaigns.",
+  "location": {
+    "general": ["Shan State", "Kachin State", "Yunnan", "Upper Burma"],
+    "specific_battlefields": ["Kengtung", "Kaungton"]
+  },
+  "date_range": "December 1765 – 22 December 1769",
+  "result": {
+    "outcome": "Burmese victory",
+    "treaty": "Treaty of Kaungton",
+    "implications": [
+      "Assured Burmese independence",
+      "Solidified tripartite division of Mainland Southeast Asia between Burma, Siam, and Vietnam",
+      "Resumption of diplomatic relations between Burma and Qing Empire in 1790"
+    ]
+  },
+  "belligerents": {
+    "Qing_dynasty": {
+      "emperor": "Qianlong",
+      "commanders": ["Liu Zao", "Yang Yingju", "Ming Rui", "E'erdeng'e", "Aligui", "Fuheng", "Arigun", "Agui"],
+      "forces": ["Eight Banners Army", "Green Standard Army", "Mongols", "Tai-Shan militias"]
+    },
+    "Konbaung_Dynasty": {
+      "king": "Hsinbyushin",
+      "commanders": ["Maha Thiha Thura", "Maha Sithu", "Ne Myo Sithu", "Balamindin", "Teingya Minkhaung", "Pierre de Milard"],
+      "forces": ["Royal Burmese Army", "Bamar and Shan levies", "Royal Siamese Army"]
+    }
+  },
+  "military_strength": {
+    "Qing_dynasty": {
+      "first_invasion": "5,000 foot, 1,000 horse",
+      "second_invasion": "25,000 foot, 2,500 horse",
+      "third_invasion": "50,000 total",
+      "fourth_invasion": "60,000 total"
+    },
+    "Konbaung_Dynasty": {
+      "first_invasion": "2,000 foot, 200 horse",
+      "second_invasion": "4,500 foot, 200 horse",
+      "third_invasion": "~30,000 foot, 2,000 cavalry",
+      "fourth_invasion": "~40,000 total"
+    }
+  },
+  "casualties_and_losses": {
+    "Qing_dynasty": "Total: 70,000+, 2nd campaign: ~20,000, 3rd campaign: 30,000+, 4th campaign: 20,000+",
+    "Konbaung_Dynasty": "Unknown"
+  },
+  "campaign_overview": {
+    "initial_perception": "Qing emperor envisaged an easy war, sending only the Green Standard Army troops stationed in Yunnan.",
+    "significant_battles": [
+      "Battle of the Salween River",
+      "Battle near Khoton Lake",
+      "Battle near Erdene Zuu Monastery"
+    ],
+    "turning_points": [
+      "Third invasion nearly succeeded, reaching central Burma close to Ava.",
+      "Fourth invasion bogged down at the frontier with Qing forces encircled."
+    ]
+  },
+  "post_war_situation": {
+    "Qing_military_presence": "Kept a heavy military lineup in the border areas of Yunnan for about one decade.",
+    "Burma_military_preparation": "Kept a series of garrisons along the border, preoccupied with the Chinese threat.",
+    "diplomatic_relations": "Resumed in 1790 with the Qing unilaterally viewing it as Burmese submission and claiming victory."
+  },
+  "long_term_effects": {
+    "Siamese_recovery": "Siamese reclaimed most of their territories in the next three years after having lost their capital Ayutthaya to the Burmese in 1767."
+  },
+  "references": [
+    {
+      "source": "History of Civilizations of Central Asia: Development in Contrast: From the Sixteenth to the Mid-Nineteenth Century. UNESCO. 2003",
+      "ISBN": "978-92-3-103876-1"
+    },
+    {
+      "source": "Peter C. Perdue, China Marches West: The Qing Conquest of Central Asia",
+      "pages": "153, 177-180"
+    },
+    {
+      "source": "Christian Tyler, Wild West China: The Taming of Xinjiang",
+      "page": "54",
+      "ISBN": "978-0-8135-3533-3"
+    },
+    // Additional references and citations as provided in the original text
+  ]
+}
