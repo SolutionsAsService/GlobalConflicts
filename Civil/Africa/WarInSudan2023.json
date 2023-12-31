@@ -1,0 +1,75 @@
+{
+  "conflict_name": "War in Sudan (2023)",
+  "context": ["Sudanese Civil Wars", "Post COVID Conflicts"] ,
+  "images": [
+    {
+      "description": "Military situation as of 19 December 2023",
+      "territory_control": {
+        "SAF_controlled": "Controlled by Sudanese Armed Forces and allies",
+        "RSF_controlled": "Controlled by Rapid Support Forces",
+        "SPLM-N_controlled": "Controlled by SPLM-N (al-Hilu)",
+        "SLM_controlled": "Controlled by SLM (al-Nur)"
+      }
+    }
+  ],
+  "duration": {
+    "start_date": "15 April 2023",
+    "current_status": "Ongoing",
+    "total_time": "8 months, 2 weeks and 2 days"
+  },
+  "location": "Sudan",
+  "territorial_changes": {
+    "RSF_occupations": "Rapid Support Forces occupy most of Darfur, Khartoum State, Gezira State, and parts of White Nile, Sennar, Al Qadarif, North and West Kordofan.",
+    "SPLM-N_occupations": "SPLM-N (al-Hilu) occupies parts of South Kordofan and Blue Nile State."
+  },
+  "participants": {
+    "Sudanese Armed Forces": {
+      "allies": ["SPLM-N (Agar)", "SLM (Tambour) (since August 2023)", "JEM (since November 2023)", "SLM (Minnawi) (since November 2023)"],
+      "alleged_state_support": ["Egypt", "Iran", "Russia", "Saudi Arabia", "Turkey", "Ukraine"]
+    },
+    "Rapid Support Forces": {
+      "allies": ["Tamazuj (August 2023 – present)"],
+      "alleged_state_support": ["Chad", "Israel", "Kenya", "Russia", "Uganda", "United Arab Emirates"],
+      "alleged_non-state_support": ["Libyan National Army", "Wagner Group"]
+    },
+    "SPLM-N (al-Hilu)": [],
+    "SLM (al-Nur)": []
+  },
+  "commanders_and_leaders": {
+    "Sudanese Armed Forces": ["Abdel Fattah al-Burhan", "Yasser al-Atta", "Shams al-Din Khabbashi", "Malik Agar", "Mustafa Tambour", "Minni Minnawi"],
+    "Rapid Support Forces": ["Gibril Ibrahim", "Hemedti", "Abdelrahim Dagalo", "Abdel Rahman Jumma"],
+    "SPLM-N (al-Hilu)": ["Abdelaziz al-Hilu"],
+    "SLM (al-Nur)": ["Abdul Wahid al-Nur"]
+  },
+  "strength": {
+    "Sudanese Armed Forces": "110,000–120,000",
+    "Rapid Support Forces": "70,000–150,000",
+    "SPLM-N (al-Hilu)": "Unknown",
+    "SLM (al-Nur)": "Unknown"
+  },
+  "casualties_and_losses": {
+    "SAF_losses": "9,000–10,000 killed and 6,000–12,000 injured",
+    "RSF_losses": "Unknown",
+    "SPLM-N_losses": "Unknown",
+    "SLM_losses": "Unknown",
+    "displacement": "5,855,848 internally displaced, 1,523,350 refugees"
+  },
+  "overview": {
+    "description": "A war between the Sudanese Armed Forces (SAF) under Abdel Fattah al-Burhan and the paramilitary Rapid Support Forces (RSF) under Hemedti began on 15 April 2023. Fighting has been concentrated around the capital city of Khartoum and the Darfur region. As of October 2023, between 9,000 and 10,000 people had been killed and 6,000 to 12,000 others injured. The war has caused significant internal displacement and refugee crisis.",
+    "key_events": [
+      {
+        "date": "15 April 2023",
+        "event": "Outbreak of war between SAF and RSF."
+      },
+      {
+        "date": "October 2023",
+        "event": "Momentum swings towards the RSF as they make significant gains."
+      }
+    ]
+  },
+  "international_involvement": {
+    "negotiations": "Attempts by international powers to negotiate a ceasefire resulted in the Treaty of Jeddah, which did not stop the fighting.",
+    "support": "Many countries have provided military or political support for either al-Burhan or Hemedti."
+  },
+  "summary": "The War in Sudan is an ongoing conflict between the Sudanese Armed Forces and Rapid Support Forces, with various factions and foreign support involved. The war has resulted in thousands of deaths, widespread displacement, and a significant humanitarian crisis."
+}
