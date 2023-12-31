@@ -1,0 +1,54 @@
+{
+  "conflict": "First Ivorian Civil War",
+  "location": "Ivory Coast (Côte d'Ivoire)",
+  "duration": {
+    "start_date": "19 September 2002",
+    "end_date": "4 March 2007",
+    "total": "4 years, 5 months, 1 week and 6 days"
+  },
+  "result": "Tentative peace agreement, followed by renewed conflict",
+  "belligerents": {
+    "government": {
+      "name": "Ivory Coast",
+      "leader": "Laurent Gbagbo",
+      "support": ["COJEP", "Belarus"]
+    },
+    "rebel_forces": {
+      "name": "New Forces of Ivory Coast (Forces nouvelles de Côte d'Ivoire)",
+      "leader": "Guillaume Soro",
+      "alleged_support": ["Burkina Faso", "Liberia"]
+    },
+    "international_support": {
+      "name": ["France" , "UNOCI",]
+      "leaders": ["Jacques Chirac", "Kofi Annan"]
+    }
+  },
+  "casualties": {
+    "government_soldiers": "200+",
+    "militias": "100+",
+    "civilians": "1,200+",
+    "rebels": "300+",
+    "French_soldiers": "15",
+    "UN_personnel": "36",
+    "total": "900–1,700 (UCDP)"
+  },
+  "displacement": "750,000 people displaced (UNHCR)",
+  "background": {
+    "prelude": "Economic downturn and leadership succession crisis following the death of President Félix Houphouët-Boigny in 1993.",
+    "1999_coup": "Military coup d'état.",
+    "2000_election_dispute": "Violent dispute over the result of the 2000 presidential election.",
+    "leaders": ["Henri Konan Bédié (1993)", "Robert Guéï (1999)", "Laurent Gbagbo (2000)"],
+    "ivoirité_ideology": "Exploited to repress and marginalize political opposition, notably Alassane Ouattara, stoking ethnic tensions and xenophobic sentiment."
+  },
+  "war_outbreak": {
+    "rebellion_goals": "Re-run of the 2000 election and reform of exclusionary citizenship policies."
+  },
+  "interventions": {
+    "France": "Notable intervention to support peacekeeping efforts."
+  },
+  "post_war": {
+    "peace_agreement_date": "4 March 2007",
+    "follow_up_conflict": "Second Ivorian Civil War (2010–2011) over the 2010 presidential election results."
+  },
+  "summary": "The First Ivorian Civil War was a conflict in Ivory Coast from 19 September 2002 to 4 March 2007 between the government of Ivorian President Laurent Gbagbo and the New Forces rebel group led by Guillaume Soro. The war, marked by foreign interventions and significant casualties and displacements, was driven by ethnic tensions, exclusionary policies, and political disputes following years of instability and coups. The conflict ended with a peace agreement but was followed by renewed conflict due to unresolved political tensions."
+}
