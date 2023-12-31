@@ -1,0 +1,93 @@
+{
+  "conflict_name": "Russian invasion of Ukraine",
+  "part_of": ["Russo-Ukrainian War", "Russo-Ukrainian Conflict", "Post Soviet Conflicts"],
+  "images": [
+    {
+      "description": "Map of Ukraine as of 31 December 2023",
+      "territory_control": {
+        "Ukraine_controlled": "Continuously controlled by Ukraine",
+        "Russia_occupied": "Occupied by Russia",
+        "Recaptured_by_Ukraine": "Recaptured from Russia"
+      }
+    }
+  ],
+  "duration": {
+    "start_date": "24 February 2022",
+    "current_status": "Ongoing",
+    "total_time": "1 year, 10 months, 1 week and 1 day"
+  },
+  "location": {
+    "primary": "Ukraine, Russia, Black Sea",
+    "spillover": ["Poland", "Moldova", "Belarus"]
+  },
+  "belligerents": {
+    "Russia": {
+      "supported_by": "Belarus"
+    },
+    "Ukraine": {
+      "code": "Ukraine[c]"
+    }
+  },
+  "commanders_and_leaders": {
+    "Russia": [
+      "Vladimir Putin",
+      "Aleksandr Dvornikov",
+      "Gennady Zhidko",
+      "Sergey Surovikin",
+      "Valery Gerasimov"
+    ],
+    "Ukraine": [
+      "Volodymyr Zelenskyy",
+      "Valerii Zaluzhnyi",
+      "Oleksandr Syrskyi"
+    ]
+  },
+  "strength": {
+    "Russia": {
+      "Pre-invasion_at_border": "169,000–190,000",
+      "In_February_2023": "300,000+ active personnel in Ukraine"
+    },
+    "Ukraine": {
+      "Pre-invasion_total": "196,600 military, 102,000 paramilitary",
+      "September_2023_total": "over 800,000"
+    }
+  },
+  "casualties_and_losses": {
+    "description": "Reports vary widely, see Casualties section for details."
+  },
+  "overview": {
+    "description": "The invasion began on 24 February 2022 as an escalation of the ongoing Russo-Ukrainian War. It has caused tens of thousands of civilian casualties and hundreds of thousands of military casualties. Russia occupied about 20% of Ukrainian territory by June 2022. The war has led to a major refugee crisis and extensive environmental damage.",
+    "key_events": [
+      {
+        "date": "April 2022",
+        "event": "Russian troops retreat from the northern front."
+      },
+      {
+        "date": "March 2022",
+        "event": "Russia captures Kherson."
+      },
+      {
+        "date": "May 2022",
+        "event": "Russia captures Mariupol after a destructive siege."
+      },
+      {
+        "date": "Late 2022",
+        "event": "Ukraine launches successful counteroffensives in the south and east."
+      },
+      {
+        "date": "June 2023",
+        "event": "Ukraine launches another counteroffensive in the southeast."
+      }
+    ]
+  },
+  "international_response": {
+    "condemnation": "The invasion was met with international condemnation including a UN General Assembly resolution and sanctions against Russia and Belarus.",
+    "humanitarian_and_military_aid": "Many countries provided humanitarian and military aid to Ukraine.",
+    "protests": "Global protests occurred, and over 1,000 companies closed operations in Russia and Belarus due to the invasion."
+  },
+  "legal_actions": {
+    "ICC_investigations": "The International Criminal Court opened investigations into possible crimes against humanity, war crimes, abduction of children, and genocide.",
+    "arrest_warrant": "The court issued an arrest warrant for Putin and Maria Lvova-Belova in March 2023."
+  },
+  "summary": "The Russian invasion of Ukraine is an ongoing conflict that began in February 2022. It has resulted in significant casualties, territorial changes, and a major refugee crisis. The invasion has been widely condemned internationally, and it has led to various legal and political actions against Russia."
+}
