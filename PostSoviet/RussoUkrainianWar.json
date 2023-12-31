@@ -1,0 +1,114 @@
+{
+  "conflict_name": "Russo-Ukrainian War",
+  "part_of": ["Post Soviet Conflicts", "Russo-Ukrainian Conflict"],
+  "images": [
+    {
+      "description": "Ukrainian tanks during the 2022 Kharkiv counteroffensive",
+      "location": "Kharkiv, Ukraine"
+    },
+    {
+      "description": "Russian-installed officials in Moscow ratifying the annexation of four Ukrainian regions",
+      "location": "Moscow, Russia"
+    },
+    {
+      "description": "Russian-backed forces during the Donbas war",
+      "location": "Donbas, Ukraine"
+    },
+    {
+      "description": "Russian bombing during the Siege of Mariupol",
+      "location": "Mariupol, Ukraine"
+    },
+    {
+      "description": "Russian soldiers during the invasion of Crimea",
+      "location": "Crimea, Ukraine"
+    },
+    {
+      "description": "Civilians killed by Russian missile strikes on Kyiv",
+      "location": "Kyiv, Ukraine"
+    }
+  ],
+  "duration": {
+    "start_date": "20 February 2014",
+    "current_status": "Ongoing",
+    "total_time": "9 years, 10 months, 1 week and 5 days"
+  },
+  "location": {
+    "primary": "Ukraine, Russia, and Black Sea",
+    "spillover": ["Poland", "Moldova", "Belarus"]
+  },
+  "territorial_changes": {
+    "description": "Russian annexation of Crimea and parts of four southeast Ukrainian oblasts in 2014 and 2022, respectively",
+    "current_occupation": "Russian occupation of about 18% of Ukrainian territory as of November 2022"
+  },
+  "belligerents": {
+    "Ukraine": {
+      "support": "Various countries providing aid since 2022 (see military aid to Ukraine)"
+    },
+    "Russia": {
+      "allies": [
+        "Donetsk People's Republic",
+        "Luhansk People's Republic"
+      ],
+      "support": "Various Russian military suppliers"
+    }
+  },
+  "commanders_and_leaders": {
+    "Ukraine": [
+      "Volodymyr Zelenskyy",
+      "Petro Poroshenko",
+      "Oleksandr Turchynov",
+      "Andrii Zahorodniuk",
+      "Stepan Poltorak",
+      "Valeriy Heletey",
+      "Ihor Tenyukh",
+      "Valerii Zaluzhnyi",
+      "Ruslan Khomchak",
+      "Arsen Avakov"
+    ],
+    "Russia": [
+      "Vladimir Putin",
+      "Sergei Shoigu",
+      "Valery Gerasimov",
+      "Yevgeny Prigozhin",
+      "Alexander Zakharchenko",
+      "Denis Pushilin",
+      "Pavel Gubarev",
+      "Igor Girkin",
+      "Leonid Pasechnik",
+      "Igor Plotnitsky",
+      "Valery Bolotov"
+    ]
+  },
+  "strength": {
+    "details": [
+      "Combatants of the war in Donbas (2014–2022)",
+      "Order of battle for the Russian invasion of Ukraine"
+    ]
+  },
+  "casualties_and_losses": {
+    "reports": "Tens of thousands at a minimum",
+    "details": "See Casualties of the Russo-Ukrainian War for detailed information"
+  },
+  "overview": {
+    "description": "The Russo-Ukrainian War is an ongoing international conflict between Russia and Ukraine, which began in February 2014 following Ukraine's Revolution of Dignity. The conflict includes the annexation of Crimea, the Donbas war, and a full-scale invasion in 2022.",
+    "developments": [
+      {
+        "year": "2014",
+        "events": "Annexation of Crimea, Donbas war begins."
+      },
+      {
+        "year": "2015",
+        "events": "Minsk II agreements signed."
+      },
+      {
+        "year": "2022",
+        "events": "Full-scale invasion of Ukraine by Russia."
+      }
+    ]
+  },
+  "recent_developments": {
+    "2023": "Russia digs into positions ahead of another Ukrainian counteroffensive.",
+    "refugee_crisis": "The war has resulted in a refugee crisis.",
+    "deaths": "Tens of thousands of deaths."
+  },
+  "summary": "The Russo-Ukrainian War is a significant and ongoing conflict between Russia and Ukraine, marked by territorial annexations, political tensions, and significant military
