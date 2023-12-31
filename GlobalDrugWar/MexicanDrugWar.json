@@ -1,0 +1,118 @@
+{
+  "conflict_name": "Mexican Drug War",
+  "part_of": "War on Drugs",
+  "image_description": "The Mexican military raiding a house allegedly owned by a drug trafficker in Matamoros, 2012",
+  "duration": {
+    "start_date": "December 11, 2006",
+    "status": "Ongoing",
+    "total_time": "17 years, 2 weeks and 6 days"
+  },
+  "location": {
+    "primary": "Throughout Mexico",
+    "spillover": [
+      "Texas",
+      "Arizona",
+      "New Mexico",
+      "California",
+      "El Salvador",
+      "Honduras",
+      "Nicaragua",
+      "Belize",
+      "Venezuela",
+      "Colombia",
+      "Ecuador",
+      "Guatemala"
+    ]
+  },
+  "status": "Ongoing",
+  "belligerents": {
+    "Mexico": {
+      "forces": [
+        "Armed Forces",
+        "National Guard (2019–present)",
+        "Federal Police (2006–2019)",
+        "State and municipal police forces",
+        "Self-defense groups"
+      ],
+      "support": [
+        "United States through the Mérida Initiative",
+        "Colombia through the National Police of Colombia",
+        "Australia through the Australian Federal Police",
+        "Canada through the Royal Canadian Mounted Police's Anti-Crime Capacity Building Program (ACCBP)"
+      ]
+    },
+    "Guerrilla_groups": [
+      "Popular Revolutionary Army (EPR)",
+      "Zapatista Army of National Liberation (EZLN)"
+    ],
+    "Mexican_Cartels": {
+      "Main": [
+        "Sinaloa Cartel",
+        "CJNG",
+        "LNFM",
+        "Los Viagras"
+      ],
+      "Weakened_and_Defeated": [
+        "Gulf Cartel",
+        "Los Metros",
+        "Knights Templar Cartel",
+        "LFM",
+        "CSRL",
+        "Los Zetas",
+        "Juárez Cartel",
+        "Milenio Cartel",
+        "BLO",
+        "CIDA",
+        "Tijuana Cartel",
+        "Cárteles Unidos",
+        "La Barredora",
+        "La Unión Tepito"
+      ]
+    }
+  },
+  "commanders_and_leaders": {
+    "Mexico": [
+      "Felipe Calderón",
+      "Enrique Peña Nieto",
+      "Andrés Manuel López Obrador",
+      "Guillermo Galván",
+      "Salvador Cienfuegos",
+      "Luis Cresencio Sandoval",
+      "Mariano Francisco Saynez",
+      "Vidal Francisco Soberón Sanz",
+      "José Rafael Ojeda"
+    ],
+    "Cartel_leaders": [
+      "\"El Mayo\"",
+      "\"El Chapo\" (incarcerated)",
+      "...",
+      "\"El Mencho\"",
+      "\"El 85\" (incarcerated)"
+    ]
+  },
+  "strength": {
+    "Mexico": "368,000 police officers, 260,000 soldiers, 70,000 National Guard members",
+    "Cartels": "100,000+ individuals"
+  },
+  "casualties_and_losses": {
+    "Mexico": {
+      "servicemen": "400 killed and 137 missing",
+      "police": "4,038 killed",
+      "Policía_Comunitaria": "66 killed"
+    },
+    "EPR": "2 members killed",
+    "Cartels": "12,456 members killed (2006–2010), 121,199 detained (2006–2009), 8,500 convicted (2006–2010)",
+    "Total": "41,034 dead in war conflicts between identified parties 2006–2019 (total 350,000–400,000 dead from organized crime homicides 2006–2021), 60,000+ missing"
+  },
+  "overview": {
+    "description": "The Mexican drug war is an ongoing asymmetric low-intensity conflict between the Mexican government and various drug trafficking syndicates. The conflict escalated after the arrest of Miguel Ángel Félix Gallardo in 1989, leading to the fragmentation of the Guadalajara Cartel and the rise of new cartels. The Mexican government's main objective is to reduce drug-related violence and dismantle the cartels, contributing to the global war on drugs led by the United States.",
+    "impact": "Violence escalated after the fragmentation of cartels, leading to increased drug trafficking control and disputes over routes into the United States. The conflict has seen various strategies and reforms from the Mexican government to control corruption and cartel violence."
+  },
+  "recent_developments": {
+    "policy_changes": "Federal law enforcement reorganized at least five times since 1982 to control corruption and reduce violence, with creation of elite special forces.",
+    "funding": "The U.S. Congress passed legislation in late June 2008 to provide Mexico with US$1.6 billion for the Mérida Initiative.",
+    "presidential_statements": "President Andrés Manuel López Obrador declared in 2018 that the war was over, despite ongoing high homicide rates.",
+    "cartel_alliances": "Recently, cartels in Northeastern Mexico have been thinking of teaming up against the Jalisco New Generation Cartel."
+  },
+  "summary": "The Mexican Drug War is an ongoing conflict between the Mexican government and various drug cartels, marked by high levels of violence and casualties. The government, with international support, aims to reduce violence and dismantle cartels, while the cartels fight for control of drug trafficking routes. Despite various strategies and international support, the conflict remains a significant challenge for Mexico and has had widespread implications for the region."
+}
