@@ -1,0 +1,28 @@
+{
+  "Conflict": "Beaver Wars",
+  "Part_of": "American Indian Wars",
+  "Period": "July 1609 – August 4, 1701",
+  "Location": "Great Lakes region",
+  "Result": {
+    "Outcome": "Indecisive",
+    "Consequences": ["Great Peace of Montreal", "Growth of French influence in the Great Lakes region", "Huron-Wendat Confederacy destroyed"]
+  },
+  "Belligerents": {
+    "Iroquois_League": {
+      "Tribes": ["Mohawks", "Oneida", "Seneca", "Onondaga", "Cayuga"],
+      "Supported_by": ["England", "Dutch Republic"]
+    },
+    "Allies": {
+      "Tribes": ["Huron", "Algonquin", "Susquehannock", "Erie", "Neutral", "Petun", "Odawa", "Ojibwe", "Wenro", "Mahican", "Innu", "Abenaki"],
+      "Supported_by": "France"
+    }
+  },
+  "Strength": {
+    "Iroquois": "~4,500",
+    "Allies": "~20,000"
+  },
+  "Casualties_and_losses": {
+    "Iroquois": "Unknown",
+    "Allies": "Unknown"
+  }
+}
