@@ -1,0 +1,72 @@
+{
+  "2023_attacks_on_US_bases": {
+    "Context": ["spillover of the 2023 Israel–Hamas war", "Aftermath of the Iraq Wars", "Syrian Civil War"]
+    "Location": {
+      "Countries": ["Iraq", "Syria"],
+      "Coordinates": "34.445007°N 40.930892°E"
+    },
+    "Date": {
+      "Start": "17 October 2023",
+      "Status": "Ongoing"
+    },
+    "Description": {
+      "Summary": "Iran-backed groups carry out airstrikes targeting US military bases in Iraq and Syria, with the US responding with airstrikes.",
+      "Detailed": [
+        "On 18 October 2023, American military bases in northern Iraq and eastern Syria were struck by three drones, resulting in few casualties.",
+        "On 26 October, the US retaliated by attacking facilities in eastern Syria linked to IRGC-backed militias.",
+        "Over 40 successful drone and rocket strikes targeting US bases were reported within three weeks.",
+        "A US MQ-9 Reaper drone was shot down near Yemen by the Houthis."
+      ]
+    },
+    "Belligerents": {
+      "Iran": ["Islamic Revolutionary Guard Corps"],
+      "Syria": ["National Defence Forces"],
+      "Militia_Groups": [
+        "Popular Mobilization Forces",
+        "Islamic Resistance in Iraq",
+        "Ashab al Kahf",
+        "Syrian Hezbollah",
+        "Sons of Jazira and Euphrates"
+      ],
+      "United_States": ["United States Army", "United States Air Force"],
+      "Kurdistan": ["Peshmerga"]
+    },
+    "Commanders_and_leaders": {
+      "Iran": ["Mohammad-Reza Gharaei Ashtiani", "Esmail Qaani", "Mohammad Bagheri", "Hajj Askar"],
+      "Syria": ["Ali Mahmoud Abbas", "Abdul Karim Mahmoud Ibrahim", "Hawash Mohammed"],
+      "Militia_Groups": [
+        "Falih Al-Fayyadh",
+        "Qais Khazali",
+        "Akram al-Kaabi",
+        "Mohammad Amin Hussein al Raja",
+        "Tariq al Mayouf",
+        "Nawaf Ragheb al Bashir"
+      ],
+      "United_States": ["Lloyd Austin", "Charles Q. Brown Jr."],
+      "Kurdistan": ["Nechirvan Barzani", "Sores Ismail Abdulla"]
+    },
+    "Casualties_and_losses": {
+      "Iran_and_allies": "40+ killed, specific details on groups provided",
+      "United_States": "1 contractor killed (non-combat), 69 servicemen wounded, 1 MQ-9 Reaper shot down"
+    },
+    "Attacks": {
+      "Al-Asad_air_base": [
+        "Drone strike on 18 October 2023 with no casualties.",
+        "Ballistic missile attack on 20 November 2023 injuring eight."
+      ],
+      "Al-Tanf_garrison": "Drone strikes on 18 October and 1 November 2023 resulting in over 20 injuries.",
+      "Al-Harir_air_base": "Drone attacks on 8 November and 25 December 2023 injuring three US soldiers.",
+      "Other_strikes": "Multiple drone strikes on US bases in eastern Syria reported."
+    },
+    "US_response": {
+      "Initial_response": "Bombing of weapons and ammunition storage facilities in Abu Kamal, Syria on 27 October.",
+      "Additional_strikes": [
+        "Strikes against IRGC and IRGC-linked targets in Deir ez-Zor on 8 November.",
+        "Airstrikes targeting IRGC affiliated groups in Mayadin and Abu Kamal on 12 November.",
+        "Retaliatory actions against Kata'ib Hezbollah vehicle and facilities in November."
+      ]
+    },
+    "Notes": "US military officials have counted 103 attacks against its troops in Iraq and Syria since 17 October.",
+    "See_also": "Links or references to related events or topics"
+  }
+}
