@@ -1,0 +1,78 @@
+{
+  "Ten-Day_War": {
+    "description": "A brief armed conflict following Slovenia's declaration of independence from Yugoslavia",
+    "date": {
+      "start": "1991-06-27",
+      "end": "1991-07-07",
+      "duration": "1 week and 3 days"
+    },
+    "location": "Slovenia",
+    "result": {
+      "outcome": "Slovenian victory",
+      "consequences": [
+        "Brioni Agreement",
+        "Withdrawal of the JNA from Slovenia",
+        "Averted full-scale invasion by the JNA",
+        "Slovenia gains full independence from Yugoslavia"
+      ]
+    },
+    "belligerents": {
+      "Yugoslavia": {
+        "leaders": [
+          "Ante Marković",
+          "Veljko Kadijević",
+          "Blagoje Adžić",
+          "Konrad Kolšek",
+          "Aleksandar Vasiljević",
+          "Milan Aksentijević",
+          "Andrija Rašeta"
+        ],
+        "units": [
+          "Yugoslav People's Army",
+          "Yugoslav Ground Forces"
+        ],
+        "strength": "22,300 personnel"
+      },
+      "Slovenia": {
+        "leaders": [
+          "Milan Kučan",
+          "Lojze Peterle",
+          "Janez Janša",
+          "Igor Bavčar"
+        ],
+        "units": [
+          "National Police",
+          "Territorial Defence"
+        ],
+        "strength": "35,200 soldiers, 10,000 policemen"
+      }
+    },
+    "casualties": {
+      "Yugoslavia": {
+        "killed": 45,
+        "wounded": 146,
+        "captured": 4693
+      },
+      "Slovenia": {
+        "killed": 19,
+        "wounded": 182
+      },
+      "civilians": {
+        "killed": 12
+      }
+    },
+    "context": {
+      "background": "Following President Tito's death, escalating political and ethnic tensions in Yugoslavia",
+      "significance": "Marked the start of the Yugoslav Wars and a series of ethnic struggles in the region",
+      "military_action": "Slovenian Territorial Defence and Police fought against the Yugoslav People's Army",
+      "first_shot": "Fired on 27 June at Divača by an officer of the JNA"
+    },
+    "key_events": [
+      "Slovenian control of border posts and international airport at Brnik",
+      "Yugoslav People's Army's attempt to secure Slovenia's border crossings",
+      "Slovenian Territorial Defence shooting down two YPA helicopters",
+      "Major fighting at Nova Gorica and capture of strategic locations by Slovenian forces"
+    ],
+    "aftermath": "Despite brief duration, set the stage for subsequent conflicts in the Yugoslav Wars"
+  }
+}
