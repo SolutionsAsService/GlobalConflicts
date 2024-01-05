@@ -1,0 +1,86 @@
+{
+  "Yugoslav_Wars": {
+    "part_of": "post–Cold War era",
+    "duration": {
+      "start_date": "1991-03-31",
+      "end_date": "2001-11-12",
+      "total_duration": "10 years, 7 months, 1 week, 5 days"
+    },
+    "key_conflicts": {
+      "Slovenian_War_of_Independence": {
+        "duration": "1 week, 3 days",
+        "start_date": "1991-06-27",
+        "end_date": "1991-07-07"
+      },
+      "Croatian_War_of_Independence": {
+        "duration": "4 years, 7 months, 1 week, 5 days",
+        "start_date": "1991-03-31",
+        "end_date": "1995-11-12"
+      },
+      "Bosnian_War": {
+        "duration": "3 years, 8 months, 1 week, 6 days",
+        "start_date": "1992-04-06",
+        "end_date": "1995-12-14"
+      },
+      "Insurgency_in_Kosovo": {
+        "duration": "2 years, 9 months",
+        "start_date": "1995-05-27",
+        "end_date": "1998-02-27"
+      },
+      "Kosovo_War": {
+        "duration": "1 year, 3 months, 2 weeks",
+        "start_date": "1998-02-28",
+        "end_date": "1999-06-11"
+      },
+      "Insurgency_in_Preševo_Valley": {
+        "duration": "1 year, 11 months, 2 weeks, 6 days",
+        "start_date": "1999-06-12",
+        "end_date": "2001-06-01"
+      },
+      "Insurgency_in_Macedonia": {
+        "duration": "9 months, 3 weeks",
+        "start_date": "2001-01-22",
+        "end_date": "2001-11-12"
+      }
+    },
+    "location": [
+      "Serbia",
+      "Croatia",
+      "Bosnia and Herzegovina",
+      "Slovenia",
+      "Montenegro",
+      "Kosovo",
+      "North Macedonia"
+    ],
+    "outcome": {
+      "result": "Breakup of Yugoslavia and formation of independent successor states",
+      "total_deaths": "130,000–140,000",
+      "displaced": "approximately 4,000,000"
+    },
+    "background": {
+      "Yugoslav_Peoples_Army": {
+        "initial_goal": "Preserve unity of Yugoslav nation",
+        "shift": "Came under influence of Serbian nationalism under Slobodan Milošević",
+        "composition": "Primarily Serbs and Montenegrins towards the end"
+      },
+      "ethnic_tensions": "Unresolved tensions between ethnic minorities in new countries"
+    },
+    "significant_events": {
+      "genocide": {
+        "description": "War crimes including genocide, crimes against humanity, ethnic cleansing, mass wartime rape",
+        "notable_instance": "1995 Srebrenica massacre",
+        "first_European_genocide_since_WWII": true
+      },
+      "International_Criminal_Tribunal": {
+        "established_by": "United Nations",
+        "location": "The Hague, Netherlands",
+        "purpose": "Prosecute war crimes during the conflicts"
+      }
+    },
+    "casualties": {
+      "International_Center_for_Transitional_Justice_estimate": "140,000 deaths",
+      "Humanitarian_Law_Center_estimate": "at least 130,000 casualties"
+    },
+    "refugee_and_humanitarian_crises": true
+  }
+}
