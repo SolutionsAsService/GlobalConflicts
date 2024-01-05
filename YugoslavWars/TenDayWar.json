@@ -1,5 +1,7 @@
 {
   "Ten-Day_War": {
+    "Other_Names": "Slovenian War of Independence",
+    "Context": "Yugoslav Wars",
     "description": "A brief armed conflict following Slovenia's declaration of independence from Yugoslavia",
     "date": {
       "start": "1991-06-27",
