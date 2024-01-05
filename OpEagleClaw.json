@@ -1,0 +1,86 @@
+{
+  "Operation_Name": "Operation Eagle Claw",
+  "Also_Known_As": "Operation Tabas",
+  "Persian_Name": "عملیات طبس",
+  "Part_Of": "Iran Hostage Crisis",
+  "Location": {
+    "Near": "Tabas, South Khorasan, Iran",
+    "Coordinates": "33°04′23″N 55°53′33″E"
+  },
+  "Command_Structure": {
+    "President": "Jimmy Carter",
+    "Military_Leaders": [
+      {"Role": "Overall Commander", "Name": "Maj. Gen. James B. Vaught (US Army)"},
+      {"Role": "Field Commander (Aviation)", "Name": "Col. James H. Kyle (USAF)"},
+      {"Role": "Field Commander (Ground Forces)", "Name": "Col. Charles A. Beckwith (US Army)"},
+      {"Role": "USMC Component", "Name": "Lt. Col. Edward R. Seiffert (USMC)"},
+      {"Role": "CIA Involvement", "Name": "Howard Philips Hart"}
+    ]
+  },
+  "Objective": "Rescue 52 embassy staff held captive at the U.S. Embassy in Tehran, Iran",
+  "Date": "24–25 April 1980",
+  "Forces_Involved": {
+    "US_Army": ["Delta Force", "US Army Rangers"],
+    "CIA": ["Special Activities Division"],
+    "US_Air_Force": {},
+    "US_Marine_Corps": {},
+    "US_Navy": {}
+  },
+  "Outcome": {
+    "Status": "Failed",
+    "Aircraft_Destroyed": "1 helicopter, 1 transport aircraft",
+    "Helicopters_Abandoned_Captured": 5,
+    "Casualties": {
+      "US_Servicemen_Killed": 8,
+      "US_Servicemen_Injured": 4,
+      "Iranian_Civilian_Killed": 1
+    }
+  },
+  "Background": {
+    "Hostage_Crisis": {
+      "Date_Started": "4 November 1979",
+      "Hostages": "52 American diplomats and citizens",
+      "Hostage_Takers": "Iranian college students (Muslim Student Followers of the Imam's Line)"
+    },
+    "Diplomatic_Tensions": {
+      "Failed_Negotiations": "Release of hostages through diplomacy failed",
+      "US_Action": "Severed diplomatic relations with Iran on 7 April 1980"
+    }
+  },
+  "Planning": {
+    "Initiation": "6 November 1979",
+    "Commanders": ["Maj. Gen. James B. Vaught", "Col. James H. Kyle", "Col. Charlie Beckwith"],
+    "Operation_Basis": "Four branches of U.S. military (Army, Navy, Marines, Air Force)",
+    "Locations": {
+      "Desert_One": "Salt flat, 200 miles southeast of Tehran",
+      "Desert_Two": "Mountain location, 50 miles short of Tehran"
+    },
+    "CIA_Role": "In-country paramilitary team for information and transport"
+  },
+  "Execution": {
+    "First_Night": {
+      "Departure_Location": "Island of Masirah, Oman",
+      "Aircraft_Involved": ["USAF EC-130Es", "MC-130E Combat Talons"],
+      "Helicopters": "8 RH-53D Sea Stallions"
+    },
+    "Second_Night": {
+      "Rescue_Operation": "Assault on U.S. Embassy and Foreign Affairs building in Tehran",
+      "Extraction_Plan": "Helicopters to transport hostages and teams to Manzariyeh Air Base"
+    },
+    "Protection": "Carrier Air Wing Eight and CVW-14 with special markings"
+  },
+  "Incident_Details": {
+    "Landing_At_Desert_One": "22:47 local time, infrared landing system used",
+    "Unexpected_Events": [
+      {"Event": "Civilian bus intercepted", "Details": "Bus halted, passengers detained"},
+      {"Event": "Fuel tanker explosion", "Details": "Provided visual guide to Desert One"}
+    ],
+    "Helicopter_Failures": "2 out of 8 helicopters failed, one due to haboob",
+    "Mission_Abort_Decision": "Recommended by field commanders, confirmed by President Carter"
+  },
+  "Disastrous_Collision": {
+    "Collision_Details": "RH-53D helicopter crashed into EC-130 aircraft",
+    "Consequence": "Explosion and fire, 8 servicemen killed",
+    "Evacuation": "Forces evacuated in remaining EC-130s, leaving behind 5 RH-53Ds"
+  },
+  "
