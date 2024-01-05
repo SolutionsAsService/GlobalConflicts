@@ -1,0 +1,94 @@
+{
+  "Bosnian_War": {
+    "description": "An international armed conflict in Bosnia and Herzegovina from 1992 to 1995",
+    "part_of": "Yugoslav Wars",
+    "duration": "3 years, 8 months, 1 week and 6 days",
+    "start_date": "1992-04-06",
+    "end_date": "1995-12-14",
+    "location": "Bosnia and Herzegovina",
+    "result": {
+      "outcome": "Military stalemate",
+      "consequences": [
+        "Dayton Accords",
+        "Internal partition of Bosnia and Herzegovina",
+        "Over 101,000 dead, mainly Bosniaks",
+        "Deployment of NATO-led forces",
+        "Office of the High Representative established",
+        "International recognition of Bosnia and Herzegovina",
+        "Republika Srpska recognized as part of Bosnia and Herzegovina"
+      ]
+    },
+    "belligerents": {
+      "before_October_1992": ["Bosnia and Herzegovina", "Herzeg-Bosnia", "Croatia", "Republika Srpska", "Serbian Krajina", "SFR Yugoslavia"],
+      "after_October_1992": ["Bosnia and Herzegovina", "Herzeg-Bosnia", "Croatia", "Republika Srpska", "Serbian Krajina", "Western Bosnia", "FR Yugoslavia"],
+      "support": "FR Yugoslavia",
+      "NATO_support": "bombing operations in 1995"
+    },
+    "commanders_and_leaders": {
+      "Bosnia_and_Herzegovina": ["Alija Izetbegović", "Haris Silajdžić", "Sefer Halilović", "Rasim Delić", "Enver Hadžihasanović"],
+      "NATO": "Leighton W. Smith Jr.",
+      "Croatia": ["Franjo Tuđman", "Gojko Šušak", "Janko Bobetko"],
+      "Herzeg_Bosnia": ["Mate Boban", "Krešimir Zubak", "Milivoj Petković"],
+      "FR_Yugoslavia": ["Slobodan Milošević", "Momčilo Perišić"],
+      "Republika_Srpska": ["Radovan Karadžić", "Ratko Mladić"],
+      "Western_Bosnia": "Fikret Abdić"
+    },
+    "military_strength": {
+      "ARBiH": {
+        "troops": 110000,
+        "reserves": 110000,
+        "tanks": 40,
+        "APCs": 30
+      },
+      "HVO": {
+        "troops": 45000,
+        "tanks": 75,
+        "APCs": 50,
+        "artillery_pieces": 200
+      },
+      "HV": {
+        "troops": 15000
+      },
+      "JNA": {
+        "strength": "Unknown"
+      },
+      "VRS": {
+        "troops": 80000,
+        "tanks": 300,
+        "APCs": 700,
+        "artillery_pieces": 800
+      },
+      "AP_Western_Bosnia": {
+        "troops": 4000
+      }
+    },
+    "casualties_and_losses": {
+      "Bosnia_and_Herzegovina": {
+        "soldiers_killed": 30521,
+        "civilians_killed": 31583
+      },
+      "Herzeg_Bosnia": {
+        "soldiers_killed": 6000,
+        "civilians_killed": 2484
+      },
+      "Republika_Srpska": {
+        "soldiers_killed": 21173,
+        "civilians_killed": 4179
+      },
+      "unstated": {
+        "total_killed": 5100
+      }
+    },
+    "additional_information": {
+      "War_crimes_convictions": {
+        "ICTY_convictions": {
+          "Serbs": 45,
+          "Croats": 12,
+          "Bosniaks": 4
+        }
+      },
+      "total_killed": "Over 100,000",
+      "displaced_persons": "Over 2.2 million",
+      "women_raped": "Estimated 12,000–50,000, mainly by Serb forces"
+    }
+  }
