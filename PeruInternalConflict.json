@@ -1,0 +1,77 @@
+{
+  "ConflictName": "Internal Conflict in Peru",
+  "Context": {
+    "Cold War": "1980–1991",
+    "WarOnDrugs": "1980–present"
+  },
+  "ActiveAreas": "Shining Path active regions in Peru",
+  "Timeline": {
+    "MainPhase": {
+      "StartDate": "17 May 1980",
+      "EndDate": "December 2000",
+      "Sources": ["[21]", "[22]"]
+    },
+    "LowLevelActivity": {
+      "StartDate": "22 June 2002",
+      "Status": "Ongoing",
+      "Source": "[23]"
+    }
+  },
+  "Location": "Peru",
+  "Belligerents": {
+    "Peru": {
+      "Forces": [
+        "Peruvian Armed Forces",
+        "Peruvian Army",
+        "Peruvian Navy",
+        "Peruvian Air Force",
+        "National Intelligence Service"
+      ],
+      "Paramilitaries": ["Rondas campesinas", "Rodrigo Franco Command", "Grupo Colina"],
+      "Supporters": ["China", "Colombia", "Cuba", "North Korea", "Russia", "Spain", "United States", "Soviet Union"]
+    },
+    "Communist Party of Peru – Shining Path": {
+      "Forces": ["People's Guerrilla Army"],
+      "Supporters": ["MOVADEF", "FUDEPP", "Hezbollah", "International Communist League", "Revolutionary Internationalist Movement", "Libya"]
+    },
+    "Militarized Communist Party of Peru": {
+      "Supporters": ["Plurinational Association of Tawantinsuyo Reservists"]
+    },
+    "Red Mantaro Base Committee": {
+      "Supporters": ["FARC-EP in Peru", "FARC dissidents"]
+    },
+    "Ethnocacerist Movement": {
+      "Supporters": ["Hezbollah"]
+    },
+    "Huallaga Faction and Túpac Amaru Revolutionary Movement": {
+      "Supporters": ["19th of April Movement", "Farabundo Martí National Liberation Front", "Sandinista National Liberation Front", "Cuba", "Libya", "Soviet Union"]
+    }
+  },
+  "CommandersAndLeaders": {
+    "Peru": [
+      {"Name": "Fernando Belaúnde Terry", "Period": "1980–1985"},
+      {"Name": "Alan García", "Period": "1985–1990, 2006–2011"},
+      {"Name": "Alberto Fujimori", "Period": "1990–2000"},
+      // Additional leaders...
+    ],
+    "ShiningPath": [
+      {"Name": "Chairman Gonzalo", "Status": "Captured"},
+      {"Name": "Comrade Feliciano", "Status": "Captured"},
+      // Additional leaders...
+    ]
+  },
+  "Strength": {
+    "ShiningPath": {
+      "Peak": "15,000 militants",
+      "2015Estimate": "250–650 militants"
+    },
+    "OtherGroups": {
+      "Peak": "~200 militants"
+    }
+  },
+  "CasualtiesAndLosses": "Approximately 50,000–69,280 killed in total (1980–2002)",
+  "Background": "Ongoing armed conflict between the Government of Peru and Maoist guerilla group Shining Path and its remnants.",
+  "HumanRightsRecord": "Peru had one of the worst human rights records in the Western Hemisphere during the conflict, including forced disappearances and mass killings.",
+  "CivilianImpact": "High civilian casualties, with Indigenous peoples specifically targeted.",
+  "CurrentStatus": "The number of deaths has dropped significantly since 2000, with recent conflict becoming dormant."
+}
