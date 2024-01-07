@@ -1,9 +1,9 @@
 {
   "Kargil_War": {
-    "context" "Kashmir conflict and India–Pakistan conflict",
-      "location": "Kargil district, Jammu and Kashmir (now Ladakh), India",
-      "duration": "3 May – 26 July 1999",
-      "result": "Indian victory, India regains possession of Kargil, Status quo ante bellum"
+    "context": [ "Kashmir conflict", "India–Pakistan conflict"],
+    "location": "Kargil district, Jammu and Kashmir (now Ladakh), India",
+    "duration": "3 May – 26 July 1999",
+    "result": "Indian victory, India regains possession of Kargil, Status quo ante bellum"
     
     "belligerents": {
       "India": {
