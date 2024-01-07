@@ -32,7 +32,10 @@
           "Lt. Gen. Muhammad Aziz Khan (Chief of the General Staff)"
         ],
         "strength": "5,000",
-        "casualties_and_losses": "453-4,000 killed, 665+ wounded, 8 POWs"
+        "casualties_and_losses": {
+       "Killed": "453-4,000",
+        "Wounded": "665+",
+        "POWs", "8" }
       }
     },
     "phases": {
