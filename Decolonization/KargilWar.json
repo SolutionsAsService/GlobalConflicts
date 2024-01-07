@@ -1,0 +1,38 @@
+{
+  "Kargil_War": {
+    "context": {
+      "part_of": "Kashmir conflict and India–Pakistan conflict",
+      "location": "Kargil district, Jammu and Kashmir (now Ladakh), India",
+      "duration": "3 May – 26 July 1999",
+      "result": "Indian victory, India regains possession of Kargil, Status quo ante bellum"
+    },
+    "belligerents": {
+      "India": {
+        "leaders": [
+          "K. R. Narayanan (President of India)",
+          "Atal Bihari Vajpayee (Prime Minister of India)",
+          "Gen. Ved Prakash Malik (Chief of the Army Staff)",
+          "Lt. Gen. Chandra Shekhar (Vice Chief of the Army Staff)",
+          "ACM Anil Yashwant Tipnis (Chief of the Air Staff)"
+        ],
+        "strength": "30,000",
+        "casualties_and_losses": "527 killed, 1,363 wounded, 1 POW, 1 fighter jet shot down, 1 fighter jet crashed, 1 helicopter shot down"
+      },
+      "Pakistan": {
+        "leaders": [
+          "M. R. Tarar (President of Pakistan)",
+          "Nawaz Sharif (Prime Minister of Pakistan)",
+          "Gen. Pervez Musharraf (Chief of the Army Staff)",
+          "Lt. Gen. Muhammad Aziz Khan (Chief of the General Staff)"
+        ],
+        "strength": "5,000",
+        "casualties_and_losses": "453-4,000 killed, 665+ wounded, 8 POWs"
+      }
+    },
+    "phases": {
+      "initial_infiltration": "Pakistan infiltrated forces into the Indian-controlled section of Kashmir and occupied strategic locations enabling artillery fire on NH1.",
+      "indian_discovery_and_response": "India discovered the infiltration and mobilised forces to respond.",
+      "major_battles_and_withdrawal": "Major battles by Indian and Pakistani forces resulted in India recapturing most territories held by Pakistani forces and the subsequent withdrawal of Pakistani forces back across the LOC after international pressure."
+    }
+  }
+}
