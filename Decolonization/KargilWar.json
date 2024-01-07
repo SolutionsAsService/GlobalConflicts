@@ -1,11 +1,10 @@
 {
   "Kargil_War": {
-    "context": {
-      "part_of": "Kashmir conflict and India–Pakistan conflict",
+    "context" "Kashmir conflict and India–Pakistan conflict",
       "location": "Kargil district, Jammu and Kashmir (now Ladakh), India",
       "duration": "3 May – 26 July 1999",
       "result": "Indian victory, India regains possession of Kargil, Status quo ante bellum"
-    },
+    
     "belligerents": {
       "India": {
         "leaders": [
@@ -16,7 +15,14 @@
           "ACM Anil Yashwant Tipnis (Chief of the Air Staff)"
         ],
         "strength": "30,000",
-        "casualties_and_losses": "527 killed, 1,363 wounded, 1 POW, 1 fighter jet shot down, 1 fighter jet crashed, 1 helicopter shot down"
+        "casualties_and_losses": {
+        "killed": 527,
+        "wounded": "1,363"
+        "POW": 1, 
+        "fighter jet shot down": 1,
+        "fighter jet crashed": 1,
+        "helicopter shot down": 1,
+        "TotalAircraftLost": 3 }
       },
       "Pakistan": {
         "leaders": [
