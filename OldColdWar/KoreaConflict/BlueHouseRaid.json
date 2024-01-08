@@ -1,0 +1,56 @@
+{
+  "BlueHouseRaid": {
+    "Description": "A North Korean commando raid aimed at assassinating South Korean President Park Chung Hee in 1968.",
+    "Location": "Blue House, Seoul, South Korea",
+    "Date": "January 17, 1968 – January 29, 1968",
+    "Result": "South Korean and U.S. victory",
+    "Belligerents": {
+      "SouthKorea": true,
+      "UnitedStates": true,
+      "NorthKorea": true
+    },
+    "CommandersAndLeaders": {
+      "SouthKorea": "Park Chung Hee",
+      "UnitedStates": "Charles Bonesteel",
+      "NorthKorea": "Kim Il Sung"
+    },
+    "UnitsInvolved": {
+      "SouthKorea": ["ROK 25th Infantry Division", "ROK 26th Infantry Division (Elements)"],
+      "UnitedStates": ["U.S. 2nd Infantry Division (Elements)", "U.S. 7th Infantry Division (Elements)"],
+      "NorthKorea": ["Unit 124"]
+    },
+    "CasualtiesAndLosses": {
+      "SouthKoreaUS": "30 killed (26 South Koreans, 4 Americans), 66 wounded",
+      "NorthKorea": "29 killed and/or committed suicide, 1 captured, 1 fled"
+    },
+    "Background": {
+      "Context": "Part of the Korean DMZ Conflict (1966–69) influenced by the Vietnam War",
+      "ParkChungHee": "Seized power in 1961, elected President in 1963",
+      "NorthKoreanMotivation": "Increased infiltration activities following diminished domestic opposition to Park in South Korea"
+    },
+    "Preparations": {
+      "Unit124": "31 men from elite KPA unit, trained for two years, rehearsed in full-scale mockup of Blue House",
+      "Training": "Infiltration/exfiltration techniques, navigation, airborne operations, hand-to-hand combat, emphasis on knife fighting"
+    },
+    "Raid": {
+      "Infiltration": "Crossed DMZ, moved towards Seoul in stages, inadvertently discovered by civilians, changed into ROKA uniforms for final approach",
+      "Conflict": "Engagement near Blue House with South Korean police and military forces, commandos dispersed"
+    },
+    "Casualties": {
+      "SouthKorean": "26 killed, 66 wounded",
+      "American": "4 killed",
+      "NorthKorean": "29 killed, 1 captured, 1 escaped"
+    },
+    "Aftermath": {
+      "UNCMACMeeting": "Discussion of raid overshadowed by USS Pueblo incident",
+      "SouthKoreanResponse": "Formation of Unit 684 for retaliatory assassination attempt on Kim Il Sung",
+      "NorthKoreanRegret": "Expressed by Kim Il Sung in 1972",
+      "ParkChungHeeAssassination": "Killed in 1979 by the director of the KCIA"
+    },
+    "References": [
+      "Balázs Szalontai's analysis of North Korea's militant strategy",
+      "Sheila Miyoshi Jager's book 'Brothers at War – The Unending Conflict in Korea'",
+      "MilitaryHistoryNow.com's account of the Blue House Raid"
+    ]
+  }
+}
