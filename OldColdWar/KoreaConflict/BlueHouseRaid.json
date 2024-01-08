@@ -1,6 +1,7 @@
 {
   "BlueHouseRaid": {
     "Description": "A North Korean commando raid aimed at assassinating South Korean President Park Chung Hee in 1968.",
+    "Context": ["Cold War", "Vietnam War", "DMZ Conflict", "Korean Conflict"],
     "Location": "Blue House, Seoul, South Korea",
     "Date": "January 17, 1968 – January 29, 1968",
     "Result": "South Korean and U.S. victory",
