@@ -6,9 +6,11 @@
     "Date": "January 17, 1968 – January 29, 1968",
     "Result": "South Korean and U.S. victory",
     "Belligerents": {
-      "SouthKorea": true,
-      "UnitedStates": true,
-      "NorthKorea": true
+      "ROK and US": [
+      "SouthKorea",
+      "UnitedStates" ]
+      "NorthKorea": {
+      "North Korea": 
     },
     "CommandersAndLeaders": {
       "SouthKorea": "Park Chung Hee",
