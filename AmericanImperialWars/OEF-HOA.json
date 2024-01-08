@@ -1,0 +1,76 @@
+{
+  "operationName": "Operation Enduring Freedom – Horn of Africa",
+  "location": {
+    "generalArea": "Horn of Africa, Gulf of Aden, Guardafui Channel"
+  },
+  "result": {
+    "highLevelTargets": 21,
+    "description": "21 high level Al-Shabaab leaders killed"
+  },
+  "belligerents": {
+    "natoAndAllies": [
+      "NATO", "European Union", "SADC", "Australia", "Azerbaijan", "Belarus",
+      "Canada", "Colombia", "Djibouti", "Ethiopia", "France", "Georgia",
+      "Germany", "Greece", "India", "Indonesia", "Italy", "Japan", "Kenya",
+      "South Korea", "Kyrgyzstan", "Malaysia", "New Zealand", "Norway",
+      "Pakistan", "Poland", "Portugal", "Russia", "Seychelles", "Singapore",
+      "South Africa", "Somalia", "Spain", "Tajikistan", "Thailand", "Turkey",
+      "Turkmenistan", "Uganda", "Ukraine", "Uzbekistan", "United Kingdom",
+      "United States"
+    ]
+  },
+  "insurgents": {
+    "groups": [
+      "Islamic State of Iraq and the Levant (from 2015)", "al-Qaeda (from 2002)",
+      "Al-Shabaab (from 2006)", "al-Itihaad al-Islamiya (2002–06)",
+      "Hizbul Islam (2009–14)", "Ras Kamboni Brigades (2007–10)",
+      "Jabhatul Islamiya (2007–09)", "Mu'askar Anole (2007–09)"
+    ]
+  },
+  "pirates": {
+    "groups": [
+      "Somali Marines", "National Volunteer Coast Guard (NVCG)",
+      "Marka group", "Puntland Group", "Yemeni Pirates"
+    ]
+  },
+  "commandersAndLeaders": {
+    "unitedStates": [
+      {
+        "role": "Commander in Chief",
+        "name": "George W Bush",
+        "years": "2001–2009"
+      },
+      // Additional commanders...
+    ]
+  },
+  "casualtiesAndLosses": {
+    "unitedStates": {
+      "killedInAction": 2,
+      "wounded": 6,
+      "nonCombatFatalities": 35
+    },
+    "northKorea": {
+      "wounded": 3
+    },
+    "insurgents": {
+      "killedInSomalia": "1,230–1,367",
+      "killedInAmericanOperations": "555+ (2017-18), 10 (2019)"
+    },
+    "pirates": {
+      "captured": "More than 1,200",
+      "civiliansKilledInAmericanOperations": "22–37"
+    }
+  },
+  "description": {
+    "generalOverview": "Operation Enduring Freedom – Horn of Africa (OEF-HOA) is a component of Operation Enduring Freedom (OEF). The Combined Joint Task Force – Horn of Africa (CJTF-HOA) is the primary military component assigned to accomplish the objectives of the mission. The naval components are the multinational Combined Task Force 150 (CTF-150) and Combined Task Force 151 (CTF-151) which operate under the United States Fifth Fleet.",
+    "antiPiracyOperations": "Pirates were rampant along the coast of Somalia. Anti-piracy operations were conducted by Combined Task Force 150, Combined Task Force 151, Operation Atalanta, Operation Copper, and others."
+  },
+  "references": [
+    {
+      "source": "Global Security",
+      "link": "https://www.globalsecurity.org/military/ops/oef-hoa.htm",
+      "title": "Pirates"
+    },
+    // Additional references...
+  ]
+}
