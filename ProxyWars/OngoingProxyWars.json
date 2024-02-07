@@ -569,6 +569,218 @@
         ]
       },
       "Result": "Ongoing"
+    },
+    {
+      "Name": "Internal conflict in Peru",
+      "Dates": "1980–present",
+      "Combatant1": {
+        "Name": "Insurgent groups",
+        "Forces": [
+          "Shining Path",
+          "MRTA (until 1997)"
+        ],
+        "SupportedBy": [
+          "Cuba",
+          "Libyan Arab Jamahiriya"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Peruvian state",
+        "Forces": [
+          "Peruvian Armed Forces",
+          "National Intelligence Service",
+          "Grupo Colina",
+          "Rondas Campesinas"
+        ],
+        "SupportedBy": [
+          "United States",
+          "Soviet Union (until 1991)",
+          "Russia",
+          "Japan",
+          "Colombia"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Abkhaz–Georgian conflict",
+      "Dates": "1989–present",
+      "Combatant1": {
+        "Name": "Georgia",
+        "SupportedBy": ["NATO"]
+      },
+      "Combatant2": {
+        "Name": "Abkhazia",
+        "SupportedBy": [
+          "Russia",
+          "Turkey"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Georgian–Ossetian conflict",
+      "Dates": "1989–present",
+      "Combatant1": {
+        "Name": "Georgia",
+        "SupportedBy": ["NATO"]
+      },
+      "Combatant2": {
+        "Name": "South Ossetia",
+        "SupportedBy": ["Russia"]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Insurgency in Jammu and Kashmir",
+      "Dates": "1989–present",
+      "Combatant1": {
+        "Name": "India",
+        "Forces": [
+          "Indian Army",
+          "Indian Air Force",
+          "Jammu and Kashmir Police",
+          "Central Reserve Police Force"
+        ],
+        "SupportedBy": [
+          "United States",
+          "Iran",
+          "Russia"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Insurgent groups",
+        "Forces": [
+          "Harkat-ul-Jihad al-Islami",
+          "Lashkar-e-Taiba",
+          "Jaish-e-Mohammed",
+          "Hizbul Mujahideen",
+          "Harkat-ul-Mujahideen",
+          "Al-Badr",
+          "Jammu Kashmir Liberation Front"
+        ],
+        "SupportedBy": [
+          "Pakistan",
+          "China",
+          "Afghanistan Taliban",
+          "Saudi Arabia",
+          "al-Qaeda"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Allied Democratic Forces insurgency",
+      "Dates": "1995–present",
+      "Combatant1": {
+        "Name": "Coalition forces",
+        "Forces": [
+          "Uganda",
+          "DR Congo",
+          "United Nations UNF Intervention Brigade",
+          "South Africa",
+          "Tanzania",
+          "Malawi"
+        ],
+        "SupportedBy": ["United States"]
+      },
+      "Combatant2": {
+        "Name": "Insurgent groups",
+        "Forces": [
+          "ADF",
+          "NALU",
+          "Tabliq",
+          "Hutu fighters"
+        ],
+        "SupportedBy": [
+          "LRA",
+          "Sudan"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Syrian Civil War",
+      "Dates": "2011–present",
+      "Combatant1": {
+        "Name": "Syrian opposition",
+        "SupportedBy": [
+          "Saudi Arabia",
+          "Qatar",
+          "United States",
+          "Turkey",
+          "Libya",
+          "European Union",
+          "Australia",
+          "Egypt (before 2013)",
+          "France",
+          "United Kingdom",
+          "Jordan",
+          "Italy",
+          "Netherlands",
+          "Canada",
+          "Germany"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Syrian government and allies",
+        "Forces": [
+          "Syria",
+          "Armenia",
+          "Iran",
+          "Russia",
+          "Iraq",
+          "Pakistan",
+          "China",
+          "North Korea",
+          "Cuba",
+          "Venezuela",
+          "Algeria",
+          "Belarus",
+          "Angola",
+          "Egypt (from 2015)",
+          "United Arab Emirates",
+          "Rojava"
+        ],
+        "SupportedBy": [
+          "United States",
+          "France",
+          "United Kingdom",
+          "Iraqi Kurdistan",
+          "CJTF-OIR"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Yemeni Crisis (part of Iran-Saudi Arabia proxy conflicts)",
+      "Dates": "2011–present",
+      "Combatant1": {
+        "Name": "Yemen (Hadi government) and Saudi-led coalition",
+        "SupportedBy": [
+          "Somalia",
+          "United States",
+          "Eritrea",
+          "United Kingdom",
+          "France",
+          "Pakistan",
+          "Canada",
+          "Italy",
+          "Turkey",
+          "Germany"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Yemen (Supreme Political Council) and allies",
+        "SupportedBy": [
+          "Iran",
+          "Iraq",
+          "North Korea",
+          "Russia",
+          "Syria"
+        ]
+      },
+      "Result": "Ongoing"
     }
     
   ]
