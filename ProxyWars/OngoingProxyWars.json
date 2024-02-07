@@ -360,6 +360,216 @@
         ]
       },
       "Result": "Ongoing"
+    },
+    {
+      "Name": "Civil conflict in the Philippines",
+      "Dates": "1969–present",
+      "Combatant1": {
+        "Name": "Communist forces",
+        "Forces": [
+          "Communist Party",
+          "NPA",
+          "NDF",
+          "Makabayan",
+          "MLPP-RHB",
+          "APP",
+          "RPA",
+          "ABB",
+          "CPLA (until 2011)",
+          "Moro National Liberation Front (MNLF)",
+          "Moro Islamic Liberation Front (MILF) (until 2014)",
+          "MRLO",
+          "Ampatuan militias"
+        ],
+        "SupportedBy": [
+          "Malaysia (to MNLF and MILF)",
+          "People's Republic of China (1969–1976, alleged continued support)",
+          "Libyan Arab Jamahiriya (1980s–2011, to MNLF and NPA)",
+          "North Korea",
+          "Vietnam (1980s)"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Anti-communist forces",
+        "Forces": [
+          "Philippines",
+          "Alsa Masa (1986–?)",
+          "CAFGU"
+        ],
+        "SupportedBy": [
+          "United States"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Cabinda War",
+      "Dates": "1975–present",
+      "Combatant1": {
+        "Name": "FLEC and allies",
+        "Forces": [
+          "FLEC",
+          "FLEC-FAC",
+          "FLEC-Renovada",
+          "FLEC-N'Zita",
+          "FLEC-Lubota",
+          "Uniao Nacional de Libertaçao de Cabinda",
+          "Communist Committee of Cabinda"
+        ],
+        "SupportedBy": [
+          "France",
+          "Zaire",
+          "Belgium",
+          "World League for Freedom and Democracy",
+          "China (alleged)"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Angola",
+        "SupportedBy": [
+          "UNITA",
+          "Cuba",
+          "East Germany (until 1989)",
+          "Soviet Union (until 1989)",
+          "Brazil"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Civil conflict in Turkey",
+      "Dates": "1976–present",
+      "Combatant1": {
+        "Name": "Insurgent groups",
+        "Forces": [
+          "TAK",
+          "TKP/ML-TİKKO",
+          "MKP-HKO-PHG",
+          "Maoist Party",
+          "Maoist Party Centre",
+          "THKO",
+          "Devrimci Yol",
+          "Revolutionary People's Liberation Party/Front"
+        ],
+        "SupportedBy": [
+          "Soviet Union",
+          "China",
+          "ASALA (1970s–1988)",
+          "Syria",
+          "Greece",
+          "Cyprus",
+          "Iran",
+          "Iraq",
+          "Libya"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Turkey",
+        "SupportedBy": [
+          "Turkic Council"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Iran–Saudi Arabia proxy conflict",
+      "Dates": "1979–present",
+      "Combatant1": {
+        "Name": "Saudi Arabia and allies",
+        "Forces": [
+          "Saudi Arabia",
+          "United Arab Emirates",
+          "Bahrain",
+          "Jordan",
+          "Egypt",
+          "Qatar (until 2017)",
+          "Yemen (Hadi government)",
+          "Kuwait",
+          "March 14 Alliance",
+          "Morocco",
+          "Ba'athist Iraq (until 1989)",
+          "Israel",
+          "Syrian opposition",
+          "Free Syrian Army",
+          "Revolutionary Commando Army",
+          "Rojava",
+          "People's Mujahedin of Iran",
+          "National Council of Iran",
+          "Democratic Party of Iranian Kurdistan",
+          "Jaish ul-Adl",
+          "Kurdistan Free Life Party",
+          "Komala Party of Iranian Kurdistan",
+          "Ahvaz National Resistance",
+          "Tahrir al-Sham",
+          "Al-Nusra Front",
+          "State of Palestine Palestinian National Authority",
+          "ASLMA",
+          "Kurdistan Freedom Party",
+          "Naqshbandi Army",
+          "Free Iraqi Army",
+          "Sadrist Movement",
+          "Lebanese Forces",
+          "Future Movement",
+          "Libyan National Army"
+        ],
+        "SupportedBy": [
+          "Afghanistan (until 2021)",
+          "Greece",
+          "Azerbaijan",
+          "Somalia",
+          "Senegal",
+          "Tajikistan",
+          "United States",
+          "United Kingdom",
+          "Turkey (until 2017)",
+          "Sudan (from 2015)",
+          "Nigeria"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Iran and allies",
+        "Forces": [
+          "Iran",
+          "Hezbollah",
+          "Syria",
+          "Iraq (from 2006)",
+          "Yemen (Houthi government)",
+          "Libya (until 2011)",
+          "Lebanon",
+          "Hezbollah Al-Hejaz",
+          "Organization for the Islamic Revolution in the Arabian Peninsula",
+          "Liwa Fatemiyoun",
+          "Houthi movement",
+          "Popular Mobilization Forces",
+          "Al-Ashtar Brigades",
+          "Al-Mukhtar Brigades",
+          "Hezbe Wahdat",
+          "Hamas",
+          "Husseiniyoun",
+          "Muslim Brotherhood",
+          "Liwa Zainebiyoun",
+          "Islamic Movement of Nigeria",
+          "Polisario Front",
+          "Taliban",
+          "March 8 Alliance",
+          "National Defence Forces",
+          "February 14 Youth Coalition",
+          "Government of National Accord"
+        ],
+        "SupportedBy": [
+          "China",
+          "Gaza Strip",
+          "Russia",
+          "North Korea",
+          "Sudan (until 2015)",
+          "Venezuela",
+          "Cuba",
+          "Oman (allegedly)",
+          "Turkey (from 2017)"
+        ]
+      },
+      "Result": "Ongoing"
     }
+    
   ]
 }
