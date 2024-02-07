@@ -156,6 +156,210 @@
         ]
       },
       "Result": "Ongoing"
+    },
+    {
+      "Name": "Internal conflict in Myanmar",
+      "Dates": "1948–present",
+      "Combatant1": {
+        "Name": "Myanmar",
+        "Forces": [
+          "Tatmadaw",
+          "Myanmar Police Force"
+        ],
+        "SupportedBy": [
+          "India",
+          "China",
+          "Israel (formerly)",
+          "Russia",
+          "Philippines",
+          "North Korea",
+          "Yugoslavia (until 1988)"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Opposition forces",
+        "Forces": [
+          "ABSDF",
+          "Arakan Army",
+          "DKBA-5",
+          "KNU",
+          "KNLA",
+          "KIO",
+          "KIA",
+          "MNDAA",
+          "SSAN",
+          "SSAS",
+          "TNLA",
+          "UWSP",
+          "UWSA"
+        ],
+        "SupportedBy": [
+          "United States (1951–1953)",
+          "Thailand",
+          "China",
+          "Taiwan Republic of China (1950–1961)"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Papua conflict",
+      "Dates": "1962–present",
+      "Combatant1": {
+        "Name": "Indonesia",
+        "SupportedBy": [
+          "Australia",
+          "Fiji",
+          "Papua New Guinea"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Free Papua Movement",
+        "SupportedBy": [
+          "Vanuatu",
+          "Solomon Islands",
+          "Tonga",
+          "Senegal"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Insurgency in Northeast India",
+      "Dates": "1963–present",
+      "Combatant1": {
+        "Name": "India",
+        "SupportedBy": [
+          "Bhutan",
+          "Bangladesh",
+          "Burma",
+          "United States",
+          "Soviet Union (1963–1991)",
+          "Russia",
+          "Iran"
+        ]
+      },
+      "Combatant2": {
+        "Forces": [
+          "ACF",
+          "ATTF",
+          "BKI",
+          "DHD (until 2013)",
+          "GNLA",
+          "HNLC",
+          "HuM",
+          "IRF",
+          "KCP",
+          "KLNLF",
+          "KLO",
+          "KYKL",
+          "MULTA",
+          "NDFB",
+          "NLFT",
+          "NSCN-IM",
+          "PLA",
+          "PREPAK",
+          "ULFA",
+          "UNLF",
+          "ZRA"
+        ],
+        "SupportedBy": [
+          "China",
+          "Pakistan",
+          "Arab League"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Naxalite–Maoist insurgency",
+      "Dates": "1967–present",
+      "Combatant1": {
+        "Name": "India",
+        "Forces": [
+          "CRPF",
+          "Indian Armed Forces",
+          "State Armed Police Forces"
+        ],
+        "SupportedBy": [
+          "Bangladesh",
+          "Bhutan",
+          "Nepal",
+          "Sri Lanka",
+          "Myanmar"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Naxalites",
+        "Forces": [
+          "CPI (Maoist)",
+          "PLGA",
+          "Jharkhand Janmukti Parishad",
+          "People's Liberation Front of India",
+          "Revolutionary Communist Centre",
+          "CPIML Liberation",
+          "Lal Sena",
+          "CPIML Janashakti",
+          "CPUSI",
+          "CPIML ND",
+          "CPIML MM",
+          "PLA-MP",
+          "ABNES",
+          "MCPM",
+          "KCP",
+          "TNLA"
+        ],
+        "SupportedBy": [
+          "Pakistan",
+          "China",
+          "North Korea",
+          "Mongolia",
+          "Indonesia",
+          "Afghanistan (until 2021)",
+          "Kazakhstan",
+          "Kyrgyzstan",
+          "Uzbekistan",
+          "Tajikistan",
+          "Turkmenistan",
+          "Algeria",
+          "Bahrain",
+          "Chad",
+          "Comoros",
+          "Djibouti",
+          "Egypt",
+          "Eritrea",
+          "Iraq",
+          "Jordan",
+          "Kuwait",
+          "Lebanon",
+          "Libya",
+          "Mali (from 2023)",
+          "Mauritania",
+          "Morocco",
+          "Oman",
+          "Qatar",
+          "Palestine",
+          "Saudi Arabia",
+          "Somalia",
+          "Somaliland",
+          "Sudan",
+          "Syria",
+          "Tunisia",
+          "United Arab Emirates",
+          "Western Sahara",
+          "Yemen",
+          "ULFA",
+          "NSCN",
+          "CPN (Maoist)",
+          "LTTE (until 2009)",
+          "NPA",
+          "PBSP",
+          "CIC (until 1977)",
+          "CPN (Maoist) (2014)",
+          "CCP (Maoist) (until 1976)"
+        ]
+      },
+      "Result": "Ongoing"
     }
   ]
 }
