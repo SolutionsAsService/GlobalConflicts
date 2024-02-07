@@ -1,0 +1,251 @@
+{
+  "cold_war_proxy_wars": [
+    {
+      "war": "Chinese Civil War",
+      "dates": "1944–1949",
+      "combatant_1": {
+        "forces": ["CPC", "PLA"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["KMT", "NRA"],
+        "supported_by": ["United States"]
+      },
+      "result": "Communist victory on the mainland and diplomatic field in 1971, Taiwan Strait stalemate"
+    },
+    {
+      "war": "Iran crisis of 1946",
+      "dates": "1945–1946",
+      "combatant_1": {
+        "forces": ["Azerbaijan People's Republic", "Republic of Mahabad"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Iran Imperial State of Iran"],
+        "supported_by": ["United States"]
+      },
+      "result": "Iranian victory"
+    },
+    {
+      "war": "Greek Civil War",
+      "dates": "1946–1949",
+      "combatant_1": {
+        "forces": ["Greek communists"],
+        "supported_by": ["Albania", "Bulgaria", "Yugoslavia"]
+      },
+      "combatant_2": {
+        "forces": ["Greece"],
+        "supported_by": ["United Kingdom", "United States"]
+      },
+      "result": "Kingdom of Greece victory"
+    },
+    {
+      "war": "First Indochina War",
+      "dates": "1946–1954",
+      "combatant_1": {
+        "forces": ["Cambodia Khmer Issarak", "Laos Pathet Lao", "North Vietnam Viet Minh"],
+        "supported_by": ["China", "Soviet Union", "Polish People's Republic", "East Germany"]
+      },
+      "combatant_2": {
+        "forces": ["France", "South Vietnam State of Vietnam", "Cambodia", "Laos"],
+        "supported_by": ["United States"]
+      },
+      "result": "DR Vietnam-allied victory"
+    },
+    {
+      "war": "Paraguayan Civil War",
+      "dates": "1947",
+      "combatant_1": {
+        "forces": ["Liberal Party", "Febrerista Revolutionary Concentration", "Paraguayan Communist Party"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Paraguay Paraguayan Government", "Paraguay Military of Paraguay", "Colorado Party"],
+        "supported_by": ["United States", "Argentina"]
+      },
+      "result": "Government/Military and Colorado Party victory"
+    },
+    {
+      "war": "Malayan Emergency",
+      "dates": "1948–1960",
+      "combatant_1": {
+        "forces": ["Communist forces"],
+        "supported_by": ["Soviet Union", "People's Republic of China", "Indonesia", "North Vietnam"]
+      },
+      "combatant_2": {
+        "forces": ["Anti-communist forces"],
+        "supported_by": ["United States", "Thailand"]
+      },
+      "result": "Commonwealth military victory"
+    },
+    {
+      "war": "Korean War",
+      "dates": "1950–1953",
+      "combatant_1": {
+        "forces": ["North Korea", "China"],
+        "supported_by": ["Bulgaria", "Czechoslovakia", "Hungary", "Poland", "Romania", "Soviet Union", "Mongolia"]
+      },
+      "combatant_2": {
+        "forces": ["South Korea", "United Nations", "United States"],
+        "supported_by": ["Australia", "Belgium", "Bolivia", "Canada", "Colombia", "Commonwealth of Nations", "Cuba", "Denmark", "Ethiopia", "France", "Greece", "India", "Israel", "Italy", "Luxembourg", "Netherlands", "Taiwan", "New Zealand", "Norway", "Philippines", "South Africa", "Spain", "Sweden", "Switzerland", "Thailand", "Turkey", "United Kingdom"]
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "Mau Mau Uprising",
+      "dates": "1952–1960",
+      "combatant_1": {
+        "forces": ["Kenya Land and Freedom Army"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["United Kingdom", "British Kenya"],
+        "supported_by": ["US"]
+      },
+      "result": "British victory"
+    },
+    {
+      "war": "Second Indochina War (Vietnam War)",
+      "dates": "1953–1975",
+      "combatant_1": {
+        "forces": ["North Vietnam", "Viet Cong and PRG", "Laos Pathet Lao", "GRUNK", "Khmer Rouge"],
+        "supported_by": ["China", "Soviet Union", "North Korea", "Bulgaria", "Cuba", "Czechoslovakia", "East Germany", "Hungary", "Poland", "Romania", "Sweden"]
+      },
+      "combatant_2": {
+        "forces": ["South Vietnam", "United States", "South Korea", "Australia", "New Zealand", "Laos", "Kingdom of Cambodia", "Khmer Republic", "Thailand", "Philippines"],
+        "supported_by": ["Brazil", "Malaysia", "Taiwan"]
+      },
+      "result": "North Vietnamese and Viet Cong/PRG victory"
+    },
+    {
+      "war": "First Taiwan Strait Crisis",
+      "dates": "1954–1955",
+      "combatant_1": {
+        "forces": ["China People's Republic of China"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Taiwan Republic of China", "United States"],
+        "supported_by": []
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "First Sudanese Civil War",
+      "dates": "1955–1972",
+      "combatant_1": {
+        "forces": ["United Kingdom", "Egypt", "Anglo-Egyptian Sudan", "Sudan Republic of the Sudan", "Sudan Democratic Republic of the Sudan"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Southern Sudan Liberation Movement", "Azania Liberation Front", "Anyanya", "Equatorial Corps"],
+        "supported_by": ["Ethiopia", "Uganda", "Israel"]
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "Suez Crisis",
+      "dates": "1956–1957",
+      "combatant_1": {
+        "forces": ["Egypt", "State of Palestine Palestinian fedayeen"],
+        "supported_by": ["Soviet Union", "United States", "West Germany", "Italy", "China", "France", "Israel", "United Kingdom"]
+      },
+      "combatant_2": {
+        "forces": [],
+        "supported_by": []
+      },
+      "result": "Territory unchanged. French and UK power in area weakened"
+    },
+    {
+      "war": "Second Taiwan Strait Crisis",
+      "dates": "1958",
+      "combatant_1": {
+        "forces": ["China People's Republic of China"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Taiwan Republic of China", "United States"],
+        "supported_by": []
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "1958 Lebanon crisis",
+      "dates": "1958",
+      "combatant_1": {
+        "forces": ["Lebanon Lebanese Opposition", "INM", "LCP", "PSP"],
+        "supported_by": ["Soviet Union", "Egypt"]
+      },
+      "combatant_2": {
+        "forces": ["Lebanon Lebanese Government", "United States"],
+        "supported_by": []
+      },
+      "result": "President Camille Chamoun steps down and Major General Fouad Chehab is elected to succeed him"
+    },
+    {
+      "war": "1959 Tibetan uprising",
+      "dates": "1959–1962",
+      "combatant_1": {
+        "forces": ["People's Republic of China"],
+        "supported_by": ["Soviet Union", "United States", "Republic of India", "Nepal Kingdom of Nepal", "United Nations", "Taiwan"]
+      },
+      "combatant_2": {
+        "forces": ["Tibet", "Chushi Gangdruk"],
+        "supported_by": []
+      },
+      "result": "Uprising suppressed"
+    },
+    {
+      "war": "Central American crisis",
+      "dates": "1960–1996",
+      "combatant_1": {
+        "forces": ["EGP", "FAR", "ORPA", "PGT", "URNG", "FSLN", "EPS", "FMLN", "Nicaragua"],
+        "supported_by": ["Soviet Union", "Cuba", "Mexico", "Libya", "Romania", "Zapatista Army of National Liberation", "Sweden", "Costa Rica", "Bulgaria", "China", "Guatemala", "ESA", "White Hand", "other paramilitary groups"]
+      },
+      "combatant_2": {
+        "forces": ["Nicaragua Somoza government", "National Guard", "Contras", "El Salvador Salvadoran military government"],
+        "supported_by": ["United States", "Saudi Arabia", "Honduras", "Chile", "Argentina", "Panama", "Israel", "Taiwan"]
+      },
+      "result": "Ongoing conflict"
+    },
+    {
+      "war": "Congo Crisis",
+      "dates": "1960–1965",
+      "combatant_1": {
+        "forces": ["Democratic Republic of the Congo Stanleyville government", "Simba and Kwilu rebels"],
+        "supported_by": ["Soviet Union", "China", "Cuba", "Egypt", "Algeria FLN", "Algeria", "Republic of the Congo", "Tanzania", "Burundi"]
+      },
+      "combatant_2": {
+        "forces": ["Katanga", "South Kasai", "Democratic Republic of the Congo"],
+        "supported_by": ["United States", "Belgium", "France", "Rhodesia and Nyasaland", "South Africa"]
+      },
+      "result": "The Congo established as an independent unitary state under the authoritarian presidency of Mobutu Sese Seko"
+    },
+    {
+      "war": "Portuguese Colonial War",
+      "dates": "1960–1974",
+      "combatant_1": {
+        "forces": ["Portugal"],
+        "supported_by": ["South Africa", "Rhodesia", "Malawi", "Spain", "FLEC", "FNLA", "FRELIMO", "MPLA", "PAIGC", "UNITA"]
+      },
+      "combatant_2": {
+        "forces": ["China", "Cuba", "France", "Soviet Union", "United States", "Zaire", "Algeria", "Tanzania", "Zambia", "Tunisia", "Senegal", "Guinea", "Republic of the Congo", "Libya", "Yugoslavia", "Bulgaria", "Liberia", "Egypt", "India", "Brazil"]
+      },
+      "result": "End of the Portuguese Empire"
+    },
+    {
+      "war": "First Iraqi–Kurdish War",
+      "dates": "1961–1970",
+      "combatant_1": {
+        "forces": ["Republic of Iraq", "Ba'athist Iraq"],
+        "supported_by": ["Syria"]
+      },
+      "combatant_2": {
+        "forces": ["KDP"],
+        "supported_by": ["Iran", "Israel"]
+      },
+      "result": "Stalemate"
+    }
+  ],
+  "note": "This schema represents a selection of Cold War proxy wars with details on the combatants, their supporters, and the outcomes. Due to the extensive number of conflicts during the Cold War period, only a portion is presented here."
+}
