@@ -245,7 +245,221 @@
         "supported_by": ["Iran", "Israel"]
       },
       "result": "Stalemate"
+    },
+    {
+      "war": "Eritrean War of Independence",
+      "dates": "1961–1991",
+      "phases": [
+        {
+          "dates": "1961–1974",
+          "combatant_1": {
+            "forces": ["ELF"],
+            "supported_by": ["Libya", "Cuba", "Syria", "Iraq", "Tunisia", "Saudi Arabia", "Somalia", "Sudan"]
+          },
+          "combatant_2": {
+            "forces": ["Ethiopian Empire"],
+            "supported_by": ["United States"]
+          },
+          "result": "Stalemate"
+        },
+        {
+          "dates": "1974–1991",
+          "combatant_1": {
+            "forces": ["Ethiopia Derg", "Ethiopia PDRE"],
+            "supported_by": ["Cuba", "Soviet Union", "South Yemen"]
+          },
+          "combatant_2": {
+            "forces": ["EPLF", "TPLF"],
+            "supported_by": ["China", "Sudan", "Libya", "United States", "Somalia", "Syria"]
+          },
+          "result": "EPLF victory"
+        }
+      ]
+    },
+    {
+      "war": "North Yemen Civil War",
+      "dates": "1962–1970",
+      "combatant_1": {
+        "forces": ["Yemen Arab Republic", "Egypt"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Kingdom of Yemen", "Saudi Arabia"],
+        "supported_by": ["Jordan", "United Kingdom", "United States"]
+      },
+      "result": "Republican victory"
+    },
+    {
+      "war": "Dhofar Rebellion",
+      "dates": "1962–1976",
+      "combatant_1": {
+        "forces": ["DLF", "PFLOAG", "NDFLOAG", "PFLO"],
+        "supported_by": ["China", "Soviet Union", "South Yemen", "East Germany"]
+      },
+      "combatant_2": {
+        "forces": ["Oman"],
+        "supported_by": ["Iran", "Abu Dhabi", "Saudi Arabia", "United Kingdom", "Jordan", "Egypt", "Pakistan", "UAE", "United States"]
+      },
+      "result": "Omani government victory"
+    },
+    {
+      "war": "Sarawak Communist Insurgency",
+      "dates": "1962–1990",
+      "combatant_1": {
+        "forces": ["Communist forces"],
+        "supported_by": ["China", "Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Anti-communist forces"],
+        "supported_by": ["United Kingdom", "Malaysia", "Australia", "Brunei", "New Zealand", "United States", "Indonesia"]
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "Aden Emergency",
+      "dates": "1963–1967",
+      "combatant_1": {
+        "forces": ["NLF", "FLOSY"],
+        "supported_by": ["Egypt", "Yemen Arab Republic", "Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["United Kingdom", "Federation of South Arabia"],
+        "supported_by": ["United States"]
+      },
+      "result": "NLF victory"
+    },
+    {
+      "war": "Rhodesian Bush War",
+      "dates": "1964–1979",
+      "combatant_1": {
+        "forces": ["ZANLA (ZANU)", "FRELIMO", "Mozambique"],
+        "supported_by": ["China", "Libya", "Tanzania"]
+      },
+      "combatant_2": {
+        "forces": ["ZIPRA (ZAPU)", "MK (ANC)"],
+        "supported_by": ["Soviet Union", "Zambia", "Cuba", "East Germany"]
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "Dominican Civil War",
+      "dates": "1965",
+      "combatant_1": {
+        "forces": ["Dominican Republic Constitutionalists", "Dominican Revolutionary Party"],
+        "supported_by": ["Soviet Union", "Cuba"]
+      },
+      "combatant_2": {
+        "forces": ["Dominican Republic", "United States", "Inter-American Peace Force"],
+        "supported_by": ["Brazil", "Paraguay", "Nicaragua", "Costa Rica", "El Salvador", "Honduras"]
+      },
+      "result": "Loyalist victory"
+    },
+    {
+      "war": "Chadian Civil War",
+      "dates": "1965–1979",
+      "combatant_1": {
+        "forces": ["FROLINAT", "Chad GUNT", "Libyan Arab Jamahiriya"],
+        "supported_by": ["Soviet Union", "Chad", "France"]
+      },
+      "combatant_2": {
+        "forces": [],
+        "supported_by": ["United States"]
+      },
+      "result": "Overthrow and death of François Tombalbaye in 1975, Overthrow of Félix Malloum in 1979, Signing of Lagos Accord and installation of Transitional Government of National Unity"
+    },
+    {
+      "war": "Communist insurgency in Thailand",
+      "dates": "1965–1983",
+      "combatant_1": {
+        "forces": ["Communist Party of Thailand", "Thai United Patriotic Front", "Pathet Lao", "Khmer Rouge", "Malayan Communist Party"],
+        "supported_by": ["North Vietnam", "Vietnam", "China", "North Korea", "Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Thailand", "Royal Thai Armed Forces", "Royal Thai Police", "Thai Paramilitaries"],
+        "supported_by": ["Taiwan", "Malaysia", "United States", "South Korea"]
+      },
+      "result": "Thai government victory"
+    },
+    {
+      "war": "Bolivian Campaign",
+      "dates": "1966–1967",
+      "combatant_1": {
+        "forces": ["Ejército de Liberación Nacional"],
+        "supported_by": ["Cuba", "Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Bolivia", "United States", "CIA"],
+        "supported_by": []
+      },
+      "result": "Bolivian government victory"
+    },
+    {
+      "war": "Korean DMZ Conflict",
+      "dates": "1966–1969",
+      "combatant_1": {
+        "forces": ["North Korea"],
+        "supported_by": ["Soviet Union", "China"]
+      },
+      "combatant_2": {
+        "forces": ["South Korea", "United States"],
+        "supported_by": []
+      },
+      "result": "South Korean–American victory"
+    },
+    {
+      "war": "South African Border War",
+      "dates": "1966–1990",
+      "combatant_1": {
+        "forces": ["African nationalist forces"],
+        "supported_by": ["Cuba", "MPLA", "Soviet Union", "China", "Yugoslavia", "Bulgaria", "Tanzania", "Zambia", "Libya", "Kenya", "Algeria", "Guyana", "Brazil", "Mexico"]
+      },
+      "combatant_2": {
+        "forces": ["Anti-communist forces"],
+        "supported_by": ["UNITA", "United States", "United Kingdom", "Portugal"]
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "Nigerian Civil War",
+      "dates": "1967–1970",
+      "combatant_1": {
+        "forces": ["Nigeria"],
+        "supported_by": ["United Kingdom", "Soviet Union", "United States", "Canada", "Sudan", "Chad", "Niger", "Syria", "Saudi Arabia", "Algeria", "Bulgaria"]
+      },
+      "combatant_2": {
+        "forces": ["Biafra"],
+        "supported_by": ["South Africa", "Portugal", "France", "Spain", "Tanzania", "Gabon", "Ivory Coast", "Zambia", "Rhodesia", "Haiti", "Israel"]
+      },
+      "result": "Nigerian victory"
+    },
+    {
+      "war": "Years of Lead",
+      "dates": "1968–1982",
+      "combatant_1": {
+        "forces": ["Far-left terrorist groups"],
+        "supported_by": ["Soviet Union (alleged)"]
+      },
+      "combatant_2": {
+        "forces": ["Italy Italian Government", "SISDE", "SISMI", "Italian Armed Forces", "Arm of Carabineers"],
+        "supported_by": ["United States"]
+      },
+      "result": "Far-left and far-right terrorist groups dismantled"
+    },
+    {
+      "war": "Communist insurgency in Malaysia",
+      "dates": "1968–1989",
+      "combatant_1": {
+        "forces": ["Communist forces"],
+        "supported_by": ["China", "Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Anti-communist forces"],
+        "supported_by": ["Malaysia", "Thailand", "United Kingdom", "Australia", "New Zealand", "United States"]
+      },
+      "result": "Peace agreement reached"
     }
+    
+    
   ],
   "note": "This schema represents a selection of Cold War proxy wars with details on the combatants, their supporters, and the outcomes. Due to the extensive number of conflicts during the Cold War period, only a portion is presented here."
 }
