@@ -1,0 +1,186 @@
+{
+  "ModernProxyWars": [
+    {
+      "name": "Angolan Civil War",
+      "dates": "1974–2002",
+      "combatants": {
+        "side_1": {
+          "main": ["UNITA", "FNLA", "FLEC"],
+          "supported_by": ["United States", "People's Republic of China", "Zambia", "Morocco", "Zaire (until 1997)", "Egypt", "France", "Belgium", "Burkina Faso (from 1987)", "Israel", "United Kingdom", "Pakistan", "South Korea"]
+        },
+        "side_2": {
+          "main": ["Angola MPLA", "SWAPO", "MK", "FNLC"],
+          "supported_by": ["Cuba", "Tanzania", "Yugoslavia (until 1992)", "Guyana", "Portugal", "India", "North Korea", "Kazakhstan (from 1996)", "Slovakia (from 1993)", "Brazil", "Russia", "Kyrgyzstan"]
+        }
+      },
+      "result": "MPLA victory"
+    },
+    {
+      "name": "Indonesian occupation of East Timor",
+      "dates": "1975–1999",
+      "combatants": {
+        "side_1": {
+          "main": ["Indonesia", "Timor Timur"],
+          "supported_by": ["United States", "Australia", "United Kingdom", "Canada"]
+        },
+        "side_2": {
+          "main": ["East Timor (CNRM, later CNRT)", "FRETILIN (FALINTIL)", "UDT"],
+          "supported_by": ["Portugal", "Libyan Arab Jamahiriya", "Libya", "Free Aceh Movement", "Russia", "China"]
+        }
+      },
+      "result": "1999 East Timorese crisis, East Timor gains independence, Indonesia retains strong influence"
+    },
+    {
+      "name": "Insurgency in Laos",
+      "dates": "1975–2008",
+      "combatants": {
+        "side_1": {
+          "main": ["Laos Laos", "Pathet Lao", "Pro-govt. Hmong", "Pro-govt. Chinese"],
+          "supported_by": ["Vietnam", "North Vietnam (to 1976)", "Soviet Union (to 1978)"]
+        },
+        "side_2": {
+          "main": ["Hmong insurgents", "Laotian Hmong", "Thai Hmong", "Ethnic Liberation Organization of Laos", "United Front for the Liberation of Laos", "Laos Royal Lao Democratic Government"],
+          "supported_by": ["China (PRC) (to 1988)", "Cambodia Democratic Kampuchea (to 1979)", "Khmer Rouge (1980 to 1981)", "Cambodia Party of Democratic Kampuchea (1981 to 1990)", "Thailand (Rightists: early to mid-1980s) (Hmong: to 1990)", "United States (Hmong: 1990)", "Neo Hom (support, 1981–2008)", "Laos Royal Lao Government in Exile"]
+        }
+      },
+      "result": "Ongoing conflict"
+    },
+    {
+      "name": "Chittagong Hill Tracts conflict",
+      "dates": "1977–1997",
+      "combatants": {
+        "side_1": {
+          "main": ["Bangladesh", "Bangladesh Armed Forces", "Border Guards Bangladesh", "Bangladesh Police", "Bangladesh Armed Police"],
+          "supported_by": ["India"]
+        },
+        "side_2": {
+          "main": ["Shanti Bahini"],
+          "supported_by": []
+        }
+      },
+      "result": "Stalemate"
+    },
+    {
+      "name": "Nagorno-Karabakh conflict",
+      "dates": "1988–2024",
+      "combatants": {
+        "side_1": {
+          "main": ["Armenia", "Nagorno-Karabakh"],
+          "supported_by": ["Russia", "Greece"]
+        },
+        "side_2": {
+          "main": ["Azerbaijan"],
+          "supported_by": ["Pakistan", "Kyrgyzstan", "Turkey", "Israel", "Ukraine"]
+        }
+      },
+      "result": "Azerbaijani victory"
+    },
+    {
+      "name": "Afghan Civil War",
+      "dates": "1989–1992",
+      "combatants": {
+        "side_1": {
+          "main": ["Mujahideen"],
+          "supported_by": ["United States", "Pakistan", "China", "Saudi Arabia"]
+        },
+        "side_2": {
+          "main": ["Afghanistan Democratic Republic of Afghanistan"],
+          "supported_by": ["Russia"]
+        }
+      },
+      "result": "Afghan mujahideen victory"
+    },
+    {
+      "name": "Transnistria War",
+      "dates": "1990–1992",
+      "combatants": {
+        "side_1": {
+          "main": ["Moldova"],
+          "supported_by": ["Romania"]
+        },
+        "side_2": {
+          "main": ["Transnistria"],
+          "supported_by": ["Russia", "Ukraine"]
+        }
+      },
+      "result": "Russo–Transnistrian victory"
+    },
+    {
+      "name": "Georgian Civil War",
+      "dates": "1991–1993",
+      "combatants": {
+        "side_1": {
+          "main": ["Georgia (Gamsakhurdia's government)", "National Guard of Georgia", "Georgia (State Council)", "Georgian Interior and Defense Ministry forces"],
+          "supported_by": []
+        },
+        "side_2": {
+          "main": ["South Ossetian Separatists", "Abkhazia Abkhaz separatists", "Confederation of Mountain Peoples of the Caucasus"],
+          "supported_by": ["Russia"]
+        }
+      },
+      "result": "Gamsakhurdia government expunged, Abkhazian and South Ossetian separatists gain control, State Council takes control of Georgia proper, Georgia joins CIS"
+    },
+    {
+      "name": "Yugoslav Wars",
+      "dates": "1991–2001",
+      "combatants": {
+        "side_1": {
+          "main": ["Slovenia", "Bosnia", "NATO"],
+          "supported_by": ["Turkey", "Pakistan", "Iran", "Saudi Arabia", "Croatia", "Albania"]
+        },
+        "side_2": {
+          "main": ["SFR Yugoslavia (before 1992)", "FR Yugoslavia (from 1992)", "Republika Srpska", "AP Western Bosnia", "Republic of Serbian Krajina"],
+          "supported_by": ["Russia", "Greece", "Macedonia", "Ukraine (main arms supply)", "Bulgaria", "FR Yugoslavia"]
+        }
+      },
+      "result": "Breakup of Yugoslavia, formation of independent states"
+    },
+    {
+      "name": "Tajikistani Civil War",
+      "dates": "1992–1997",
+      "combatants": {
+        "side_1": {
+          "main": ["United Tajik Opposition", "IRP", "Democratic reformists", "Gorno-Badakhshan", "Jamiat-e Islami", "Afghanistan (Islamic State and Taliban factions)"],
+          "supported_by": ["al-Qaeda", "Islamic Renaissance Party of Tajikistan", "Pakistan", "Iran"]
+        },
+        "side_2": {
+          "main": ["Tajikistan"],
+          "supported_by": ["Russia", "Uzbekistan", "Kyrgyzstan"]
+        }
+      },
+      "result": "Stalemate"
+    },
+    {
+      "name": "Second Afar insurgency",
+      "dates": "1995–2018",
+      "combatants": {
+        "side_1": {
+          "main": ["ARDUF"],
+          "supported_by": ["Eritrea"]
+        },
+        "side_2": {
+          "main": ["RSADO", "DMLEK", "EPLF", "ESF", "SPDM"],
+          "supported_by": ["Ethiopia"]
+        }
+      },
+      "result": "Ongoing conflict"
+    },
+    {
+      "name": "First Congo War",
+      "dates": "1996–1997",
+      "combatants": {
+        "side_1": {
+          "main": ["Zaire", "UNITA", "Rwanda ALiR", "Interahamwe"],
+          "supported_by": ["France"]
+        },
+        "side_2": {
+          "main": ["Democratic Republic of the Congo AFDL", "Uganda", "Rwanda", "Burundi", "Angola", "South Sudan"],
+          "supported_by": ["United States"]
+        }
+      },
+      "result": "Decisive AFDL victory"
+    },
+    
+  ],
+  "note": "This schema includes a selection of modern proxy wars. Each entry contains the war name, dates, combatant groups with main actors and supporters, and the result of the conflict. Due to the complexity and varying sources, details may differ and are subject to interpretation."
+}
