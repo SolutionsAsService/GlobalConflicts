@@ -180,6 +180,141 @@
       },
       "result": "Decisive AFDL victory"
     },
+    {
+      "name": "Nepalese Civil War",
+      "dates": "1996–2006",
+      "combatants": {
+        "side_1": {
+          "main": ["Nepal Kingdom of Nepal"],
+          "supported_by": ["India", "United States", "European Union"]
+        },
+        "side_2": {
+          "main": ["Communist Party of Nepal (Maoist)"],
+          "supported_by": ["China", "North Korea", "India", "Kazakhstan", "Kyrgyzstan"]
+        }
+      },
+      "result": "Comprehensive Peace Accord"
+    },
+    {
+      "name": "Second Republic of the Congo Civil War",
+      "dates": "1997–1999",
+      "combatants": {
+        "side_1": {
+          "main": ["Republic of the Congo Armed Forces (to October 1997)", "Cocoye Militia", "Ninja Militia", "Nsiloulou Militia", "Democratic Republic of the Congo"],
+          "supported_by": ["UNITA (alleged)"]
+        },
+        "side_2": {
+          "main": ["Republic of the Congo Armed Forces (from October 1997)", "Cobra Militia", "Rwanda Rwandan Hutu Militia", "Angola", "Chad"],
+          "supported_by": ["France", "Cuba (alleged)", "Mobutu Sese Seko Loyalists (alleged)"]
+        }
+      },
+      "result": "Nguesso loyalist victory"
+    },
+    {
+      "name": "Guinea-Bissau Civil War",
+      "dates": "1998–1999",
+      "combatants": {
+        "side_1": {
+          "main": ["Guinea-Bissau", "Senegal", "Guinea"],
+          "supported_by": ["France", "Portugal"]
+        },
+        "side_2": {
+          "main": ["Guinea-Bissau Military rebels"],
+          "supported_by": ["Casamance MFDC"]
+        }
+      },
+      "result": "Ousting of President João Bernardo Vieira"
+    },
+    {
+      "name": "First Ivorian Civil War",
+      "dates": "2002–2007",
+      "combatants": {
+        "side_1": {
+          "main": ["France", "United Nations UNOIC"],
+          "supported_by": []
+        },
+        "side_2": {
+          "main": ["Ivory Coast", "Ivory Coast Young Patriots of Abidjan militia", "Liberia Liberian mercenaries"],
+          "supported_by": ["Russia", "Bulgaria", "Belarus"]
+        }
+      },
+      "result": "Stalemate"
+    },
+    {
+      "name": "War in Darfur",
+      "dates": "2003–2020",
+      "combatants": {
+        "side_1": {
+          "main": ["SRF", "JEM", "SLA", "Abdul Wahid faction", "Minni Minawi faction", "Second Revolution faction", "LJM", "SARC"],
+          "supported_by": ["South Sudan", "Chad (2005–2010)", "Eritrea (until 2008)", "Libya (until 2011)", "United States", "Uganda (until 2015)"]
+        },
+        "side_2": {
+          "main": ["Sudan Government of Sudan", "Armed Forces", "Rapid Support Forces", "Janjaweed", "Popular Defence Forces"],
+          "supported_by": ["China", "Iran (until 2016)", "Russia"]
+        }
+      },
+      "result": "Ongoing conflict"
+    },
+    {
+      "name": "Iraqi insurgency",
+      "dates": "2011–2014",
+      "combatants": {
+        "side_1": {
+          "main": ["Iraq", "Iraqi Kurdistan"],
+          "supported_by": ["Saudi Arabia", "United States"]
+        },
+        "side_2": {
+          "main": ["Shi'a factions: Special Groups, Promised Day Brigades, Asa'ib Ahl al-Haq, Kata'ib Hezbollah, Mahdi Army (Inactive), Badr Brigades", "Soldiers of Heaven", "Other militias"],
+          "supported_by": ["Iran"]
+        }
+      },
+      "result": "Stalemate"
+    },
+    {
+      "name": "First Libyan Civil War",
+      "dates": "2011",
+      "combatants": {
+        "side_1": {
+          "main": ["Anti-Gaddafi forces"],
+          "supported_by": ["Qatar", "NATO", "United States", "France", "United Kingdom", "Italy", "Sudan", "Canada", "Turkey", "Netherlands", "Spain", "United Arab Emirates", "Greece", "Romania", "Norway", "Denmark", "Portugal", "Belgium", "Tunisia", "Switzerland", "Moldova", "Sweden", "Jordan"]
+        },
+        "side_2": {
+          "main": ["Libya"],
+          "supported_by": ["Belarus", "Algeria", "Zimbabwe", "Cuba", "Venezuela", "PLO", "North Korea", "South Africa", "Nicaragua", "Bolivia", "Namibia", "Ecuador"]
+        }
+      },
+      "result": "Ongoing conflict"
+    },
+    {
+      "name": "Syrian Civil War spillover in Lebanon",
+      "dates": "2012–2017",
+      "combatants": {
+        "side_1": {
+          "main": ["Lebanon", "Lebanese Army", "Internal Security Forces"],
+          "supported_by": ["Australia", "Canada", "Cyprus", "Czech Republic", "France", "Pakistan", "Germany", "Italy", "Jordan", "Netherlands", "Saudi Arabia", "South Korea", "Spain", "Turkey", "United Kingdom", "United States"]
+        },
+        "side_2": {
+          "main": ["Pro-Syrian government militias: Hezbollah, PFLP-GC, Amal Movement, Syrian Social Nationalist Party, DFLP", "Popular Nasserist Organization", "As-Sa'iqa", "Fatah al-Intifada", "Arab Democratic Party (until 2014)", "Arab Movement Party"],
+          "supported_by": ["Syria", "Iran", "Russia"]
+        }
+      },
+      "result": "Lebanese government and pro-Syrian government victory"
+    },
+    {
+      "name": "Second Libyan Civil War",
+      "dates": "2014–2020",
+      "combatants": {
+        "side_1": {
+          "main": ["Libya Libyan National Army"],
+          "supported_by": ["Russia", "Belarus", "Egypt", "Algeria", "Greece", "United Arab Emirates", "France", "Saudi Arabia"]
+        },
+        "side_2": {
+          "main": ["Libya Government of National Accord"],
+          "supported_by": ["Sudan", "Ukraine (alleged)", "Russia (alleged)", "Turkey", "United States", "United Kingdom (citation needed)", "Qatar"]
+        }
+      },
+      "result": "Ceasefire"
+    },
     
   ],
   "note": "This schema includes a selection of modern proxy wars. Each entry contains the war name, dates, combatant groups with main actors and supporters, and the result of the conflict. Due to the complexity and varying sources, details may differ and are subject to interpretation."
