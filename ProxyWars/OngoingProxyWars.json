@@ -1,0 +1,161 @@
+{
+  "ProxyWars": [
+    {
+      "Name": "Chinese Civil War",
+      "Dates": "1927–present (de jure)",
+      "Combatant1": {
+        "Name": "Republic of China",
+        "Allies": [
+          "Weimar Republic (1929–33)",
+          "Nazi Germany (1933–37)",
+          "United States (1946–1979, 1989–present)",
+          "United Kingdom (1946–1950, 1989–present)",
+          "Canada",
+          "Australia",
+          "India",
+          "Republic of Korea",
+          "Japan",
+          "Thailand",
+          "Portugal (until 1979)",
+          "Hong Kong (1946–1997)",
+          "Macau (1946–1975)"
+        ],
+        "Forces": [
+          "KMT",
+          "DPP (from 1986)",
+          "NRA (until 1947)",
+          "ROCA (from 1947)",
+          "ROCN"
+        ]
+      },
+      "Combatant2": {
+        "Name": "People's Republic of China",
+        "Allies": [
+          "Soviet Union (1927–1961)",
+          "Russia (1991–present)",
+          "Pakistan",
+          "Democratic People's Republic of Korea"
+        ],
+        "Forces": [
+          "CPC",
+          "PLA (from 1948)",
+          "Hong Kong (1997–present)",
+          "Macau (1999–present)",
+          "CSR (1931–1937)"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Xinjiang conflict",
+      "Dates": "1931–present",
+      "Combatant1": {
+        "Name": "East Turkestan Independence Movement",
+        "Allies": [
+          "Soviet Union (1969–1989)",
+          "Mongolian People's Republic (1960–1989)",
+          "United States",
+          "Republic of China",
+          "Turkey",
+          "Canada"
+        ],
+        "Forces": [
+          "ETPRP (1969–1989)",
+          "URFET (1969–1989)",
+          "East Turkestan Liberation Organization (2000–2003)"
+        ]
+      },
+      "Combatant2": {
+        "Name": "People's Republic of China",
+        "Allies": [
+          "Iran",
+          "Russia",
+          "North Korea"
+        ],
+        "Forces": [
+          "Republic of China (1931–1954)",
+          "People's Republic of China (1949–present)"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Israeli-Palestinian conflict",
+      "Dates": "1948–present",
+      "Combatant1": {
+        "Name": "State of Palestine",
+        "Allies": [
+          "Egypt (1948–78)",
+          "Iraq",
+          "Syria",
+          "Cuba",
+          "Algeria",
+          "Soviet Union (until 1991)",
+          "Lebanon",
+          "Iran",
+          "North Korea"
+        ],
+        "Forces": [
+          "PLO",
+          "Hamas",
+          "Fatah"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Israel",
+        "Allies": [
+          "United States",
+          "United Kingdom",
+          "France (until 1967)",
+          "Germany",
+          "Canada",
+          "Australia",
+          "Egypt (since 1978)"
+        ]
+      },
+      "Result": "Ongoing"
+    },
+    {
+      "Name": "Balochistan conflict",
+      "Dates": "1948–present",
+      "Combatant1": {
+        "Name": "Baloch separatist groups",
+        "Allies": [
+          "India",
+          "Soviet Union (until 1988)",
+          "Afghanistan (until 1990)",
+          "Iraq (1970s)"
+        ],
+        "Forces": [
+          "BLA",
+          "BRA",
+          "BLF",
+          "UBA",
+          "LeB",
+          "BLUF",
+          "BSO (Azad)",
+          "Jundallah",
+          "Jaish ul-Adl",
+          "Jundallah (Pakistan)",
+          "al-Qaeda",
+          "Lashkar-e-Jhangvi",
+          "Sipah-e-Sahaba"
+        ]
+      },
+      "Combatant2": {
+        "Name": "Pakistan",
+        "Allies": [
+          "China",
+          "Iran"
+        ],
+        "Forces": [
+          "Pakistan Army",
+          "Inter-Services Intelligence",
+          "Military Intelligence of Pakistan",
+          "Frontier Corps"
+        ]
+      },
+      "Result": "Ongoing"
+    }
+  ]
+}
