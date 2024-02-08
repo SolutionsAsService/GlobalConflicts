@@ -457,8 +457,319 @@
         "supported_by": ["Malaysia", "Thailand", "United Kingdom", "Australia", "New Zealand", "United States"]
       },
       "result": "Peace agreement reached"
+    },
+    {
+      "war": "Operation Condor",
+      "dates": "1968–1989",
+      "combatant_1": {
+        "forces": ["Left-wing governments and opponents to the military juntas in South America"],
+        "supported_by": ["Poland", "Spain"]
+      },
+      "combatant_2": {
+        "forces": ["Chile", "Argentina", "Brazil", "Bolivia", "Paraguay", "Uruguay"],
+        "supported_by": ["United States", "Peru", "Ecuador", "Colombia", "Venezuela"]
+      },
+      "result": "Suppression of opposition through coordinated intelligence and repression by authoritarian regimes in South America."
+    },
+    {
+      "war": "Al-Wadiah War",
+      "dates": "1969",
+      "combatant_1": {
+        "forces": ["South Yemen"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Saudi Arabia"],
+        "supported_by": ["United States"]
+      },
+      "result": "Saudi victory"
+    },
+    {
+      "war": "Bangladesh Liberation War",
+      "dates": "1971",
+      "combatant_1": {
+        "forces": ["Pakistan"],
+        "supported_by": ["United States", "China", "France", "United Kingdom", "Turkey", "Iran", "Jordan"]
+      },
+      "combatant_2": {
+        "forces": ["Bangladesh", "India"],
+        "supported_by": ["Soviet Union", "Israel"]
+      },
+      "result": "Indian–Bangladeshi victory, leading to the independence of Bangladesh."
+    },
+    {
+      "war": "Yemenite War of 1972",
+      "dates": "1972",
+      "combatant_1": {
+        "forces": ["South Yemen", "National Democratic Front"],
+        "supported_by": ["Soviet Union", "Cuba", "East Germany", "Czechoslovakia", "Libya"]
+      },
+      "combatant_2": {
+        "forces": ["North Yemen"],
+        "supported_by": ["Saudi Arabia", "Jordan", "United States", "Republic of China", "United Kingdom", "West Germany"]
+      },
+      "result": "Cairo Agreement, resulting in temporary peace and stipulations for future unification."
+    },
+    {
+      "war": "Angolan Civil War",
+      "dates": "1974–2002",
+      "combatant_1": {
+        "forces": ["Angola MPLA", "SWAPO", "MK", "FNLC"],
+        "supported_by": ["Soviet Union", "Cuba", "Tanzania", "Mozambique", "Czechoslovakia", "Poland", "Yugoslavia", "Bulgaria", "Guyana", "Portugal", "Romania", "India", "North Korea", "Brazil", "Mexico"]
+      },
+      "combatant_2": {
+        "forces": ["UNITA", "FNLA", "FLEC"],
+        "supported_by": ["United States", "People's Republic of China", "South Africa", "Zambia", "Morocco", "Zaire", "Egypt", "France", "Belgium", "Burkina Faso", "Israel", "United Kingdom", "Rhodesia", "South Korea"]
+      },
+      "result": "MPLA victory, leading to the establishment of a unitary presidential republic."
+    },
+    {
+      "war": "Ethiopian Civil War",
+      "dates": "1974–1991",
+      "combatant_1": {
+        "forces": ["People's Democratic Republic of Ethiopia"],
+        "supported_by": ["Soviet Union", "North Korea", "Libya", "South Yemen", "Tanzania", "East Germany", "Bulgaria", "Cuba"]
+      },
+      "combatant_2": {
+        "forces": ["Ethiopian People's Revolutionary Democratic Front"],
+        "supported_by": ["United States", "United Kingdom", "China", "West Germany", "Germany", "Saudi Arabia", "Israel", "North Yemen"]
+      },
+      "result": "EPLF/TPLF rebel victory, leading to changes in Ethiopian governance and Eritrean independence."
+    },
+    {
+      "war": "Lebanese Civil War",
+      "dates": "1975–1990",
+      "combatant_1": {
+        "forces": ["Lebanon LNM", "Lebanon Jammoul", "PLO"],
+        "supported_by": ["Iraq", "Libya", "Algeria", "Iran", "North Korea"]
+      },
+      "combatant_2": {
+        "forces": ["Amal Movement", "Hezbollah", "LF", "AFL", "SLA", "Israel", "Lebanon", "UNIFIL", "Multinational Force in Lebanon", "United States", "France"],
+        "supported_by": ["Syria", "Arab Deterrent Force"]
+      },
+      "result": "Stalemate, leading to the Taif Agreement and eventual end of the civil war."
+    },
+    {
+      "war": "Indonesian occupation of East Timor",
+      "dates": "1975–1999",
+      "combatant_1": {
+        "forces": ["East Timor (CNRM, CNRT)", "FRETILIN (FALINTIL)", "UDT"],
+        "supported_by": ["Portugal", "Soviet Union", "Libya", "Free Aceh Movement", "China"]
+      },
+      "combatant_2": {
+        "forces": ["Indonesia", "Timor Timur"],
+        "supported_by": ["United States", "Australia", "United Kingdom", "Canada", "Israel"]
+      },
+      "result": "East Timor gains independence following a UN-supervised referendum."
+    },
+    {
+      "war": "Shaba I",
+      "dates": "1977",
+      "combatant_1": {
+        "forces": ["FNLC"],
+        "supported_by": ["Angola", "Cuba", "Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Zaire"],
+        "supported_by": ["United States", "China", "Sudan", "Morocco", "Egypt", "France", "Belgium"]
+      },
+      "result": "Zairian victory, with international support to repel the invasion."
+    },
+    {
+      "war": "Ogaden War",
+      "dates": "1977–1978",
+      "combatant_1": {
+        "forces": ["Ethiopia"],
+        "supported_by": ["Cuba", "Soviet Union", "South Yemen", "North Korea", "East Germany"]
+      },
+      "combatant_2": {
+        "forces": ["Somalia", "WSLF"],
+        "supported_by": ["China", "Egypt", "Romania"]
+      },
+      "result": "Ethiopian victory, consolidating control over the Ogaden region."
+    },
+    {
+      "war": "Cambodian-Vietnamese War",
+      "dates": "1977–1991",
+      "combatant_1": {
+        "forces": ["Vietnam", "KUFNS", "People's Republic of Kampuchea", "State of Cambodia"],
+        "supported_by": ["Soviet Union", "Laos"]
+      },
+      "combatant_2": {
+        "forces": ["Democratic Kampuchea", "CGDK: NADK, KPNLF, FUNCINPEC, FULRO"],
+        "supported_by": ["China", "United States", "United Kingdom"]
+      },
+      "result": "Vietnamese/People's Republic of Kampuchea victory, leading to the end of the Khmer Rouge regime."
+    },
+    {
+      "war": "Mozambican Civil War",
+      "dates": "1977–1992",
+      "combatant_1": {
+        "forces": ["Mozambique FRELIMO"],
+        "supported_by": ["Malawi", "Zimbabwe", "Tanzania", "Soviet Union", "Bulgaria", "Cuba", "Brazil"]
+      },
+      "combatant_2": {
+        "forces": ["RENAMO"],
+        "supported_by": ["Zimbabwe-Rhodesia", "South Africa", "Malawi", "United States", "Rhodesia"]
+      },
+      "result": "Stalemate, leading to the Rome General Peace Accords in 1992."
+    },
+    {
+      "war": "Chittagong Hill Tracts conflict",
+      "dates": "1977–1997",
+      "combatant_1": {
+        "forces": ["Bangladesh", "Bangladesh Armed Forces", "Border Guards Bangladesh", "Bangladesh Police", "Bangladesh Armed Police"],
+        "supported_by": ["India"]
+      },
+      "combatant_2": {
+        "forces": ["Shanti Bahini"],
+        "supported_by": []
+      },
+      "result": "Stalemate, ending with the signing of the Chittagong Hill Tracts Peace Accord in 1997."
+    },
+    {
+      "war": "Shaba II",
+      "dates": "1978",
+      "combatant_1": {
+        "forces": ["FNLC"],
+        "supported_by": ["Angola", "Cuba", "Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Zaire"],
+        "supported_by": ["France", "Belgium", "United States"]
+      },
+      "result": "Zairian victory; mutual end of support for other nations' rebel groups."
+    },
+    {
+      "war": "Uganda–Tanzania War",
+      "dates": "1978–1979",
+      "combatant_1": {
+        "forces": ["Tanzania", "Uganda UNLA", "Mozambique"],
+        "supported_by": []
+      },
+      "combatant_2": {
+        "forces": ["Uganda", "Libya", "PLO"],
+        "supported_by": []
+      },
+      "result": "Tanzanian victory, leading to the overthrow of Idi Amin."
+    },
+    {
+      "war": "NDF Rebellion",
+      "dates": "1978–1982",
+      "combatant_1": {
+        "forces": ["NDF"],
+        "supported_by": ["South Yemen", "Libya", "Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["North Yemen", "Islamic Front"],
+        "supported_by": ["United States", "Saudi Arabia", "Taiwan"]
+      },
+      "result": "Government victory, consolidating North Yemeni control."
+    },
+    {
+      "war": "Chadian–Libyan War",
+      "dates": "1978–1987",
+      "combatant_1": {
+        "forces": ["Libyan Arab Jamahiriya", "Islamic Legion", "Chadian rebels", "FROLINAT", "GUNT"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Chad", "FAT", "FAN", "FANT", "GUNT"],
+        "supported_by": ["France", "Zaire", "United States", "Egypt", "Sudan"]
+      },
+      "result": "Ceasefire, Libyan victory (first phase), Chadian-French victory (second phase)"
+    },
+    {
+      "war": "Yemenite War of 1979",
+      "dates": "1979",
+      "combatant_1": {
+        "forces": ["South Yemen", "National Democratic Front"],
+        "supported_by": ["Soviet Union", "Cuba", "East Germany", "Czechoslovakia", "Libya"]
+      },
+      "combatant_2": {
+        "forces": ["North Yemen"],
+        "supported_by": ["Saudi Arabia", "Jordan", "United States", "Taiwan", "Iraq", "Egypt"]
+      },
+      "result": "Stalemate, tensions between North and South Yemen continue."
+    },
+    {
+      "war": "Soviet–Afghan War",
+      "dates": "1979–1989",
+      "combatant_1": {
+        "forces": ["Soviet Union", "Afghanistan Democratic Republic of Afghanistan"],
+        "supported_by": ["India", "East Germany"]
+      },
+      "combatant_2": {
+        "forces": ["Sunni Mujahideen", "Shia Mujahideen", "Small Maoist groups"],
+        "supported_by": ["Pakistan", "United States", "United Kingdom", "China", "Saudi Arabia", "West Germany", "Turkey", "Egypt", "France", "Israel", "Japan", "Iran", "Sri Lanka", "United Arab Emirates", "Jordan", "Malaysia"]
+      },
+      "result": "Mujahideen victory, leading to the withdrawal of Soviet forces."
+    },
+    {
+      "war": "Sino-Vietnamese War",
+      "dates": "1979",
+      "combatant_1": {
+        "forces": ["Vietnam"],
+        "supported_by": ["Soviet Union", "Laos"]
+      },
+      "combatant_2": {
+        "forces": ["People's Republic of China"],
+        "supported_by": []
+      },
+      "result": "Stalemate, with both sides claiming victory."
+    },
+    {
+      "war": "Ethiopian–Somali Border War",
+      "dates": "1982",
+      "combatant_1": {
+        "forces": ["Ethiopia", "Somali rebels"],
+        "supported_by": ["Cuba", "South Yemen", "North Korea"]
+      },
+      "combatant_2": {
+        "forces": ["Somalia"],
+        "supported_by": ["United States"]
+      },
+      "result": "Stalemate, continuing tensions between Ethiopia and Somalia."
+    },
+    {
+      "war": "Sri Lankan Civil War",
+      "dates": "1983–2009",
+      "combatant_1": {
+        "forces": ["Liberation Tigers of Tamil Eelam"],
+        "supported_by": ["Libya", "India"]
+      },
+      "combatant_2": {
+        "forces": ["Sri Lanka", "Maldives", "India"],
+        "supported_by": ["Pakistan"]
+      },
+      "result": "Sri Lankan Government victory, leading to the defeat of the LTTE."
+    },
+    {
+      "war": "Thai–Laotian Border War",
+      "dates": "1987–1988",
+      "combatant_1": {
+        "forces": ["Laos", "Vietnam"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Thailand"],
+        "supported_by": ["United States"]
+      },
+      "result": "Stalemate, with minor skirmishes and no significant territorial changes."
+    },
+    {
+      "war": "Afghan Civil War",
+      "dates": "1989–1992",
+      "combatant_1": {
+        "forces": ["Afghanistan Democratic Republic of Afghanistan"],
+        "supported_by": ["Soviet Union"]
+      },
+      "combatant_2": {
+        "forces": ["Mujahideen"],
+        "supported_by": ["United States", "Pakistan", "China", "Saudi Arabia"]
+      },
+      "result": "Afghan mujahideen victory, leading to the fall of the communist government."
     }
-    
     
   ],
   "note": "This schema represents a selection of Cold War proxy wars with details on the combatants, their supporters, and the outcomes. Due to the extensive number of conflicts during the Cold War period, only a portion is presented here."
