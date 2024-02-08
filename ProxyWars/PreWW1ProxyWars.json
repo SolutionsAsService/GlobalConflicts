@@ -1,0 +1,96 @@
+{
+  "pre_world_war_I_proxy_wars": [
+    {
+      "war": "Egyptian–Ottoman War",
+      "dates": "1839–1841",
+      "combatant_1": {
+        "forces": ["Egypt-aligned powers", "Egypt", "France", "Spain"],
+        "supported_by": []
+      },
+      "combatant_2": {
+        "forces": ["Allied powers", "United Kingdom", "Austrian Empire", "Russian Empire", "Kingdom of Prussia", "Ottoman Empire"],
+        "supported_by": []
+      },
+      "result": "Compromise"
+    },
+    {
+      "war": "Uruguayan Civil War",
+      "dates": "1839–1851",
+      "combatant_1": {
+        "forces": ["Colorados", "Unitarian Party", "Empire of Brazil", "Italian Legion", "France", "Great Britain"],
+        "supported_by": []
+      },
+      "combatant_2": {
+        "forces": ["Blancos", "Argentine Confederation"],
+        "supported_by": []
+      },
+      "result": "Colorado victory"
+    },
+    {
+      "war": "Mahdist War",
+      "dates": "1881–1899",
+      "combatant_1": {
+        "forces": ["British Empire", "Canada", "Khedivate of Egypt", "Belgium", "Congo Free State", "Ethiopian Empire", "Italy"],
+        "supported_by": ["Emirate of Jabal Shammar"]
+      },
+      "combatant_2": {
+        "forces": ["Mahdist Sudan"],
+        "supported_by": ["Ottoman Empire", "Russian Empire", "France"]
+      },
+      "result": "British-Egyptian-Italian victory"
+    },
+    {
+      "war": "First Samoan Civil War",
+      "dates": "1886–1894",
+      "combatant_1": {
+        "forces": ["Samoa Tamasese", "German Empire"],
+        "supported_by": []
+      },
+      "combatant_2": {
+        "forces": ["Samoa Mata'afans"],
+        "supported_by": ["United States"]
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "Second Samoan Civil War",
+      "dates": "1898–1899",
+      "combatant_1": {
+        "forces": ["Samoa Mata'afans", "German Empire"],
+        "supported_by": []
+      },
+      "combatant_2": {
+        "forces": ["Samoa", "United Kingdom", "United States"],
+        "supported_by": []
+      },
+      "result": "Stalemate"
+    },
+    {
+      "war": "Venezuelan crisis of 1902–1903",
+      "dates": "1902–1903",
+      "combatant_1": {
+        "forces": ["United Kingdom", "German Empire", "Italy", "Spain", "Mexico", "Belgium", "Netherlands"],
+        "supported_by": []
+      },
+      "combatant_2": {
+        "forces": ["Venezuela"],
+        "supported_by": ["Argentina", "United States"]
+      },
+      "result": "Compromise"
+    },
+    {
+      "war": "Somaliland campaign",
+      "dates": "1910–1920",
+      "combatant_1": {
+        "forces": ["Dervish State"],
+        "supported_by": ["Ottoman Empire", "German Empire", "Ethiopian Empire (1913–1916)"]
+      },
+      "combatant_2": {
+        "forces": ["British Empire", "Ethiopian Empire", "Italian Empire", "Sultanate of Hobyo"],
+        "supported_by": []
+      },
+      "result": "Collapse of the Dervish State"
+    }
+  ],
+  "note": "This schema provides an overview of significant pre-World War I proxy wars, detailing the main combatants, their supporters, and the outcomes of each conflict. These events highlight the complex web of alliances and enmities that characterized international relations in the period leading up to the First World War."
+}
