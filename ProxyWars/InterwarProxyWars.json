@@ -1,0 +1,83 @@
+{
+  "InterwarProxyWars": [
+    {
+      "war": "Finnish Civil War",
+      "dates": "1918",
+      "combatant_1": {
+        "forces": ["Finland", "White Guard"],
+        "supported_by": ["Germany"]
+      },
+      "combatant_2": {
+        "forces": ["Red Guards"],
+        "supported_by": ["Russian SFSR"]
+      },
+      "result": "Finnish Whites victory"
+    },
+    {
+      "war": "Revolutions and interventions in Hungary",
+      "dates": "1918–1920",
+      "combatant_1": {
+        "forces": ["Czechoslovakia", "Romania Kingdom of Romania", "Kingdom of Serbs, Croats and Slovenes", "First Czechoslovak Republic", "France", "Kingdom of Hungary", "Kingdom of Italy"],
+        "supported_by": []
+      },
+      "combatant_2": {
+        "forces": ["Hungarian Democratic Republic", "Hungarian Republic of Councils", "Slovak Soviet Republic"],
+        "supported_by": ["Russian SFSR"]
+      },
+      "result": "Hungarian defeat"
+    },
+    {
+      "war": "Turkish War of Independence",
+      "dates": "1919–1923",
+      "combatant_1": {
+        "forces": ["Greece", "France", "Armenia", "United Kingdom", "Ottoman Empire Istanbul Government", "Italy", "Georgia"],
+        "supported_by": []
+      },
+      "combatant_2": {
+        "forces": ["Ankara Government"],
+        "supported_by": ["Russian SFSR", "Italy (alleged)", "Azerbaijan SSR"]
+      },
+      "result": "Turkish victory"
+    },
+    {
+      "war": "Chinese Civil War",
+      "dates": "1927–1937, 1945–1950",
+      "combatant_1": {
+        "forces": ["KMT", "NRA"],
+        "supported_by": ["Weimar Republic", "Nazi Germany"]
+      },
+      "combatant_2": {
+        "forces": ["CPC", "PLA"],
+        "supported_by": ["Soviet Union"]
+      },
+      "result": "Communist victory on the mainland and then diplomatic field in 1971, Taiwan Strait stalemate"
+    },
+    {
+      "war": "Chaco War",
+      "dates": "1932–1935",
+      "combatant_1": {
+        "forces": ["Bolivia"],
+        "supported_by": ["Standard Oil (alleged)"]
+      },
+      "combatant_2": {
+        "forces": ["Paraguay"],
+        "supported_by": ["Argentina", "Royal Dutch Shell (alleged)"]
+      },
+      "result": "Paraguayan victory"
+    },
+    {
+      "war": "Spanish Civil War",
+      "dates": "1936–1939",
+      "combatant_1": {
+        "forces": ["Spain Nationalists"],
+        "supported_by": ["Italy", "Nazi Germany", "Portugal"]
+      },
+      "combatant_2": {
+        "forces": ["Second Spanish Republic Republicans"],
+        "supported_by": ["Soviet Union", "Mexico", "France (1936)"]
+      },
+      "result": "Nationalist victory"
+    }
+  ],
+  "note": "This schema provides an overview of significant proxy wars during the Inter-war period, detailing the main combatants, their supporters, and the outcomes of each conflict. These events highlight the geopolitical tensions and alignments that characterized the period between World War I and World War II."
+}
