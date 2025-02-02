@@ -1,0 +1,118 @@
+{
+  "Scramble for Africa": {
+    "alternate_names": ["Partition of Africa"],
+    "part_of": ["Colonialism"],
+    "date_range": "1881 – 1914",
+    "location": ["Africa"],
+    "background": {
+      "causes": [
+        "European powers' desire for new markets and raw materials",
+        "Competition between European nations for global dominance",
+        "Advances in technology and medicine allowing deeper penetration into Africa",
+        "Missionary zeal to spread Christianity and Western values"
+      ],
+      "events_leading_up_to_partition": [
+        "Explorations by figures like David Livingstone and Henry Morton Stanley",
+        "Berlin Conference of 1884–1885 to regulate European colonization",
+        "Treaties and agreements between European powers to avoid conflict"
+      ]
+    },
+    "result": {
+      "general": "Division of Africa among European powers",
+      "treaty": "Various agreements and treaties",
+      "territorial_changes": "Establishment of colonial territories"
+    },
+    "belligerents": {
+      "European_Powers": {
+        "entities": [
+          "United Kingdom",
+          "France",
+          "Germany",
+          "Belgium",
+          "Italy",
+          "Portugal",
+          "Spain"
+        ],
+        "allies": []
+      },
+      "African_Kingdoms_and_Societies": {
+        "entities": [
+          "Various African states and kingdoms"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "European": [
+        "Various colonial administrators and military leaders"
+      ],
+      "African": [
+        "Various kings, chiefs, and resistance leaders"
+      ]
+    },
+    "strength": {
+      "European": "Varied, based on colonial expedition forces",
+      "African": "Varied, based on local resistance"
+    },
+    "casualties_and_losses": {
+      "European": {
+        "dead": "Varied, based on specific conflicts",
+        "wounded": "Varied, based on specific conflicts"
+      },
+      "African": {
+        "dead": "Millions affected by conflict, disease, and exploitation",
+        "wounded": "Varied, based on specific conflicts"
+      }
+    },
+    "major_events": [
+      {
+        "name": "Berlin Conference",
+        "date": "1884–1885",
+        "description": "A meeting where European powers agreed on rules for colonizing Africa, leading to the division of the continent."
+      },
+      {
+        "name": "Battle of Adwa",
+        "date": "1 March 1896",
+        "description": "Ethiopian forces under Emperor Menelik II defeated Italian troops, maintaining Ethiopian independence."
+      },
+      {
+        "name": "Maji Maji Rebellion",
+        "date": "1905–1907",
+        "description": "A violent resistance movement against German colonial rule in present-day Tanzania, resulting in significant casualties."
+      }
+    ],
+    "aftermath": {
+      "long_term_effects": [
+        "Establishment of European control over most of Africa",
+        "Exploitation of African resources and people",
+        "Introduction of Western education, religion, and infrastructure",
+        "Borders drawn by Europeans without regard to ethnic and cultural divisions, leading to future conflicts"
+      ],
+      "impact_on_africa": [
+        "Disruption of traditional societies",
+        "Economic changes due to exploitation and introduction of cash crops",
+        "Cultural changes due to missionary activities and Western influence",
+        "Formation of modern African states along colonial borders"
+      ],
+      "impact_on_europe": [
+        "Increased wealth and resources from African colonies",
+        "Heightened national rivalries and tensions",
+        "Eventually contributed to the conditions leading to World War I"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Exploitation of Africa's natural resources for European benefit",
+        "Introduction of new economic systems and cash crops"
+      ],
+      "political": [
+        "Colonial rule established European dominance in Africa",
+        "Set the stage for future independence movements and decolonization"
+      ],
+      "social": [
+        "Widespread social disruption and displacement",
+        "Introduction of Western education and Christianity"
+      ]
+    }
+  }
+}
