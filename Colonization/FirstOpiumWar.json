@@ -1,0 +1,114 @@
+{
+  "First Opium War": {
+    "alternate_names": ["Anglo-Chinese War"],
+    "part_of": ["Opium Wars", "British Imperialism"],
+    "date_range": "18 March 1839 – 29 August 1842",
+    "location": ["China"],
+    "background": {
+      "causes": [
+        "Trade imbalances between China and Britain",
+        "British demand for Chinese tea, silk, and porcelain",
+        "Chinese restrictions on foreign trade",
+        "Introduction of opium by British merchants to China"
+      ],
+      "events_leading_up_to_war": [
+        "Chinese crackdown on opium trade",
+        "Destruction of opium stocks by Chinese authorities",
+        "British military response to protect their trade interests"
+      ]
+    },
+    "result": {
+      "general": "British victory",
+      "treaty": "Treaty of Nanking",
+      "territorial_changes": "Hong Kong Island ceded to the United Kingdom"
+    },
+    "belligerents": {
+      "British_Empire": {
+        "entities": ["United Kingdom", "East India Company"],
+        "allies": []
+      },
+      "Qing_Dynasty": {
+        "entities": ["China"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "British": ["Charles Elliot", "George Elliot", "Henry Pottinger", "Hugh Gough"],
+      "Chinese": ["Lin Zexu", "Qishan", "Yishan", "Yang Fang"]
+    },
+    "strength": {
+      "British": {
+        "troops": "19,000",
+        "warships": "48"
+      },
+      "Chinese": {
+        "troops": "200,000+",
+        "war_junks": "Numerous"
+      }
+    },
+    "casualties_and_losses": {
+      "British": {
+        "dead": 69,
+        "wounded": 451
+      },
+      "Chinese": {
+        "dead": "18,000 – 22,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Canton",
+        "date": "March 1841",
+        "description": "British forces captured the city of Canton (Guangzhou) after heavy fighting.",
+        "outcome": "British victory"
+      },
+      {
+        "name": "Battle of the Bogue",
+        "date": "February 1841",
+        "description": "British forces defeated Chinese defenses at the Bocca Tigris forts.",
+        "outcome": "British victory"
+      },
+      {
+        "name": "Battle of Chinkiang",
+        "date": "July 1842",
+        "description": "British forces captured the city of Chinkiang (Zhenjiang), opening the way to Nanking (Nanjing).",
+        "outcome": "British victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_nanking": {
+        "terms": [
+          "Cession of Hong Kong Island to the UK",
+          "Opening of five treaty ports (Canton, Amoy, Foochow, Ningpo, and Shanghai) for international trade",
+          "Fixed tariffs on British goods",
+          "Extraterritorial rights for British citizens in China",
+          "Indemnity payment of 21 million silver dollars to Britain"
+        ],
+        "impact": [
+          "Marked the beginning of the 'Century of Humiliation' for China",
+          "Set a precedent for other Western powers to seek similar concessions from China"
+        ]
+      },
+      "long_term_effects": [
+        "Increased Western influence in China",
+        "Weakening of the Qing Dynasty",
+        "Rise of anti-foreign sentiment in China",
+        "Eventual lead up to the Second Opium War"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Altered global trade dynamics",
+        "Increased British economic influence in Asia"
+      ],
+      "political": [
+        "Established British dominance in the region",
+        "Exposed weaknesses in Qing Dynasty governance"
+      ],
+      "social": [
+        "Widespread addiction to opium in China",
+        "Cultural exchanges between East and West"
+      ]
+    }
+  }
+}
