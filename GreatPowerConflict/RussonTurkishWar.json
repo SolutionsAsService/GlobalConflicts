@@ -1,0 +1,114 @@
+{
+  "Russo_Turkish_War_1877_1878": {
+    "alternate_names": ["Russo-Turkish War of 1877-1878", "The Russo-Turkish War"],
+    "part_of": ["Eastern Question", "Balkan Wars", "Ottoman Decline"],
+    "date_range": "24 April 1877 – 3 March 1878",
+    "location": ["Balkans", "Caucasus", "Eastern Anatolia", "Danube", "Black Sea"],
+    "background": {
+      "causes": [
+        "Decline of the Ottoman Empire",
+        "Rising nationalist movements in the Balkans (e.g., in Romania, Serbia, Bulgaria)",
+        "Russian desire to expand influence in the Balkans and weaken Ottoman control",
+        "Russian protection of Slavic and Christian populations under Ottoman rule"
+      ],
+      "events_leading_up_to_war": [
+        "Serbia and Romania declare war on the Ottoman Empire with Russian support",
+        "Russian army crosses the Danube River into Ottoman-controlled territories",
+        "Turkey's attempt to suppress nationalist uprisings in Bulgaria, leading to civilian massacres (April 1876), which causes international outrage"
+      ]
+    },
+    "result": {
+      "general": "Russian victory",
+      "treaty": "Treaty of San Stefano (March 3, 1878)",
+      "territorial_changes": "Russia gains control of parts of the Caucasus and the Danube Delta, and significant influence in the Balkans, especially Bulgaria"
+    },
+    "belligerents": {
+      "Russian_Empire": {
+        "entities": ["Russian Empire"],
+        "allies": ["Principality of Serbia", "Principality of Romania", "Montenegro"]
+      },
+      "Ottoman_Empire": {
+        "entities": ["Ottoman Empire"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Russian": ["Grand Duke Nicholas", "General Mikhail Skobelev", "Tsar Alexander II"],
+      "Ottoman": ["Sultan Abdülhamid II", "Ahmed Muhtar Pasha"]
+    },
+    "strength": {
+      "Russian": {
+        "troops": "500,000+",
+        "warships": "Numerous"
+      },
+      "Ottoman": {
+        "troops": "200,000+",
+        "warships": "Numerous"
+      }
+    },
+    "casualties_and_losses": {
+      "Russian": {
+        "dead": "100,000+",
+        "wounded": "50,000+"
+      },
+      "Ottoman": {
+        "dead": "200,000+",
+        "wounded": "150,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Shipka Pass",
+        "date": "20 July – 9 August 1877",
+        "description": "A decisive battle where Russian forces, alongside Bulgarian volunteers, held off a larger Ottoman force in a series of intense mountain engagements.",
+        "outcome": "Russian victory"
+      },
+      {
+        "name": "Battle of Plevna",
+        "date": "20 July – 28 November 1877",
+        "description": "A prolonged siege where Russian and Romanian forces encircled Ottoman forces in the town of Plevna, leading to the eventual surrender of the Ottoman garrison.",
+        "outcome": "Russian victory"
+      },
+      {
+        "name": "Siege of Kars",
+        "date": "25 September 1877 – 18 November 1877",
+        "description": "A successful Russian siege of the Ottoman fortress of Kars, which eventually led to the Ottoman retreat from the region.",
+        "outcome": "Russian victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_san_stefano": {
+        "terms": [
+          "Ottoman Empire cedes significant territories to Russia and Bulgaria",
+          "Bulgaria is established as a quasi-independent state, significantly enlarged",
+          "Autonomy granted to Bosnia and Herzegovina",
+          "Ottoman Empire loses territories in the Caucasus"
+        ],
+        "impact": [
+          "Shift of power in the Balkans towards Russia and away from the Ottoman Empire",
+          "Growing nationalism among Slavic populations in the Balkans",
+          "Increase in Russian influence over the Balkans, particularly in Bulgaria"
+        ]
+      },
+      "long_term_effects": [
+        "Increased instability in the Balkans, leading to future conflicts",
+        "The weakening of the Ottoman Empire and its eventual disintegration",
+        "Emergence of the Balkan League, which would contribute to future wars like the Balkan Wars (1912–1913)"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Russia gains new territories with valuable resources",
+        "Further weakening of the Ottoman economic position in the region"
+      ],
+      "political": [
+        "Russia solidifies its role as a great power in European geopolitics",
+        "The Ottoman Empire's decline accelerates, opening the door for European intervention in the region"
+      ],
+      "social": [
+        "Bulgaria’s rise as a national entity influences later nationalist movements in the Balkans",
+        "Strengthened Russian influence among the Slavic populations of the Balkans"
+      ]
+    }
+  }
+}
