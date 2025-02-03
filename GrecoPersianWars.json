@@ -1,0 +1,160 @@
+{
+  "Greco-Persian_Wars": {
+    "alternate_names": ["Persian Wars", "First Persian War", "Second Persian War"],
+    "part_of": ["Greek-Persian Conflicts", "Expansion of the Achaemenid Empire", "Greek City-State Alliances"],
+    "date_range": "499 BCE – 449 BCE",
+    "location": ["Greek Peninsula", "Anatolia", "Aegean Sea"],
+    "background": {
+      "causes": [
+        "The expansionist policies of the Persian Empire under Darius I and Xerxes I, aiming to bring the Greek city-states under Persian rule.",
+        "Greek cities in Asia Minor (Ionian Greeks) revolted against Persian rule in 499 BCE, sparking the conflict.",
+        "The desire of Greek city-states to protect their autonomy from the Persian Empire, particularly Athens and Sparta."
+      ],
+      "events_leading_up_to_war": [
+        "The Ionian Revolt (499–494 BCE), where Greek cities in Asia Minor rebelled against Persian control.",
+        "Athens provided support to the Ionian rebels, provoking the Persian Empire to launch a punitive expedition.",
+        "Darius I launched the first invasion in 490 BCE, culminating in the Battle of Marathon."
+      ]
+    },
+    "result": {
+      "general": "Greek victory",
+      "treaty": "Peace of Callias (449 BCE)",
+      "territorial_changes": "The Persian Empire was unable to expand into Greece, and Greek city-states remained independent."
+    },
+    "belligerents": {
+      "Persian_Empire": {
+        "entities": ["Achaemenid Empire", "Persian Army", "Xerxes I"],
+        "allies": ["Local Persian satraps and client states"],
+        "notable_generals": ["King Darius I", "King Xerxes I"]
+      },
+      "Greek_City-States": {
+        "entities": ["Athens", "Sparta", "Delian League"],
+        "allies": ["Various Greek city-states (e.g., Corinth, Plataea)"],
+        "notable_generals": ["Themistocles", "Leonidas I", "Miltiades"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Persian_Empire": [
+        "King Darius I",
+        "King Xerxes I"
+      ],
+      "Greek_City-States": [
+        "Themistocles (Athens)",
+        "Leonidas I (Sparta)",
+        "Miltiades (Athens)",
+        "Pausanias (Sparta)"
+      ]
+    },
+    "strength": {
+      "Persian_Empire": {
+        "troops": "Over 100,000 (at peak)",
+        "artillery": "Archers, cavalry, war elephants",
+        "navy": "Large naval fleet (e.g., at Salamis)"
+      },
+      "Greek_City-States": {
+        "troops": "Around 40,000-50,000 combined (depending on the battle)",
+        "artillery": "Mostly infantry and hoplites",
+        "navy": "Around 300 triremes (e.g., Battle of Salamis)"
+      }
+    },
+    "casualties_and_losses": {
+      "Persian_Empire": {
+        "dead": "Around 70,000–100,000",
+        "wounded": "Numerous"
+      },
+      "Greek_City-States": {
+        "dead": "5,000–10,000",
+        "wounded": "Few"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Marathon",
+        "date": "490 BCE",
+        "description": "A pivotal battle in which the Athenian army, despite being outnumbered, defeated the Persian invaders, halting their first attempt to conquer Greece.",
+        "outcome": "Greek victory, a significant blow to the Persian ambitions in Greece."
+      },
+      {
+        "name": "Battle of Thermopylae",
+        "date": "480 BCE",
+        "description": "A heroic stand by the Spartan-led Greek alliance at the narrow pass of Thermopylae, where King Leonidas I and his men fought to the death against the vastly superior Persian forces.",
+        "outcome": "Persian victory, but at heavy cost; it delayed the Persian advance significantly."
+      },
+      {
+        "name": "Battle of Salamis",
+        "date": "480 BCE",
+        "description": "A decisive naval battle where the Greek fleet, led by Themistocles, decisively defeated the Persian navy in the narrow straits of Salamis.",
+        "outcome": "Greek victory, marking the turning point of the Persian invasion."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Herodotus' Histories",
+          "type": "Historical Text",
+          "location": "Various ancient Greek manuscripts",
+          "details": "Herodotus provides a detailed account of the Greco-Persian Wars, including personal narratives, key battles, and the political motivations behind both Greek and Persian actions."
+        },
+        {
+          "name": "Persian Royal Inscriptions",
+          "type": "Archaeological Texts",
+          "location": "Persian ruins and archives",
+          "details": "Inscriptions from Persian rulers like Darius and Xerxes detail their campaigns and strategies during the wars, providing Persian perspectives on the conflict."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Artifacts from Marathon",
+          "description": "Greek weapons, pottery, and military gear discovered at the site of the Battle of Marathon.",
+          "location": "Marathon, Greece"
+        },
+        {
+          "type": "Themistocles' Inscription",
+          "description": "An inscription commemorating the Athenian victory at Salamis, dedicated to Themistocles.",
+          "location": "Athens"
+        },
+        {
+          "type": "Thermopylae Memorials",
+          "description": "Memorials and inscriptions dedicated to the Spartan warriors who fought at Thermopylae.",
+          "location": "Thermopylae, Greece"
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The History of Herodotus",
+          "type": "First-hand historical account",
+          "location": "Available at the National Library of Greece",
+          "details": "Herodotus' account of the war is one of the most important sources of information on the conflict, focusing on both the Greek and Persian perspectives."
+        },
+        {
+          "name": "The Persian Inscriptions of Xerxes",
+          "type": "Royal inscriptions",
+          "location": "Various archaeological sites in Persepolis, Iran",
+          "details": "Xerxes’ royal inscriptions, which reflect his views on the conquest and his military campaigns, provide insight into the Persian side of the war."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Greek city-states maintained their independence from Persia, preserving their autonomy and cultural identity.",
+        "The Persian Empire’s expansion was halted, and the Greeks formed stronger alliances, including the Delian League, to defend against future invasions."
+      ],
+      "long_term_effects": [
+        "The victory solidified the concept of Greek unity, fostering the rise of classical Greek civilization, which influenced art, philosophy, and political thought for centuries.",
+        "The Greco-Persian Wars ultimately contributed to the weakening of the Achaemenid Empire, which would later be conquered by Alexander the Great."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The wars showcased the tactical brilliance of Greek commanders like Themistocles and Leonidas, as well as the use of hoplites and the phalanx formation.",
+        "The Battle of Salamis demonstrated the importance of naval warfare in the ancient world and the role of strategy over numbers."
+      ],
+      "political": [
+        "The Greek victory ensured the survival of Greek civilization and delayed the expansion of the Persian Empire, which had profound effects on the course of world history."
+      ],
+      "cultural": [
+        "The wars are seen as a pivotal moment in the development of Greek culture, particularly in philosophy, democracy, and the arts, marking the start of the classical era."
+      ]
+    }
+  }
+}
