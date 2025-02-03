@@ -1,0 +1,127 @@
+{
+  "Third_Punic_War": {
+    "alternate_names": ["War Against Carthage", "Roman-Carthaginian War (149–146 BCE)"],
+    "part_of": ["Punic Wars", "Roman Expansion", "Carthaginian Destruction"],
+    "date_range": "149 BCE – 146 BCE",
+    "location": ["North Africa", "Carthage (modern-day Tunisia)"],
+    "background": {
+      "causes": [
+        "Carthage's recovery and economic resurgence after the Second Punic War (218–201 BCE), despite Roman restrictions on their military power.",
+        "The continued Roman suspicion and hostility towards Carthage due to its wealth and proximity to Roman-controlled territories in Spain and North Africa.",
+        "Roman desire to eliminate Carthage as a potential rival power in the Mediterranean."
+      ],
+      "events_leading_up_to_war": [
+        "Following the defeat of Carthage in the Second Punic War, Rome imposed heavy restrictions on Carthage, including limiting its army and forbidding military actions without Roman consent.",
+        "Despite these restrictions, Carthage's economy grew, and the city rebuilt its fortifications, leading to Roman accusations of violating peace terms.",
+        "A crisis in the region, particularly with Rome's allies in the region, led to growing Roman demands for the complete destruction of Carthage."
+      ]
+    },
+    "result": {
+      "general": "Roman victory",
+      "treaty": "No treaty (Carthage was completely destroyed)",
+      "territorial_changes": "Carthage was razed to the ground, and its territory became part of the Roman Empire. The city was rebuilt later by the Romans as a new Roman colony."
+    },
+    "belligerents": {
+      "Roman_Republic": {
+        "entities": ["Roman Senate", "Roman Army"],
+        "allies": []
+      },
+      "Carthaginian_Empire": {
+        "entities": ["Carthage", "Carthaginian Army"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Rome": ["Scipio Aemilianus", "Marcus Porcius Cato", "Lucius Marcius Censorinus"],
+      "Carthage": ["Hasdrubal (son of Gesco)", "Hannibal's younger brother Mago"]
+    },
+    "strength": {
+      "Rome": {
+        "troops": "80,000 – 100,000",
+        "naval_strength": "150 ships",
+        "siege_equipment": "Advanced siege technology, including ballistae and siege towers"
+      },
+      "Carthage": {
+        "troops": "30,000 – 40,000",
+        "naval_strength": "Limited fleet of ships",
+        "siege_defenses": "High city walls, defensive structures, and determined defenders"
+      }
+    },
+    "casualties_and_losses": {
+      "Rome": {
+        "dead": "Less than 10,000",
+        "wounded": "Significant, but not publicly documented"
+      },
+      "Carthage": {
+        "dead": "Over 500,000 (including civilians and defenders)",
+        "wounded": "Majority of defenders killed or enslaved"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Carthage",
+        "date": "149–146 BCE",
+        "description": "The Roman siege of Carthage was marked by intense fighting, including repeated assaults on the city's walls and a devastating naval blockade. It ended with the complete destruction of Carthage.",
+        "outcome": "Roman victory; Carthage was utterly destroyed and its population either killed or enslaved."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Cicero’s Letters and History",
+          "type": "Historical texts",
+          "location": "Rome",
+          "details": "Cicero and other Roman historians recount the brutality of the siege and the destruction of Carthage, with some praising Scipio Aemilianus for his leadership."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Ruins of Carthage",
+          "description": "The remains of Carthage, including the Carthaginian city walls and Roman-built structures, still exist in modern Tunisia as part of the archaeological site."
+        },
+        {
+          "type": "Punic Coins",
+          "description": "Coins from the Carthaginian era have been uncovered, depicting Carthage’s military leaders and the symbolism of their empire, before the destruction."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Polybius' 'History of Rome'",
+          "type": "Greek historical text",
+          "location": "Greece",
+          "details": "Polybius describes the Roman military strategy in the Third Punic War and the critical role of the siege in the conflict's outcome."
+        },
+        {
+          "name": "Appian of Alexandria’s 'History of Rome'",
+          "type": "Roman historical text",
+          "location": "Roman Empire",
+          "details": "Appian recounts the final years of Carthage and the Senate's decision to completely destroy the city, emphasizing Roman resolve."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Carthage’s complete destruction eliminated the last major threat to Roman dominance in the Western Mediterranean.",
+        "Rome gained control of North Africa, securing a vital grain-producing region."
+      ],
+      "long_term_effects": [
+        "Rome’s control over North Africa helped its military and economic expansion across the Mediterranean.",
+        "The destruction of Carthage sent a clear message to other rival powers in the Mediterranean about Rome’s power and resolve."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The destruction of Carthage demonstrated Rome’s military superiority and their resolve in eliminating all threats to their dominance.",
+        "The siege tactics used by Rome were key to their victory, showcasing advanced siege warfare techniques."
+      ],
+      "political": [
+        "The war marked the final end of Carthaginian power and solidified Roman supremacy in the Mediterranean.",
+        "The Roman Senate’s decision to annihilate Carthage also highlighted the extreme measures taken by the Republic to ensure peace and control."
+      ],
+      "cultural": [
+        "The complete destruction of Carthage was symbolic of Rome’s unwillingness to tolerate any rival, shaping the identity of Rome as an unchallenged superpower.",
+        "The war also contributed to the legendary status of Scipio Aemilianus and the harshness of Roman governance in the eyes of their enemies."
+      ]
+    }
+  }
+}
