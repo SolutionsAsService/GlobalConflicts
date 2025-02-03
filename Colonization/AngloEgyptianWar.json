@@ -1,0 +1,107 @@
+{
+  "Anglo_Egyptian_War_1882": {
+    "alternate_names": ["Mahdist Uprising", "British Intervention in Egypt"],
+    "part_of": ["Colonial Expansion", "British Imperialism", "Middle Eastern Conflicts"],
+    "date_range": "11 July 1882 – 13 September 1882",
+    "location": ["Egypt", "Alexandria", "Cairo"],
+    "background": {
+      "causes": [
+        "Instability in Egypt due to a nationalist uprising led by Ahmed Urabi",
+        "British strategic interest in the Suez Canal for trade and military purposes",
+        "The weakening of Ottoman authority in Egypt and growing nationalist sentiment",
+        "The British desire to maintain their influence over Egypt, a key part of their imperial interests in the region"
+      ],
+      "events_leading_up_to_war": [
+        "Ahmed Urabi's rise to power and his attempt to reform the Egyptian military and political system",
+        "British military advisers, concerned about Urabi's anti-European sentiment, push for intervention",
+        "The British occupation of Alexandria in July 1882 after attacks on European nationals"
+      ]
+    },
+    "result": {
+      "general": "British victory",
+      "treaty": "No formal treaty; British military presence established in Egypt",
+      "territorial_changes": "British protectorate established over Egypt, though Egypt nominally remained part of the Ottoman Empire"
+    },
+    "belligerents": {
+      "United_Kingdom": {
+        "entities": ["United Kingdom", "British Indian Army", "Royal Navy"],
+        "allies": []
+      },
+      "Egyptian_Rebels": {
+        "entities": ["Egypt", "Ahmed Urabi"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "British": ["Sir Garnet Wolseley", "Admiral Beauchamp Seymour"],
+      "Egyptian_Rebels": ["Ahmed Urabi", "Tewfik Pasha (nominal ruler)"]
+    },
+    "strength": {
+      "United_Kingdom": {
+        "troops": "30,000",
+        "naval_power": "6 warships, including heavy naval artillery"
+      },
+      "Egyptian_Rebels": {
+        "troops": "20,000",
+        "artillery": "Limited, with poorly trained and equipped forces"
+      }
+    },
+    "casualties_and_losses": {
+      "British": {
+        "dead": "47",
+        "wounded": "380"
+      },
+      "Egyptian_Rebels": {
+        "dead": "2,000 – 5,000",
+        "wounded": "Thousands, with many captured or forced into exile"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Bombardment of Alexandria",
+        "date": "11 July 1882",
+        "location": "Alexandria, Egypt",
+        "description": "A heavy British naval bombardment of Alexandria after the city was attacked by Egyptian forces, leading to widespread destruction.",
+        "outcome": "British victory"
+      },
+      {
+        "name": "Battle of Tell El Kebir",
+        "date": "13 September 1882",
+        "location": "Tell El Kebir, Egypt",
+        "description": "A decisive battle where British forces crushed Urabi’s army, leading to his surrender and the British occupation of Cairo.",
+        "outcome": "British victory"
+      }
+    ],
+    "aftermath": {
+      "british_occupation": {
+        "terms": [
+          "British forces secure Egypt and place it under direct British control, while nominally maintaining the Ottoman sultan's sovereignty over Egypt",
+          "Urabi is captured, tried, and exiled to British-controlled India",
+          "Egypt becomes a British protectorate, with the British controlling its foreign affairs, military, and economic policies"
+        ],
+        "impact": [
+          "Britain solidifies its control over Egypt, ensuring its dominance in the region and the strategic Suez Canal",
+          "The conflict marks a turning point in the decline of Egyptian autonomy and the rise of British imperial power in North Africa"
+        ]
+      },
+      "long_term_effects": [
+        "British occupation of Egypt lasts until 1952, when the Egyptian Revolution leads to full independence",
+        "Continued nationalist resistance to British rule in Egypt and broader discontent across the Arab world with European colonialism"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "The British gain control over the Suez Canal, vital for global trade and British access to India",
+        "British financial control over Egypt's economy, including the construction of railways and irrigation projects"
+      ],
+      "political": [
+        "The war marks the beginning of direct British imperial rule in Egypt, which will last for 70 years",
+        "The decline of Ottoman influence in Egypt and the gradual shift of power toward European colonial powers"
+      ],
+      "social": [
+        "Nationalist sentiments in Egypt grow as a result of British intervention, laying the foundation for future movements seeking independence",
+        "Discontent with British rule, particularly among Egyptian peasants and workers, grows over the coming decades"
+      ]
+    }
+  }
+}
