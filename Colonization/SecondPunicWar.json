@@ -1,0 +1,163 @@
+{
+  "Second_Punic_War": {
+    "alternate_names": ["The War Between Rome and Carthage", "Second Punic Conflict", "Hannibal's War"],
+    "part_of": ["Punic Wars", "Roman Expansion", "Carthaginian Empire", "Ancient Mediterranean Conflicts"],
+    "date_range": "218 BCE – 201 BCE",
+    "location": [
+      "Italy",
+      "Spain",
+      "North Africa",
+      "Sicily",
+      "Mediterranean Sea"
+    ],
+    "background": {
+      "causes": [
+        "Roman expansion into Spain after the First Punic War",
+        "Carthaginian desire for revenge following the loss of Sicily and other territories",
+        "Hannibal Barca's personal ambition to avenge his father's death and Carthage's defeat",
+        "Economic and political competition for control of the western Mediterranean"
+      ],
+      "events_leading_up_to_war": [
+        "Hannibal's attack on Saguntum (219 BCE), a Roman ally in Spain, triggering Roman intervention",
+        "Roman Senate declares war on Carthage after Hannibal's actions in Spain",
+        "Hannibal's march across the Alps in 218 BCE to invade Italy with his army, including war elephants"
+      ]
+    },
+    "belligerents": {
+      "Roman_Republic": {
+        "entities": ["Roman Republic", "Roman Legions"],
+        "allies": ["Allied Italian States", "Numidia (after 206 BCE)", "Macedon (in the latter stages of the war)"]
+      },
+      "Carthaginian_Empire": {
+        "entities": ["Carthage", "Hannibal Barca", "Carthaginian Army"],
+        "allies": ["Gauls", "Numidians", "Macedon (early stages)", "Spaniards"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Romans": [
+        "Publius Cornelius Scipio",
+        "Gaius Terentius Varro",
+        "Lucius Aemilius Paullus",
+        "Fabius Maximus (Cunctator)",
+        "Scipio Africanus (later in the war)"
+      ],
+      "Carthaginians": [
+        "Hannibal Barca",
+        "Hasdrubal Barca",
+        "Maharbal",
+        "Hanno the Great"
+      ]
+    },
+    "strength": {
+      "Romans": {
+        "troops": "500,000 – 600,000",
+        "warships": "200+",
+        "cavalry": "20,000 – 30,000"
+      },
+      "Carthaginians": {
+        "troops": "250,000 – 300,000",
+        "warships": "100+",
+        "cavalry": "40,000 – 50,000"
+      }
+    },
+    "casualties_and_losses": {
+      "Romans": {
+        "dead": "200,000 – 300,000",
+        "wounded": "30,000+"
+      },
+      "Carthaginians": {
+        "dead": "50,000 – 70,000",
+        "wounded": "10,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of the Trebia",
+        "date": "218 BCE",
+        "description": "The first major battle of the war, where Hannibal decisively defeated the Roman forces in northern Italy.",
+        "outcome": "Carthaginian victory"
+      },
+      {
+        "name": "Battle of Lake Trasimene",
+        "date": "217 BCE",
+        "description": "Hannibal ambushed and destroyed a large Roman army, killing 15,000 Roman soldiers.",
+        "outcome": "Carthaginian victory"
+      },
+      {
+        "name": "Battle of Cannae",
+        "date": "216 BCE",
+        "description": "Hannibal’s masterpiece of military strategy, where the Roman legions were surrounded and destroyed in one of the worst defeats in Roman history.",
+        "outcome": "Carthaginian victory"
+      },
+      {
+        "name": "Battle of Zama",
+        "date": "202 BCE",
+        "description": "The final decisive battle of the war where Scipio Africanus defeated Hannibal, forcing Carthage to sue for peace.",
+        "outcome": "Roman victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Livy's History of Rome",
+          "type": "Ancient Roman account",
+          "location": "Ancient Roman Texts, Libraries",
+          "details": "Livy’s account offers one of the most comprehensive narratives of the Second Punic War, providing insights into the Roman perspective of events."
+        },
+        {
+          "name": "Polybius' Histories",
+          "type": "Greek historical account",
+          "location": "Ancient Greek Texts, Libraries",
+          "details": "Polybius details the Carthaginian strategy and Roman response, offering a balanced view of the conflict."
+        },
+        {
+          "name": "Appian of Alexandria",
+          "type": "Roman historian",
+          "location": "Ancient Roman Libraries",
+          "details": "Appian wrote a historical account covering the entire Punic Wars, including the events and aftermath of the Second Punic War."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Roman and Carthaginian weaponry",
+          "description": "Weapons, armor, and inscriptions found at various battle sites such as Cannae and Zama help to confirm the battles' locations and scale."
+        },
+        {
+          "type": "Carthaginian camp remains",
+          "description": "Archaeological excavations in Spain and Italy have uncovered Carthaginian encampments, providing evidence of their military presence."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Cicero's Letters",
+          "type": "Roman text",
+          "details": "Cicero’s writings often reference the significance of the Punic Wars and their lasting impact on Roman culture and military ethos."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Carthage was severely weakened and forced to accept harsh peace terms under the Treaty of Zama.",
+        "Rome emerged as the dominant power in the western Mediterranean, with its hegemony unchallenged until the rise of the Western Empire."
+      ],
+      "long_term_effects": [
+        "Rome’s victory solidified its control over Spain, North Africa, and the Mediterranean islands, which were vital to its economic and military expansion.",
+        "Carthage was forbidden from waging war without Roman consent, severely limiting its ability to recover and regain power."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Battle of Cannae remains one of the most famous examples of military strategy, particularly the double envelopment tactic used by Hannibal."
+      ],
+      "political": [
+        "The war solidified Rome’s rise as a superpower in the ancient world, while severely crippling Carthage’s ability to challenge Roman dominance."
+      ],
+      "economic": [
+        "The war had a profound impact on the economies of both empires, with Rome greatly expanding its territorial holdings and trade routes."
+      ],
+      "cultural": [
+        "The legacy of the war continued to influence Roman political and military culture, serving as a reminder of the fragility of power and the importance of strategic warfare."
+      ]
+    }
+  }
+}
