@@ -1,0 +1,115 @@
+{
+  "Second_Italo_Ethiopian_War": {
+    "alternate_names": ["Second Italo-Abyssinian War", "Ethiopian War of 1935-1936"],
+    "part_of": ["Italian Fascism", "Colonial Expansion", "Second World War precursors"],
+    "date_range": "3 October 1935 – 27 May 1936",
+    "location": ["Ethiopia", "Horn of Africa"],
+    "background": {
+      "causes": [
+        "Italy's ambition to create a new empire in Africa under Mussolini's regime",
+        "Failure of the First Italo-Ethiopian War (1895–1896), which left Italy with unresolved territorial ambitions",
+        "Ethiopia's defiance of colonial encroachment and its status as one of the only independent African nations",
+        "Desire of Mussolini to boost national prestige and distract from internal economic problems"
+      ],
+      "events_leading_up_to_war": [
+        "Italy seeks to expand its East African colonies by targeting Ethiopia, a country not yet colonized",
+        "Mussolini leverages a border incident at Wal Wal to declare war",
+        "League of Nations condemns Italy's actions but fails to intervene decisively"
+      ]
+    },
+    "result": {
+      "general": "Italian victory",
+      "treaty": "Treaty of Addis Ababa (May 1936)",
+      "territorial_changes": "Ethiopia annexed into the Italian East Africa empire, uniting Eritrea, Somaliland, and Ethiopia under Italian rule"
+    },
+    "belligerents": {
+      "Kingdom_of_Italy": {
+        "entities": ["Kingdom of Italy", "Royal Italian Army", "Royal Italian Air Force"],
+        "allies": []
+      },
+      "Ethiopian_Empire": {
+        "entities": ["Ethiopian Empire"],
+        "allies": ["Volunteer forces from other African nations, including some from Egypt and Sudan"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Italian": ["Benito Mussolini", "King Victor Emmanuel III", "General Pietro Badoglio", "Marshal Rodolfo Graziani"],
+      "Ethiopian": ["Emperor Haile Selassie I", "Ras Kassa", "Ras Bitwaddad Abiye", "Abebe Aregai"]
+    },
+    "strength": {
+      "Italian": {
+        "troops": "400,000+",
+        "warships": "Numerous",
+        "aircraft": "600+"
+      },
+      "Ethiopian": {
+        "troops": "500,000+",
+        "warships": "None",
+        "aircraft": "None"
+      }
+    },
+    "casualties_and_losses": {
+      "Italian": {
+        "dead": "20,000",
+        "wounded": "50,000"
+      },
+      "Ethiopian": {
+        "dead": "275,000 – 1,000,000",
+        "wounded": "100,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Adwa",
+        "date": "6 March 1936",
+        "description": "The climactic battle where Italian forces, after an initial setback, decisively defeated the Ethiopian defenses in the northern part of the country.",
+        "outcome": "Italian victory"
+      },
+      {
+        "name": "Battle of Amba Aradam",
+        "date": "14 February 1936",
+        "description": "An early victory for Italian forces, where they surrounded and crushed Ethiopian resistance in the mountains, forcing a retreat.",
+        "outcome": "Italian victory"
+      },
+      {
+        "name": "Battle of Mai Ceu",
+        "date": "31 March 1936",
+        "description": "A key clash where Italian forces, using superior technology, overwhelmed Ethiopian forces despite the latter's tenacious defense.",
+        "outcome": "Italian victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_addis_ababa": {
+        "terms": [
+          "Ethiopia is officially annexed by Italy, forming Italian East Africa",
+          "Haile Selassie I is exiled, with Italy declaring itself the ruler of Ethiopia",
+          "The League of Nations condemns Italy's actions, but sanctions prove ineffective"
+        ],
+        "impact": [
+          "Ethiopia remains under Italian control until 1941, when it is liberated by Allied forces during World War II",
+          "Mussolini consolidates power, showcasing Italy’s fascist military might",
+          "Ethiopia's exile government, led by Haile Selassie, gains international support, particularly in the fight against fascism"
+        ]
+      },
+      "long_term_effects": [
+        "Italy's military and economic strain, leading to significant problems during World War II",
+        "Strengthening of pan-African sentiments and international condemnation of European imperialism",
+        "Ethiopian resistance to colonial rule continues in the form of guerrilla warfare and diplomacy"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Italy gains control over key East African resources, including minerals, farmland, and trade routes",
+        "The war further entrenched Italian colonial control over the region, despite local resistance"
+      ],
+      "political": [
+        "Mussolini’s regime becomes more aggressive in its foreign policies, eventually leading to Italy’s involvement in World War II",
+        "The League of Nations' failure to stop Italy damages its credibility as a peacekeeping body"
+      ],
+      "social": [
+        "The war sees widespread use of chemical weapons, including mustard gas, leading to horrific casualties among Ethiopian civilians and soldiers",
+        "The defeat of Ethiopia leads to greater African unity movements, including later efforts for independence in the mid-20th century"
+      ]
+    }
+  }
+}
