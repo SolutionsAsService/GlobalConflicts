@@ -1,0 +1,132 @@
+{
+  "Russo_Turkish_War_1877_1878": {
+    "alternate_names": ["Russo-Ottoman War", "Eastern Crisis"],
+    "part_of": ["Great Power Conflicts", "Decline of the Ottoman Empire", "Russo-Turkish Rivalry"],
+    "date_range": "24 April 1877 – 3 March 1878",
+    "location": ["Balkans", "Caucasus", "Black Sea"],
+    "background": {
+      "causes": [
+        "Rising nationalism among Slavic populations in the Balkans",
+        "Russian desire to expand influence over the Balkans and the Ottoman Empire’s weakening state",
+        "Ottoman inability to suppress uprisings in its Balkan territories",
+        "Russia’s ambition to gain access to the warm-water ports of the Black Sea"
+      ],
+      "events_leading_up_to_war": [
+        "Russian support for Slavic revolts in the Balkans, especially Bulgaria",
+        "Ottoman brutal suppression of uprisings, including the Bulgarian Massacre of 1876",
+        "Russia declares war on the Ottoman Empire in April 1877, citing the protection of Orthodox Christians in the Balkans as a pretext"
+      ]
+    },
+    "result": {
+      "general": "Russian victory",
+      "treaty": "Treaty of San Stefano (1878), later modified by the Congress of Berlin (1878)",
+      "territorial_changes": [
+        "Ottoman Empire loses large territories in the Balkans (including parts of Romania, Bulgaria, and Serbia)",
+        "Russia gains significant territorial concessions in the Caucasus and Eastern Anatolia",
+        "Bulgaria is created as a principality under Russian influence (later reduced in size by the Congress of Berlin)"
+      ]
+    },
+    "belligerents": {
+      "Russian_Empire": {
+        "entities": ["Russian Empire"],
+        "allies": ["Romania (on the Russian side)"]
+      },
+      "Ottoman_Empire": {
+        "entities": ["Ottoman Empire"],
+        "allies": ["Bulgaria (Ottoman client state)"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Russian": ["Tsar Alexander II", "Grand Duke Nicholas of Russia", "Mikhail Skobelev"],
+      "Ottoman": ["Sultan Abdulhamid II", "Mehmed Ali Pasha", "Osman Nuri Pasha"]
+    },
+    "strength": {
+      "Russian_Empire": {
+        "troops": "Approximately 200,000",
+        "naval_power": "Superior Black Sea fleet",
+        "artillery": "Advanced artillery, including heavy siege guns"
+      },
+      "Ottoman_Empire": {
+        "troops": "Approximately 350,000 (including irregulars and conscripts)",
+        "naval_power": "Outnumbered by the Russian fleet in the Black Sea",
+        "artillery": "Outdated artillery compared to Russian forces"
+      }
+    },
+    "casualties_and_losses": {
+      "Russian_Empire": {
+        "dead": "Approximately 50,000",
+        "wounded": "100,000+"
+      },
+      "Ottoman_Empire": {
+        "dead": "Approximately 200,000 (including civilian casualties from the Balkan uprisings)",
+        "wounded": "50,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Plevna",
+        "date": "July 20 – December 10, 1877",
+        "location": "Plevna, Bulgaria",
+        "description": "A protracted siege where Russian and Romanian forces laid siege to Ottoman defensive positions, ultimately breaking through after several months.",
+        "outcome": "Russian victory"
+      },
+      {
+        "name": "Battle of Shipka Pass",
+        "date": "July 17 – August 9, 1877",
+        "location": "Shipka Pass, Bulgaria",
+        "description": "One of the key victories of Russian and Bulgarian forces, where Russian and Bulgarian troops held off a large Ottoman force in a mountain pass.",
+        "outcome": "Russian and Bulgarian victory"
+      },
+      {
+        "name": "Siege of Kars",
+        "date": "October 6, 1877 – November 18, 1877",
+        "location": "Kars, Ottoman Empire (now in Turkey)",
+        "description": "The Russian Army captured the strategically vital fortress of Kars after a prolonged siege, marking the final Russian victory in the Caucasus.",
+        "outcome": "Russian victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_san_stefano": {
+        "terms": [
+          "Russia gains control of territories in the Caucasus, Romania, and Bulgaria",
+          "Ottoman Empire cedes large parts of its territory, including Kars, Batumi, and Bessarabia",
+          "Creation of the Bulgarian Principality, a Russian client state"
+        ],
+        "impact": [
+          "Russia becomes the dominant power in the Balkans",
+          "Ottoman Empire’s territorial losses further weaken it, contributing to the empire’s gradual decline",
+          "The creation of Bulgaria as a major regional power"
+        ]
+      },
+      "congress_of_berlin": {
+        "terms": [
+          "The Treaty of San Stefano is revised to reduce Bulgaria’s size, preventing a large Russian satellite in the Balkans",
+          "Serbia, Montenegro, and Romania gain recognition of independence",
+          "Ottoman Empire retains nominal control over much of the Balkans, though it remains weakened"
+        ],
+        "impact": [
+          "The Congress of Berlin is seen as a diplomatic setback for Russia",
+          "The war contributes to the long-term instability in the Balkans, leading to future conflicts in the 20th century"
+        ]
+      },
+      "long_term_effects": [
+        "Emerging nationalist movements in the Balkans gain momentum, leading to the eventual disintegration of the Ottoman Empire",
+        "Russia’s influence in the region remains a key factor in the dynamics of Eastern European politics until World War I"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Significant financial strain on the Ottoman Empire, contributing to its declining economic power",
+        "Increased Russian military expenditure and expansion"
+      ],
+      "political": [
+        "Further erosion of Ottoman power, particularly in the Balkans and Caucasus",
+        "Russia’s continued dominance in Eastern Europe, influencing the Great Powers for decades"
+      ],
+      "social": [
+        "Nationalism increases in the Balkans, leading to the rise of new nation-states",
+        "Ottoman Empire struggles to maintain control over its diverse populations"
+      ]
+    }
+  }
+}
