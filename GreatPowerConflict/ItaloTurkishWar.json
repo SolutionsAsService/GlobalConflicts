@@ -1,0 +1,119 @@
+{
+  "Italo_Turkish_War_1911_1912": {
+    "alternate_names": ["Turkish-Libyan War", "War for Libya"],
+    "part_of": ["Great Power Conflicts", "Colonial Expansion", "Decline of the Ottoman Empire"],
+    "date_range": "29 September 1911 – 18 October 1912",
+    "location": ["Libya", "Mediterranean Sea"],
+    "background": {
+      "causes": [
+        "Italy's desire for territorial expansion and colonial acquisition",
+        "Ottoman Empire's weakened hold on its North African territories",
+        "Growing Italian nationalist sentiment and desire to establish an empire",
+        "Economic and strategic interests in the Mediterranean region"
+      ],
+      "events_leading_up_to_war": [
+        "Italy’s diplomatic efforts to pressure the Ottoman Empire to cede Libya fail",
+        "Italy presents an ultimatum to the Ottoman Empire, demanding the peaceful transfer of Libya",
+        "On 29 September 1911, Italy declares war on the Ottoman Empire and begins its invasion of Libya"
+      ]
+    },
+    "result": {
+      "general": "Italian victory",
+      "treaty": "Treaty of Lausanne (1912)",
+      "territorial_changes": [
+        "Ottoman Empire formally cedes control of Libya to Italy",
+        "Italy establishes control over Tripolitania and Cyrenaica, later unified as Libya"
+      ]
+    },
+    "belligerents": {
+      "Kingdom_of_Italy": {
+        "entities": ["Kingdom of Italy", "Royal Italian Army", "Regia Marina (Italian Navy)"],
+        "allies": []
+      },
+      "Ottoman_Empire": {
+        "entities": ["Ottoman Empire", "Ottoman Army", "Ottoman Navy"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Italian": ["Luigi Cadorna", "Enrico Tellini", "Alberto Pollio"],
+      "Ottoman": ["Jamal Pasha", "Mahmoud Shevket Pasha"]
+    },
+    "strength": {
+      "Kingdom_of_Italy": {
+        "troops": "Approximately 150,000",
+        "naval_power": "Superior naval fleet with modern warships",
+        "artillery": "Well-equipped artillery, including modern weapons"
+      },
+      "Ottoman_Empire": {
+        "troops": "Approximately 30,000",
+        "naval_power": "Lesser naval power compared to Italy, though still with strategic coastal forces",
+        "artillery": "Outdated and insufficient for modern warfare"
+      }
+    },
+    "casualties_and_losses": {
+      "Italian": {
+        "dead": "3,500",
+        "wounded": "1,500"
+      },
+      "Ottoman_Empire": {
+        "dead": "4,000",
+        "wounded": "6,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Ain Zara",
+        "date": "October 1911",
+        "location": "Ain Zara, Tripolitania",
+        "description": "An early Italian victory in the war, where Italian forces captured an important Ottoman position outside Tripoli.",
+        "outcome": "Italian victory"
+      },
+      {
+        "name": "Battle of Tobruk",
+        "date": "November 1911",
+        "location": "Tobruk, Cyrenaica",
+        "description": "Italian forces successfully defeated Ottoman defenders in Cyrenaica, gaining control over key coastal towns.",
+        "outcome": "Italian victory"
+      },
+      {
+        "name": "Siege of Tripoli",
+        "date": "October 1911 – November 1911",
+        "location": "Tripoli, Libya",
+        "description": "A prolonged siege by Italian forces that led to the capture of Tripoli, marking a decisive victory in the war.",
+        "outcome": "Italian victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_lausanne": {
+        "terms": [
+          "The Ottoman Empire cedes control of Libya to Italy",
+          "Italy gains sovereignty over all of Libya, which includes the provinces of Tripolitania and Cyrenaica",
+          "Ottoman Empire retains nominal authority over the city of Fezzan, but Italy soon extends control"
+        ],
+        "impact": [
+          "Libya becomes a full-fledged colony of Italy",
+          "This marks the beginning of Italy’s formal colonial empire in North Africa"
+        ]
+      },
+      "long_term_effects": [
+        "Libya remains under Italian control until World War II, with resistance from local populations continuing throughout",
+        "The war marks a significant moment in the decline of the Ottoman Empire’s ability to hold onto its remaining North African territories"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Italy's acquisition of Libya opens the door to increased exploitation of its resources, particularly oil and agricultural land",
+        "The acquisition of Libya contributes to Italy's increased global influence, though it remains an underdeveloped colony compared to France's or Britain’s possessions"
+      ],
+      "political": [
+        "The war leads to greater nationalist sentiment in Italy, fueling the rise of fascism and imperial ambitions in the following decades",
+        "The weakening of the Ottoman Empire accelerates its loss of power in North Africa and the Middle East"
+      ],
+      "social": [
+        "The war leads to increased Italian settlement in Libya and a significant number of Italian expatriates moving to the colony",
+        "Libya experiences internal tensions and revolts as local populations resist foreign occupation"
+      ]
+    }
+  }
+}
