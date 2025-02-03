@@ -1,0 +1,119 @@
+{
+  "Aceh_War": {
+    "alternate_names": ["Dutch-Aceh War", "Atjeh War"],
+    "part_of": ["Dutch Colonial Wars", "Southeast Asian Conflicts"],
+    "date_range": "April 5, 1873 – June 1914",
+    "location": ["Sultanate of Aceh (modern-day Indonesia)"],
+    "background": {
+      "causes": [
+        "Dutch expansionist policies in the East Indies",
+        "Aceh's strategic position along the Malacca Strait",
+        "Dutch desire to control regional trade and weaken Aceh's influence",
+        "Acehnese resistance to colonial domination, fueled by Islamic identity"
+      ],
+      "events_leading_up_to_war": [
+        "British-Dutch Treaty of 1824 recognized Aceh's independence, but Dutch sought to alter this over time",
+        "Acehnese diplomatic efforts to secure support from the Ottoman Empire and the United States",
+        "Dutch justification for war based on alleged Acehnese piracy and disruption of trade",
+        "Dutch invasion of Aceh in 1873, marking the start of the war"
+      ]
+    },
+    "result": {
+      "general": "Dutch military victory after prolonged resistance",
+      "treaty": "No formal treaty; Aceh was forcibly incorporated into the Dutch East Indies",
+      "territorial_changes": "Aceh annexed by the Netherlands, becoming part of the Dutch East Indies"
+    },
+    "belligerents": {
+      "Dutch_Empire": {
+        "entities": ["Royal Netherlands East Indies Army (KNIL)"],
+        "allies": []
+      },
+      "Sultanate_of_Aceh": {
+        "entities": ["Acehnese guerrilla fighters", "Local Islamic leaders"],
+        "allies": ["Some support from Ottoman Empire (diplomatic)"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Dutch": ["Johannes Benedictus van Heutsz", "Karel van der Heijden", "Joannes Benedictus van Heutsz"],
+      "Acehnese": ["Sultan Mahmud Syah II", "Teungku Chik di Tiro", "Cut Nyak Dhien"]
+    },
+    "strength": {
+      "Dutch": {
+        "troops": "Approximately 50,000 over the course of the war",
+        "warships": "Several naval vessels used for blockades and coastal bombardments"
+      },
+      "Acehnese": {
+        "troops": "Tens of thousands of guerrilla fighters at various stages",
+        "weapons": "Traditional weapons, some firearms, guerrilla tactics"
+      }
+    },
+    "casualties_and_losses": {
+      "Dutch": {
+        "dead": "Approximately 25,000 soldiers and civilians",
+        "wounded": "Unknown"
+      },
+      "Acehnese": {
+        "dead": "Estimated 70,000–100,000, including civilians",
+        "wounded": "Unknown",
+        "displacement": "Large-scale population displacement due to scorched-earth tactics"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "First Dutch Invasion of Aceh",
+        "date": "April – November 1873",
+        "location": "Aceh",
+        "description": "Dutch forces launched a full-scale invasion but suffered heavy losses, including the death of their general. The invasion failed.",
+        "outcome": "Acehnese victory"
+      },
+      {
+        "name": "Second Dutch Invasion",
+        "date": "1874–1875",
+        "location": "Aceh",
+        "description": "The Dutch took control of the capital, Banda Aceh, but faced continued guerrilla resistance.",
+        "outcome": "Dutch tactical victory, but war continued"
+      },
+      {
+        "name": "Guerrilla Resistance Phase",
+        "date": "1890s – 1914",
+        "location": "Rural Aceh",
+        "description": "Acehnese guerrilla forces waged a prolonged war of attrition against the Dutch, using ambushes and hit-and-run tactics.",
+        "outcome": "Gradual Dutch suppression of resistance"
+      }
+    ],
+    "aftermath": {
+      "dutch_pacification_campaigns": {
+        "terms": [
+          "Implementation of harsh counterinsurgency tactics",
+          "Mass killings and executions of Acehnese leaders",
+          "Forced relocations and scorched-earth policies"
+        ],
+        "impact": [
+          "Severe depopulation and destruction of Acehnese society",
+          "Aceh remained a center of anti-colonial resistance into the 20th century",
+          "Dutch continued to face minor revolts until their departure in 1942"
+        ]
+      },
+      "long_term_effects": [
+        "Aceh retained strong Islamic and anti-colonial identity",
+        "Resistance movement influenced later Indonesian independence struggle",
+        "Dutch rule in Indonesia increasingly questioned internationally",
+        "Aceh remained restive even after Indonesia's independence in 1949"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Dutch gained control of Aceh's trade and resources",
+        "Destruction of local economies due to prolonged war"
+      ],
+      "political": [
+        "Strengthened Dutch colonial rule in the East Indies",
+        "Influenced later Dutch counterinsurgency strategies"
+      ],
+      "social": [
+        "Mass loss of life and cultural upheaval in Aceh",
+        "Acehnese nationalism and Islamic identity strengthened"
+      ]
+    }
+  }
+}
