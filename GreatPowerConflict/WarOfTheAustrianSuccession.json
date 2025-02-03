@@ -1,0 +1,121 @@
+{
+  "War_of_the_Austrian_Succession": {
+    "alternate_names": ["Austrian Succession War"],
+    "part_of": ["European Wars", "Power Struggles in Europe"],
+    "date_range": "1740–1748",
+    "location": ["Central Europe", "Silesia", "Italy", "Netherlands"],
+    "background": {
+      "causes": [
+        "The death of Emperor Charles VI of the Holy Roman Empire without a male heir",
+        "Maria Theresa, his daughter, claimed the throne of the Habsburg Empire",
+        "Rival European powers, including Prussia, France, and Bavaria, contested her claim",
+        "Expansionist ambitions of Prussia, France, and Spain"
+      ],
+      "events_leading_up_to_war": [
+        "Charles VI's death in 1740 sparks a succession crisis",
+        "Maria Theresa, though recognized by many, faces immediate challenges to her throne from Prussia and Bavaria",
+        "Frederick II of Prussia invades Silesia, starting the conflict"
+      ]
+    },
+    "result": {
+      "general": "Stalemate with no decisive victor",
+      "treaty": "Treaty of Aix-la-Chapelle",
+      "territorial_changes": "Prussia retains control of Silesia, Austria gains some territories in Italy and the Netherlands"
+    },
+    "belligerents": {
+      "Austria": {
+        "entities": ["Austrian Empire", "Maria Theresa"],
+        "allies": ["Great Britain", "Netherlands"]
+      },
+      "Prussia": {
+        "entities": ["Prussian Kingdom", "Frederick II"],
+        "allies": ["France", "Bavaria", "Spain"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Austria": ["Maria Theresa", "Prince Eugene of Savoy", "Count Neipperg"],
+      "Prussia": ["Frederick II (the Great)", "Prince Karl of Lorraine"],
+      "France": ["Maurice de Saxe"],
+      "Bavaria": ["Charles Albert of Bavaria"]
+    },
+    "strength": {
+      "Austria": {
+        "troops": "200,000+",
+        "warships": "Numerous"
+      },
+      "Prussia": {
+        "troops": "100,000+",
+        "warships": "Minimal"
+      },
+      "France": {
+        "troops": "150,000+",
+        "warships": "Numerous"
+      }
+    },
+    "casualties_and_losses": {
+      "Austria": {
+        "dead": "60,000+",
+        "wounded": "Unknown"
+      },
+      "Prussia": {
+        "dead": "50,000+",
+        "wounded": "Unknown"
+      },
+      "France": {
+        "dead": "50,000+",
+        "wounded": "Unknown"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Mollwitz",
+        "date": "10 April 1741",
+        "description": "Frederick II of Prussia won a decisive victory over the Austrians in Silesia, securing Prussian dominance in the region.",
+        "outcome": "Prussian victory"
+      },
+      {
+        "name": "Battle of Dettingen",
+        "date": "27 June 1743",
+        "description": "A rare victory for the British and Austrian forces over the French in Bavaria.",
+        "outcome": "Austrian/British victory"
+      },
+      {
+        "name": "Battle of Fontenoy",
+        "date": "11 May 1745",
+        "description": "French forces under Maurice de Saxe decisively defeated the British and Austrian forces in the Low Countries.",
+        "outcome": "French victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_aix_la_chapelle": {
+        "terms": [
+          "Restoration of territorial status quo, with some territorial adjustments",
+          "Prussia retains control of Silesia, which remains a source of future conflict between Austria and Prussia",
+          "Maria Theresa is confirmed as ruler of the Austrian Empire, but the war continues to shape European politics"
+        ],
+        "impact": [
+          "The war solidified Prussia as a major European power",
+          "The conflict also revealed the limitations of French military power and the growing influence of Britain in European affairs"
+        ]
+      },
+      "long_term_effects": [
+        "The balance of power in Europe was permanently altered, with Prussia gaining significant prestige and influence",
+        "The war's outcome set the stage for future conflicts like the Seven Years' War, where alliances and rivalries continued to play out"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "The war disrupted trade and had significant economic consequences for the involved nations",
+        "The Treaty of Aix-la-Chapelle failed to resolve many issues, leading to continued instability"
+      ],
+      "political": [
+        "Marked the rise of Prussia as a leading European power and the decline of Austrian influence",
+        "The war shifted alliances and political loyalties across Europe, setting the stage for future conflicts"
+      ],
+      "social": [
+        "The war led to significant losses among the common population, particularly through conscription and economic hardship",
+        "The conflict deepened animosity between European powers, particularly between France and Britain"
+      ]
+    }
+  }
+}
