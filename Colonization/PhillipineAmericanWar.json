@@ -1,0 +1,112 @@
+{
+  "Philippine-American War": {
+    "alternate_names": ["Philippine War of Independence", "Philippine Insurrection"],
+    "part_of": ["American Imperialism"],
+    "date_range": "February 4, 1899 – July 2, 1902",
+    "location": ["Philippines"],
+    "background": {
+      "causes": [
+        "Spanish-American War and the Treaty of Paris (1898)",
+        "Cession of the Philippines from Spain to the United States",
+        "Filipino desire for independence",
+        "American desire to establish control over the Philippines"
+      ],
+      "events_leading_up_to_war": [
+        "Proclamation of Philippine independence by Emilio Aguinaldo in 1898",
+        "Arrival of American forces and establishment of military rule",
+        "Tensions between Filipino nationalists and American authorities",
+        "Outbreak of hostilities on February 4, 1899"
+      ]
+    },
+    "result": {
+      "general": "American victory",
+      "treaty": "None",
+      "territorial_changes": "Philippines becomes a territory of the United States"
+    },
+    "belligerents": {
+      "United_States": {
+        "entities": ["United States"],
+        "allies": []
+      },
+      "First_Philippine_Republic": {
+        "entities": ["Philippines"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "American": ["Elwell Stephen Otis", "Arthur MacArthur Jr.", "William Howard Taft"],
+      "Filipino": ["Emilio Aguinaldo", "Antonio Luna", "Gregorio del Pilar"]
+    },
+    "strength": {
+      "American": {
+        "troops": "126,468"
+      },
+      "Filipino": {
+        "regular_troops": "80,000",
+        "irregulars": "120,000"
+      }
+    },
+    "casualties_and_losses": {
+      "American": {
+        "dead": 4,196,
+        "wounded": 2,930
+      },
+      "Filipino": {
+        "dead_soldiers": 20,000,
+        "civilian_fatalities": 200,000 from violence, famine, and disease
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Manila",
+        "date": "February 4–5, 1899",
+        "description": "The first and largest battle of the war, resulting in a decisive American victory.",
+        "outcome": "American victory"
+      },
+      {
+        "name": "Battle of Tirad Pass",
+        "date": "December 2, 1899",
+        "description": "Filipino forces under Gregorio del Pilar attempted to delay American forces, resulting in his death and an American victory.",
+        "outcome": "American victory"
+      },
+      {
+        "name": "Battle of Balangiga",
+        "date": "September 28, 1901",
+        "description": "A surprise attack by Filipino guerrillas on American troops, resulting in significant American casualties.",
+        "outcome": "Filipino tactical victory"
+      }
+    ],
+    "aftermath": {
+      "long_term_effects": [
+        "Establishment of American colonial rule in the Philippines",
+        "Introduction of American education and governmental systems",
+        "Economic changes and infrastructure development under American rule",
+        "Eventual path to Philippine independence in 1946"
+      ],
+      "impact_on_philippines": [
+        "Significant loss of life and destruction of property",
+        "Introduction of new political and social systems",
+        "Increased American cultural and economic influence"
+      ],
+      "impact_on_united_states": [
+        "Expansion of American influence in Asia",
+        "Debate over imperialism and its moral implications",
+        "Military experience and lessons learned in counterinsurgency"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Development of infrastructure and public works in the Philippines",
+        "Economic exploitation of Philippine resources by American businesses"
+      ],
+      "political": [
+        "Establishment of American colonial administration",
+        "Influence on future American foreign policy and imperialism"
+      ],
+      "social": [
+        "Introduction of American education and cultural practices",
+        "Impact on Filipino society and national identity"
+      ]
+    }
+  }
+}
