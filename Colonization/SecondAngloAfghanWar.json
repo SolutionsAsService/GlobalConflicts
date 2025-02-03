@@ -1,0 +1,139 @@
+{
+  "Second_Anglo-Afghan_War": {
+    "alternate_names": ["Anglo-Afghan War of 1878–1880", "Second Afghan War"],
+    "part_of": ["Great Game", "British Empire", "Afghan Resistance"],
+    "date_range": "21 December 1878 – 28 February 1880",
+    "location": ["Afghanistan"],
+    "background": {
+      "causes": [
+        "British fears of Russian expansion into Central Asia and Afghanistan’s strategic location between British India and Russia.",
+        "The British Empire sought to establish a friendly Afghan government to act as a buffer against Russian influence in the region.",
+        "The Afghan Emir Sher Ali Khan's refusal to allow British diplomats into his court and his alliance with Russia triggered British intervention."
+      ],
+      "events_leading_up_to_war": [
+        "The British government demanded that the Afghan Emir Sher Ali Khan allow a British diplomatic mission into Kabul, which was refused.",
+        "In retaliation, British forces marched into Afghanistan, invading through the Khyber Pass.",
+        "The war began with British military actions against Afghan forces and continued with several battles and sieges."
+      ]
+    },
+    "result": {
+      "general": "British victory",
+      "treaty": "Treaty of Gandamak",
+      "territorial_changes": "Afghanistan lost control over foreign relations, which were placed under British control, effectively making Afghanistan a British protectorate."
+    },
+    "belligerents": {
+      "British_Empire": {
+        "entities": ["British India", "British Army"],
+        "allies": []
+      },
+      "Afghan_Empire": {
+        "entities": ["Afghanistan", "Emir Sher Ali Khan"],
+        "allies": ["Russia"]
+      }
+    },
+    "commanders_and_leaders": {
+      "British": ["General Sir Frederick Roberts", "Major-General Sir Samuel Browne"],
+      "Afghan": ["Emir Sher Ali Khan", "Yaqub Khan"]
+    },
+    "strength": {
+      "British": {
+        "troops": "40,000",
+        "artillery": "Field guns",
+        "air_support": "None"
+      },
+      "Afghan": {
+        "troops": "40,000 – 50,000",
+        "artillery": "Limited",
+        "air_support": "None"
+      }
+    },
+    "casualties_and_losses": {
+      "British": {
+        "dead": "1,500",
+        "wounded": "5,000"
+      },
+      "Afghan": {
+        "dead": "20,000 – 30,000",
+        "wounded": "Thousands"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Maiwand",
+        "date": "27 July 1880",
+        "description": "A major Afghan victory in which Afghan forces under Ayub Khan defeated British forces. The British were forced to retreat after heavy casualties.",
+        "outcome": "Afghan victory"
+      },
+      {
+        "name": "Siege of the British Residency in Kabul",
+        "date": "November 1879 – January 1880",
+        "description": "The British Residency in Kabul was besieged by Afghan forces. This battle marked a major crisis for the British during the war.",
+        "outcome": "British recapture and final victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Treaty of Gandamak",
+          "type": "Diplomatic document",
+          "location": "British India archives",
+          "details": "The treaty signed at the end of the war, outlining British control over Afghanistan's foreign relations."
+        },
+        {
+          "name": "Official Reports from the British Army",
+          "type": "Military history text",
+          "location": "British National Archives",
+          "details": "Detailed accounts of the campaigns, logistics, and strategies used by British forces during the war."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Artifacts from the Battle of Maiwand",
+          "description": "Weapons, coins, and remnants of uniforms from the battle, found in the region near Maiwand, are evidence of the significant combat and Afghan victory."
+        },
+        {
+          "type": "British military equipment",
+          "description": "Artifacts such as field guns and ammunition caches left behind by retreating British forces can be found around the battlefield areas."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Sher Ali Khan's Correspondence",
+          "type": "Historical documents",
+          "location": "Afghan archives",
+          "details": "The letters and messages between Sher Ali Khan and various foreign powers, including Russia, outline Afghanistan’s geopolitical position leading up to the war."
+        },
+        {
+          "name": "Accounts of Sir Frederick Roberts",
+          "type": "Memoir",
+          "location": "British National Library",
+          "details": "The memoirs of General Sir Frederick Roberts, one of the key British commanders, detailing the British perspective on the conflict."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The British established a protectorate over Afghanistan, effectively controlling its foreign policy while allowing internal sovereignty.",
+        "The Treaty of Gandamak confirmed British control over Afghanistan's foreign relations."
+      ],
+      "long_term_effects": [
+        "The British Empire solidified its influence in the Indian subcontinent, while Afghanistan remained a buffer state between the British and Russian empires.",
+        "The war contributed to the formation of the Anglo-Russian rivalry, leading to the partitioning of spheres of influence in Central Asia."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war showcased the strategic importance of Afghanistan in the larger context of the Great Game between Britain and Russia.",
+        "The British victory, despite setbacks, demonstrated the empire's military prowess, although the Afghan resistance at Maiwand was a key symbol of resilience."
+      ],
+      "political": [
+        "The war effectively placed Afghanistan under British influence, while preventing Russian expansion into the region, securing the Indian Empire.",
+        "The conflict influenced the policies towards Afghanistan and Central Asia for decades to come."
+      ],
+      "cultural": [
+        "The war and its aftermath deeply impacted Afghan nationalism, with continued resistance against foreign intervention throughout the 20th century.",
+        "It left a legacy in Afghanistan of both resistance to imperialism and the preservation of the nation’s sovereignty, though under British oversight."
+      ]
+    }
+  }
+}
