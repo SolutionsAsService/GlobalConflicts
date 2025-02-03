@@ -1,0 +1,102 @@
+{
+  "War_of_the_Golden_Stool": {
+    "alternate_names": ["Yaa Asantewaa War", "Ashanti-British War of 1906"],
+    "part_of": ["British Colonial Expansion", "Ashanti Resistance", "Early 20th Century Conflicts"],
+    "date_range": "26 March 1900 – 11 September 1900",
+    "location": ["Ashanti Empire (modern-day Ghana)"],
+    "background": {
+      "causes": [
+        "The Ashanti Kingdom's resistance to British colonial rule in West Africa",
+        "The British attempt to annex the Ashanti Kingdom into the Gold Coast Colony",
+        "Cultural and religious significance of the Golden Stool to the Ashanti people"
+      ],
+      "events_leading_up_to_war": [
+        "The British demand to take possession of the Golden Stool, a sacred artifact and symbol of the Ashanti monarchy",
+        "Queen Yaa Asantewaa, the Ashanti regent, leads the defense against British imperialism after the death of the Ashanti king",
+        "The British attempt to capture the Ashanti capital, Kumasi, in 1900, sparking full-scale conflict"
+      ]
+    },
+    "result": {
+      "general": "British victory",
+      "treaty": "No formal treaty signed, but the Ashanti Kingdom is effectively annexed",
+      "territorial_changes": "Ashanti Kingdom absorbed into the British Gold Coast Colony"
+    },
+    "belligerents": {
+      "British_Empire": {
+        "entities": ["British Empire", "British Gold Coast Colony"],
+        "allies": []
+      },
+      "Ashanti_Kingdom": {
+        "entities": ["Ashanti Empire"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "British": ["Sir Frederick Mitchell Hodgson", "Major-General Sir Reginald Hart"],
+      "Ashanti": ["Queen Yaa Asantewaa", "King Prempeh I"]
+    },
+    "strength": {
+      "British": {
+        "troops": "1,000+",
+        "warships": "None"
+      },
+      "Ashanti": {
+        "troops": "15,000+",
+        "warships": "None"
+      }
+    },
+    "casualties_and_losses": {
+      "British": {
+        "dead": "30",
+        "wounded": "100+"
+      },
+      "Ashanti": {
+        "dead": "1,000+",
+        "wounded": "2,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Cedi",
+        "date": "23 April 1900",
+        "description": "Ashanti forces ambushed British troops while they were advancing on the capital, Kumasi.",
+        "outcome": "Ashanti victory"
+      },
+      {
+        "name": "Siege of Kumasi",
+        "date": "May 1900 – September 1900",
+        "description": "A prolonged siege in which Ashanti forces, led by Queen Yaa Asantewaa, defend Kumasi against the British invaders.",
+        "outcome": "British victory"
+      }
+    ],
+    "aftermath": {
+      "colonial_control": {
+        "terms": [
+          "Ashanti Kingdom formally annexed into the British Gold Coast Colony",
+          "Yaa Asantewaa exiled to Seychelles, but she remained a symbol of resistance"
+        ],
+        "impact": [
+          "Marked the end of major resistance by the Ashanti against British colonial rule",
+          "The Golden Stool, a symbol of Ashanti royalty, was never relinquished by the Ashanti people, becoming a symbol of defiance"
+        ]
+      },
+      "long_term_effects": [
+        "Further consolidation of British control over the Gold Coast, which later became Ghana",
+        "The Ashanti people continued to resist colonial rule, though this resistance largely ended after 1900"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Further expansion of British control over the Gold Coast's resources, particularly gold and cocoa"
+      ],
+      "political": [
+        "The war solidified the power of the British Empire in West Africa",
+        "Marked one of the last major uprisings against colonial rule in the region"
+      ],
+      "social": [
+        "Increased European dominance in the region, with lingering effects on local traditions and power structures",
+        "Queen Yaa Asantewaa became a symbol of African resistance against colonialism"
+      ]
+    }
+  }
+}
