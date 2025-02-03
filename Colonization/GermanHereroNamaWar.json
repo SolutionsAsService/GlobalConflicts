@@ -1,0 +1,111 @@
+{
+  "German-Herero_and_Nama_War": {
+    "alternate_names": ["Herero and Namaqua Genocide", "Herero Revolt", "Namibian Genocide"],
+    "part_of": ["German Colonial Wars", "Scramble for Africa"],
+    "date_range": "January 12, 1904 – March 31, 1908",
+    "location": ["German Southwest Africa (modern-day Namibia)"],
+    "background": {
+      "causes": [
+        "German colonial expansion and land seizures in Southwest Africa",
+        "Exploitation of Herero and Nama labor under German rule",
+        "Tensions over cattle confiscation and loss of indigenous land",
+        "Resentment against harsh treatment by German settlers and military"
+      ],
+      "events_leading_up_to_war": [
+        "Increasing German settlement displacing Herero and Nama populations",
+        "Forced labor policies and economic restrictions on indigenous people",
+        "Herero rebellion against German rule in January 1904",
+        "Nama uprising following Herero defeat in late 1904"
+      ]
+    },
+    "result": {
+      "general": "Decisive German military victory, but with international condemnation for genocide",
+      "treaty": "No formal treaty; Namibia remained under German control until World War I",
+      "territorial_changes": "German Southwest Africa remained a colony until taken by South Africa in 1915"
+    },
+    "belligerents": {
+      "German_Empire": {
+        "entities": ["Imperial German Army", "German Colonial Administration"],
+        "allies": []
+      },
+      "Herero_and_Nama": {
+        "entities": ["Herero people", "Nama people"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "German": ["Lothar von Trotha", "Theodor Leutwein"],
+      "Herero_and_Nama": ["Samuel Maharero (Herero leader)", "Hendrik Witbooi (Nama leader)"]
+    },
+    "strength": {
+      "German": {
+        "troops": "Approximately 15,000",
+        "warships": "Several naval vessels used for troop transport"
+      },
+      "Herero_and_Nama": {
+        "troops": "Approximately 10,000 Herero fighters, smaller Nama forces",
+        "warriors": "Mostly armed with spears, some with firearms"
+      }
+    },
+    "casualties_and_losses": {
+      "German": {
+        "dead": "676",
+        "wounded": "More than 1,000"
+      },
+      "Herero_and_Nama": {
+        "dead": "60,000 – 100,000 (Herero), 10,000 (Nama)",
+        "survivors": "Many survivors placed in concentration camps"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Waterberg",
+        "date": "August 11, 1904",
+        "location": "Waterberg, Namibia",
+        "description": "German forces decisively defeated the Herero, forcing them into the Omaheke Desert where many perished.",
+        "outcome": "German victory"
+      },
+      {
+        "name": "Guerrilla War Against the Nama",
+        "date": "1904–1908",
+        "location": "Southern Namibia",
+        "description": "Nama fighters engaged in prolonged guerrilla resistance against German forces.",
+        "outcome": "German victory after Nama surrender"
+      }
+    ],
+    "aftermath": {
+      "policies_and_tactics": {
+        "terms": [
+          "Extermination orders issued by General von Trotha against the Herero",
+          "Herero forced into the Omaheke Desert to die of starvation and thirst",
+          "Survivors placed in concentration camps and subjected to forced labor"
+        ],
+        "impact": [
+          "Mass killings recognized as one of the first genocides of the 20th century",
+          "Herero and Nama populations devastated",
+          "Harsh colonial policies continued in German Southwest Africa"
+        ]
+      },
+      "long_term_effects": [
+        "German Southwest Africa remained a colony until World War I",
+        "Genocide set a precedent for later racial policies by Germany",
+        "Namibia continues to seek reparations from Germany",
+        "Acknowledgment of genocide by the German government in 2021"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Confiscation of Herero and Nama lands by German settlers",
+        "Forced labor systems enriched German colonial enterprises"
+      ],
+      "political": [
+        "Established brutal precedent for European colonial rule in Africa",
+        "Germany's defeat in World War I led to loss of the colony"
+      ],
+      "social": [
+        "Severe depopulation of Herero and Nama communities",
+        "Intergenerational trauma and continued struggle for recognition"
+      ]
+    }
+  }
+}
