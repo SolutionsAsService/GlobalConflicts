@@ -1,0 +1,118 @@
+{
+  "Revolt_of_the_Comuneros": {
+    "alternate_names": ["Comunero Rebellion of New Granada", "1781 Colombian Revolt"],
+    "part_of": ["Precursor Movements to Latin American Independence", "Spanish Colonial Rebellions"],
+    "date_range": "March – October 1781",
+    "location": ["New Granada (modern-day Colombia)"],
+    "background": {
+      "causes": [
+        "Increased taxation by Spanish colonial authorities",
+        "Economic hardship due to Spanish mercantilist policies",
+        "Resentment towards Spanish monopolies on goods like tobacco and liquor",
+        "Growing influence of Enlightenment ideas on self-governance"
+      ],
+      "events_leading_up_to_war": [
+        "Implementation of new sales taxes and tariffs in early 1781",
+        "Peasants, artisans, and indigenous groups unite against Spanish officials",
+        "The uprising begins in Socorro, with local leaders calling for resistance",
+        "Rebel forces march towards Bogotá, gaining mass support along the way"
+      ]
+    },
+    "result": {
+      "general": "Spanish colonial forces suppress the rebellion through deception and force",
+      "treaty": "False concessions granted by Viceroy Manuel Antonio Flórez before retracting them",
+      "territorial_changes": "New Granada remains under Spanish rule"
+    },
+    "belligerents": {
+      "Spanish_Empire": {
+        "entities": ["Spanish colonial government in New Granada", "Royalist militias"],
+        "allies": ["Loyalist elites"]
+      },
+      "Comunero_Rebels": {
+        "entities": ["Peasant militias", "Artisan groups", "Indigenous communities"],
+        "allies": ["Some Criollo (Creole) elites"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Spanish": ["Viceroy Manuel Antonio Flórez", "Archbishop Caballero y Góngora"],
+      "Comunero_Rebels": ["Juan Francisco Berbeo", "José Antonio Galán", "Salvador Plata", "Antonio Monsalve"]
+    },
+    "strength": {
+      "Spanish": {
+        "troops": "Estimated 1,500–2,000 soldiers",
+        "weapons": "Flintlock muskets, cannons, cavalry"
+      },
+      "Comunero_Rebels": {
+        "troops": "Around 20,000–30,000 civilians and fighters",
+        "weapons": "Improvised weapons, farming tools, some firearms"
+      }
+    },
+    "casualties_and_losses": {
+      "Spanish": {
+        "dead": "Estimated 200–500",
+        "wounded": "Unknown"
+      },
+      "Comunero_Rebels": {
+        "dead": "Thousands, including executions after suppression",
+        "wounded": "Unknown",
+        "civilian_losses": "Mass arrests and targeted reprisals against rebel sympathizers"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "March to Bogotá",
+        "date": "April 1781",
+        "location": "New Granada",
+        "description": "Comunero rebels advanced towards the capital, forcing the Spanish authorities to negotiate.",
+        "outcome": "Rebels seemingly force concessions"
+      },
+      {
+        "name": "Battle of Zipaquirá",
+        "date": "May 1781",
+        "location": "Near Bogotá",
+        "description": "Spanish forces feigned agreement with rebels, only to later launch a brutal crackdown.",
+        "outcome": "Spanish deception leads to rebel collapse"
+      },
+      {
+        "name": "Final Executions",
+        "date": "October 1781",
+        "location": "Bogotá and surrounding regions",
+        "description": "Leaders of the revolt, including José Antonio Galán, are captured and publicly executed.",
+        "outcome": "Rebellion definitively crushed"
+      }
+    ],
+    "aftermath": {
+      "spanish_countermeasures": {
+        "terms": [
+          "Execution of rebel leaders, including quartering of José Antonio Galán",
+          "Mass imprisonment and forced labor for rebel sympathizers",
+          "Strengthening of Spanish military presence in New Granada"
+        ],
+        "impact": [
+          "Short-term stability restored in New Granada",
+          "Harsh Spanish policies fuel long-term revolutionary sentiment",
+          "Inspiration for later independence movements in the early 19th century"
+        ]
+      },
+      "long_term_effects": [
+        "Strengthened Criollo nationalist movements",
+        "Increased rejection of Spanish colonial rule",
+        "Seen as a precursor to Simón Bolívar’s wars of independence"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Temporary Spanish relaxation of harsh taxes",
+        "Continued exploitation of colonial resources by the Spanish crown"
+      ],
+      "political": [
+        "Inspired later uprisings in Spanish America",
+        "Exposed Spanish vulnerability in governing distant colonies"
+      ],
+      "social": [
+        "Increased political consciousness among lower classes",
+        "First major attempt at multi-ethnic anti-colonial resistance in New Granada"
+      ]
+    }
+  }
+}
