@@ -1,0 +1,77 @@
+{
+  "Seven_Years_War": {
+    "alternate_names": ["French and Indian War (North America)", "Third Carnatic War (India)", "Pomeranian War (Sweden–Prussia)"],
+    "part_of": ["Global Colonial Conflicts", "British-French Rivalry", "European Power Struggles"],
+    "date_range": "1756 – 1763",
+    "location": [
+      "Europe", 
+      "North America", 
+      "Caribbean", 
+      "West Africa", 
+      "India", 
+      "Philippines"
+    ],
+    "background": {
+      "causes": [
+        "Colonial rivalry between Britain and France",
+        "Expansion of British and French territories in North America and India",
+        "Austrian desire to recover Silesia from Prussia",
+        "Spanish and French opposition to British maritime dominance"
+      ],
+      "events_leading_up_to_war": [
+        "British and French skirmishes in North America (1754–1755)",
+        "Diplomatic Revolution (1756) leading to new alliances",
+        "Prussian invasion of Saxony, triggering European hostilities"
+      ]
+    },
+    "result": {
+      "general": "Decisive British and Prussian victory",
+      "treaty": "Treaty of Paris (1763)",
+      "territorial_changes": [
+        "France cedes Canada and lands east of the Mississippi to Britain",
+        "Spain cedes Florida to Britain in exchange for Havana, Cuba",
+        "France cedes Louisiana west of the Mississippi to Spain",
+        "Britain gains control of key territories in India and the Caribbean"
+      ]
+    },
+    "belligerents": {
+      "Great_Britain_and_Allies": {
+        "entities": ["Great Britain", "Prussia", "Portugal", "Hanover", "Iroquois Confederacy"],
+        "allies": ["Various German states"]
+      },
+      "France_and_Allies": {
+        "entities": ["France", "Austria", "Spain", "Russia (until 1762)", "Sweden"],
+        "allies": ["Native American tribes allied with the French"]
+      }
+    },
+    "commanders_and_leaders": {
+      "British": ["William Pitt (Prime Minister)", "James Wolfe", "Robert Clive", "Frederick the Great (Prussia)"],
+      "French": ["Louis XV", "Marquis de Montcalm", "Charles de Rohan (Austria)", "King Charles III (Spain)"]
+    },
+    "strength": {
+      "British_and_Prussian_Alliance": {
+        "troops": "Approx. 200,000 (including Prussian forces)",
+        "naval_power": "Largest navy in the world at the time"
+      },
+      "French_and_Austrian_Alliance": {
+        "troops": "Approx. 250,000 (including Austrian, Russian, and Spanish forces)",
+        "naval_power": "Significant but outmatched by the British"
+      }
+    },
+    "casualties_and_losses": {
+      "British_and_Prussian_Alliance": {
+        "dead": "Approx. 150,000–200,000",
+        "wounded": "Unknown"
+      },
+      "French_and_Austrian_Alliance": {
+        "dead": "Approx. 250,000–350,000",
+        "wounded": "Unknown"
+      },
+      "civilian_losses": "Hundreds of thousands due to war-related famine and disease"
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Plassey",
+        "date": "June 23, 1757",
+        "location": "Bengal, India",
+        "desc
