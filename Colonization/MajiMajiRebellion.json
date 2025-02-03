@@ -1,0 +1,119 @@
+{
+  "Maji_Maji_Rebellion": {
+    "alternate_names": ["Maji Maji War", "German East Africa Rebellion"],
+    "part_of": ["African Anti-Colonial Struggles", "German Colonial Wars"],
+    "date_range": "July 1905 – August 1907",
+    "location": ["German East Africa (modern-day Tanzania)"],
+    "background": {
+      "causes": [
+        "Harsh German colonial policies, including forced labor for cotton plantations",
+        "Heavy taxation and economic exploitation of indigenous communities",
+        "Cultural and religious opposition to German rule",
+        "Widespread belief in the mystical power of 'Maji' (sacred water), which was thought to make warriors immune to bullets"
+      ],
+      "events_leading_up_to_war": [
+        "Introduction of forced labor policies in 1902",
+        "Growing resentment among indigenous communities",
+        "Kinjikitile Ngwale, a spiritual leader, claimed to have divine powers and called for rebellion",
+        "First attacks on German outposts in July 1905"
+      ]
+    },
+    "result": {
+      "general": "German military victory, brutal suppression of the rebellion",
+      "treaty": "No formal treaty; rebellion was violently crushed",
+      "territorial_changes": "German East Africa remained under German colonial rule"
+    },
+    "belligerents": {
+      "German_Empire": {
+        "entities": ["German colonial administration", "Schutztruppe (colonial troops)", "Askari (African soldiers in German service)"],
+        "allies": ["Some local tribes allied with the Germans"]
+      },
+      "Maji_Maji_Rebels": {
+        "entities": ["Various ethnic groups including Ngoni, Matumbi, and Yao warriors"],
+        "allies": ["Spiritual leaders and religious movements"]
+      }
+    },
+    "commanders_and_leaders": {
+      "German": ["Gustav Adolf von Götzen", "Colonel Theodor von Hassel"],
+      "Maji_Maji_Rebels": ["Kinjikitile Ngwale", "Chief Hongo", "Chief Mputa Mpina"]
+    },
+    "strength": {
+      "German": {
+        "troops": "2,500 European troops, 14,000 Askari forces",
+        "weapons": "Modern rifles, machine guns, artillery"
+      },
+      "Maji_Maji_Rebels": {
+        "troops": "Estimated 20,000–30,000 warriors",
+        "weapons": "Spears, bows, poisoned arrows, some firearms"
+      }
+    },
+    "casualties_and_losses": {
+      "German": {
+        "dead": "Around 400 soldiers",
+        "wounded": "Unknown"
+      },
+      "Maji_Maji_Rebels": {
+        "dead": "Estimated 75,000–300,000, including starvation and disease",
+        "wounded": "Unknown",
+        "civilian_losses": "Mass executions, destruction of villages, famine caused by German scorched-earth tactics"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Attack on Mahenge",
+        "date": "August 1905",
+        "location": "Southern German East Africa",
+        "description": "Maji Maji warriors attacked German garrisons but were repelled due to superior German firepower.",
+        "outcome": "German victory"
+      },
+      {
+        "name": "Battle of Kilwa",
+        "date": "November 1905",
+        "location": "Coastal region",
+        "description": "German forces launched a counteroffensive, burning villages and executing suspected rebels.",
+        "outcome": "German victory"
+      },
+      {
+        "name": "Final Suppression Campaign",
+        "date": "1906–1907",
+        "location": "Southern Tanzania",
+        "description": "Germans systematically destroyed rebel villages, crops, and food supplies, leading to widespread starvation.",
+        "outcome": "German victory"
+      }
+    ],
+    "aftermath": {
+      "german_countermeasures": {
+        "terms": [
+          "Mass killings and executions of suspected rebels",
+          "Use of scorched-earth policies to destroy food sources",
+          "Forced deportations and imprisonment of surviving rebels"
+        ],
+        "impact": [
+          "Massive depopulation of affected areas",
+          "German rule remained harsh but later included minor reforms",
+          "Strengthened African resistance movements against colonialism"
+        ]
+      },
+      "long_term_effects": [
+        "Increased anti-German sentiment in East Africa",
+        "Inspired future independence movements in Tanzania",
+        "German colonial brutality exposed to international scrutiny",
+        "Weakened German ability to control its colonies leading up to World War I"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Destruction of German agricultural projects",
+        "Severe economic collapse in the region due to mass deaths"
+      ],
+      "political": [
+        "Led to harsher colonial policies by Germany",
+        "Considered one of the first large-scale African uprisings against European rule"
+      ],
+      "social": [
+        "Surviving populations displaced and traumatized",
+        "Cultural loss due to the destruction of villages and traditional governance"
+      ]
+    }
+  }
+}
