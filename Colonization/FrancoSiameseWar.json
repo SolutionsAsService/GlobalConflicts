@@ -1,0 +1,117 @@
+{
+  "Franco-Siamese_War": {
+    "alternate_names": ["Franco-Siamese Crisis of 1893"],
+    "part_of": ["French Colonial Expansion", "Southeast Asian Conflicts"],
+    "date_range": "April – October 1893",
+    "location": ["Siam (modern Thailand)", "Mekong River region", "Laos"],
+    "background": {
+      "causes": [
+        "French territorial ambitions in Southeast Asia",
+        "Siamese claims over Laos conflicting with French expansion",
+        "French accusations of mistreatment of Laotian populations by Siam",
+        "Strategic desire for Mekong River as a trade route"
+      ],
+      "events_leading_up_to_war": [
+        "French efforts to extend control over Laos from Vietnam",
+        "Siamese resistance to French influence in the region",
+        "Skirmishes between Siamese and French forces along the border",
+        "French naval blockade of Bangkok"
+      ]
+    },
+    "result": {
+      "general": "French victory, territorial losses for Siam",
+      "treaty": "Treaty of October 3, 1893",
+      "territorial_changes": [
+        "Siam ceded all claims to Laos, which became part of French Indochina",
+        "French influence expanded in Southeast Asia",
+        "Siam remained independent but weakened diplomatically"
+      ]
+    },
+    "belligerents": {
+      "French_Third_Republic": {
+        "entities": ["French Indochina", "French Navy"],
+        "allies": []
+      },
+      "Kingdom_of_Siam": {
+        "entities": ["Royal Siamese Army", "Siamese Navy"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "French": ["Auguste Pavie", "Jean-Marie-Anatole Amédée Fournier"],
+      "Siamese": ["King Chulalongkorn", "Prince Devawongse Varopakarn"]
+    },
+    "strength": {
+      "French": {
+        "troops": "Several hundred colonial forces",
+        "warships": "Naval squadron including gunboats and cruisers"
+      },
+      "Siamese": {
+        "troops": "Several thousand troops",
+        "warships": "Small fleet of river gunboats"
+      }
+    },
+    "casualties_and_losses": {
+      "French": {
+        "dead": "Few dozen",
+        "wounded": "Unknown"
+      },
+      "Siamese": {
+        "dead": "Several hundred",
+        "wounded": "Unknown",
+        "ships_lost": "Several vessels sunk or captured"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Paknam Incident",
+        "date": "July 13, 1893",
+        "location": "Chao Phraya River, near Bangkok",
+        "description": "French gunboats forced their way past Siamese defenses, triggering the final stage of the war.",
+        "outcome": "French naval victory"
+      },
+      {
+        "name": "Capture of Khone Island",
+        "date": "April–May 1893",
+        "location": "Mekong River, Laos",
+        "description": "French forces took control of Khone Island and surrounding areas from Siamese troops.",
+        "outcome": "French victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_october_3_1893": {
+        "terms": [
+          "Siam renounced all claims to Laos, which was annexed by French Indochina",
+          "French military occupation of Chantaburi as leverage for compliance",
+          "Siam agreed not to station military forces east of the Mekong River",
+          "Expansion of French influence in the region"
+        ],
+        "impact": [
+          "Weakened Siamese territorial control",
+          "Marked the beginning of continued diplomatic concessions to Western powers",
+          "Increased Siamese efforts to modernize and maintain independence"
+        ]
+      },
+      "long_term_effects": [
+        "Further French expansion into Cambodia and Vietnam",
+        "Siam pursued modernization under King Chulalongkorn to resist colonialism",
+        "Laos remained part of French Indochina until 1953",
+        "Set a precedent for later border disputes between Thailand and French Indochina"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "Loss of valuable territories along the Mekong River",
+        "French economic dominance in Laos and Cambodia"
+      ],
+      "political": [
+        "Increased Western pressure on Siam",
+        "Led to later Franco-Siamese border negotiations"
+      ],
+      "social": [
+        "Laos integrated into French Indochina, altering its cultural and political landscape",
+        "Rise of Siamese nationalism in response to colonial threats"
+      ]
+    }
+  }
+}
