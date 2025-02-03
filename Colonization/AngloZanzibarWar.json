@@ -1,0 +1,132 @@
+{
+  "Anglo-Zanzibar_War": {
+    "alternate_names": ["Zanzibar War", "Battle of Zanzibar"],
+    "part_of": ["Imperial Conflicts", "British Expansionism", "Colonial Conflicts in East Africa"],
+    "date_range": "27 August 1896",
+    "location": ["Zanzibar", "East Africa"],
+    "background": {
+      "causes": [
+        "A succession dispute following the death of the Sultan of Zanzibar, Hamad bin Thuwaini.",
+        "The British Empire's support for the successor Sultan Hamoud bin Mohammed, who was more sympathetic to British interests.",
+        "The opposition of Sultan Khalid bin Barghash, who seized power in defiance of British influence."
+      ],
+      "events_leading_up_to_war": [
+        "Sultan Khalid bin Barghash, opposed to British control, took the throne without British consent.",
+        "The British gave an ultimatum for Khalid to step down or face military action.",
+        "When Khalid refused to comply, British naval forces attacked his palace and artillery positions."
+      ]
+    },
+    "result": {
+      "general": "British victory",
+      "treaty": "None – Sultan Khalid fled, and Hamoud bin Mohammed became Sultan.",
+      "territorial_changes": "Zanzibar remained a British protectorate."
+    },
+    "belligerents": {
+      "United_Kingdom": {
+        "entities": ["United Kingdom", "Royal Navy", "British Protectorate Forces"],
+        "allies": []
+      },
+      "Sultanate_of_Zanzibar": {
+        "entities": ["Sultan Khalid bin Barghash", "Zanzibari Forces"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "United_Kingdom": ["Rear Admiral Harry Rawson"],
+      "Sultanate_of_Zanzibar": ["Sultan Khalid bin Barghash"]
+    },
+    "strength": {
+      "United_Kingdom": {
+        "troops": "1,000+",
+        "warships": "3 cruisers, 1 gunboat",
+        "artillery": "Naval guns and bombardment"
+      },
+      "Sultanate_of_Zanzibar": {
+        "troops": "2,800+",
+        "warships": "None",
+        "artillery": "Few antiquated cannon"
+      }
+    },
+    "casualties_and_losses": {
+      "United_Kingdom": {
+        "dead": "1",
+        "wounded": "50"
+      },
+      "Sultanate_of_Zanzibar": {
+        "dead": "38–500",
+        "wounded": "Unknown, significant numbers injured"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Bombardment of the Sultan's Palace",
+        "date": "27 August 1896",
+        "description": "A brief but intense artillery bombardment led by the British naval forces, destroying the Sultan’s palace and defenses.",
+        "outcome": "British victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "British Diplomatic Correspondence",
+          "type": "Official correspondence",
+          "location": "British Foreign Office Archives",
+          "details": "Letters and diplomatic notes between the British government and the Sultan of Zanzibar leading up to the conflict."
+        },
+        {
+          "name": "Zanzibar Sultanate Records",
+          "type": "Government documents",
+          "location": "Zanzibar Archives",
+          "details": "Records of Sultan Khalid’s resistance to British intervention and his defiance of the British ultimatum."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Artifacts from the Palace Bombardment",
+          "description": "Remnants of cannonballs, pieces of palace rubble, and damaged military equipment were recovered from the site of the bombardment."
+        },
+        {
+          "type": "British Naval Artifacts",
+          "description": "Artifacts such as military medals, weapons, and naval ammunition were found, indicating the scale of British military involvement."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The Bombardment of Zanzibar (1896)",
+          "type": "Newspaper Article",
+          "location": "The Times, London",
+          "details": "Newspaper accounts documenting the British actions and Sultan Khalid’s brief reign before the conflict."
+        },
+        {
+          "name": "Zanzibar and the British Empire",
+          "type": "Historical Analysis",
+          "details": "Books and scholarly works analyzing the British protectorate of Zanzibar and its political dynamics during the late 19th century."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Sultan Khalid bin Barghash was exiled, and the British-backed Sultan Hamoud bin Mohammed took the throne.",
+        "Zanzibar continued under British influence, serving as a strategic base for British operations in East Africa and the Indian Ocean."
+      ],
+      "long_term_effects": [
+        "The war confirmed British dominance over Zanzibar, cementing British imperial control over East Africa.",
+        "Zanzibar remained a key strategic and trade location in the British Empire, influencing regional politics and economics."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Anglo-Zanzibar War is often cited as the shortest recorded war in history, lasting only 38 minutes.",
+        "The conflict showcased the overwhelming technological disparity between the British naval forces and the poorly equipped Zanzibari defenders."
+      ],
+      "political": [
+        "The war ensured the continuation of British colonial rule in Zanzibar and solidified British imperial dominance in East Africa.",
+        "It highlighted the geopolitical maneuvering of European powers in Africa during the late 19th century."
+      ],
+      "cultural": [
+        "Zanzibar’s role in the slave trade and later in the spice trade remained integral to its cultural identity, even under British colonial control.",
+        "The war became a symbol of the challenges faced by African polities resisting European imperialism."
+      ]
+    }
+  }
+}
