@@ -1,0 +1,110 @@
+{
+  "War_of_the_Triple_Alliance": {
+    "alternate_names": ["Paraguayan War"],
+    "part_of": ["Latin American Conflicts", "19th Century Wars"],
+    "date_range": "1864–1870",
+    "location": ["Paraguay", "Brazil", "Argentina", "Uruguay"],
+    "background": {
+      "causes": [
+        "Territorial disputes in South America, particularly between Paraguay and its neighbors",
+        "Paraguay's ambitions to assert its dominance in the region",
+        "Paraguay’s isolationist policies causing friction with neighboring countries",
+        "Alliance between Argentina, Brazil, and Uruguay against Paraguay’s ambitions"
+      ],
+      "events_leading_up_to_war": [
+        "Paraguay declared war on Brazil in 1864 after Brazil’s intervention in Uruguayan affairs",
+        "In 1865, Argentina and Uruguay joined Brazil, forming the Triple Alliance against Paraguay",
+        "The conflict became a war of survival for Paraguay, as the alliances sought to topple its government"
+      ]
+    },
+    "result": {
+      "general": "Victory for the Triple Alliance",
+      "treaty": "Treaty of Asunción (1870)",
+      "territorial_changes": "Paraguay lost significant portions of its territory to Brazil and Argentina, reducing its size by more than half"
+    },
+    "belligerents": {
+      "Triple_Alliance": {
+        "entities": ["Brazil", "Argentina", "Uruguay"],
+        "allies": []
+      },
+      "Paraguay": {
+        "entities": ["Paraguayan Republic"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Triple_Alliance": [
+        "Brazil: Emperor Pedro II, Marquis of Caxias",
+        "Argentina: President Nicolás Avellaneda, General Wenceslao Paunero",
+        "Uruguay: President Venancio Flores"
+      ],
+      "Paraguay": [
+        "Francisco Solano López (Paraguayan dictator)"
+      ]
+    },
+    "strength": {
+      "Triple_Alliance": {
+        "troops": "800,000+",
+        "warships": "Numerous"
+      },
+      "Paraguay": {
+        "troops": "300,000+",
+        "warships": "Numerous"
+      }
+    },
+    "casualties_and_losses": {
+      "Triple_Alliance": {
+        "dead": "100,000+",
+        "wounded": "Numerous"
+      },
+      "Paraguay": {
+        "dead": "200,000+ (estimated 60-70% of the population)",
+        "wounded": "Numerous"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Tuyutí",
+        "date": "24 May 1866",
+        "description": "One of the largest battles of the war, where the Triple Alliance forces fought the Paraguayan army to a bloody stalemate.",
+        "outcome": "Inconclusive"
+      },
+      {
+        "name": "Battle of Cerro Corá",
+        "date": "1 March 1870",
+        "description": "The final battle of the war, where Paraguayan leader Francisco Solano López was killed, leading to Paraguay's collapse.",
+        "outcome": "Triple Alliance victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_asuncion": {
+        "terms": [
+          "Paraguay lost nearly half of its territory, including regions along the Paraná River to Argentina and Brazil",
+          "Paraguay’s population was decimated, with significant long-term economic and demographic consequences"
+        ],
+        "impact": [
+          "Paraguay was severely weakened, both militarily and economically",
+          "The war’s devastation affected South America’s geopolitics for decades"
+        ]
+      },
+      "long_term_effects": [
+        "Paraguay remained a small, economically stunted nation for many years after the war",
+        "The war left lasting tensions and distrust between Paraguay and its neighbors"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "The war devastated Paraguay's economy, which took generations to recover",
+        "The war contributed to the expansion of Brazilian and Argentine territories"
+      ],
+      "political": [
+        "The war solidified the influence of Brazil and Argentina in South America",
+        "It drastically reduced the political and military power of Paraguay"
+      ],
+      "social": [
+        "The war decimated the Paraguayan population, with lasting social and cultural impacts",
+        "Mass casualties and human suffering shaped the national consciousness of Paraguay"
+      ]
+    }
+  }
+}
