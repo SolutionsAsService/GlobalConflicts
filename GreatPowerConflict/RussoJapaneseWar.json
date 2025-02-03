@@ -1,0 +1,138 @@
+{
+  "Russo-Japanese_War": {
+    "alternate_names": ["Russo-Japanese Conflict", "War of the Rising Sun", "War in the Far East (1904–1905)"],
+    "part_of": ["Imperialism", "East Asian Conflicts", "Russo-Japanese Rivalry"],
+    "date_range": "8 February 1904 – 5 September 1905",
+    "location": ["Manchuria", "Korea", "Yellow Sea", "Sea of Japan"],
+    "background": {
+      "causes": [
+        "Rivalry over control of Manchuria and Korea between the Russian Empire and the Empire of Japan.",
+        "Japan’s desire to expand its influence in East Asia, particularly over Korea and southern Manchuria.",
+        "Russia’s expansionist policies and the desire to secure access to warm-water ports in the Pacific, such as Port Arthur."
+      ],
+      "events_leading_up_to_war": [
+        "Japan and Russia clashed over territorial control in Manchuria and Korea, with Japan growing increasingly frustrated with Russia's encroachment into the region.",
+        "Negotiations to resolve the dispute failed, and Japan launched a surprise attack on the Russian naval base at Port Arthur on 8 February 1904, marking the start of the war."
+      ]
+    },
+    "result": {
+      "general": "Japanese victory",
+      "treaty": "Treaty of Portsmouth (1905)",
+      "territorial_changes": "Russia ceded Port Arthur, the Liaodong Peninsula, and South Sakhalin to Japan. Japan also gained a sphere of influence over Korea."
+    },
+    "belligerents": {
+      "Russian_Empire": {
+        "entities": ["Russian Empire", "Russian Imperial Army", "Russian Imperial Navy"],
+        "allies": []
+      },
+      "Empire_of_Japan": {
+        "entities": ["Empire of Japan", "Imperial Japanese Army", "Imperial Japanese Navy"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Russia": ["Admiral Zinovy Rozhestvensky", "General Aleksandr Samsonov", "General Anatoly Stessel"],
+      "Japan": ["Admiral Heihachiro Togo", "General Kuroki Tamemoto", "General Nogi Maresuke"]
+    },
+    "strength": {
+      "Russia": {
+        "troops": "350,000",
+        "naval_strength": "Large, but outdated fleet",
+        "siege_equipment": "Limited use in land engagements"
+      },
+      "Japan": {
+        "troops": "300,000",
+        "naval_strength": "Modern and technologically advanced fleet",
+        "siege_equipment": "Effective artillery, naval blockade, and amphibious assault capabilities"
+      }
+    },
+    "casualties_and_losses": {
+      "Russia": {
+        "dead": "70,000 – 100,000",
+        "wounded": "Not clearly documented"
+      },
+      "Japan": {
+        "dead": "20,000 – 30,000",
+        "wounded": "20,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Tsushima",
+        "date": "27–28 May 1905",
+        "description": "A decisive naval battle in the Tsushima Strait, where the Imperial Japanese Navy decisively destroyed the Russian fleet, crippling Russia's naval power in the Far East.",
+        "outcome": "Japanese victory, eliminating Russia’s naval presence in the Pacific and solidifying Japan’s dominance in the region."
+      },
+      {
+        "name": "Battle of Mukden",
+        "date": "20 February – 10 March 1905",
+        "description": "A major land battle between Russian and Japanese forces in Manchuria. The Japanese Army decisively defeated the Russian forces, marking the turning point of the war.",
+        "outcome": "Japanese victory, leading to the Russian retreat from Manchuria."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Treaty of Portsmouth",
+          "type": "Diplomatic document",
+          "location": "United States National Archives",
+          "details": "The Treaty of Portsmouth formally ended the Russo-Japanese War and outlined territorial changes and spheres of influence."
+        },
+        {
+          "name": "Russian Imperial Navy Reports",
+          "type": "Military correspondence",
+          "location": "Russian Naval Archives",
+          "details": "These reports document the preparations for the war, including the failed naval strategies that led to the defeat of Russia's fleet."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Artifacts from the Battle of Tsushima",
+          "description": "Artifacts such as Japanese naval shells, shipwreck remains, and Russian naval equipment have been found in the Tsushima Strait."
+        },
+        {
+          "type": "Japanese military medals and documents",
+          "description": "Medals and battle commendations given to Japanese officers who participated in major battles such as Mukden and Tsushima."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The Russo-Japanese War: A New Kind of War",
+          "type": "Historical analysis",
+          "location": "London",
+          "details": "This work explores the technological advances and strategic shifts that characterized the Russo-Japanese War, especially the influence of modern warfare on the outcome."
+        },
+        {
+          "name": "Reports from the Russian General Staff",
+          "type": "Military history reports",
+          "location": "St. Petersburg",
+          "details": "Official Russian reports from the General Staff documenting the failed Russian strategies and the impact of the defeat on Russian policy."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Russia’s defeat in the war led to domestic unrest, culminating in the Russian Revolution of 1905.",
+        "Japan emerged as a major world power and solidified its control over Korea and Manchuria, gaining recognition as a global military power."
+      ],
+      "long_term_effects": [
+        "The war signified the emergence of Japan as the first non-Western power to defeat a European power in the modern era.",
+        "The war destabilized the Russian Empire, contributing to the events that eventually led to the Russian Revolution in 1917."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war marked the first time in the modern era that an Asian power defeated a European power in a major conflict, changing the balance of power in the East.",
+        "The Battle of Tsushima is considered one of the most decisive naval battles in history and set the stage for modern naval warfare strategies."
+      ],
+      "political": [
+        "The Russo-Japanese War marked Japan’s rise as a global military power, while highlighting the weakening position of the Russian Empire.",
+        "The war led to significant changes in the geopolitical landscape of East Asia, with Japan securing influence over Korea and parts of China."
+      ],
+      "cultural": [
+        "The war had a profound impact on national pride and identity in Japan, reinforcing the image of Japan as a modern, militarily advanced nation.",
+        "In Russia, the defeat sparked social unrest, leading to the 1905 Revolution and the eventual transformation of Russia’s political system."
+      ]
+    }
+  }
+}
