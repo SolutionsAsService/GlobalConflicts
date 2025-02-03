@@ -1,0 +1,127 @@
+{
+  "Dutch-Portuguese War": {
+    "alternate_names": ["Luso-Dutch War"],
+    "part_of": ["Dutch Expansion", "Iberian Union Conflicts"],
+    "date_range": "1602 – 1663",
+    "location": ["Brazil", "Angola", "India", "Ceylon", "Indonesia", "West Africa"],
+    "background": {
+      "causes": [
+        "Dutch efforts to break Portuguese monopoly on the spice trade",
+        "Portuguese control of key trading ports in Asia, Africa, and the Americas",
+        "Dutch independence from Spain and their aim to weaken Spanish-Portuguese power",
+        "Expansion of the Dutch East India Company (VOC) and Dutch West India Company (WIC)"
+      ],
+      "events_leading_up_to_war": [
+        "Dutch revolt against Spanish rule (Eighty Years' War)",
+        "Union of the Portuguese and Spanish crowns (Iberian Union, 1580–1640)",
+        "Dutch naval expeditions targeting Portuguese trade routes"
+      ]
+    },
+    "result": {
+      "general": "Portuguese strategic victory, Dutch tactical victories in some regions",
+      "treaty": "Treaty of The Hague (1661)",
+      "territorial_changes": [
+        "Dutch gained control over Ceylon (Sri Lanka) and parts of the East Indies",
+        "Portuguese successfully defended Brazil and Angola",
+        "Portuguese regained key positions in India"
+      ]
+    },
+    "belligerents": {
+      "Dutch_Republic": {
+        "entities": ["Dutch East India Company (VOC)", "Dutch West India Company (WIC)"],
+        "allies": ["Kandy (Sri Lanka)", "Local rulers in the Spice Islands"]
+      },
+      "Portuguese_Empire": {
+        "entities": ["Portugal", "Spanish Empire (before 1640)"],
+        "allies": ["Indigenous allies in Brazil", "Indian and African mercenaries"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Dutch": ["Pieter van den Broecke", "Johan Maurits of Nassau", "Cornelis Matelief", "Adriaen van der Dussen"],
+      "Portuguese": ["Matias de Albuquerque", "Francisco Barreto de Meneses", "Dom João VI", "Antonio Teles de Menezes"]
+    },
+    "strength": {
+      "Dutch": {
+        "troops": "Varied, with thousands deployed in multiple theaters",
+        "warships": "Over 200 ships across campaigns"
+      },
+      "Portuguese": {
+        "troops": "Reinforcements from Iberia and local colonies",
+        "warships": "Strong naval presence, bolstered by Spanish support pre-1640"
+      }
+    },
+    "casualties_and_losses": {
+      "Dutch": {
+        "dead": "Thousands across multiple theaters",
+        "ships_lost": "Dozens"
+      },
+      "Portuguese": {
+        "dead": "Thousands, including local forces",
+        "ships_lost": "Significant naval losses"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Guararapes",
+        "date": "1648–1649",
+        "location": "Brazil",
+        "description": "Decisive battles that led to the Dutch expulsion from Brazil by Portuguese and indigenous forces.",
+        "outcome": "Portuguese victory"
+      },
+      {
+        "name": "Siege of Malacca",
+        "date": "1641",
+        "location": "Malacca (modern Malaysia)",
+        "description": "Dutch forces captured the strategic city of Malacca from the Portuguese, securing control over key spice trade routes.",
+        "outcome": "Dutch victory"
+      },
+      {
+        "name": "Battle of Goa",
+        "date": "1638–1639",
+        "location": "India",
+        "description": "Dutch blockade failed to take the Portuguese stronghold of Goa.",
+        "outcome": "Portuguese victory"
+      },
+      {
+        "name": "Battle of Colombo",
+        "date": "1655–1656",
+        "location": "Sri Lanka",
+        "description": "Dutch and their allies from the Kingdom of Kandy captured Colombo from the Portuguese.",
+        "outcome": "Dutch victory"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_the_hague": {
+        "terms": [
+          "Dutch recognized Portuguese control over Brazil and Angola",
+          "Portuguese ceded Ceylon and Malacca to the Dutch",
+          "End of official hostilities, though conflicts continued in some regions"
+        ],
+        "impact": [
+          "Portuguese retained dominance in Brazil",
+          "Dutch solidified control in the East Indies",
+          "Weakened Portuguese global empire, leading to further decline"
+        ]
+      },
+      "long_term_effects": [
+        "Rise of Dutch dominance in the Asian spice trade",
+        "Portuguese focus shifted towards defending its remaining colonies",
+        "Influence on later European colonial conflicts"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "End of Portuguese monopoly on the spice trade",
+        "Expansion of Dutch economic influence in Asia"
+      ],
+      "political": [
+        "Rise of the Dutch as a major colonial power",
+        "Portuguese Empire's decline, particularly in Asia"
+      ],
+      "social": [
+        "Cultural exchanges in Brazil and the East Indies",
+        "Portuguese and Dutch legacy in local traditions and architecture"
+      ]
+    }
+  }
+}
