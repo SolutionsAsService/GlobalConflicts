@@ -1,0 +1,122 @@
+{
+  "War_of_the_Bavarian_Succession": {
+    "alternate_names": ["Bavarian War of Succession", "Bavaria's War of Succession"],
+    "part_of": ["European Conflicts", "18th Century Wars", "Austrian Empire", "Bavarian Succession Crisis"],
+    "date_range": "1778–1779",
+    "location": ["Bavaria", "Holy Roman Empire", "Austria", "Prussia"],
+    "background": {
+      "causes": [
+        "The death of the Bavarian Elector **Maximilian III Joseph** in 1777, with no direct heirs",
+        "The dispute over the succession of Bavaria between **Charles Theodore of Palatinate** (backed by Austria) and **Bavaria's territorial inheritance** (backed by **Prussia**) who wanted to annex the territory"
+      ],
+      "events_leading_up_to_war": [
+        "Austria, under **Empress Maria Theresa**, supported Charles Theodore's claim to the Bavarian throne",
+        "Prussia, led by **Frederick II**, supported a different succession scenario, which would allow for **Bavaria's incorporation into Austria**",
+        "Tensions rose, culminating in the formation of alliances and minor border skirmishes"
+      ]
+    },
+    "result": {
+      "general": "Stalemate, with no major territorial changes",
+      "treaty": "Treaty of Teschen (1779)",
+      "territorial_changes": "No territorial changes but Charles Theodore remained the Elector of Bavaria, with limited power"
+    },
+    "belligerents": {
+      "Austria": {
+        "entities": ["Habsburg Monarchy", "Empress Maria Theresa"],
+        "allies": []
+      },
+      "Prussia": {
+        "entities": ["Kingdom of Prussia", "Frederick II"],
+        "allies": []
+      },
+      "Bavaria": {
+        "entities": ["Electorate of Bavaria"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Austria": [
+        "Empress Maria Theresa",
+        "Count of Daun"
+      ],
+      "Prussia": [
+        "Frederick II (Frederick the Great)"
+      ],
+      "Bavaria": [
+        "Charles Theodore of Palatinate"
+      ]
+    },
+    "strength": {
+      "Austria": {
+        "troops": "50,000+",
+        "warships": "Minimal"
+      },
+      "Prussia": {
+        "troops": "30,000+",
+        "warships": "Minimal"
+      },
+      "Bavaria": {
+        "troops": "Minimal",
+        "warships": "Minimal"
+      }
+    },
+    "casualties_and_losses": {
+      "Austria": {
+        "dead": "1,000+",
+        "wounded": "Numerous"
+      },
+      "Prussia": {
+        "dead": "500+",
+        "wounded": "Numerous"
+      },
+      "Bavaria": {
+        "dead": "Minimal",
+        "wounded": "Minimal"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Altenkirchen",
+        "date": "1778",
+        "description": "A significant engagement between Austrian and Prussian forces, resulting in a strategic Austrian victory, but with heavy losses on both sides.",
+        "outcome": "Austrian victory"
+      },
+      {
+        "name": "Battle of Bieguni",
+        "date": "1779",
+        "description": "The final skirmish between Prussian and Austrian forces before the conclusion of the conflict, which ended in a standstill.",
+        "outcome": "Stalemate"
+      }
+    ],
+    "aftermath": {
+      "treaty_of_teschen": {
+        "terms": [
+          "Charles Theodore was confirmed as the Elector of Bavaria, though his power was largely symbolic",
+          "No territorial changes, but the conflict effectively marked the end of Bavaria's hopes of independence from Austria",
+          "Austrian dominance in the region continued, though tensions between Austria and Prussia remained"
+        ],
+        "impact": [
+          "The war did not change the territorial status quo but highlighted the rivalry between Austria and Prussia",
+          "Bavaria's political autonomy was significantly reduced, as Austria retained more control"
+        ]
+      },
+      "long_term_effects": [
+        "The war marked the increasing political influence of Austria in Central Europe, particularly over Bavaria",
+        "Prussia and Austria’s rivalry continued to shape European politics leading into the Napoleonic Wars"
+      ]
+    },
+    "historical_significance": {
+      "economic": [
+        "The war was costly for both Austria and Prussia, though it did not result in any major economic shifts",
+        "The war led to significant military expenditure and some shifts in political alliances"
+      ],
+      "political": [
+        "The war solidified Austria’s influence over the Bavarian region",
+        "Prussia's defeat in this war further weakened its position relative to Austria in the short term"
+      ],
+      "social": [
+        "The war had little direct social impact in the broader context but set the stage for later power struggles in Central Europe"
+      ]
+    }
+  }
+}
