@@ -1,0 +1,123 @@
+{
+  "Battle_of_Cannae": {
+    "alternate_names": ["Second Punic War: Battle of Cannae"],
+    "part_of": ["Second Punic War", "Punic Wars", "Roman Expansion", "Carthaginian Empire"],
+    "date_range": "2 August 216 BCE",
+    "location": ["Cannae, Apulia (modern-day Puglia, Italy)"],
+    "background": {
+      "causes": [
+        "Carthaginian retaliation after the First Punic War",
+        "Hannibal’s invasion of Italy and desire to break Roman dominance",
+        "Rome’s desire to maintain its hegemony over the western Mediterranean"
+      ],
+      "events_leading_up_to_battle": [
+        "Hannibal’s crossing of the Alps with his army, including war elephants, into Italy in 218 BCE",
+        "Several Roman defeats at battles such as Trebia and Lake Trasimene, leading to the Roman Republic’s fear of Carthaginian strength",
+        "Hannibal’s decision to confront the Roman forces directly at Cannae"
+      ]
+    },
+    "result": {
+      "general": "Carthaginian victory",
+      "treaty": "None",
+      "territorial_changes": "No immediate territorial changes but solidified Carthage's position in Italy for a time"
+    },
+    "belligerents": {
+      "Roman_Republic": {
+        "entities": ["Roman Republic", "Roman Legions"],
+        "allies": ["Allied Italian States"]
+      },
+      "Carthaginian_Empire": {
+        "entities": ["Carthage", "Hannibal Barca", "Carthaginian Army"],
+        "allies": ["Gauls", "Numidians"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Romans": ["Gaius Terentius Varro", "Lucius Aemilius Paullus"],
+      "Carthaginians": ["Hannibal Barca"]
+    },
+    "strength": {
+      "Romans": {
+        "troops": "80,000 – 87,000",
+        "warships": "None",
+        "cavalry": "4,000 – 6,000"
+      },
+      "Carthaginians": {
+        "troops": "40,000 – 50,000",
+        "warships": "None",
+        "cavalry": "10,000 – 12,000"
+      }
+    },
+    "casualties_and_losses": {
+      "Romans": {
+        "dead": "50,000 – 70,000",
+        "wounded": "Around 10,000"
+      },
+      "Carthaginians": {
+        "dead": "6,000 – 8,000",
+        "wounded": "2,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Cannae",
+        "date": "2 August 216 BCE",
+        "description": "Hannibal's army used double envelopment tactics, surrounding and annihilating the Roman legions at Cannae, with the Romans losing up to 70,000 men, one of the worst defeats in military history.",
+        "outcome": "Carthaginian victory, Roman forces decimated"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Livy's History of Rome",
+          "type": "Ancient historical account",
+          "location": "Ancient Roman Texts, Public Libraries",
+          "details": "The Roman historian Livy provides a detailed account of the Second Punic War and the Battle of Cannae."
+        },
+        {
+          "name": "Polybius' Histories",
+          "type": "Ancient historical account",
+          "location": "Ancient Greek Texts, Libraries",
+          "details": "Polybius, a Greek historian, recorded the events of the Second Punic War, providing insights into Hannibal’s strategy and the Roman defeat at Cannae."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Roman soldier remains",
+          "description": "Archaeological digs in the region near Cannae have uncovered Roman soldier remains, confirming the scale of the Roman loss at the battle."
+        },
+        {
+          "type": "Carthaginian artifacts",
+          "description": "Remains of Carthaginian weaponry, armor, and campsites have been found in the Apulia region, providing insight into their logistics and strategic positioning."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Cicero's Letters",
+          "type": "Ancient Roman text",
+          "details": "Cicero’s writings, though a century later, mention the Battle of Cannae and its enduring impact on Roman politics and military strategy."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Rome's loss at Cannae led to a shift in Roman military tactics and politics, with greater caution and restructuring of the Roman legions.",
+        "The defeat severely shook the Roman morale, leading to calls for reforms in both the army and political leadership."
+      ],
+      "long_term_effects": [
+        "Despite the catastrophic loss, Rome eventually recovered and, under the leadership of Scipio Africanus, went on to defeat Hannibal at the Battle of Zama in 202 BCE.",
+        "The Battle of Cannae marked the peak of Hannibal’s campaign in Italy, after which his forces began to dwindle."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Cannae is still studied for its exemplary use of the double envelopment tactic, a strategy that has influenced military strategy through the ages."
+      ],
+      "political": [
+        "The battle demonstrated the Roman Republic's resilience, as it eventually recovered and defeated Carthage in the Second Punic War."
+      ],
+      "cultural": [
+        "The loss at Cannae became a cautionary tale in Roman culture, deeply ingrained into their military ethos and remembered for centuries."
+      ]
+    }
+  }
+}
