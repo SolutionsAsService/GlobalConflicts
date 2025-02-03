@@ -1,0 +1,96 @@
+{
+  "Battle_of_Qadesh": {
+    "alternate_names": ["Battle of Kadesh", "Qadesh", "Battle of the Orontes"],
+    "part_of": ["Hittite-Egyptian Conflicts", "Egyptian Empire Expansion", "Ancient Near Eastern Wars"],
+    "date_range": "1274 BC",
+    "location": ["Qadesh (modern-day Syria)"],
+    "background": {
+      "causes": [
+        "Power struggle between the **Egyptian Empire** under **Ramses II** and the **Hittite Empire** under **Muwatalli II**",
+        "Control over the strategically important city of **Qadesh** in modern-day Syria, a crucial point on the trade route between Mesopotamia and Egypt",
+        "The Egyptian desire to expand and secure access to resources in the Levant, while the Hittites sought to preserve their dominance in the region"
+      ],
+      "events_leading_up_to_battle": [
+        "The Egyptian Empire, under **Ramses II**, launched a military campaign to seize **Qadesh** from the Hittites",
+        "The Hittite king **Muwatalli II** mobilized a vast army to defend the city and prevent Egyptian expansion",
+        "Ramses II's forces were tricked into thinking the city was undefended, leading them into an ambush by the Hittite forces"
+      ]
+    },
+    "result": {
+      "general": "Indecisive",
+      "treaty": "No immediate treaty but a peace agreement was later reached",
+      "territorial_changes": "The Egyptians and Hittites both claimed victory, but control over Qadesh remained contested. Eventually, both empires agreed to a peace treaty."
+    },
+    "belligerents": {
+      "Egyptian_Empire": {
+        "entities": ["Pharaoh Ramses II", "Egyptian Army"],
+        "allies": []
+      },
+      "Hittite_Empire": {
+        "entities": ["King Muwatalli II", "Hittite Army"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Egyptians": ["Ramses II"],
+      "Hittites": ["Muwatalli II"]
+    },
+    "strength": {
+      "Egyptians": {
+        "troops": "20,000+",
+        "chariots": "2,000+"
+      },
+      "Hittites": {
+        "troops": "40,000+",
+        "chariots": "3,500+"
+      }
+    },
+    "casualties_and_losses": {
+      "Egyptians": {
+        "dead": "5,000+",
+        "wounded": "Numerous"
+      },
+      "Hittites": {
+        "dead": "Heavy losses, but no exact number"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Qadesh",
+        "date": "1274 BC",
+        "description": "The battle was fought near the city of Qadesh along the Orontes River. It is considered one of the largest chariot battles in history, with Ramses II's forces initially being trapped by Hittite chariots. However, Ramses' forces managed to escape and retain control of the battlefield.",
+        "outcome": "Indecisive, but Egypt claimed victory in their propaganda"
+      }
+    ],
+    "aftermath": {
+      "peace_treaty": {
+        "terms": [
+          "A peace treaty was signed several years later (around 1258 BC) between Ramses II and the Hittites",
+          "Both empires recognized each other’s spheres of influence and agreed to non-aggression",
+          "The treaty is one of the earliest surviving written peace agreements in history"
+        ],
+        "impact": [
+          "The treaty marked a rare moment of peace between two major ancient powers",
+          "It is considered a diplomatic success for Ramses II, as it secured Egypt’s borders and influence in the Levant without further conflict"
+        ]
+      },
+      "long_term_effects": [
+        "The Egyptian Empire continued to exert control over parts of the Levant, while the Hittites retained their influence in Anatolia",
+        "The battle and its aftermath marked the high point of Ramses II's reign, which was characterized by military triumphs and monumental building projects"
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "One of the earliest recorded large-scale chariot battles",
+        "The first known use of **battle tactics** such as feigned retreat and encirclement by the Hittites"
+      ],
+      "political": [
+        "The treaty signed after the battle is one of the first recorded international peace treaties in history",
+        "Set the precedent for negotiations in the ancient world between major powers"
+      ],
+      "cultural": [
+        "The battle became a central theme in Egyptian **propaganda**, with Ramses II depicting himself as the victor in temple carvings and inscriptions"
+      ]
+    }
+  }
+}
