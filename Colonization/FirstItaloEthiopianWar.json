@@ -1,0 +1,132 @@
+{
+  "First_Italo-Ethiopian_War": {
+    "alternate_names": ["Second Italo-Ethiopian War", "Battle of Adwa", "The Battle of Adwa (1896)"],
+    "part_of": ["Scramble for Africa", "Colonial Conflicts", "Italo-Ethiopian Relations"],
+    "date_range": "5 October 1895 – 27 April 1896",
+    "location": ["Ethiopia", "Horn of Africa"],
+    "background": {
+      "causes": [
+        "Italian ambition to establish a colonial empire in Africa, focusing on Ethiopia",
+        "Treaty of Wuchale (1889), in which Italy misinterpreted or manipulated the language to claim protectorate status over Ethiopia",
+        "Ethiopian Emperor Menelik II's resistance to Italian encroachment on Ethiopian sovereignty"
+      ],
+      "events_leading_up_to_war": [
+        "The Italian government signed the Treaty of Wuchale with Ethiopia, which was intended to establish a protectorate over Ethiopia, but Ethiopia believed it to be a mere trade agreement.",
+        "Italian forces began mobilizing and building up a military presence in Ethiopia, which led to escalating tensions.",
+        "Menelik II, the Ethiopian Emperor, denounced the treaty and prepared for military conflict."
+      ]
+    },
+    "result": {
+      "general": "Ethiopian victory",
+      "treaty": "Treaty of Addis Ababa (1896)",
+      "territorial_changes": "No change; Ethiopia remained independent, and Italy recognized Ethiopian sovereignty."
+    },
+    "belligerents": {
+      "Kingdom_of_Italy": {
+        "entities": ["Kingdom of Italy", "Italian Army"],
+        "allies": []
+      },
+      "Ethiopian_Empire": {
+        "entities": ["Ethiopia", "Emperor Menelik II", "Ethiopian Army"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Italy": ["Amedeo di Savoy-Aosta", "Giovanni Ameglio"],
+      "Ethiopia": ["Emperor Menelik II", "Empress Taytu Betul", "Ras Alula Engida"]
+    },
+    "strength": {
+      "Italy": {
+        "troops": "17,000 – 20,000",
+        "artillery": "Modern artillery pieces",
+        "ships": "Naval support in the Red Sea"
+      },
+      "Ethiopia": {
+        "troops": "70,000 – 100,000",
+        "artillery": "Limited artillery",
+        "ships": "None"
+      }
+    },
+    "casualties_and_losses": {
+      "Italy": {
+        "dead": "7,000",
+        "wounded": "1,500 – 2,000"
+      },
+      "Ethiopia": {
+        "dead": "2,000 – 4,000",
+        "wounded": "Numerous"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Adwa",
+        "date": "1 March 1896",
+        "description": "A pivotal battle where Ethiopian forces, under Menelik II, decisively defeated the Italian army. The Ethiopian forces employed superior tactics and knowledge of the terrain.",
+        "outcome": "Ethiopian victory, crushing the Italian forces and ensuring Ethiopian independence."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The Treaty of Wuchale",
+          "type": "Diplomatic document",
+          "location": "Italian archives, Ethiopia",
+          "details": "The Treaty of Wuchale was signed in 1889, marking the initial dispute between Ethiopia and Italy over claims of a protectorate status, which led to the war."
+        },
+        {
+          "name": "Italian Inscriptions",
+          "type": "Military records",
+          "location": "Italy, Red Cross archives",
+          "details": "Italian military records and battle reports provide an insight into the build-up and logistics of the war, particularly during the Battle of Adwa."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Artifacts from the Battle of Adwa",
+          "description": "Artifacts such as weapons, ammunition, and Italian uniforms were found in the region of Adwa, confirming the details of the battle."
+        },
+        {
+          "type": "Ethiopian battle memorials",
+          "description": "Memorials and historical markers in Ethiopia commemorate the victory at Adwa, and traditional Ethiopian weapons such as spears and shields were recovered."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Menelik II’s Memoirs",
+          "type": "Autobiography",
+          "location": "Ethiopian National Library",
+          "details": "Emperor Menelik II's memoirs and speeches recount the Ethiopian strategy during the war and highlight the role of diplomacy and military leadership."
+        },
+        {
+          "name": "Italian Military Reports",
+          "type": "Military history texts",
+          "details": "Italian military reports document the events leading up to the battle and the failed Italian strategy that led to their defeat at Adwa."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Italy was forced to recognize Ethiopian independence and sovereignty.",
+        "The victory of Ethiopia solidified Menelik II's position as one of Africa's most respected rulers."
+      ],
+      "long_term_effects": [
+        "The Battle of Adwa was seen as a triumph of African resistance against European colonization.",
+        "The victory inspired other African nations to resist European imperialism during the late 19th and early 20th centuries."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "It marked one of the few successful military campaigns by an African nation against a European power during the colonial period.",
+        "The battle demonstrated the importance of strategy, knowledge of terrain, and national unity in defeating a technologically superior enemy."
+      ],
+      "political": [
+        "The Battle of Adwa helped secure Ethiopia’s place as one of the few African nations to retain independence during the colonial period.",
+        "It also established Menelik II as a key figure in African nationalism and anti-colonial resistance."
+      ],
+      "cultural": [
+        "The victory at Adwa became a symbol of African unity and resistance to imperialism, inspiring anti-colonial movements throughout Africa.",
+        "It remains a central part of Ethiopian national identity and pride."
+      ]
+    }
+  }
+}
