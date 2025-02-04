@@ -1,0 +1,131 @@
+{
+  "War_of_the_Oaken_Bucket": {
+    "alternate_names": ["The Battle of the Oaken Bucket", "War of the Bucket"],
+    "part_of": ["Italian Medieval Conflicts", "Guelph-Ghibelline Struggles", "City-State Rivalries"],
+    "date_range": "1325",
+    "location": ["Modena", "Italy"],
+    "background": {
+      "causes": [
+        "Rivalry between the Italian city-states of Modena and Bologna during the Guelph-Ghibelline conflicts.",
+        "The theft of a wooden bucket from a Bologna well by Modenese soldiers, which became a symbol of insult and humiliation.",
+        "The Bologna city government viewed the theft as a direct challenge to their honor, leading to military mobilization."
+      ],
+      "events_leading_up_to_war": [
+        "In 1325, Modenese soldiers, during a skirmish, stole a wooden bucket from a well in the city of Bologna.",
+        "Bologna, feeling dishonored, mustered an army to reclaim the bucket and restore their pride.",
+        "Modena, feeling provoked and insulted, raised an army to defend its actions and retaliate against Bologna."
+      ]
+    },
+    "result": {
+      "general": "Modenese victory",
+      "treaty": "No formal treaty, but the bucket remained with Modena.",
+      "territorial_changes": "No territorial changes, but Modena gained a significant amount of prestige and Bologna was forced to acknowledge the insult."
+    },
+    "belligerents": {
+      "Modena": {
+        "entities": ["Republic of Modena", "Modenese army"],
+        "allies": []
+      },
+      "Bologna": {
+        "entities": ["Republic of Bologna", "Bolognese army"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Modena": [
+        "Azzo d'Este",
+        "Guido II da Montefeltro"
+      ],
+      "Bologna": [
+        "Galeazzo I Visconti",
+        "Guerino de' Pii"
+      ]
+    },
+    "strength": {
+      "Modena": {
+        "troops": "1,500",
+        "artillery": "None",
+        "ships": "None"
+      },
+      "Bologna": {
+        "troops": "2,000",
+        "artillery": "None",
+        "ships": "None"
+      }
+    },
+    "casualties_and_losses": {
+      "Modena": {
+        "dead": "100-200",
+        "wounded": "Several"
+      },
+      "Bologna": {
+        "dead": "500-1,000",
+        "wounded": "Several"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Zappolino",
+        "date": "1325",
+        "description": "A decisive battle fought between the armies of Modena and Bologna. Modena’s forces emerged victorious despite being outnumbered.",
+        "outcome": "Modena's victory resulted in the retention of the stolen bucket and significant humiliation for Bologna."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Chronicles of Modena",
+          "type": "Historical text",
+          "location": "Modena archives",
+          "details": "An account of the conflict and the theft of the bucket from the Modenese perspective."
+        },
+        {
+          "name": "Bolognese Chronicles",
+          "type": "Historical text",
+          "location": "Bologna archives",
+          "details": "Bolognese recounting of the event, emphasizing the dishonor and loss faced by the city-state."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Bucket Relics",
+          "description": "A replica of the famous wooden bucket is displayed in Modena today as a symbol of the city’s victory."
+        },
+        {
+          "type": "Battlefield Artifacts",
+          "description": "Artifacts found on the battlefield, such as weapons and armor pieces, have been preserved to document the conflict."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "De Bello Modenense",
+          "type": "War chronicle",
+          "location": "Modena public library",
+          "details": "A 14th-century manuscript detailing the events of the war and the political aftermath for both Modena and Bologna."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Modena gained significant prestige by defeating Bologna despite being a smaller city-state.",
+        "Bologna’s failure to reclaim the bucket became a symbol of their dishonor and loss of influence."
+      ],
+      "long_term_effects": [
+        "The war further cemented the divide between rival Italian city-states and exemplified the absurdity of some medieval conflicts.",
+        "The stolen bucket became an iconic symbol of Modena’s military and cultural pride."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Although it was a relatively small and niche conflict, it showed the lengths to which medieval city-states would go to defend their honor and territorial pride.",
+        "The victory at the Battle of Zappolino demonstrated the importance of tactical surprise and morale in medieval battles."
+      ],
+      "political": [
+        "The outcome of the war solidified Modena’s position as a prominent city-state, while Bologna’s political influence was weakened for years."
+      ],
+      "cultural": [
+        "The War of the Oaken Bucket remains a humorous yet significant episode in medieval Italian history, illustrating the importance of symbols and reputation in statecraft."
+      ]
+    }
+  }
+}
