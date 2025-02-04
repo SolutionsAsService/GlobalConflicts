@@ -1,0 +1,132 @@
+{
+  "Battle_of_Hattin": {
+    "alternate_names": ["Battle of the Horns of Hattin", "Battle of Hattin 1187"],
+    "part_of": ["Crusades", "Saladin's Conquests", "Islamic Expansion"],
+    "date_range": "4 July 1187",
+    "location": ["Near Tiberias", "Galilee", "Kingdom of Jerusalem (modern-day Israel)"],
+    "background": {
+      "causes": [
+        "Tensions between the Crusader Kingdom of Jerusalem and the Muslim forces under Saladin, the Sultan of Egypt and Syria.",
+        "The Crusaders’ attempts to expand their territories and control key regions such as Jerusalem.",
+        "Saladin’s desire to reunify the Muslim world under his leadership and retake Jerusalem from the Crusaders."
+      ],
+      "events_leading_up_to_war": [
+        "Saladin began a military campaign to reclaim the territories lost to the Crusaders and to consolidate his power over Muslim lands.",
+        "The Crusader forces, under King Guy of Lusignan, attempted to engage Saladin's forces and protect their holdings in the region.",
+        "The Crusaders were lured into battle at Hattin, where they faced Saladin’s superior forces."
+      ]
+    },
+    "result": {
+      "general": "Decisive Muslim victory",
+      "treaty": "None – Following the battle, Jerusalem fell to Saladin in September 1187.",
+      "territorial_changes": "The Crusader Kingdom of Jerusalem was severely weakened; Saladin gained control of Jerusalem and much of the Levant."
+    },
+    "belligerents": {
+      "Crusader_Kingdom_of_Jerusalem": {
+        "entities": ["Kingdom of Jerusalem", "Knights Templar", "Knights Hospitaller"],
+        "allies": []
+      },
+      "Ayyubid_Sultanate": {
+        "entities": ["Ayyubid Dynasty", "Saladin", "Ayyubid Forces"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Crusader_Kingdom_of_Jerusalem": ["King Guy of Lusignan", "Raymond III of Tripoli", "Balian of Ibelin"],
+      "Ayyubid_Sultanate": ["Saladin", "Al-Adil I", "Turan-Shah"]
+    },
+    "strength": {
+      "Crusader_Kingdom_of_Jerusalem": {
+        "troops": "20,000–25,000",
+        "artillery": "None",
+        "cavalry": "Heavily armored knights, infantry"
+      },
+      "Ayyubid_Sultanate": {
+        "troops": "30,000–40,000",
+        "artillery": "None",
+        "cavalry": "Mounted archers, light cavalry"
+      }
+    },
+    "casualties_and_losses": {
+      "Crusader_Kingdom_of_Jerusalem": {
+        "dead": "3,000–5,000",
+        "wounded": "Numerous; many prisoners taken"
+      },
+      "Ayyubid_Sultanate": {
+        "dead": "600–1,000",
+        "wounded": "Numerous"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Hattin",
+        "date": "4 July 1187",
+        "description": "A major confrontation between the Crusaders and Saladin’s forces. The Crusaders were trapped, exhausted, and surrounded by Saladin’s forces after a forced march, leading to a decisive victory for Saladin.",
+        "outcome": "Saladin decisively defeated the Crusader forces, captured many knights and leaders, and effectively shattered the Crusader defense in the Levant."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The History of Saladin",
+          "type": "Historical account",
+          "location": "Various Islamic historical texts, including works by Ibn al-Athir",
+          "details": "Islamic historians documented the campaign, highlighting Saladin’s strategic brilliance and the conditions leading up to the Battle of Hattin."
+        },
+        {
+          "name": "Chronicles of the Crusades",
+          "type": "Christian historical account",
+          "location": "Western European archives and libraries",
+          "details": "European chronicles, including those by Geoffrey of Villehardouin, provide insights into the Crusader perspective on the battle and the aftermath."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Battlefield remnants",
+          "description": "Archaeological digs around the area of Hattin have uncovered remains of weapons, armor, and other military artifacts, confirming the scale of the conflict."
+        },
+        {
+          "type": "Saladin's artifacts",
+          "description": "Artifacts attributed to Saladin’s reign, such as coins and inscriptions, shed light on his leadership and the Muslim forces' victory."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The Book of the Crusades",
+          "type": "Chronicle",
+          "location": "Various European libraries",
+          "details": "Chronicles detailing the Crusader campaigns leading up to the Battle of Hattin and the devastating aftermath for the Crusader Kingdom of Jerusalem."
+        },
+        {
+          "name": "Saladin: The Sultan of Egypt and Syria",
+          "type": "Biography",
+          "details": "A modern biography exploring the life of Saladin, his military strategies, and his successful reclaiming of Jerusalem after the victory at Hattin."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Following the battle, Saladin besieged and captured Jerusalem in September 1187, ending nearly a century of Crusader rule in the city.",
+        "The Crusaders attempted to recapture Jerusalem but were unable to, leading to the Third Crusade led by Richard the Lionheart."
+      ],
+      "long_term_effects": [
+        "The fall of Jerusalem to Saladin led to increased tensions between Christian and Muslim powers, sparking the Third Crusade.",
+        "The battle reshaped the political landscape of the Levant, with Muslim forces gaining dominance in the region."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Battle of Hattin marked a key turning point in the Crusades, showing the strategic brilliance of Saladin and the vulnerability of the Crusader forces.",
+        "Saladin's victory demonstrated the importance of logistical planning and knowledge of terrain in medieval warfare."
+      ],
+      "political": [
+        "The battle contributed to the weakening of the Crusader presence in the Levant and set the stage for future Muslim conquests.",
+        "Saladin’s success in regaining Jerusalem solidified his reputation as a revered leader in the Islamic world."
+      ],
+      "cultural": [
+        "The victory at Hattin and the subsequent recapture of Jerusalem by Saladin were seen as a symbol of Islamic revival and strength, especially among the Muslim world.",
+        "The event inspired many works of literature and historical texts, both in the East and the West."
+      ]
+    }
+  }
+}
