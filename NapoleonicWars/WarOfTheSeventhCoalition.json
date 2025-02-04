@@ -1,0 +1,136 @@
+{
+  "War_of_the_Seventh_Coalition": {
+    "alternate_names": ["The Hundred Days", "Napoleon's Final Campaign", "Battle of Waterloo"],
+    "part_of": ["Napoleonic Wars", "European Wars", "Coalition Wars"],
+    "date_range": "15 February 1815 – 8 July 1815",
+    "location": ["France", "Belgium", "Prussia", "Netherlands"],
+    "background": {
+      "causes": [
+        "Napoleon Bonaparte's escape from exile on Elba and his return to power in France in March 1815.",
+        "The instability created by Napoleon's brief return to power, which alarmed European powers that had previously defeated him.",
+        "The formation of the Seventh Coalition, which consisted of the United Kingdom, Prussia, Austria, Russia, Sweden, and other European nations, to defeat Napoleon once and for all."
+      ],
+      "events_leading_up_to_war": [
+        "Napoleon returned to France in March 1815, quickly re-establishing control and raising an army to oppose the coalition forces.",
+        "The European powers, fearing the resurgence of Napoleon, rapidly mobilized their armies to confront him.",
+        "Napoleon's strategy focused on defeating the British and Prussian forces before they could unite and overwhelm him."
+      ]
+    },
+    "result": {
+      "general": "Decisive Coalition victory",
+      "treaty": "The Treaty of Paris (1815)",
+      "territorial_changes": "France lost all territorial gains from the previous Napoleonic Wars and was reduced to its 1792 borders. Napoleon was exiled to Saint Helena.",
+      "long_term_effects": "Napoleon's defeat marked the end of the Napoleonic Wars and the beginning of the Congress of Vienna's efforts to reshape Europe."
+    },
+    "belligerents": {
+      "Seventh_Coalition": {
+        "entities": ["United Kingdom", "Prussia", "Austria", "Russia", "Sweden", "Netherlands"],
+        "allies": []
+      },
+      "French_Empire": {
+        "entities": ["Napoleon Bonaparte", "French Army"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Seventh_Coalition": [
+        "Duke of Wellington (United Kingdom)",
+        "Gebhard Leberecht von Blücher (Prussia)",
+        "Prince Schwarzenberg (Austria)",
+        "Tsar Alexander I (Russia)"
+      ],
+      "French_Empire": [
+        "Napoleon Bonaparte",
+        "Michel Ney",
+        "Louis-Nicolas Davout"
+      ]
+    },
+    "strength": {
+      "Seventh_Coalition": {
+        "troops": "Over 500,000",
+        "artillery": "Numerous cannons, modern artillery pieces",
+        "ships": "Naval superiority by the United Kingdom"
+      },
+      "French_Empire": {
+        "troops": "Over 200,000",
+        "artillery": "Limited artillery",
+        "ships": "French naval forces were defeated in previous conflicts"
+      }
+    },
+    "casualties_and_losses": {
+      "Seventh_Coalition": {
+        "dead": "Approximately 25,000",
+        "wounded": "70,000"
+      },
+      "French_Empire": {
+        "dead": "Approximately 50,000",
+        "wounded": "30,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Waterloo",
+        "date": "18 June 1815",
+        "description": "The most decisive battle of the campaign, where Napoleon Bonaparte's army was decisively defeated by the coalition forces led by the Duke of Wellington and the Prussian forces led by Blücher.",
+        "outcome": "The defeat of Napoleon ended his reign and marked the final chapter of the Napoleonic Wars."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Napoleon's Letters and Orders",
+          "type": "Military correspondence",
+          "location": "National Archives of France",
+          "details": "Napoleon's personal letters and orders provide valuable insight into his strategies during the Hundred Days and the war's buildup."
+        },
+        {
+          "name": "British and Prussian Military Reports",
+          "type": "Military reports",
+          "location": "National Archives (UK), Prussian State Archives",
+          "details": "Reports from British and Prussian commanders document the progress of the campaign, including the key Battle of Waterloo."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Battlefield Artifacts",
+          "description": "Numerous weapons, uniforms, and cannonballs have been recovered from the battlefield of Waterloo, confirming the details of the battle."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The Campaigns of Napoleon",
+          "type": "History book",
+          "location": "Library of Congress",
+          "details": "Books detailing the full history of Napoleon's military campaigns, including the Hundred Days and the Battle of Waterloo, provide analysis and firsthand accounts."
+        },
+        {
+          "name": "The History of the War of the Seventh Coalition",
+          "type": "Military history text",
+          "details": "Military historians provide detailed analysis and accounts of the campaign, battle strategies, and outcome."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Napoleon was exiled to Saint Helena, where he remained until his death in 1821.",
+        "The Congress of Vienna, which had already been underway during the war, was completed, with European borders redrawn and a new balance of power established in Europe."
+      ],
+      "long_term_effects": [
+        "The end of the Napoleonic Wars led to a long period of relative peace in Europe, known as the 'Concert of Europe.'",
+        "Napoleon's final defeat significantly altered European politics and marked the decline of France as the dominant power on the continent."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war marked the end of Napoleon Bonaparte's reign and the final defeat of one of history's greatest military tacticians.",
+        "The Battle of Waterloo is one of the most studied military engagements in history, demonstrating the importance of coordination between different armies and the use of terrain."
+      ],
+      "political": [
+        "The defeat of Napoleon brought about the restoration of monarchies in Europe and solidified the power of the traditional European powers."
+      ],
+      "cultural": [
+        "The defeat of Napoleon and the end of his reign led to a shift in European culture, particularly in the realm of military and political thought."
+      ]
+    }
+  }
+}
