@@ -1,0 +1,173 @@
+{
+  "War_of_the_Two_Peters_1356_1375": {
+    "alternate_names": [
+      "Guerra de los Dos Pedros",
+      "Castilian-Aragonese War (1356–1375)"
+    ],
+    "part_of": [
+      "Hundred Years' War (as a peripheral conflict)",
+      "Iberian Peninsula Wars"
+    ],
+    "date_range": "1356 – 1375",
+    "location": [
+      "Iberian Peninsula (modern-day Spain)",
+      "Crown of Castile",
+      "Crown of Aragon"
+    ],
+    "background": {
+      "causes": [
+        "Territorial disputes between Peter I of Castile and Peter IV of Aragon.",
+        "Dynastic and political rivalry between Castile and Aragon over influence in the Mediterranean and Iberian Peninsula.",
+        "Aragonese support for Henry of Trastámara’s claim to the Castilian throne, leading to internal Castilian struggles.",
+        "Impact of the broader Hundred Years' War, as Castile and Aragon aligned with opposing factions (England and France)."
+      ],
+      "events_leading_up_to_war": [
+        "Tensions escalated over control of border territories such as Valencia, Murcia, and Catalonia.",
+        "Peter I of Castile's expansionist policies antagonized Aragon.",
+        "Aragonese naval actions against Castilian trade and raids on coastal settlements."
+      ]
+    },
+    "result": {
+      "general": "Inconclusive, but Castile emerged as the dominant power in Iberia.",
+      "treaties": [
+        {
+          "name": "Peace of Almazán",
+          "date": "1375",
+          "terms": [
+            "Aragon renounced claims to Castilian lands in Murcia.",
+            "End of direct hostilities, but dynastic rivalries persisted.",
+            "Strengthened the position of Henry of Trastámara, later King of Castile."
+          ]
+        }
+      ],
+      "territorial_changes": [
+        "Aragon retained control over key Mediterranean trade routes.",
+        "Castile consolidated power in Murcia and central Iberia."
+      ]
+    },
+    "belligerents": {
+      "Castile": {
+        "entities": [
+          "Crown of Castile"
+        ],
+        "allies": [
+          "Kingdom of England",
+          "Portuguese factions opposed to Aragon"
+        ]
+      },
+      "Aragon": {
+        "entities": [
+          "Crown of Aragon"
+        ],
+        "allies": [
+          "Kingdom of France",
+          "Navarre (at times)",
+          "Henry of Trastámara’s faction"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Castile": [
+        "Peter I of Castile ('Peter the Cruel')",
+        "Du Guesclin (French mercenary later supporting Henry of Trastámara)",
+        "Fernán Sánchez de Tovar (naval commander)"
+      ],
+      "Aragon": [
+        "Peter IV of Aragon ('Peter the Ceremonious')",
+        "Hugh de Calveley (English mercenary in Aragonese service)",
+        "Bernat de Cabrera (Aragonese general)"
+      ]
+    },
+    "strength": {
+      "Castile": {
+        "troops": "50,000+ soldiers",
+        "navy": "Large fleet capable of challenging Aragonese dominance in the Mediterranean",
+        "tactics": "Strong use of mercenaries, rapid territorial raids"
+      },
+      "Aragon": {
+        "troops": "40,000+ soldiers",
+        "navy": "One of the most powerful navies in the Mediterranean",
+        "tactics": "Defensive warfare, fortified strongholds, naval superiority"
+      }
+    },
+    "casualties_and_losses": {
+      "Castile": {
+        "dead_and_wounded": "Tens of thousands, exacerbated by internal civil strife"
+      },
+      "Aragon": {
+        "dead_and_wounded": "Severe losses in Catalonia and Valencia due to Castilian invasions"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Tarazona",
+        "date": "1363",
+        "description": "Castilian forces laid siege to the Aragonese-held city of Tarazona. The city fell after heavy fighting.",
+        "outcome": "Castilian victory; deepened Aragonese resentment."
+      },
+      {
+        "name": "Battle of Nájera",
+        "date": "1367",
+        "description": "Clash between Peter I of Castile and Henry of Trastámara, with the latter backed by French forces.",
+        "outcome": "Castilian victory, but Peter I failed to fully consolidate power."
+      },
+      {
+        "name": "Naval Battle of Barcelona",
+        "date": "1372",
+        "description": "A major naval engagement between Castilian and Aragonese fleets off the coast of Barcelona.",
+        "outcome": "Aragonese victory; Castile's naval ambitions in the Mediterranean weakened."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Chronicles of Peter IV of Aragon",
+          "type": "Historical Record",
+          "author": "Peter IV himself",
+          "details": "Aragonese perspective on the war, portraying Castile as the aggressor."
+        },
+        {
+          "name": "Castilian Royal Annals",
+          "type": "Historical Record",
+          "author": "Anonymous Castilian historian",
+          "details": "Chronicles the war as a just struggle for Castilian supremacy."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Fortifications",
+          "description": "Ruins of border castles and siege works in Catalonia and Murcia."
+        },
+        {
+          "type": "Weaponry",
+          "description": "Castilian swords, Aragonese crossbows, and remnants of naval artillery from the Battle of Barcelona."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Castile emerged stronger, laying the groundwork for future Spanish unification.",
+        "Aragon maintained independence but lost influence over Castilian territories."
+      ],
+      "long_term_effects": [
+        "Strengthened Henry of Trastámara, leading to his eventual rule as Henry II of Castile.",
+        "Weakened Peter I of Castile, who was later assassinated in 1369.",
+        "Set the stage for later Iberian conflicts between Castile and Aragon."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Demonstrated the importance of mercenary forces in medieval warfare.",
+        "Naval battles showcased early Mediterranean naval tactics."
+      ],
+      "political": [
+        "Deepened the rivalry between Castile and Aragon.",
+        "Influenced alliances in the Hundred Years' War."
+      ],
+      "cultural": [
+        "Led to a wave of historical chronicles detailing the conflict.",
+        "Impacted Spanish literature and folklore, portraying Peter I as either 'the Cruel' or 'the Just'."
+      ]
+    }
+  }
+}
