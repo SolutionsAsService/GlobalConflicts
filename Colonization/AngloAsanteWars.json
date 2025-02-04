@@ -1,0 +1,165 @@
+{
+  "Anglo_Asante_Wars_1824_1900": {
+    "alternate_names": [
+      "British-Asante Wars",
+      "Ghanaian Colonial Conflicts"
+    ],
+    "part_of": [
+      "European Colonial Expansion in Africa",
+      "Scramble for Africa"
+    ],
+    "date_range": "1824 – 1900",
+    "location": [
+      "Gold Coast (Modern-Day Ghana, West Africa)"
+    ],
+    "background": {
+      "causes": [
+        "British efforts to control the Gold Coast and Asante trade routes.",
+        "Asante Empire's military expansion and resistance to colonial influence.",
+        "Conflicts over trade in gold, slaves, and resources."
+      ],
+      "events_leading_up_to_war": [
+        "British and Dutch trading companies clashed with Asante merchants in the late 1700s.",
+        "The British abolished the transatlantic slave trade in 1807, weakening Asante economy.",
+        "British private military companies and mercenaries were hired to reinforce colonial control."
+      ]
+    },
+    "result": {
+      "general": "British victory; Asante Empire weakened and eventually annexed.",
+      "treaties": [
+        {
+          "name": "Treaty of Fomena",
+          "date": "1874",
+          "terms": [
+            "Asante Empire forced to pay indemnities to Britain.",
+            "British gained more control over Gold Coast trade routes."
+          ]
+        },
+        {
+          "name": "Annexation of Asante",
+          "date": "1902",
+          "terms": [
+            "Asante fully incorporated into the British Gold Coast colony.",
+            "British imposed direct rule over former Asante territories."
+          ]
+        }
+      ],
+      "territorial_changes": [
+        "Asante territory lost sovereignty, becoming a British protectorate.",
+        "British expanded control over West African trade and resources."
+      ]
+    },
+    "belligerents": {
+      "Asante_Empire": {
+        "entities": [
+          "Asante warriors",
+          "Allied African states resisting British influence"
+        ],
+        "allies": [
+          "Various Akan states supporting Asante resistance"
+        ]
+      },
+      "British_Empire": {
+        "entities": [
+          "British colonial forces",
+          "British private military companies (PMC) and mercenaries"
+        ],
+        "allies": [
+          "West African Fante Confederation (rival group to Asante)"
+        ]
+      }
+    },
+    "private_military_companies_and_mercenaries": [
+      {
+        "name": "African Company of Merchants",
+        "role": "Operated private military forces in the Gold Coast.",
+        "tactics": "Used local militia, European mercenaries, and fortifications for defense."
+      },
+      {
+        "name": "West India Regiments",
+        "role": "British-hired African soldiers trained in European tactics.",
+        "tactics": "Used in jungle warfare and urban combat."
+      }
+    ],
+    "commanders_and_leaders": {
+      "Asante_Empire": [
+        "King Osei Bonsu (1824 leader)",
+        "King Kofi Karikari (faced British invasion in 1874)",
+        "Yaa Asantewaa (led final resistance in 1900)"
+      ],
+      "British_Empire": [
+        "Major General Sir Garnet Wolseley (1873-74 campaign leader)",
+        "Sir Robert Baden-Powell (military leader in later campaigns)"
+      ]
+    },
+    "strength": {
+      "Asante_Empire": {
+        "troops": "50,000+ warriors",
+        "navy": "None",
+        "tactics": "Ambush warfare, extensive use of fortifications, reliance on iron and brass artillery."
+      },
+      "British_Empire": {
+        "troops": "15,000+ soldiers, including private military contractors.",
+        "navy": "Royal Navy warships used for coastal bombardment.",
+        "tactics": "European-style line infantry formations, scorched-earth policies, and use of Gatling guns."
+      }
+    },
+    "casualties_and_losses": {
+      "Asante_Empire": {
+        "dead_and_wounded": "Tens of thousands, including high-ranking nobles.",
+        "destruction": "Major cities like Kumasi were burned down."
+      },
+      "British_Empire": {
+        "dead_and_wounded": "Several thousand British and African troops.",
+        "destruction": "Fortified British outposts were occasionally overrun."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Nsamankow",
+        "date": "1824",
+        "description": "Asante forces decisively defeated British troops, killing Governor Charles MacCarthy.",
+        "outcome": "Asante victory, but led to long-term British retaliation."
+      },
+      {
+        "name": "Sack of Kumasi",
+        "date": "1874",
+        "description": "British forces invaded and burned the Asante capital, forcing them into submission.",
+        "outcome": "British victory, leading to the Treaty of Fomena."
+      },
+      {
+        "name": "War of the Golden Stool",
+        "date": "1900",
+        "description": "Final Asante rebellion led by Queen Mother Yaa Asantewaa.",
+        "outcome": "Asante defeated, leading to full British annexation."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Asante Chronicles",
+          "type": "Historical record",
+          "author": "Asante royal court scribes",
+          "details": "Records traditional Asante perspectives on the wars."
+        },
+        {
+          "name": "British Colonial Reports",
+          "type": "Government records",
+          "author": "British administrators",
+          "details": "Documents military campaigns and trade disputes."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Ruins of Kumasi",
+          "description": "Burned remains of Asante capital city after British invasion."
+        },
+        {
+          "type": "Weapons and relics",
+          "description": "Asante bronze artillery and European rifles used in battles."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Asante Empire lost its indepe
