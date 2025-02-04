@@ -1,0 +1,173 @@
+{
+  "Lanfang_Dutch_War_1884_1885": {
+    "alternate_names": [
+      "War of Lanfang",
+      "Dutch-Lanfang Conflict"
+    ],
+    "part_of": [
+      "Dutch Colonial Expansion in Southeast Asia",
+      "Corporate-Backed Military Conflicts"
+    ],
+    "date_range": "1884 – 1885",
+    "location": [
+      "Western Borneo (Modern-Day Indonesia)"
+    ],
+    "background": {
+      "causes": [
+        "Dutch East India Company (VOC) sought control over gold mines run by the Lanfang Republic.",
+        "Lanfang Republic, a Chinese-founded mining confederation, resisted Dutch economic dominance.",
+        "Conflict over taxation and mining rights escalated into armed conflict."
+      ],
+      "events_leading_up_to_war": [
+        "Lanfang Republic, established in 1777 by Chinese Hakka miners, thrived independently.",
+        "Dutch expanded colonial control in Borneo in the mid-19th century.",
+        "Private Dutch military forces and mercenaries pressured local Chinese settlements."
+      ]
+    },
+    "result": {
+      "general": "Dutch victory; Lanfang Republic dissolved.",
+      "treaties": [
+        {
+          "name": "Dutch Annexation of Lanfang",
+          "date": "1885",
+          "terms": [
+            "Lanfang Republic disbanded and absorbed into the Dutch East Indies.",
+            "Chinese mining settlements placed under Dutch control."
+          ]
+        }
+      ],
+      "territorial_changes": [
+        "Dutch colonial authorities expanded control over West Borneo.",
+        "Former Lanfang territories were placed under direct Dutch rule."
+      ]
+    },
+    "belligerents": {
+      "Lanfang_Republic": {
+        "entities": [
+          "Chinese Hakka miners",
+          "Local Dayak tribes allied with Lanfang"
+        ],
+        "allies": [
+          "Qing Dynasty (provided unofficial support but did not intervene militarily)"
+        ]
+      },
+      "Dutch_East_Indies": {
+        "entities": [
+          "Dutch colonial forces",
+          "Dutch-hired private military contractors (PMCs)"
+        ],
+        "allies": [
+          "Local Malay sultanates supporting Dutch rule"
+        ]
+      }
+    },
+    "private_military_companies_and_mercenaries": [
+      {
+        "name": "Dutch Colonial Mercenaries",
+        "role": "Recruited European and Malay fighters to suppress Lanfang resistance.",
+        "tactics": "Used modern firearms and artillery against Chinese-held mining towns."
+      },
+      {
+        "name": "Chinese Mercenary Units",
+        "role": "Lanfang Republic hired private Chinese warriors for self-defense.",
+        "tactics": "Relied on guerrilla warfare and fortified strongholds."
+      }
+    ],
+    "commanders_and_leaders": {
+      "Lanfang_Republic": [
+        "Liu Asheng (last President of Lanfang Republic)",
+        "Chinese Hakka mining warlords"
+      ],
+      "Dutch_East_Indies": [
+        "General Johan van Swieten (Dutch colonial commander)",
+        "Private military contractors leading Dutch forces"
+      ]
+    },
+    "strength": {
+      "Lanfang_Republic": {
+        "troops": "10,000+ Chinese miners and mercenaries",
+        "navy": "Small riverboats for inland defense",
+        "tactics": "Used jungle warfare, fortifications, and surprise raids."
+      },
+      "Dutch_East_Indies": {
+        "troops": "15,000+ including Dutch soldiers and private military forces.",
+        "navy": "Dutch gunboats used to blockade mining settlements.",
+        "tactics": "Employed scorched-earth policies and modern artillery bombardments."
+      }
+    },
+    "casualties_and_losses": {
+      "Lanfang_Republic": {
+        "dead_and_wounded": "Several thousand Chinese settlers and mercenaries.",
+        "destruction": "Mining settlements burned and looted."
+      },
+      "Dutch_East_Indies": {
+        "dead_and_wounded": "Few hundred Dutch soldiers and mercenaries.",
+        "destruction": "Dutch forts occasionally raided by Lanfang guerrillas."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Mandor",
+        "date": "1884",
+        "description": "Dutch forces launched a full-scale assault on the Lanfang capital, leading to its downfall.",
+        "outcome": "Dutch victory, forcing Lanfang leaders to flee."
+      },
+      {
+        "name": "Battle of the Gold Mines",
+        "date": "1885",
+        "description": "Lanfang mercenaries defended key mining operations, but were eventually overwhelmed.",
+        "outcome": "Dutch victory, securing complete control over Borneo’s gold trade."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Lanfang Republic Records",
+          "type": "Chinese historical documents",
+          "author": "Hakka scholars",
+          "details": "Accounts of Lanfang’s resistance and governance."
+        },
+        {
+          "name": "Dutch Colonial Archives",
+          "type": "Official military reports",
+          "author": "Dutch colonial government",
+          "details": "Records of military strategies and trade conflicts."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Ruins of Mandor",
+          "description": "Site of Lanfang's former capital, destroyed by the Dutch."
+        },
+        {
+          "type": "Chinese Mining Relics",
+          "description": "Gold mining tools and weapons used by Lanfang forces."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Lanfang Republic ceased to exist, marking the end of Chinese self-rule in Borneo.",
+        "Dutch fully integrated West Borneo into their colonial empire."
+      ],
+      "long_term_effects": [
+        "Chinese settlers in Borneo became economically dependent on Dutch authorities.",
+        "Inspired later nationalist movements among overseas Chinese communities."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "One of the first recorded wars involving private Chinese mercenaries defending an autonomous state.",
+        "Demonstrated the increasing power of **corporate-backed private armies** in colonial conflicts."
+      ],
+      "political": [
+        "Marked the complete Dutch takeover of Borneo’s lucrative gold trade.",
+        "Qing Dynasty failed to protect overseas Chinese populations, leading to weakened influence in Southeast Asia."
+      ],
+      "cultural": [
+        "The legacy of the Lanfang Republic is still remembered by Hakka Chinese communities.",
+        "Highlighted how Chinese immigrants established self-governing communities in foreign lands."
+      ]
+    }
+  }
+}
