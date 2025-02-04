@@ -1,0 +1,151 @@
+{
+  "Maratha_vs_Mughal_Empire": {
+    "alternate_names": ["Maratha-Mughal Wars", "Maratha Wars of Independence", "Mughal-Maratha Conflict"],
+    "part_of": ["Mughal Empire Decline", "Maratha Expansion", "Indian Subcontinent Conflicts"],
+    "date_range": "1680–1707",
+    "location": ["India", "Deccan Plateau", "Western India"],
+    "background": {
+      "causes": [
+        "The growing power and influence of the Maratha Empire in southern India and their desire for autonomy from Mughal rule.",
+        "Mughal emperor Aurangzeb's aggressive expansionism, particularly in the Deccan region, and his policy of religious intolerance towards Hindus.",
+        "The Marathas' rise under leaders like Shivaji Maharaj, who had already established a strong foundation for the Maratha Confederacy in the 17th century."
+      ],
+      "events_leading_up_to_war": [
+        "The death of Shivaji Maharaj in 1680, which led to internal struggles for the Maratha leadership, but also initiated the continued resistance against Mughal imperialism under his successors.",
+        "Aurangzeb's campaigns in the Deccan region escalated tensions, with the Marathas fiercely resisting Mughal control over their territories.",
+        "The Maratha Confederacy, led by leaders such as Sambhaji Maharaj (Shivaji’s son), and later by his generals, became increasingly organized and more formidable in their opposition to the Mughals."
+      ]
+    },
+    "result": {
+      "general": "Mughal victory, but Maratha resurgence post-Aurangzeb",
+      "treaty": "None",
+      "territorial_changes": "Mughal Empire retained nominal control over the Deccan Plateau, but the Marathas gained significant autonomy and territorial expansion, leading to the eventual downfall of Mughal dominance in India.",
+      "long_term_effects": "The war weakened the Mughal Empire, which began to decline in power, while the Marathas emerged as one of the most powerful forces in India, leading to the establishment of the Maratha Confederacy."
+    },
+    "belligerents": {
+      "Mughal_Empire": {
+        "entities": ["Mughal Empire", "Emperor Aurangzeb"],
+        "allies": []
+      },
+      "Maratha_Empire": {
+        "entities": ["Maratha Confederacy", "Shivaji Maharaj", "Sambhaji Maharaj", "Rajaram Maharaj", "Peshwa Baji Rao I"],
+        "allies": ["Various Rajputs and Deccan Sultanates"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Mughal_Empire": [
+        "Aurangzeb",
+        "Prince Muhammad Akbar",
+        "Zulfikar Khan",
+        "Mirza Raja Jai Singh"
+      ],
+      "Maratha_Empire": [
+        "Shivaji Maharaj",
+        "Sambhaji Maharaj",
+        "Rajaram Maharaj",
+        "Peshwa Baji Rao I",
+        "Tanaji Malusare"
+      ]
+    },
+    "strength": {
+      "Mughal_Empire": {
+        "troops": "150,000+",
+        "artillery": "Large artillery forces with elephants and cannons",
+        "ships": "Limited naval presence in the Arabian Sea"
+      },
+      "Maratha_Empire": {
+        "troops": "80,000+",
+        "artillery": "Smaller but highly mobile and strategic artillery units",
+        "ships": "Naval strength in the Western Coast under the Marathas"
+      }
+    },
+    "casualties_and_losses": {
+      "Mughal_Empire": {
+        "dead": "Unknown, but significant due to prolonged campaigns and guerrilla warfare",
+        "wounded": "Unknown"
+      },
+      "Maratha_Empire": {
+        "dead": "Severe losses, particularly in battles like the Battle of Wai (1689)",
+        "wounded": "High, particularly from guerrilla tactics and Mughal sieges"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Wai",
+        "date": "1689",
+        "description": "A significant battle where the Maratha forces under Sambhaji Maharaj were defeated by the Mughals. Despite this, the Marathas continued to resist and harass Mughal forces.",
+        "outcome": "Mughal victory, though the Marathas would recover and continue their insurgency."
+      },
+      {
+        "name": "Battle of Shahpur",
+        "date": "1702",
+        "description": "A series of skirmishes where the Maratha forces under Rajaram Maharaj resisted Aurangzeb’s attempt to capture the fortresses and territories.",
+        "outcome": "Maratha resistance forced the Mughals to retreat."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Aurangzeb’s Correspondence",
+          "type": "Letters and diplomatic correspondences",
+          "location": "Mughal Archives",
+          "details": "Aurangzeb's letters provide insight into his military strategy, his interactions with his commanders, and his objectives in the Deccan region."
+        },
+        {
+          "name": "Shivaji’s Letters and Edicts",
+          "type": "Official Maratha documents",
+          "location": "Maratha Archives",
+          "details": "Shivaji Maharaj’s writings and orders reveal his military strategies, as well as his vision for Maratha independence from the Mughals."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Artifacts from Maratha Forts",
+          "description": "Artifacts such as weapons, coins, and artifacts found in the remnants of Maratha forts and battlefields provide evidence of the military resistance against Mughal forces."
+        },
+        {
+          "type": "Mughal military artifacts",
+          "description": "Remains of Mughal weaponry, such as cannons and armor, have been found, giving insight into the Mughal forces during the conflict."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Shivaji: The Great Maratha by Ranjit Desai",
+          "type": "Biography",
+          "location": "Library of India",
+          "details": "A comprehensive biography of Shivaji Maharaj, detailing his life, leadership, and the ongoing struggle against the Mughal Empire."
+        },
+        {
+          "name": "The History of the Marathas by James Grant Duff",
+          "type": "Historical account",
+          "location": "British Museum",
+          "details": "A classic account of the Maratha Empire’s rise, their military campaigns, and their resistance against the Mughals."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Despite being defeated in some battles, the Marathas emerged stronger, consolidating their territories across India and becoming a dominant force.",
+        "The Mughal Empire, weakened by internal strife and Maratha resistance, would continue to decline under Aurangzeb’s successors."
+      ],
+      "long_term_effects": [
+        "The Maratha Empire continued to challenge Mughal authority and play a significant role in the politics of India, even after the death of Aurangzeb.",
+        "The war contributed to the eventual fragmentation of the Mughal Empire and the rise of regional powers, including the Marathas, Sikhs, and Rajputs."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Maratha resistance against the Mughal Empire marked the rise of guerrilla tactics and the importance of mobility in warfare.",
+        "The war was significant for the use of fortresses, naval power, and unconventional tactics by the Marathas."
+      ],
+      "political": [
+        "This war marked the start of the Maratha Empire’s rise, which would later challenge British imperial power in India in the 18th century.",
+        "It also contributed to the weakening of Mughal control in the Deccan, which would eventually lead to the decline of the Mughal Empire."
+      ],
+      "cultural": [
+        "The conflict shaped Maratha identity, as they viewed their resistance as a fight for independence from foreign rulers.",
+        "Maratha culture and military strategies, including their naval prowess and use of fortified defenses, had a lasting impact on Indian warfare and politics."
+      ]
+    }
+  }
+}
