@@ -1,0 +1,147 @@
+{
+  "War_of_the_League_of_Cambrai": {
+    "alternate_names": ["The League of Cambrai War", "The Italian War of 1508–1516"],
+    "part_of": ["Italian Wars", "European Power Struggles", "Papal Politics"],
+    "date_range": "1508 – 1516",
+    "location": ["Italy", "Papal States", "Northern Italy"],
+    "background": {
+      "causes": [
+        "The rise of the French monarchy under King Louis XII and its expansionist ambitions in northern Italy.",
+        "Pope Julius II’s desire to regain control over the Papal States, which had been lost to the Borgia family and other factions.",
+        "Rivalries between European powers over dominance in Italy, with each seeking influence over key Italian territories such as Milan, Naples, and the Papal States."
+      ],
+      "events_leading_up_to_war": [
+        "In 1508, Pope Julius II formed the League of Cambrai, an alliance of France, the Holy Roman Empire, Spain, and several other Italian states.",
+        "The League’s primary goal was to overthrow Venice, which had become a dominant power in northern Italy and had been expanding at the expense of its neighbors."
+      ]
+    },
+    "result": {
+      "general": "French victory initially, but the alliance fell apart, and Venice remained largely intact.",
+      "treaty": "Treaty of Noyon (1516)",
+      "territorial_changes": "Venice was able to maintain control of many of its territories, while France gained some territories in Italy but did not achieve complete dominance."
+    },
+    "belligerents": {
+      "League_of_Cambrai": {
+        "entities": ["Kingdom of France", "Holy Roman Empire", "Kingdom of Spain", "Papal States"],
+        "allies": ["Duchy of Milan", "Republic of Florence"]
+      },
+      "Venetian_Republic": {
+        "entities": ["Republic of Venice", "Venetian Army", "Venetian Allies"],
+        "allies": ["Various Italian City-States"]
+      }
+    },
+    "commanders_and_leaders": {
+      "League_of_Cambrai": [
+        "King Louis XII of France",
+        "Maximilian I, Holy Roman Emperor",
+        "Pope Julius II",
+        "Ferdinand II of Aragon"
+      ],
+      "Venetian_Republic": [
+        "Francesco Maria della Rovere (Papal general)",
+        "Bartolomeo d'Alviano",
+        "Sebastiano Ziani"
+      ]
+    },
+    "strength": {
+      "League_of_Cambrai": {
+        "troops": "40,000 – 60,000",
+        "artillery": "Early modern cannons and siege weapons",
+        "cavalry": "Heavy cavalry from France and Spain"
+      },
+      "Venetian_Republic": {
+        "troops": "30,000 – 40,000",
+        "artillery": "Limited artillery",
+        "cavalry": "Venetian light cavalry and mercenary forces"
+      }
+    },
+    "casualties_and_losses": {
+      "League_of_Cambrai": {
+        "dead": "12,000 – 15,000",
+        "wounded": "6,000 – 8,000"
+      },
+      "Venetian_Republic": {
+        "dead": "10,000 – 13,000",
+        "wounded": "5,000 – 7,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Agnadello",
+        "date": "14 May 1509",
+        "description": "A pivotal battle where the League of Cambrai decisively defeated the Venetian army, marking the start of a series of victories for the alliance.",
+        "outcome": "Decisive League of Cambrai victory, but the Venetians would later recover."
+      },
+      {
+        "name": "Battle of Ravenna",
+        "date": "11 April 1512",
+        "description": "A bloody battle where French forces under King Louis XII fought against the papal army and its allies, resulting in heavy casualties on both sides.",
+        "outcome": "French victory, but ultimately the war remained inconclusive."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The History of the League of Cambrai",
+          "type": "Historical Account",
+          "location": "French and Italian archives",
+          "details": "The history of the conflict is documented in contemporary texts from both French and Italian sources, detailing the formation of the League and the subsequent battles."
+        },
+        {
+          "name": "Letters of Pope Julius II",
+          "type": "Personal correspondence",
+          "location": "Vatican archives",
+          "details": "The Pope’s letters detail his strategy and attempts to form alliances with foreign powers against Venice."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Battlefield Artifacts",
+          "description": "Archaeological finds from the Battle of Agnadello, including weapons, armor, and military insignia, confirm the extent of the conflict."
+        },
+        {
+          "type": "Venetian Military Records",
+          "description": "Venetian military records document their losses and the strategic decisions made during the course of the war."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The Venetian Chronicles",
+          "type": "Chronicle",
+          "location": "Venetian archives",
+          "details": "A Venetian chronicler provides an account of the conflict from the perspective of the defeated state, focusing on the military tactics and political developments."
+        },
+        {
+          "name": "The Memoirs of Louis XII",
+          "type": "Autobiography",
+          "location": "French archives",
+          "details": "King Louis XII’s memoirs offer insight into his motivations for war, the politics behind the League of Cambrai, and his vision for France in Italy."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The League of Cambrai failed to achieve its original goal of completely undermining Venice, but it marked the end of Venice’s uncontested dominance in northern Italy.",
+        "The Mamluks, and France in particular, gained significant influence in Italy, but the political situation remained unstable."
+      ],
+      "long_term_effects": [
+        "The war contributed to a shift in the balance of power in Italy, with France and Spain increasing their involvement in the region.",
+        "It set the stage for the rise of the **Habsburgs** as a dominant force in northern Italy."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The **Battle of Agnadello** and **Battle of Ravenna** demonstrated the importance of large-scale European battles in the early 16th century.",
+        "The use of early modern artillery in these battles marked the beginning of new military technologies shaping warfare."
+      ],
+      "political": [
+        "This war played a crucial role in the broader Italian Wars, which had lasting consequences for Italy’s political fragmentation and its dominance in European affairs.",
+        "It led to a reshaping of alliances, with the Papal States playing a more central role in Italian politics."
+      ],
+      "cultural": [
+        "The war had a lasting impact on Italian art and culture, as the destabilization of the region led to the flourishing of Italian Renaissance art in new city-states like Florence and Rome.",
+        "Pope Julius II’s military actions and the promotion of Renaissance art are now inseparable, linking the conflict with cultural developments in Europe."
+      ]
+    }
+  }
+}
