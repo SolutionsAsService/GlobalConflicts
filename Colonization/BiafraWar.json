@@ -1,0 +1,143 @@
+{
+  "Biafra_War_1967_1970": {
+    "alternate_names": [
+      "Nigerian Civil War",
+      "Biafran War"
+    ],
+    "part_of": [
+      "African Conflicts",
+      "Decolonization Wars",
+      "Post-Independence Conflicts"
+    ],
+    "date_range": "6 July 1967 – 15 January 1970",
+    "location": [
+      "Nigeria",
+      "Biafra (Southeast Nigeria)"
+    ],
+    "background": {
+      "causes": [
+        "Tensions between the ethnic groups, especially Igbo, in the southeastern region of Nigeria.",
+        "The massacre of Igbos in Northern Nigeria after a coup in 1966.",
+        "The desire of the southeastern region to create the independent Republic of Biafra under Colonel Odumegwu Ojukwu."
+      ],
+      "events_leading_up_to_war": [
+        "In 1966, following a military coup and subsequent ethnic violence, a significant portion of the Igbo population fled the northern regions of Nigeria, leading to tensions between the ethnic groups.",
+        "In 1967, Colonel Ojukwu declared the secession of the southeastern region, establishing Biafra as an independent republic.",
+        "The Nigerian government, led by General Yakubu Gowon, opposed Biafran independence, leading to the start of the conflict."
+      ]
+    },
+    "result": {
+      "general": "Nigerian victory",
+      "treaty": "No formal treaty, but Biafra was reintegrated into Nigeria.",
+      "territorial_changes": "Biafra ceased to exist as an independent state; the region was reintegrated into Nigeria."
+    },
+    "belligerents": {
+      "Nigeria": {
+        "entities": ["Federal Republic of Nigeria", "Nigerian Armed Forces"],
+        "allies": ["Mercenaries hired by the Nigerian government, particularly from Europe and other African nations."]
+      },
+      "Biafra": {
+        "entities": ["Republic of Biafra", "Biafran Army"],
+        "allies": ["Mercenaries hired by Biafra, including French and other European mercenaries."]
+      }
+    },
+    "commanders_and_leaders": {
+      "Nigeria": ["General Yakubu Gowon", "General Murtala Mohammed"],
+      "Biafra": ["Colonel Odumegwu Ojukwu", "Major General Philip Effiong"]
+    },
+    "strength": {
+      "Nigeria": {
+        "troops": "120,000–200,000",
+        "artillery": "Modern artillery, air support, tanks",
+        "ships": "Naval blockades, naval artillery"
+      },
+      "Biafra": {
+        "troops": "30,000–60,000",
+        "artillery": "Limited artillery, some foreign support",
+        "ships": "None (naval blockades affected supplies)"
+      }
+    },
+    "casualties_and_losses": {
+      "Nigeria": {
+        "dead": "100,000–300,000",
+        "wounded": "Numerous"
+      },
+      "Biafra": {
+        "dead": "1,000,000+ (mainly from starvation)",
+        "wounded": "Numerous"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Abagana",
+        "date": "March 1968",
+        "description": "A pivotal battle where Nigerian forces broke through Biafran defenses and advanced toward Biafra's oil-rich areas.",
+        "outcome": "Nigerian victory, leading to a strategic encirclement of Biafra."
+      },
+      {
+        "name": "Siege of Biafra",
+        "date": "1968–1970",
+        "description": "A long-lasting blockade by Nigerian forces that caused famine in Biafra.",
+        "outcome": "Biafran forces weakened, leading to the eventual surrender of the Republic of Biafra."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Biafran Declaration of Independence",
+          "type": "Political document",
+          "location": "National Archives of Nigeria",
+          "details": "The official declaration by Colonel Ojukwu establishing Biafra as a republic."
+        },
+        {
+          "name": "Nigerian Government Orders",
+          "type": "Military orders",
+          "location": "Nigerian National Archives",
+          "details": "Orders from General Gowon for the use of military force to crush the Biafran rebellion."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Memorials of Biafran Defenses",
+          "description": "Ruins of defensive structures, fortifications, and weapons left from Biafran resistance during key battles."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Biafran War Diary",
+          "type": "Personal account",
+          "location": "Biafran National Archives",
+          "details": "Memoirs and diaries by Biafran military leaders describing the war strategy and daily life during the conflict."
+        },
+        {
+          "name": "Nigerian Military Reports",
+          "type": "Official military reports",
+          "details": "Records by the Nigerian army detailing the progress of the conflict, foreign mercenaries' involvement, and eventual victory."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Biafra was reintegrated into Nigeria, but the region suffered from long-term instability due to ethnic tensions.",
+        "The war left deep scars in the region, with the Igbo people particularly impacted by the starvation and violence."
+      ],
+      "long_term_effects": [
+        "The war led to significant changes in how Africa viewed both mercenary forces and the use of starvation as a weapon of war.",
+        "It influenced the future of regional politics in Africa, especially in terms of the involvement of foreign mercenaries and the impact of secessionist movements."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war marked a significant moment in African military history, where **private mercenaries** played an important role in both sides of the conflict.",
+        "The siege of Biafra is often cited as one of the first wars where **starvation was used as a military strategy**."
+      ],
+      "political": [
+        "The war highlighted the complexities of post-colonial states in Africa, with ethnic and regional conflicts destabilizing newly-formed nations.",
+        "The use of foreign mercenaries foreshadowed future conflicts where private military companies would become more involved in African politics."
+      ],
+      "cultural": [
+        "The war and the **humanitarian crisis** surrounding the famine deeply affected global public opinion and led to widespread international aid efforts."
+      ]
+    }
+  }
+}
