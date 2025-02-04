@@ -1,0 +1,131 @@
+{
+  "Seljuk-Mamluk_War": {
+    "alternate_names": ["The Mamluk-Seljuk Wars", "Battle of Elbistan", "The Mamluk-Seljuk Struggle for Dominance"],
+    "part_of": ["Seljuk Empire Conflicts", "Mamluk Sultanate Expansion", "Middle Eastern Power Struggles"],
+    "date_range": "1260 – 1277",
+    "location": ["Anatolia", "Levant", "Syria"],
+    "background": {
+      "causes": [
+        "The Seljuk Sultanate of Rum was weakening after internal strife, leading to political instability in Anatolia.",
+        "The rise of the Mamluk Sultanate in Egypt and Syria, which sought to expand its territorial influence into Seljuk lands.",
+        "The Mamluks aimed to protect and expand their power, especially against the rising Mongol threat in the region."
+      ],
+      "events_leading_up_to_war": [
+        "Following the defeat of the Mongols at the Battle of Ain Jalut (1260), the Mamluks gained confidence and sought to extend their territory into Seljuk-held lands.",
+        "The Seljuks of Rum, facing internal turmoil, sought to resist Mamluk encroachment while trying to fend off the threat posed by the Mongols."
+      ]
+    },
+    "result": {
+      "general": "Mamluk victory",
+      "treaty": "No formal treaty, but the Mamluks took control of significant Seljuk territories.",
+      "territorial_changes": "Mamluks expanded their influence into Anatolia and Syria, while the Seljuks of Rum were effectively displaced."
+    },
+    "belligerents": {
+      "Seljuk_Sultanate_of_Rum": {
+        "entities": ["Seljuk Sultanate of Rum", "Seljuk Army", "Turkoman Forces"],
+        "allies": ["Various Turkish Tribes in Anatolia"]
+      },
+      "Mamluk_Sultanate": {
+        "entities": ["Mamluk Sultanate", "Mamluk Army", "Egyptian Military Forces"],
+        "allies": ["Various Syrian Allies"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Seljuk_Sultanate_of_Rum": ["Sultan Kayqubad II", "Sultan Rukn al-Din", "Various Seljuk Emirs"],
+      "Mamluk_Sultanate": ["Sultan Qutuz", "Sultan Baybars", "Sultan Al-Mansur Ali"]
+    },
+    "strength": {
+      "Seljuk_Sultanate_of_Rum": {
+        "troops": "25,000–30,000",
+        "artillery": "Limited siege equipment",
+        "cavalry": "Heavy cavalry, light cavalry"
+      },
+      "Mamluk_Sultanate": {
+        "troops": "30,000–35,000",
+        "artillery": "Limited, but effective siege weapons",
+        "cavalry": "Elite Mamluk cavalry, mounted archers"
+      }
+    },
+    "casualties_and_losses": {
+      "Seljuk_Sultanate_of_Rum": {
+        "dead": "7,000–12,000",
+        "wounded": "Numerous, with many captured"
+      },
+      "Mamluk_Sultanate": {
+        "dead": "2,000–5,000",
+        "wounded": "Numerous"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Elbistan",
+        "date": "1277",
+        "description": "A significant battle in which Mamluk forces decisively defeated the Seljuks, effectively ending Seljuk sovereignty in Anatolia.",
+        "outcome": "Mamluk victory, Seljuk forces scattered, and the Mamluks cemented control over key regions in Syria and Anatolia."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Mamluk Chronicles",
+          "type": "Historical Account",
+          "location": "Egyptian and Syrian archives",
+          "details": "Mamluk chronicles provide detailed descriptions of the conflict, including military strategies and key battles such as the Battle of Elbistan."
+        },
+        {
+          "name": "Seljuk Annals",
+          "type": "Historical Account",
+          "location": "Ottoman archives, Seljuk-era manuscripts",
+          "details": "Seljuk sources provide insight into the political situation of the Sultanate of Rum and its efforts to resist Mamluk encroachment."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Battlefield Remnants",
+          "description": "Archaeological excavations in Anatolia and Syria have uncovered weapons, armor, and the remains of military fortifications, which confirm the existence and scale of the conflict."
+        },
+        {
+          "type": "Mamluk Coins and Inscriptions",
+          "description": "Coins and inscriptions from the Mamluks in Syria and Egypt commemorate their victory in the conflict, further verifying the Mamluks’ dominance in the region post-war."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The History of the Mamluk Sultanate",
+          "type": "Chronicle",
+          "location": "National Library of Egypt",
+          "details": "The Mamluk historical texts document the rise of the Mamluks and their successful campaigns in Anatolia and Syria against the Seljuks."
+        },
+        {
+          "name": "The Seljuk Struggle in Anatolia",
+          "type": "Historical Text",
+          "details": "A Persian text that details the decline of the Seljuk Sultanate of Rum and its final struggles against the Mamluks."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Seljuk Sultanate of Rum ceased to be a dominant power in Anatolia, leaving the region vulnerable to Mongol invasions and further fragmentation.",
+        "Mamluks solidified their power in Egypt, Syria, and parts of Anatolia, thus gaining more influence over trade routes and political control."
+      ],
+      "long_term_effects": [
+        "The Mamluks' control over Anatolia and Syria lasted for several decades, shaping the region's political and military landscape.",
+        "The weakening of the Seljuks paved the way for the rise of the Ottoman Empire in Anatolia."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Seljuk-Mamluk War demonstrated the significance of cavalry-based warfare, particularly the role of heavy cavalry versus mounted archers.",
+        "The Mamluk victory at the Battle of Elbistan demonstrated their military superiority in the region."
+      ],
+      "political": [
+        "The war marked the decline of the Seljuk Sultanate of Rum and the rise of the Mamluks as a dominant power in the Eastern Mediterranean.",
+        "The conflict played a critical role in shaping the political balance of power in the Middle East, particularly in Syria and Anatolia."
+      ],
+      "cultural": [
+        "The Mamluks’ victory solidified their position as protectors of Islam in the region, and their military prowess became an important aspect of their cultural legacy.",
+        "The war influenced later dynastic and political struggles, particularly in the emergence of the Ottoman Empire."
+      ]
+    }
+  }
+}
