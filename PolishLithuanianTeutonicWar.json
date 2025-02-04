@@ -1,0 +1,132 @@
+{
+  "Polish_Lithuanian_Teutonic_War_1409_1411": {
+    "alternate_names": ["Teutonic War", "Great War of the Teutonic Order", "War of the Polish-Lithuanian Alliance"],
+    "part_of": ["Medieval European Wars", "Polish-Lithuanian Relations", "Teutonic Order Expansion", "Wars of the Baltic"],
+    "date_range": "1409 – 1411",
+    "location": ["Prussia", "Livonia", "Baltic Sea region", "Poland", "Lithuania"],
+    "background": {
+      "causes": [
+        "Teutonic Order's expansionism and desire to control territories in the Baltic region, including Prussia, Livonia, and parts of Poland.",
+        "Poland and Lithuania's ongoing rivalry with the Teutonic Order, who were seen as a threat to their influence in the Baltic.",
+        "A longstanding territorial dispute between Poland, Lithuania, and the Teutonic Order, particularly over the region of Samogitia (modern-day Lithuania)."
+      ],
+      "events_leading_up_to_war": [
+        "The Teutonic Order's raids and territorial encroachments in Lithuanian and Polish lands created tensions with the two states.",
+        "Poland and Lithuania signed a formal alliance in 1409, leading to their joint campaign against the Teutonic Order.",
+        "The Teutonic Order, under Grand Master Ulrich von Jungingen, declared war on Poland and Lithuania in 1409, sparking the conflict."
+      ]
+    },
+    "result": {
+      "general": "Polish-Lithuanian victory",
+      "treaty": "Treaty of Thorn (1411)",
+      "territorial_changes": "Teutonic Order lost control of several territories, including parts of Prussia and Samogitia, to Poland and Lithuania.",
+      "long_term_effects": "The defeat of the Teutonic Order marked the end of their expansionist ambitions in the Baltic region. It also solidified the Polish-Lithuanian alliance and strengthened their influence over the Baltic states."
+    },
+    "belligerents": {
+      "Kingdom_of_Poland_and_Lithuania": {
+        "entities": ["Kingdom of Poland", "Grand Duchy of Lithuania", "Władysław II Jagiełło", "Polish Knights", "Lithuanian Army"],
+        "allies": ["Polish Knights", "Lithuanian forces"]
+      },
+      "Teutonic_Order": {
+        "entities": ["Teutonic Knights", "Ulrich von Jungingen", "Teutonic military"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Poland_Lithuania": ["Władysław II Jagiełło", "Janusz I of Warsaw", "Zbigniew of Brześć"],
+      "Teutonic_Order": ["Ulrich von Jungingen", "Heinrich von Plauen"]
+    },
+    "strength": {
+      "Poland_Lithuania": {
+        "troops": "27,000–35,000",
+        "artillery": "None",
+        "ships": "None"
+      },
+      "Teutonic_Order": {
+        "troops": "21,000–25,000",
+        "artillery": "None",
+        "ships": "None"
+      }
+    },
+    "casualties_and_losses": {
+      "Poland_Lithuania": {
+        "dead": "5,000",
+        "wounded": "8,000–10,000"
+      },
+      "Teutonic_Order": {
+        "dead": "15,000",
+        "wounded": "7,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Grunwald (Tannenberg)",
+        "date": "15 July 1410",
+        "description": "The largest and most decisive battle of the war, where the Polish-Lithuanian forces decisively defeated the Teutonic Order. The battle was marked by coordinated tactics and a strategically executed charge that overwhelmed the Teutonic knights.",
+        "outcome": "Polish-Lithuanian victory, effectively crippling the Teutonic Order's military power."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The Treaty of Thorn",
+          "type": "Diplomatic document",
+          "location": "Polish and Lithuanian archives",
+          "details": "The Treaty of Thorn signed in 1411, officially ended the war and reaffirmed the territorial adjustments made between the two sides, limiting the Teutonic Order's power."
+        },
+        {
+          "name": "Chronicles of Jan Długosz",
+          "type": "Historical text",
+          "location": "Polish National Library",
+          "details": "The Chronicles by Jan Długosz provide a detailed account of the events leading up to and during the war, including descriptions of the Battle of Grunwald and the diplomacy surrounding the peace negotiations."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Graves of the Battle of Grunwald",
+          "description": "Graves and military artifacts discovered on the battlefield, including weapons, armor, and Teutonic insignia, corroborate the accounts of the battle."
+        },
+        {
+          "type": "Teutonic Order ruins",
+          "description": "Ruins of Teutonic castles and fortifications in Prussia, such as the Malbork Castle, have been preserved, showcasing the architectural might of the Order and their eventual fall after the war."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Teutonic Order Chronicles",
+          "type": "Military history text",
+          "details": "The chronicles of the Teutonic Order provide insights into the military strategies and organizational structure of the Order before and after the defeat at Grunwald."
+        },
+        {
+          "name": "Polish-Lithuanian Victory Narratives",
+          "type": "Victory account",
+          "details": "Polish and Lithuanian accounts celebrate the victory at Grunwald, illustrating how the alliance of these two powers overcame the militarily superior Teutonic Order."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Teutonic Order's power was significantly weakened, and they were forced to acknowledge the supremacy of Poland and Lithuania in the region.",
+        "Poland and Lithuania solidified their military alliance and became the dominant forces in the Baltic area."
+      ],
+      "long_term_effects": [
+        "The defeat of the Teutonic Order marked the beginning of its decline, eventually leading to the secularization of the Order's territories in Prussia in 1525.",
+        "Poland and Lithuania's success in the war significantly bolstered their political and military standing in Eastern Europe."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Battle of Grunwald was one of the largest medieval battles in Europe, demonstrating the importance of coordinated, combined forces and tactical planning.",
+        "The war marked the decline of the Teutonic Order's military supremacy and was a key event in the struggle for dominance in Eastern Europe."
+      ],
+      "political": [
+        "The victory further solidified the Polish-Lithuanian alliance, which played a significant role in shaping the geopolitics of Eastern Europe in the coming centuries.",
+        "The war established Poland and Lithuania as dominant powers in the region, influencing the politics of the Baltic states for years."
+      ],
+      "cultural": [
+        "The Polish-Lithuanian victory at Grunwald became a symbol of national pride for both Poland and Lithuania and a rallying point for the eventual growth of their influence in the region.",
+        "The war inspired a cultural renaissance in Poland and Lithuania, with artistic works and literature commemorating the victory and military prowess."
+      ]
+    }
+  }
+}
