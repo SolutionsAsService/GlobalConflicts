@@ -1,0 +1,162 @@
+{
+  "Javanese_Succession_Wars_1704_1757": {
+    "alternate_names": [
+      "War of Succession in Mataram",
+      "Javanese Wars of Succession"
+    ],
+    "part_of": [
+      "Dutch Expansion in Indonesia",
+      "Colonial Conflicts in Southeast Asia"
+    ],
+    "date_range": "1704 – 1757",
+    "location": [
+      "Java, Indonesia (Mataram Sultanate and surrounding regions)"
+    ],
+    "background": {
+      "causes": [
+        "Internal struggles within the Mataram Sultanate over royal succession.",
+        "Rising Dutch East India Company (VOC) influence in Javanese politics.",
+        "Regional rulers seeking autonomy from central Javanese control."
+      ],
+      "events_leading_up_to_war": [
+        "The death of Sultan Amangkurat II in 1703 led to a contested succession.",
+        "The Dutch supported Amangkurat III initially but later backed his rival Pakubuwono I."
+      ]
+    },
+    "result": {
+      "general": "Dutch-backed factions gained control over Java, solidifying VOC dominance.",
+      "treaties": [
+        {
+          "name": "Treaty of Giyanti",
+          "date": "1755",
+          "terms": [
+            "Java was divided between the Sultanate of Yogyakarta and the Surakarta Sunanate.",
+            "The Dutch East India Company (VOC) became the ultimate power broker in Java."
+          ]
+        }
+      ],
+      "territorial_changes": [
+        "Mataram Sultanate was weakened and divided into separate principalities.",
+        "Dutch VOC solidified its influence over Javanese rulers."
+      ]
+    },
+    "belligerents": {
+      "Mataram_Sultanate": {
+        "entities": [
+          "Supporters of Amangkurat III",
+          "Local warlords resisting Dutch rule"
+        ],
+        "allies": [
+          "Balinese and Madurese forces",
+          "Islamic clerical groups opposed to Dutch influence"
+        ]
+      },
+      "Dutch_East_India_Company_VOC": {
+        "entities": [
+          "VOC colonial forces",
+          "Javanese nobles supporting Dutch-backed rulers"
+        ],
+        "allies": [
+          "Pakubuwono I and his successors",
+          "Regional sultans seeking Dutch favor"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Mataram_Sultanate": [
+        "Amangkurat III (Deposed Sultan)",
+        "Raden Mas Said (Prince Sambernyawa, guerrilla leader)"
+      ],
+      "Dutch_East_India_Company_VOC": [
+        "Pakubuwono I (Dutch-backed ruler)",
+        "Gustaaf Willem van Imhoff (VOC Governor-General)"
+      ]
+    },
+    "strength": {
+      "Mataram_Sultanate": {
+        "troops": "50,000+ fighters",
+        "navy": "Small riverine fleets",
+        "tactics": "Guerrilla warfare, city sieges, and regional alliances"
+      },
+      "Dutch_East_India_Company_VOC": {
+        "troops": "20,000+ European and indigenous troops",
+        "navy": "Superior maritime forces with VOC warships",
+        "tactics": "European-style warfare, fortification strategies, and divide-and-rule policies"
+      }
+    },
+    "casualties_and_losses": {
+      "Mataram_Sultanate": {
+        "dead_and_wounded": "Tens of thousands, including widespread civilian casualties",
+        "destruction": "Multiple Javanese cities and palaces were destroyed"
+      },
+      "Dutch_East_India_Company_VOC": {
+        "dead_and_wounded": "Several thousand, mostly in prolonged guerrilla battles",
+        "destruction": "Fortified settlements occasionally attacked by rebels"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Kartasura",
+        "date": "1742",
+        "description": "Raden Mas Said and his anti-Dutch forces captured the Kartasura palace, forcing Pakubuwono II to flee.",
+        "outcome": "Temporary rebel victory, but Dutch reinforcements later retook the city."
+      },
+      {
+        "name": "Siege of Surakarta",
+        "date": "1750–1757",
+        "description": "Final stronghold of rebel resistance before the Treaty of Giyanti was signed.",
+        "outcome": "Dutch-backed forces secured victory, leading to the partition of Java."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Babad Tanah Jawi",
+          "type": "Javanese Historical Chronicle",
+          "author": "Various Javanese court scribes",
+          "details": "Records Javanese history, including the war from different perspectives."
+        },
+        {
+          "name": "VOC Colonial Records",
+          "type": "Dutch Historical Archives",
+          "author": "Dutch East India Company officials",
+          "details": "Details VOC military campaigns and alliances in Java."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Ruins of Kartasura Palace",
+          "description": "Remnants of the destroyed royal court during the war."
+        },
+        {
+          "type": "Dutch fortifications",
+          "description": "Colonial-era fortresses in Batavia (Jakarta) and Semarang."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Java was divided between Yogyakarta and Surakarta.",
+        "Dutch influence over Javanese politics became entrenched."
+      ],
+      "long_term_effects": [
+        "Set the stage for full Dutch colonial control over Indonesia in the 19th century.",
+        "Weakened indigenous resistance against European rule."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Showcased early guerrilla warfare tactics used against colonial forces.",
+        "Demonstrated the effectiveness of European-style fortifications in Java."
+      ],
+      "political": [
+        "Shifted power away from Javanese sultans toward Dutch-controlled administrations.",
+        "Led to the eventual fall of indigenous rule and complete Dutch colonial control by the 1800s."
+      ],
+      "cultural": [
+        "Inspired Javanese folklore about resistance and heroism.",
+        "Created lasting divisions within Javanese aristocracy, influencing modern politics in Indonesia."
+      ]
+    }
+  }
+}
