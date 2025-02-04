@@ -1,0 +1,163 @@
+{
+  "Le_Mac_War_1533_1592": {
+    "alternate_names": [
+      "Vietnamese Civil War (16th century)",
+      "Lê Restoration War"
+    ],
+    "part_of": [
+      "Vietnamese Dynastic Conflicts",
+      "Early Modern Southeast Asian Wars"
+    ],
+    "date_range": "1533 – 1592",
+    "location": [
+      "Vietnam (Tonkin, Red River Delta, and northern regions)"
+    ],
+    "background": {
+      "causes": [
+        "The overthrow of the Lê dynasty by Mạc Đăng Dung in 1527.",
+        "Lê loyalists sought to restore their rule, supported by the Trịnh and Nguyễn clans.",
+        "Conflicts over legitimacy and control of Vietnam's northern region."
+      ],
+      "events_leading_up_to_war": [
+        "Mạc Đăng Dung declared himself emperor in 1527, forcing Lê rulers into exile.",
+        "In 1533, Lê loyalists, led by Trịnh Kiểm, declared Lê Trang Tông as emperor and launched a military campaign."
+      ]
+    },
+    "result": {
+      "general": "Lê dynasty restored, but Vietnam remained divided.",
+      "treaties": [
+        {
+          "name": "Final Campaign of 1592",
+          "date": "1592",
+          "terms": [
+            "Lê forces retook Thăng Long (Hanoi), marking the end of Mạc rule.",
+            "Mạc remnants retreated to Cao Bằng, where they held out under Chinese protection until 1677."
+          ]
+        }
+      ],
+      "territorial_changes": [
+        "Lê dynasty regained control of northern Vietnam.",
+        "Mạc forces confined to border regions under Ming China's influence."
+      ]
+    },
+    "belligerents": {
+      "Le_Dynasty": {
+        "entities": [
+          "Lê Loyalists",
+          "Trịnh Lords",
+          "Nguyễn Lords"
+        ],
+        "allies": [
+          "Ming Dynasty (intermittent support)",
+          "Various Vietnamese noble factions"
+        ]
+      },
+      "Mac_Dynasty": {
+        "entities": [
+          "Mạc Dynasty",
+          "Noble families loyal to Mạc rule"
+        ],
+        "allies": [
+          "Ming Dynasty (initial backing)",
+          "Local warlords resisting Lê-Trịnh rule"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Le_Dynasty": [
+        "Lê Trang Tông (Restored Emperor)",
+        "Trịnh Kiểm (Military Leader)",
+        "Nguyễn Hoàng (Southern Governor)"
+      ],
+      "Mac_Dynasty": [
+        "Mạc Đăng Dung (Founder of Mạc rule)",
+        "Mạc Mậu Hợp (Last major Mạc ruler)",
+        "Mạc Kính Cung (Leader of later Mạc resistance)"
+      ]
+    },
+    "strength": {
+      "Le_Dynasty": {
+        "troops": "80,000+ soldiers",
+        "navy": "Riverine fleets for Red River battles",
+        "tactics": "Guerrilla warfare, sieges, and naval engagements"
+      },
+      "Mac_Dynasty": {
+        "troops": "70,000+ soldiers",
+        "navy": "Strong control of northern river routes",
+        "tactics": "Defensive fortifications and counter-sieges"
+      }
+    },
+    "casualties_and_losses": {
+      "Le_Dynasty": {
+        "dead_and_wounded": "Tens of thousands, prolonged warfare weakened the economy"
+      },
+      "Mac_Dynasty": {
+        "dead_and_wounded": "Severe losses in final battles, destruction of their capital"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Thăng Long",
+        "date": "1592",
+        "description": "Lê-Trịnh forces besieged and captured the Mạc capital of Thăng Long (Hanoi), forcing Mạc rulers to flee.",
+        "outcome": "Decisive Lê victory."
+      },
+      {
+        "name": "Siege of Cao Bằng",
+        "date": "1594–1677",
+        "description": "Mạc loyalists held out in northern Cao Bằng province with Ming China's backing.",
+        "outcome": "Gradual Lê victory, with the Mạc finally eradicated in 1677."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Lê Dynasty Chronicles",
+          "type": "Historical Record",
+          "author": "Lê Historians",
+          "details": "Documents the war from the Lê perspective, emphasizing Mạc illegitimacy."
+        },
+        {
+          "name": "Mạc Family Annals",
+          "type": "Historical Record",
+          "author": "Surviving Mạc historians",
+          "details": "Presents the Mạc as reformists overthrown by feudal factions."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Battlefield remnants",
+          "description": "Weapons, fortifications, and burial sites in Thăng Long and Cao Bằng."
+        },
+        {
+          "type": "Imperial edicts",
+          "description": "Lê royal decrees legitimizing their restoration, preserved in temple archives."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Lê dynasty restored, but power shifted to the Trịnh lords.",
+        "Vietnam entered a period of divided rule between the Trịnh in the north and Nguyễn in the south."
+      ],
+      "long_term_effects": [
+        "Set the stage for the later Trịnh–Nguyễn War (1627–1673).",
+        "Weakened Vietnamese resistance against future Chinese and Western influences."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Demonstrated the effectiveness of guerrilla tactics and regional alliances.",
+        "Influenced later conflicts, such as the Tây Sơn Rebellion (18th century)."
+      ],
+      "political": [
+        "Marked a shift in power dynamics, with real authority moving from emperors to warlords.",
+        "Contributed to the later Nguyễn unification of Vietnam in 1802."
+      ],
+      "cultural": [
+        "Shaped Vietnamese folklore, portraying the Mạc as usurpers and the Lê as rightful rulers.",
+        "Affected historical narratives, with conflicting accounts from different dynastic records."
+      ]
+    }
+  }
+}
