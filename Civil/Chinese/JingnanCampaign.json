@@ -1,0 +1,128 @@
+{
+  "Jingnan_Campaign_1399_1402": {
+    "alternate_names": [
+      "Rebellion of Prince of Yan",
+      "War of the Jingnan Succession"
+    ],
+    "part_of": [
+      "Ming Dynasty",
+      "Internal power struggle"
+    ],
+    "date_range": "1399–1402",
+    "location": [
+      "China",
+      "Beijing",
+      "Nanjing"
+    ],
+    "background": {
+      "causes": [
+        "Discontent within the **imperial family**, specifically the Prince of Yan, Zhu Di, who was the younger brother of the reigning Emperor Jianwen.",
+        "The **centralization of power** by Emperor Jianwen after the death of his grandfather, Emperor Hongwu, alienated various military and political leaders.",
+        "The **removal of power** from regional military commanders and nobles led to growing dissatisfaction, particularly among those who had been loyal to the previous emperor, Zhu Yuanzhang (Hongwu Emperor)."
+      ],
+      "events_leading_up_to_war": [
+        "Zhu Di, Prince of Yan, felt threatened by Emperor Jianwen's reform policies and the emperor's attempts to centralize the power of the throne.",
+        "In 1399, Zhu Di launched a military campaign against Emperor Jianwen, ultimately leading to the outbreak of the Jingnan Campaign."
+      ]
+    },
+    "result": {
+      "general": "Victory for the Prince of Yan (Zhu Di), who became Emperor Yongle.",
+      "treaty": "No formal treaty, but Zhu Di's ascendancy to the throne was acknowledged.",
+      "territorial_changes": "Zhu Di’s victory marked the transfer of power, and he moved the capital back to **Beijing**, securing control over the empire."
+    },
+    "belligerents": {
+      "Prince_of_Yan": {
+        "entities": ["Yan Army"],
+        "allies": []
+      },
+      "Jianwen_Emperor": {
+        "entities": ["Imperial Army (Loyalists to Jianwen)"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Prince_of_Yan": ["Zhu Di (Emperor Yongle)"],
+      "Jianwen_Emperor": ["Zhu Yunwen (Jianwen Emperor)"]
+    },
+    "strength": {
+      "Prince_of_Yan": {
+        "troops": "100,000–150,000",
+        "artillery": "Basic siege weaponry, including catapults",
+        "ships": "A few naval units used for riverine warfare"
+      },
+      "Jianwen_Emperor": {
+        "troops": "200,000+",
+        "artillery": "Traditional Chinese siege weapons",
+        "ships": "Limited naval forces"
+      }
+    },
+    "casualties_and_losses": {
+      "Prince_of_Yan": {
+        "dead": "50,000–70,000",
+        "wounded": "Numerous"
+      },
+      "Jianwen_Emperor": {
+        "dead": "70,000–100,000",
+        "wounded": "Numerous"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Nanjing",
+        "date": "March 1402",
+        "description": "A decisive confrontation where Zhu Di's forces captured Nanjing, forcing Emperor Jianwen to flee.",
+        "outcome": "Zhu Di's victory led to the eventual fall of Emperor Jianwen."
+      },
+      {
+        "name": "Siege of Beijing",
+        "date": "Summer 1402",
+        "description": "Zhu Di’s forces laid siege to Beijing, a key stronghold of Jianwen’s loyalists. After months of fighting, the city fell, signaling the near end of the conflict.",
+        "outcome": "Victory for Zhu Di, and the fall of Beijing to his control."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The Yongle Encyclopedia",
+          "type": "Imperial text",
+          "location": "Beijing, Palace Museum",
+          "details": "Created during Zhu Di’s reign, it stands as a symbol of the power transition and the empire's intellectual achievements after the civil war."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Fortification remnants",
+          "description": "Ruins from the **siege of Beijing** are scattered in and around the Forbidden City, providing evidence of the prolonged conflict and the military strategies of Zhu Di’s forces."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The History of Ming",
+          "type": "Historical chronicle",
+          "details": "A Chinese historical text that covers the events of the Jingnan Campaign, the rise of Emperor Yongle, and the power struggles within the Ming Dynasty."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Zhu Di’s victory led to his ascension as **Emperor Yongle** and the centralization of imperial power under his rule.",
+        "He established Beijing as the new capital, marking a major shift in Ming politics and administration."
+      ],
+      "long_term_effects": [
+        "The **Jingnan Campaign** set the stage for the **Yongle Emperor's** ambitious reign, including military campaigns in the north and south, and major construction projects like the **Forbidden City**.",
+        "The conflict led to the **purge of Jianwen's loyalists** and solidified the **imperial control of the Ming Dynasty**, which would last until the late 17th century."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The campaign demonstrated the use of **siege warfare** and the strategic importance of controlling key cities such as **Beijing** and **Nanjing**."
+      ],
+      "political": [
+        "The Jingnan Campaign was a defining moment in the Ming Dynasty's internal politics, marking the end of one era (Jianwen’s reign) and the start of another (Yongle’s reign)."
+      ],
+      "cultural": [
+        "The success of Zhu Di ensured the **continuation of the Ming Dynasty**, which went on to become one of the most influential periods in Chinese history."
+      ]
+    }
+  }
+}
