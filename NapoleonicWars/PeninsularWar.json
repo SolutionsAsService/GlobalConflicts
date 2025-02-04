@@ -1,0 +1,180 @@
+{
+  "Peninsular_War": {
+    "alternate_names": ["War in the Iberian Peninsula", "Spanish War of Independence", "The Iberian Peninsular Campaign"],
+    "part_of": ["Napoleonic Wars", "European Conflicts", "French Expansion"],
+    "date_range": "16 May 1808 – 17 April 1814",
+    "location": ["Iberian Peninsula", "Spain", "Portugal", "France"],
+    "background": {
+      "causes": [
+        "Napoleon Bonaparte's desire to expand French control over Spain and Portugal as part of his larger plan to dominate Europe.",
+        "The deposition of the Spanish Bourbon monarchy and the installation of Napoleon's brother, Joseph Bonaparte, as king of Spain.",
+        "The resistance of the Spanish and Portuguese peoples to French occupation, supported by the British."
+      ],
+      "events_leading_up_to_war": [
+        "In 1807, France and Spain signed the Treaty of Fontainebleau, which allowed French troops to pass through Spain on their way to invade Portugal.",
+        "Napoleon's decision to replace the Spanish king, Charles IV, with his own brother Joseph, sparked widespread rebellion in Spain.",
+        "The Spanish people, backed by British forces under Wellington, initiated a guerrilla war against the French occupation."
+      ]
+    },
+    "result": {
+      "general": "Allied victory (Spain, Portugal, and the United Kingdom)",
+      "treaty": "Treaty of Valençay (1814)",
+      "territorial_changes": "French forces were expelled from Spain and Portugal, and Joseph Bonaparte was removed from the Spanish throne.",
+      "long_term_effects": "The war weakened Napoleon's influence in the Iberian Peninsula and contributed to the eventual downfall of the French Empire."
+    },
+    "belligerents": {
+      "French_Empire": {
+        "entities": ["French Empire", "Napoleon Bonaparte", "Joseph Bonaparte"],
+        "allies": ["Kingdom of Italy", "Confederation of the Rhine"]
+      },
+      "Spanish_Empire": {
+        "entities": ["Spain", "Guerrilla forces", "Spanish Royalists"],
+        "allies": ["United Kingdom", "Portugal"]
+      },
+      "Portuguese_Empire": {
+        "entities": ["Portugal", "British Army"],
+        "allies": ["United Kingdom", "Spain"]
+      },
+      "United_Kingdom": {
+        "entities": ["United Kingdom", "British Army", "Duke of Wellington"],
+        "allies": ["Spain", "Portugal"]
+      }
+    },
+    "commanders_and_leaders": {
+      "French_Empire": [
+        "Napoleon Bonaparte",
+        "Marshal André Masséna",
+        "Marshal Michel Ney",
+        "Marshal Jean-de-Dieu Soult"
+      ],
+      "Spanish_Empire": [
+        "Francisco de Goya (commander of the Spanish guerrillas)",
+        "Pedro de Alcántara Álvarez de Toledo",
+        "Duke of Wellington (British support)"
+      ],
+      "Portuguese_Empire": [
+        "General Beresford (British support)",
+        "Duke of Wellington"
+      ]
+    },
+    "strength": {
+      "French_Empire": {
+        "troops": "500,000+",
+        "artillery": "Modern French artillery pieces",
+        "ships": "French naval presence in the Mediterranean"
+      },
+      "Spanish_Empire": {
+        "troops": "300,000+ (including guerrillas)",
+        "artillery": "Limited artillery",
+        "ships": "Spanish naval forces, mostly decimated"
+      },
+      "Portuguese_Empire": {
+        "troops": "35,000+",
+        "artillery": "Portuguese artillery",
+        "ships": "British naval superiority"
+      },
+      "United_Kingdom": {
+        "troops": "80,000+",
+        "artillery": "Advanced British artillery",
+        "ships": "Naval supremacy in the Atlantic"
+      }
+    },
+    "casualties_and_losses": {
+      "French_Empire": {
+        "dead": "200,000+",
+        "wounded": "100,000+",
+        "prisoners_of_war": "50,000"
+      },
+      "Spanish_Empire": {
+        "dead": "300,000+",
+        "wounded": "500,000+",
+        "prisoners_of_war": "Numerous"
+      },
+      "Portuguese_Empire": {
+        "dead": "50,000+",
+        "wounded": "30,000+"
+      },
+      "United_Kingdom": {
+        "dead": "35,000+",
+        "wounded": "40,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Salamanca",
+        "date": "22 July 1812",
+        "description": "A decisive victory for the British and Spanish forces under the Duke of Wellington, which forced the French to retreat from Spain.",
+        "outcome": "Allied victory, the French were forced to retreat from the Iberian Peninsula."
+      },
+      {
+        "name": "Battle of Vitoria",
+        "date": "21 June 1813",
+        "description": "An important Allied victory that led to the final expulsion of French forces from Spain and Portugal.",
+        "outcome": "Allied victory, Napoleon's hold on Spain and Portugal was shattered."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Napoleon's Letters and Orders",
+          "type": "Military correspondence",
+          "location": "National Archives of France",
+          "details": "Napoleon's correspondence during the Peninsular War provides critical insights into his strategic decisions and military maneuvers."
+        },
+        {
+          "name": "British Military Reports",
+          "type": "Official military reports",
+          "location": "United Kingdom National Archives",
+          "details": "Reports from the British military, particularly from Wellington, document the campaigns and battles during the war."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Battlefield Relics",
+          "description": "Weapons, cannonballs, and personal items found on battlefields such as Salamanca and Vitoria confirm the details of the major confrontations."
+        },
+        {
+          "type": "War Memorials",
+          "description": "Monuments and memorials in Spain and Portugal commemorate the victory and resilience of the local forces during the war."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The Peninsular War by Sir Charles Oman",
+          "type": "History book",
+          "location": "Library of Congress",
+          "details": "An authoritative history that explores the strategy, battles, and political implications of the Peninsular War."
+        },
+        {
+          "name": "Wellington: The Iron Duke by Richard Holmes",
+          "type": "Biography",
+          "details": "A biography of Duke of Wellington, focusing on his role in the Peninsular War and his leadership in defeating Napoleon."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The war contributed to Napoleon's downfall, with Spain and Portugal regaining their independence.",
+        "The British became recognized as a dominant power in European affairs, and the Bourbon monarchy was restored in Spain."
+      ],
+      "long_term_effects": [
+        "The Peninsular War had significant consequences for Spain and Portugal, leading to instability in the Spanish Empire and the beginning of the Latin American Wars of Independence.",
+        "The war weakened Napoleon's influence and was a key factor leading to his eventual defeat in 1814."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Peninsular War is considered one of the most complex and costly campaigns of the Napoleonic Wars, characterized by its use of guerrilla warfare and the strategic brilliance of Wellington.",
+        "It marked a turning point in Napoleon's fortunes, as his forces were stretched thin, leading to costly defeats."
+      ],
+      "political": [
+        "The war severely weakened French dominance in Spain and Portugal, and contributed to the larger downfall of Napoleon.",
+        "It led to the restoration of the Bourbon monarchy in Spain, and greatly influenced European politics in the post-Napoleonic era."
+      ],
+      "cultural": [
+        "The war had a lasting impact on Spanish and Portuguese cultures, as it spurred national identities and independence movements across Latin America.",
+        "Wellington became a national hero in the United Kingdom, and the Peninsular War played a significant role in British military and imperial history."
+      ]
+    }
+  }
+}
