@@ -1,0 +1,176 @@
+{
+  "Arauco_War": {
+    "alternate_names": [
+      "Mapuche-Spanish War",
+      "War of Arauco"
+    ],
+    "part_of": [
+      "Spanish Conquest of Chile",
+      "Indigenous Resistance in the Americas"
+    ],
+    "date_range": "1536 – 1883",
+    "location": [
+      "Araucanía, Chile",
+      "Southern Chile"
+    ],
+    "background": {
+      "causes": [
+        "Spanish expansion into Mapuche territory",
+        "Resistance of the indigenous Mapuche to European colonization",
+        "Spanish attempts to establish control over southern Chile"
+      ],
+      "events_leading_up_to_war": [
+        "Diego de Almagro's expedition (1535–1536) first encountered Mapuche resistance.",
+        "Pedro de Valdivia attempted to conquer Araucanía and establish Spanish settlements in 1541.",
+        "Battle of Tucapel (1553) saw the Mapuche capture and kill Pedro de Valdivia, marking full-scale resistance."
+      ]
+    },
+    "result": {
+      "general": "Spanish partial victory but failure to fully subjugate the Mapuche; eventual annexation of Araucanía by Chile in 1883.",
+      "treaties": [
+        "Treaty of Quilín (1641) – Spain recognized Mapuche autonomy south of the Bío-Bío River.",
+        "Pacification of Araucanía (1861–1883) – Chilean military annexed Mapuche lands."
+      ],
+      "territorial_changes": "Araucanía remained largely independent until the late 19th century, when Chile annexed it."
+    },
+    "belligerents": {
+      "Spanish_Empire": {
+        "entities": [
+          "Spanish Crown",
+          "Royal Governors of Chile",
+          "Chilean Republic (later period)"
+        ],
+        "allies": [
+          "Various indigenous groups allied with Spain"
+        ]
+      },
+      "Mapuche": {
+        "entities": [
+          "Mapuche Confederation",
+          "Various indigenous leaders (toqui)"
+        ],
+        "allies": [
+          "Huilliche",
+          "Pehuenche",
+          "Various other indigenous groups"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Spain": [
+        "Pedro de Valdivia",
+        "García Hurtado de Mendoza",
+        "Pedro de Villagra",
+        "Francisco de Villagra",
+        "Various later Chilean generals"
+      ],
+      "Mapuche": [
+        "Lautaro",
+        "Caupolicán",
+        "Pelantaro",
+        "Colocolo",
+        "Lientur"
+      ]
+    },
+    "strength": {
+      "Spain": {
+        "troops": "Varied over time; often 2,000 – 6,000 soldiers, including indigenous auxiliaries",
+        "fortifications": "Several fortified towns such as Concepción, Valdivia, and Villarica",
+        "ships": "Naval presence along the Pacific coast"
+      },
+      "Mapuche": {
+        "warriors": "Varied; often 5,000 – 20,000 warriors",
+        "tactics": "Guerrilla warfare, ambushes, use of fortified villages",
+        "weapons": "Spears, slings, wooden clubs, later acquired firearms and horses from the Spanish"
+      }
+    },
+    "casualties_and_losses": {
+      "Spain": {
+        "dead": "Thousands over the centuries, including several Spanish governors and soldiers",
+        "wounded": "Unknown, but significant due to continuous warfare"
+      },
+      "Mapuche": {
+        "dead": "High casualties due to warfare, forced labor, and disease",
+        "displacement": "Significant loss of land, but retained independence until late 19th century"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Tucapel",
+        "date": "December 1553",
+        "description": "Mapuche forces led by Lautaro ambushed and killed Spanish governor Pedro de Valdivia, dealing a major blow to Spanish ambitions in Araucanía.",
+        "outcome": "Mapuche victory"
+      },
+      {
+        "name": "Battle of Curalaba",
+        "date": "1598",
+        "description": "Mapuche forces led by Pelantaro annihilated a Spanish column and initiated the destruction of Spanish cities south of the Bío-Bío River.",
+        "outcome": "Mapuche victory; Spanish abandoned several settlements."
+      },
+      {
+        "name": "Pacification of Araucanía",
+        "date": "1861–1883",
+        "description": "Chileans launched a full-scale military campaign to subdue the Mapuche and incorporate Araucanía into the Republic of Chile.",
+        "outcome": "Chilean victory; Mapuche lands annexed."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "La Araucana",
+          "type": "Epic Poem",
+          "author": "Alonso de Ercilla",
+          "details": "A Spanish epic poem written by a soldier who witnessed the Arauco War, providing one of the earliest European perspectives on Mapuche resistance."
+        },
+        {
+          "name": "Spanish Colonial Reports",
+          "type": "Historical Records",
+          "location": "Spanish and Chilean archives",
+          "details": "Official reports from Spanish governors describing the ongoing conflict and Spanish attempts to control Araucanía."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Spanish Fortifications",
+          "description": "Ruins of Spanish forts, including Fort Nacimiento and Fort Purén, show defensive measures used in the conflict."
+        },
+        {
+          "type": "Mapuche Weapons",
+          "description": "Spears, stone tools, and firearms adapted by the Mapuche found in excavation sites."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Diario de Guerra de Chile",
+          "type": "Military Journal",
+          "author": "Francisco Núñez de Pineda y Bascuñán",
+          "details": "Firsthand Spanish account of captivity among the Mapuche, describing their society and resistance tactics."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Spain failed to fully conquer Araucanía, leading to the region's semi-independent status for centuries.",
+        "Chile eventually annexed Araucanía in 1883, incorporating it into the republic but facing ongoing indigenous tensions."
+      ],
+      "long_term_effects": [
+        "Mapuche resistance shaped Chilean identity and influenced later indigenous movements.",
+        "The war left a legacy of conflict between the Chilean state and the Mapuche people, persisting into the modern era."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "One of the longest indigenous resistance wars in world history.",
+        "Illustrated the effectiveness of guerrilla warfare against European armies."
+      ],
+      "political": [
+        "Set the foundation for Chile's later territorial expansion and indigenous policies.",
+        "Highlighted the limits of Spanish colonial control in the Americas."
+      ],
+      "cultural": [
+        "The war inspired Chilean literature, including the famous epic poem 'La Araucana'.",
+        "Mapuche identity remains strong in Chile today, with ongoing demands for land rights and autonomy."
+      ]
+    }
+  }
+}
