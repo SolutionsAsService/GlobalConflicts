@@ -1,0 +1,147 @@
+{
+  "Anglo_Spanish_War_1585_1604": {
+    "alternate_names": [
+      "Anglo-Spanish Conflict",
+      "The Elizabethan War",
+      "The Spanish Armada War"
+    ],
+    "part_of": [
+      "Habsburg-England Rivalry",
+      "Colonial Conflicts",
+      "Religious Wars"
+    ],
+    "date_range": "1585–1604",
+    "location": [
+      "Europe",
+      "Caribbean Sea",
+      "Spanish Main (South America)",
+      "North America"
+    ],
+    "background": {
+      "causes": [
+        "Religious conflict: England, a Protestant nation, opposed Catholic Spain.",
+        "Economic and naval rivalry: Control over global trade routes, particularly in the Americas.",
+        "Spanish attempts to suppress Protestantism in Europe and expansion in the New World."
+      ],
+      "events_leading_up_to_war": [
+        "The defeat of the Spanish Armada in 1588, following the attempted invasion of England by Spain, which sparked a series of retaliatory actions.",
+        "England’s support for the **Dutch Revolt** and intervention in Spanish-controlled territories.",
+        "English privateers, like **Sir Francis Drake**, attacked Spanish shipping and colonies, further escalating tensions."
+      ]
+    },
+    "result": {
+      "general": "English naval victory, although the war ended inconclusively.",
+      "treaty": "Treaty of London (1604), which led to a peace agreement between England and Spain.",
+      "territorial_changes": "Spain maintained control over its American colonies, but England gained naval supremacy and increased influence over global trade."
+    },
+    "belligerents": {
+      "England": {
+        "entities": ["English Navy", "Privateers", "Royal Navy"],
+        "allies": []
+      },
+      "Spain": {
+        "entities": ["Spanish Empire", "Spanish Navy", "Spanish Armada", "Spanish Privateers"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "England": ["Sir Francis Drake", "Lord Howard of Effingham", "John Hawkins"],
+      "Spain": ["Alonso Pérez de Guzmán", "Diego Flores de Valdés", "Felipe II of Spain"]
+    },
+    "strength": {
+      "England": {
+        "troops": "Varied",
+        "ships": "90-120 ships",
+        "privateers": "Significant number of privateer ships, including **Sir Francis Drake's** fleet"
+      },
+      "Spain": {
+        "troops": "Varied",
+        "ships": "130-160 ships",
+        "privateers": "Spanish privateers often involved in raiding English merchant ships"
+      }
+    },
+    "casualties_and_losses": {
+      "England": {
+        "dead": "4,000–5,000",
+        "wounded": "Numerous"
+      },
+      "Spain": {
+        "dead": "20,000–30,000",
+        "wounded": "Numerous"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "The Battle of Gravelines",
+        "date": "1588",
+        "description": "A pivotal battle during the Spanish Armada’s attempted invasion of England, where the English navy decisively defeated the Spanish fleet.",
+        "outcome": "Victory for England"
+      },
+      {
+        "name": "The Raid on Cadiz",
+        "date": "1587",
+        "description": "Sir Francis Drake led an English attack on the Spanish port of Cadiz, crippling the Spanish fleet and delaying their plans to invade England.",
+        "outcome": "Victory for England"
+      },
+      {
+        "name": "The Battle of Cagafuego",
+        "date": "1589",
+        "description": "A naval battle where **Sir Francis Drake** attacked and captured a Spanish treasure ship, further escalating tensions between Spain and England.",
+        "outcome": "Victory for England"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The Journal of Sir Francis Drake",
+          "type": "Naval records",
+          "location": "National Archives, England",
+          "details": "Sir Francis Drake’s journals provide extensive insight into the operations of English privateers during the war."
+        },
+        {
+          "name": "Spanish Naval Reports",
+          "type": "Military documents",
+          "location": "Spanish Archives",
+          "details": "Spanish military records document the strategies of the Spanish Armada and their naval confrontations with the English."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Shipwrecks",
+          "description": "The wreckage of ships from the Spanish Armada and English privateer fleets have been discovered, revealing the scale of naval engagements."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "The History of the Spanish Armada",
+          "type": "Historical chronicle",
+          "details": "A comprehensive historical account of the Spanish Armada’s failed invasion of England and the naval conflict that followed."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Treaty of London (1604) ended the war, and both nations agreed to cease hostilities and focus on trade and diplomacy.",
+        "England's defeat of the Armada marked the decline of **Spanish naval dominance**, and the rise of **English naval power**."
+      ],
+      "long_term_effects": [
+        "England's increased maritime power, which laid the foundation for future imperial expansion, especially in the **New World**.",
+        "Spanish influence in the Americas and Europe began to decline as English privateers attacked Spanish trade routes, leading to a shift in global economic control."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war marked the beginning of England's dominance in naval warfare, eventually leading to the establishment of the **British Empire**.",
+        "The defeat of the Spanish Armada showed the importance of agile, smaller ships over larger, cumbersome ones, influencing naval tactics for centuries."
+      ],
+      "political": [
+        "The Treaty of London (1604) restored a fragile peace between the two nations, but the underlying tensions continued, influencing global politics for years.",
+        "The war also solidified **Protestant England's** position as a powerful European nation, while weakening the **Catholic Habsburgs**."
+      ],
+      "cultural": [
+        "The war inspired a sense of national pride in England, leading to increased exploration, privateering, and colonial expansion.",
+        "The conflict contributed to the eventual collapse of the **Spanish Golden Age** and the rise of English maritime culture."
+      ]
+    }
+  }
+}
