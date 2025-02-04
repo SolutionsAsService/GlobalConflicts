@@ -1,0 +1,149 @@
+{
+  "Russo-Persian_War_1804_1813": {
+    "alternate_names": [
+      "Russo-Iranian War (1804–1813)"
+    ],
+    "part_of": [
+      "Russo-Persian Conflicts",
+      "Great Game (early phase)"
+    ],
+    "date_range": "1804 – 1813",
+    "location": [
+      "Caucasus",
+      "Modern-day Georgia, Armenia, Azerbaijan, and northern Iran"
+    ],
+    "background": {
+      "causes": [
+        "Russian expansion into Persian-controlled Caucasus.",
+        "Russian annexation of Georgia in 1801, a former Persian vassal state.",
+        "Persian Shah Fath Ali's attempts to reclaim lost territories."
+      ],
+      "events_leading_up_to_war": [
+        "Russia’s growing influence in the Caucasus, culminating in Georgia's annexation.",
+        "Persian military campaigns to reassert dominance in the region.",
+        "Failed negotiations between Russia and Persia over territorial control."
+      ]
+    },
+    "result": {
+      "general": "Russian victory, territorial expansion in the Caucasus.",
+      "treaties": [
+        {
+          "name": "Treaty of Gulistan",
+          "date": "1813",
+          "terms": [
+            "Persia ceded most of modern-day Azerbaijan, Daghestan, and eastern Georgia to Russia.",
+            "Persia lost access to the Caspian Sea's western coast.",
+            "Russia gained dominance in the Caucasus, paving the way for future conflicts."
+          ]
+        }
+      ],
+      "territorial_changes": [
+        "Russia gained large portions of the Caucasus.",
+        "Persia's influence over the region drastically weakened."
+      ]
+    },
+    "belligerents": {
+      "Russia": {
+        "entities": [
+          "Russian Empire"
+        ],
+        "allies": [
+          "Georgian Nobility"
+        ]
+      },
+      "Persia": {
+        "entities": [
+          "Qajar Persia"
+        ],
+        "allies": [
+          "Local Caucasian tribes loyal to Persia",
+          "Ottoman support (indirect)"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Russia": [
+        "General Pavel Tsitsianov",
+        "General Pyotr Kotlyarevsky",
+        "Alexander Tormasov"
+      ],
+      "Persia": [
+        "Abbas Mirza (Persian Crown Prince)",
+        "Fath Ali Shah Qajar",
+        "Mirza Mohammad Khan Qajar"
+      ]
+    },
+    "strength": {
+      "Russia": {
+        "troops": "40,000 – 50,000 troops",
+        "navy": "Caspian Flotilla (limited naval engagements)",
+        "tactics": "Fortified positions, superior artillery, use of disciplined European-style warfare"
+      },
+      "Persia": {
+        "troops": "60,000 – 80,000 troops (many irregular forces)",
+        "tactics": "Cavalry raids, reliance on tribal levies, siege warfare"
+      }
+    },
+    "casualties_and_losses": {
+      "Russia": {
+        "dead_and_wounded": "Estimated 10,000+"
+      },
+      "Persia": {
+        "dead_and_wounded": "Estimated 20,000+",
+        "prisoners": "Thousands taken by Russians"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Ganja",
+        "date": "January 1804",
+        "description": "Russian forces led by General Pavel Tsitsianov stormed the Persian-held fortress of Ganja, massacring its defenders and civilians.",
+        "outcome": "Russian victory; solidified Russian control over eastern Georgia."
+      },
+      {
+        "name": "Battle of Aslanduz",
+        "date": "October 1812",
+        "description": "Decisive battle where Russian General Kotlyarevsky's small force defeated a much larger Persian army led by Abbas Mirza.",
+        "outcome": "Russian victory; broke Persian military resistance."
+      },
+      {
+        "name": "Battle of Lankaran",
+        "date": "January 1813",
+        "description": "Final battle of the war; Russians stormed the Persian fortress of Lankaran with heavy casualties on both sides.",
+        "outcome": "Russian victory; led directly to the Treaty of Gulistan."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Persian Court Chronicles",
+          "type": "Historical Records",
+          "author": "Fath Ali Shah's Court Historians",
+          "details": "Accounts of the war from the Persian perspective, emphasizing Russian aggression."
+        },
+        {
+          "name": "Russian Military Dispatches",
+          "type": "Official Reports",
+          "author": "Russian General Staff",
+          "details": "Detailed reports on campaigns, strategies, and battles."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Fortifications",
+          "description": "Ruins of Persian and Russian forts in the Caucasus, such as the remains of Ganja and Lankaran fortresses."
+        },
+        {
+          "type": "Weaponry",
+          "description": "Persian swords, Russian muskets, and artillery remnants found in battle sites."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Marked the beginning of Russian dominance in the Caucasus.",
+        "Weakened Qajar Persia, leading to further Russian interventions."
+      ],
+      "long_term_effects": [
+        "Set the stage for another Russo-Persian War (1826–1828).",
+        "Left a legacy of Pe
