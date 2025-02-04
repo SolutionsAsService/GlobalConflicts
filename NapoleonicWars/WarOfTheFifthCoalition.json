@@ -1,0 +1,152 @@
+{
+  "War_of_the_Fifth_Coalition": {
+    "alternate_names": ["Fifth Coalition War", "Napoleon's War Against Austria (1809)", "Austrian Campaign of 1809"],
+    "part_of": ["Napoleonic Wars", "European Conflicts", "French Expansion"],
+    "date_range": "9 April 1809 – 14 October 1809",
+    "location": ["Austria", "Germany", "Bavaria", "Bohemia"],
+    "background": {
+      "causes": [
+        "Austria's resentment of France’s domination over Europe, especially after Napoleon’s consolidation of power.",
+        "Austrian Emperor Francis II’s alliance with Britain, as part of the anti-Napoleon coalition.",
+        "Napoleon’s ongoing military expansion and suppression of revolutionary movements in Europe.",
+        "The failure of the Treaty of Schönbrunn (1805) and the ongoing tensions between the Habsburg Empire and France."
+      ],
+      "events_leading_up_to_war": [
+        "In early 1809, Napoleon’s forces were stretched thin due to conflicts on multiple fronts, including Spain and the Russian frontier.",
+        "Austria saw an opportunity to strike against Napoleon while he was engaged elsewhere, declaring war and forming an alliance with Britain.",
+        "The initial Austrian surprise attacks on Bavaria and southern Germany led to the rapid mobilization of Napoleon’s army."
+      ]
+    },
+    "result": {
+      "general": "French victory",
+      "treaty": "Treaty of Schönbrunn (14 October 1809)",
+      "territorial_changes": "Austria lost significant territory to France, including parts of Bohemia, Tyrol, and the Duchy of Salzburg. The Austrian Empire had to make reparations and accept Napoleonic dominance in central Europe.",
+      "long_term_effects": "The defeat and subsequent treaty solidified Napoleon’s control over central Europe and crushed Austria’s resistance against French influence for several years."
+    },
+    "belligerents": {
+      "French_Empire": {
+        "entities": ["French Empire", "Napoleon Bonaparte"],
+        "allies": ["Kingdom of Italy", "Bavarian Electorate"]
+      },
+      "Austrian_Empire": {
+        "entities": ["Austrian Empire", "Francis II"],
+        "allies": ["United Kingdom", "Spanish Empire"]
+      }
+    },
+    "commanders_and_leaders": {
+      "French_Empire": [
+        "Napoleon Bonaparte",
+        "Marshal Eugene de Beauharnais",
+        "Marshal Davout",
+        "Marshal Bernadotte"
+      ],
+      "Austrian_Empire": [
+        "Archduke Charles of Austria",
+        "Prince Schwarzenberg",
+        "Emperor Francis II"
+      ]
+    },
+    "strength": {
+      "French_Empire": {
+        "troops": "280,000+",
+        "artillery": "Highly advanced French artillery and infantry units",
+        "ships": "French naval presence in the Adriatic Sea"
+      },
+      "Austrian_Empire": {
+        "troops": "150,000+",
+        "artillery": "Outdated Austrian artillery, infantry",
+        "ships": "Austrian navy, less effective against the French navy"
+      }
+    },
+    "casualties_and_losses": {
+      "French_Empire": {
+        "dead": "30,000",
+        "wounded": "50,000",
+        "prisoners_of_war": "10,000"
+      },
+      "Austrian_Empire": {
+        "dead": "40,000",
+        "wounded": "70,000",
+        "prisoners_of_war": "60,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Aspern-Essling",
+        "date": "21–22 May 1809",
+        "description": "Napoleon suffered his first major defeat during this battle, where Austrian forces under Archduke Charles stopped Napoleon's attempt to cross the Danube and invaded Vienna.",
+        "outcome": "Austrian victory, Napoleon was forced to retreat and reassess his plans."
+      },
+      {
+        "name": "Battle of Wagram",
+        "date": "5–6 July 1809",
+        "description": "A decisive French victory that crushed Austrian forces and led to the surrender of the Austrian Army.",
+        "outcome": "French victory, leading to the final peace terms and Austrian defeat."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Napoleon's Official Military Dispatches",
+          "type": "Correspondence and military orders",
+          "location": "French National Archives",
+          "details": "Napoleon’s correspondence during the War of the Fifth Coalition provides insight into the strategies he employed and the challenges he faced during the campaign."
+        },
+        {
+          "name": "Austrian War Records",
+          "type": "Official Austrian military reports",
+          "location": "Austrian National Archives",
+          "details": "Austrian records provide detailed reports on military movements and the Austrian response to Napoleon's campaigns during the war."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Weapons and Uniforms from the Battle of Wagram",
+          "description": "Recovered artifacts from the battlefield, including French and Austrian weapons, uniforms, and military gear, offer evidence of the tactics used and the scale of the battle."
+        },
+        {
+          "type": "Monuments and Memorials in Austria",
+          "description": "Memorials in Vienna and along the Danube commemorate the Austrian resistance during the War of the Fifth Coalition."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Napoleon: The Campaigns of the Fifth Coalition by David Chandler",
+          "type": "History book",
+          "location": "Library of Congress",
+          "details": "This book outlines the military strategies, key battles, and long-term political impacts of the War of the Fifth Coalition, especially Napoleon's role in shaping the outcome."
+        },
+        {
+          "name": "History of the War of the Fifth Coalition by Charles Oman",
+          "type": "Historical analysis",
+          "location": "British Museum",
+          "details": "An in-depth account of the Austrian strategies and leadership during the war, including the impact of the battles on the Austrian monarchy and its military."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Austria was forced to sign the Treaty of Schönbrunn, losing significant territory to France and its allies.",
+        "Napoleon's dominance over Europe was further solidified, while Austria was humiliated and temporarily weakened."
+      ],
+      "long_term_effects": [
+        "The defeat of Austria paved the way for Napoleon to impose his political will on the entire continent, further isolating Britain as the only remaining major opponent.",
+        "Austria was politically weakened and struggled to recover its strength until the later part of the 19th century."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The War of the Fifth Coalition was one of Napoleon’s most successful campaigns, even though the Battle of Aspern-Essling was a rare defeat for him.",
+        "The Battle of Wagram solidified Napoleon’s reputation as one of the greatest military tacticians in history, though his strategic focus on the Danube Valley would have lasting consequences."
+      ],
+      "political": [
+        "The Treaty of Schönbrunn cemented Napoleon’s control over much of Europe and marked a significant shift in Austrian influence.",
+        "It was a pivotal point in the Napoleonic Wars, contributing to Austria’s eventual role in the Sixth Coalition, which would bring about Napoleon's downfall."
+      ],
+      "cultural": [
+        "The war and its aftermath had significant impacts on European politics, with Austria becoming more conservative in the following decades as a result of their defeat.",
+        "Napoleon's French Empire continued to exert cultural and intellectual influence across Europe."
+      ]
+    }
+  }
+}
