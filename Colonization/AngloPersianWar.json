@@ -1,0 +1,176 @@
+{
+  "Anglo_Persian_War_1856_1857": {
+    "alternate_names": [
+      "British-Persian War",
+      "EIC Invasion of Persia"
+    ],
+    "part_of": [
+      "The Great Game (Anglo-Russian Rivalry)",
+      "19th Century Colonial Wars"
+    ],
+    "date_range": "November 1, 1856 – April 4, 1857",
+    "location": [
+      "Persian Gulf",
+      "Southern Persia (modern Iran)",
+      "Herat (modern Afghanistan)"
+    ],
+    "background": {
+      "causes": [
+        "Qajar Persia occupied Herat, violating British strategic interests.",
+        "Herat was seen as a gateway to India, making British control critical.",
+        "The British East India Company (EIC) wanted to prevent Persian expansion into Afghanistan."
+      ],
+      "events_leading_up_to_war": [
+        "Persia signed a treaty with Britain in 1853, promising not to interfere in Afghan affairs.",
+        "In 1856, Persia seized Herat, claiming historical rights over the city.",
+        "Britain saw this as a direct threat to India and declared war."
+      ]
+    },
+    "result": {
+      "general": "British victory; Persia forced to withdraw from Herat.",
+      "treaties": [
+        {
+          "name": "Treaty of Paris (1857)",
+          "date": "March 4, 1857",
+          "terms": [
+            "Persia recognized Afghan sovereignty over Herat.",
+            "Persia had to withdraw from territories occupied during the war.",
+            "Trade agreements between Britain and Persia were adjusted in Britain's favor."
+          ]
+        }
+      ],
+      "territorial_changes": [
+        "Herat remained under Afghan control, preventing Persian expansion."
+      ]
+    },
+    "belligerents": {
+      "British_Empire": {
+        "entities": [
+          "British East India Company (EIC) Army",
+          "Royal Navy",
+          "Indian sepoy regiments"
+        ],
+        "allies": [
+          "Afghan forces under Dost Mohammad Khan (unofficial support)"
+        ]
+      },
+      "Qajar_Persia": {
+        "entities": [
+          "Qajar Persian Army",
+          "Local tribal militias"
+        ],
+        "allies": [
+          "Russian Empire (provided diplomatic but not military support)"
+        ]
+      }
+    },
+    "private_military_companies_and_mercenaries": [
+      {
+        "name": "British East India Company (EIC) Army",
+        "role": "The EIC, a corporate entity, led the invasion using Indian troops.",
+        "tactics": "Used superior naval power and rapid amphibious assaults."
+      },
+      {
+        "name": "Persian Tribal Mercenaries",
+        "role": "Qajar Persia hired local warriors to bolster defenses in key regions.",
+        "tactics": "Used hit-and-run tactics but struggled against modern British weaponry."
+      }
+    ],
+    "commanders_and_leaders": {
+      "British_Empire": [
+        "Major General Sir James Outram (Commander of British Forces)",
+        "Naval Captain Henry Keppel (Led Royal Navy assaults)"
+      ],
+      "Qajar_Persia": [
+        "Nasser al-Din Shah (Qajar ruler)",
+        "Khanlar Mirza (Persian military commander)"
+      ]
+    },
+    "strength": {
+      "British_Empire": {
+        "troops": "7,000+ (East India Company soldiers, British regulars, and sepoys)",
+        "navy": "Multiple Royal Navy warships, including HMS Semiramis",
+        "tactics": "Combined naval bombardment with rapid land invasions."
+      },
+      "Qajar_Persia": {
+        "troops": "10,000+ (Persian regular army and tribal militias)",
+        "navy": "Small Persian fleet with minimal combat capability.",
+        "tactics": "Defensive warfare, relying on fortified cities and ambushes."
+      }
+    },
+    "casualties_and_losses": {
+      "British_Empire": {
+        "dead_and_wounded": "Several hundred British and Indian casualties.",
+        "destruction": "Minimal; British forces quickly overwhelmed Persian defenses."
+      },
+      "Qajar_Persia": {
+        "dead_and_wounded": "Over 1,000 Persian soldiers killed or wounded.",
+        "destruction": "Significant damage to Persian coastal fortifications."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Bushire",
+        "date": "December 1856",
+        "description": "British forces captured the Persian coastal city of Bushire, cutting off Persian supply lines.",
+        "outcome": "British victory, establishing a foothold for further operations."
+      },
+      {
+        "name": "Battle of Khushab",
+        "date": "February 7, 1857",
+        "description": "Decisive land battle where British and Indian troops defeated Persian forces in southern Iran.",
+        "outcome": "British victory, leading to the Persian surrender."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "East India Company Military Records",
+          "type": "British military reports",
+          "author": "EIC officials",
+          "details": "Detailed accounts of troop movements and battle strategies."
+        },
+        {
+          "name": "Persian War Chronicles",
+          "type": "Persian historical records",
+          "author": "Qajar government scribes",
+          "details": "Accounts of Persian resistance and diplomatic negotiations."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Ruins of Persian Forts",
+          "description": "Remnants of Persian coastal defenses destroyed by British bombardment."
+        },
+        {
+          "type": "East India Company Weapons",
+          "description": "Rifles and artillery used by British and Indian troops."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The British East India Company dissolved in 1858, transferring power to the British Crown.",
+        "Persia lost influence over Afghanistan, strengthening British control in the region."
+      ],
+      "long_term_effects": [
+        "Marked the last major military action by a corporate army (EIC).",
+        "Set the stage for future British interventions in Iran and the Persian Gulf."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "One of the final wars fought by the **British East India Company before its dissolution.**",
+        "Highlighted the use of **corporate armies** in colonial conflicts."
+      ],
+      "political": [
+        "Weakened Qajar Persia’s influence in Afghanistan and Central Asia.",
+        "Strengthened British dominance over **Persian Gulf trade routes.**"
+      ],
+      "cultural": [
+        "Persian nationalists later cited the war as an example of **colonial interference.**",
+        "Set a precedent for future **British interventions in Iranian politics.**"
+      ]
+    }
+  }
+}
