@@ -1,0 +1,188 @@
+{
+  "Livonian_War_1558_1583": {
+    "alternate_names": [
+      "War for Livonia",
+      "Baltic Crusade's End"
+    ],
+    "part_of": [
+      "Northern Wars",
+      "Russian Expansion Wars"
+    ],
+    "date_range": "1558–1583",
+    "location": [
+      "Livonia (modern Estonia & Latvia)",
+      "Baltic Sea"
+    ],
+    "background": {
+      "causes": [
+        "Ivan IV of Russia sought access to Baltic trade routes.",
+        "Livonian Order weakened by internal struggles and financial problems.",
+        "Sweden & Poland-Lithuania wanted to block Russian expansion."
+      ],
+      "events_leading_up_to_war": [
+        "Moscow launched an invasion of Livonia in 1558.",
+        "Livonian Order suffered early defeats and fragmented.",
+        "Poland, Sweden, and Denmark entered the war to divide Livonia among themselves."
+      ]
+    },
+    "result": {
+      "general": "Livonian Order dissolved; territories divided among Poland-Lithuania, Sweden, and Denmark.",
+      "treaty": "Truce of Yam-Zapolsky (1582) between Russia & Poland; Treaty of Plussa (1583) between Russia & Sweden.",
+      "territorial_changes": "Livonia split between Poland-Lithuania and Sweden, Russia lost most conquests."
+    },
+    "belligerents": {
+      "Livonian_Order": {
+        "entities": ["Livonian Knights", "Local Baltic nobles"],
+        "allies": ["Holy Roman Empire (weak support)"]
+      },
+      "Russia": {
+        "entities": ["Russian Tsardom", "Cossack raiders"],
+        "allies": ["Tatar mercenaries"]
+      },
+      "Poland_Lithuania": {
+        "entities": ["Polish Crown", "Lithuanian Grand Duchy"],
+        "allies": ["Livonian nobles defecting from the Order"]
+      },
+      "Sweden": {
+        "entities": ["Swedish Crown"],
+        "allies": ["Finnish cavalry forces"]
+      },
+      "Denmark": {
+        "entities": ["Danish Crown"],
+        "allies": ["Norwegian troops"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Livonian_Order": ["Grand Master Gotthard Kettler"],
+      "Russia": ["Ivan IV (Ivan the Terrible)", "Prince Andrey Kurbsky"],
+      "Poland_Lithuania": ["King Stephen Báthory", "Hetman Jan Zamoyski"],
+      "Sweden": ["King Erik XIV", "Duke John of Finland"],
+      "Denmark": ["King Frederick II"]
+    },
+    "strength": {
+      "Livonian_Order": {
+        "troops": "10,000 knights & mercenaries",
+        "navy": "Minimal, mostly transport ships",
+        "mercenaries": "German Landsknechts"
+      },
+      "Russia": {
+        "troops": "100,000+",
+        "navy": "Small Baltic fleet",
+        "mercenaries": "Tatar & Cossack raiders"
+      },
+      "Poland_Lithuania": {
+        "troops": "40,000 cavalry & infantry",
+        "navy": "Limited naval presence",
+        "mercenaries": "Hungarian & German foot soldiers"
+      },
+      "Sweden": {
+        "troops": "30,000 Swedish & Finnish soldiers",
+        "navy": "Baltic fleet with warships",
+        "mercenaries": "Scottish & German troops"
+      },
+      "Denmark": {
+        "troops": "15,000 Danish & Norwegian troops",
+        "navy": "Baltic fleet, used for blockades",
+        "mercenaries": "Dutch naval gunners"
+      }
+    },
+    "casualties_and_losses": {
+      "Livonian_Order": {
+        "dead": "Heavy losses",
+        "wounded": "Thousands",
+        "dissolution": "Order ceased to exist"
+      },
+      "Russia": {
+        "dead": "Tens of thousands, including famine losses",
+        "wounded": "Severe losses",
+        "territorial_loss": "Lost Livonia, kept some border forts"
+      },
+      "Poland_Lithuania": {
+        "dead": "Moderate losses",
+        "wounded": "Unknown",
+        "territorial_gain": "Gained control of much of Livonia"
+      },
+      "Sweden": {
+        "dead": "Moderate losses",
+        "wounded": "Unknown",
+        "territorial_gain": "Gained northern Livonia (modern Estonia)"
+      },
+      "Denmark": {
+        "dead": "Minimal compared to others",
+        "wounded": "Unknown",
+        "territorial_gain": "Kept some Baltic islands"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Narva",
+        "date": "1558",
+        "description": "Russia captured the Livonian city of Narva in an early offensive.",
+        "outcome": "Russian victory"
+      },
+      {
+        "name": "Battle of Wenden",
+        "date": "1578",
+        "description": "A joint Polish-Swedish force crushed Russian troops in Livonia.",
+        "outcome": "Polish-Swedish victory"
+      },
+      {
+        "name": "Siege of Pskov",
+        "date": "1581–1582",
+        "description": "Poland besieged the Russian city of Pskov; Russia barely held out, leading to peace negotiations.",
+        "outcome": "Stalemate, led to truce"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Ivan the Terrible’s war letters",
+          "type": "Diplomatic correspondence",
+          "location": "Russian archives",
+          "details": "Documents detailing Ivan IV's strategy & conflicts with Livonia."
+        },
+        {
+          "name": "Livonian Order Records",
+          "type": "Knightly documents",
+          "location": "Riga archives",
+          "details": "Final records of the Livonian Order before its collapse."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Ruins of Livonian castles",
+          "description": "Castles destroyed during Russian and Swedish campaigns."
+        },
+        {
+          "type": "Battlefield remains",
+          "description": "Artifacts from the Battle of Wenden, including weapons and armor."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Livonian Order dissolved, marking the end of Baltic crusader states.",
+        "Russia's expansion into the Baltic was blocked for over a century.",
+        "Poland and Sweden gained influence in the region."
+      ],
+      "long_term_effects": [
+        "Set the stage for the Polish-Swedish wars over the Baltic.",
+        "Russia refocused on internal reforms and future European conflicts."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Demonstrated the weakness of medieval knightly orders against gunpowder armies.",
+        "Introduced modern siege tactics and early use of field artillery in the Baltic."
+      ],
+      "political": [
+        "Marked a shift in Baltic power from religious orders to emerging nation-states.",
+        "Led to lasting Polish-Russian and Swedish-Russian rivalries."
+      ],
+      "cultural": [
+        "Ended German knightly rule over the Baltic, paving the way for local governance.",
+        "Strengthened Polish and Swedish identities as Baltic powers."
+      ]
+    }
+  }
+}
