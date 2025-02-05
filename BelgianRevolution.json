@@ -1,0 +1,134 @@
+{
+  "Belgian_Revolution": {
+    "alternate_names": [
+      "Belgian War of Independence",
+      "Revolution of 1830"
+    ],
+    "date_range": "1830–1831",
+    "location": "Belgium, primarily in the region that was then part of the United Kingdom of the Netherlands.",
+    "background": {
+      "causes": [
+        "The growing dissatisfaction of the Belgian population under Dutch rule, especially due to religious, linguistic, and political differences.",
+        "The Belgian economy’s reliance on industry and trade, which was in conflict with the more agrarian Dutch economy.",
+        "The imposition of Dutch control over Belgian affairs, which led to increasing tensions, especially after the Belgian revolt in 1828–1829."
+      ],
+      "events_leading_up_to_battle": [
+        "The nationalistic sentiment in Belgium grew after the Congress of Vienna (1815), which had created the Kingdom of the Netherlands by uniting the southern Netherlands (modern Belgium) with the northern provinces of the Dutch Republic.",
+        "The dissatisfaction escalated into protests and demands for autonomy, which were largely ignored by the Dutch monarchy and led to further unrest in 1830."
+      ]
+    },
+    "result": {
+      "general": "Victory for Belgian revolutionaries, leading to the independence of Belgium from the Kingdom of the Netherlands.",
+      "territorial_changes": [
+        "Belgium officially declared its independence from the United Kingdom of the Netherlands in October 1830, and the new Kingdom of Belgium was established.",
+        "The newly formed Belgian state was recognized by the European powers after a series of diplomatic negotiations and military conflicts."
+      ]
+    },
+    "belligerents": {
+      "Belgian_Revolutionaries": {
+        "entities": [
+          "Belgian nationalists, primarily composed of liberal and Catholic factions within the region.",
+          "Belgian civilians, who rebelled against Dutch rule, were supported by various local militias."
+        ],
+        "allies": [
+          "France, which supported Belgium's independence to weaken the power of the Netherlands and maintain a balance of power in Europe."
+        ]
+      },
+      "United_Kingdom_of_the_Netherlands": {
+        "entities": [
+          "Dutch forces, commanded by King William I of the Netherlands, who sought to maintain control over the southern provinces."
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Belgian_Revolutionaries": [
+        "Prince Louis of the French (French support for the Belgian rebels).",
+        "Eugène-Guillaume de Beaumont (French diplomat, instrumental in helping negotiate Belgian independence).",
+        "Various local Belgian leaders such as Jean-Baptiste Nothomb (leading rebel military actions)."
+      ],
+      "United_Kingdom_of_the_Netherlands": [
+        "King William I of the Netherlands (monarch of the Netherlands during the revolution).",
+        "General David Hendrik Chassé (Dutch commander who fought against the Belgian revolutionaries)."
+      ]
+    },
+    "strength": {
+      "Belgium": {
+        "troops": "A mix of Belgian civilians, revolutionaries, and some French volunteers.",
+        "estimated_strength": "Initially around 50,000–60,000 revolutionaries, later reinforced by French military aid."
+      },
+      "Netherlands": {
+        "troops": "Dutch military forces, bolstered by local loyalists and some mercenaries.",
+        "estimated_strength": "Around 70,000–80,000 Dutch soldiers at the peak of the conflict."
+      }
+    },
+    "casualties_and_losses": {
+      "Belgium": {
+        "dead": "Approximately 2,000–3,000 Belgian casualties during the uprising and subsequent conflict.",
+        "wounded": "Several thousand wounded during street fighting and military engagements."
+      },
+      "Netherlands": {
+        "dead": "Around 2,000–3,000 Dutch casualties, with additional losses during the French intervention and final suppression.",
+        "wounded": "Many wounded, primarily due to street skirmishes and the involvement of French forces."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Belgian Revolution",
+        "date": "August 25–October 4, 1830",
+        "description": "The initial phase of the uprising, where Belgian civilians and workers in Brussels began revolting against Dutch rule, leading to widespread protests and eventual rebellion.",
+        "outcome": "Belgian victory"
+      },
+      {
+        "name": "Siege of Antwerp",
+        "date": "November 1830–January 1831",
+        "description": "A key siege where Dutch forces attempted to retake Antwerp from the Belgian rebels, resulting in a Dutch defeat after French intervention.",
+        "outcome": "Belgian victory"
+      },
+      {
+        "name": "Battle of Kompien",
+        "date": "1831",
+        "description": "A final clash in the war, where Dutch forces attempted to reassert control over Belgium, but were decisively defeated by French forces supporting Belgian independence.",
+        "outcome": "French and Belgian victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Treaty_of_London": {
+        "date_signed": "1839",
+        "signatories": [
+          "United Kingdom",
+          "France",
+          "Belgium",
+          "Netherlands"
+        ],
+        "terms": [
+          "The Netherlands formally recognized Belgium’s independence, establishing the Kingdom of Belgium as a sovereign state.",
+          "The international community, including major European powers, guaranteed Belgium’s neutrality."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "Belgium’s independence was secured after years of war and diplomatic negotiations, and it was recognized by the European powers in 1839.",
+        "King Leopold I of Saxe-Coburg was crowned the first King of Belgium, solidifying the new nation’s monarchy."
+      ],
+      "economic": [
+        "Belgium, rich in industrial resources, experienced rapid industrialization after gaining independence, which fueled its economy into the late 19th century."
+      ],
+      "long_term_effects": [
+        "The establishment of Belgium created a neutral buffer state in Europe, which played a strategic role in European geopolitics for much of the 19th and early 20th centuries."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Belgian Revolution demonstrated the success of nationalist movements in Europe and marked the decline of the influence of the Netherlands in the region."
+      ],
+      "political": [
+        "Belgium's emergence as an independent state reshaped the balance of power in Europe and influenced the rise of nationalist movements throughout the continent."
+      ],
+      "cultural": [
+        "The revolution fostered a sense of Belgian identity, which would later lead to a more cohesive nation despite internal divisions between Flemish and Walloon populations."
+      ]
+    }
+  }
+}
