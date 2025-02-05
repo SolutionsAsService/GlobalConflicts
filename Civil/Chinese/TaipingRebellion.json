@@ -1,0 +1,160 @@
+{
+  "Taiping_Rebellion_1850_1864": {
+    "alternate_names": [
+      "The Taiping Civil War",
+      "The Heavenly Kingdom Uprising"
+    ],
+    "part_of": [
+      "Mid-19th Century Chinese Conflicts",
+      "Qing Dynasty Internal Wars"
+    ],
+    "date_range": "1850–1864",
+    "location": [
+      "China (Primarily Southern and Eastern Provinces)",
+      "Yangtze River Valley"
+    ],
+    "background": {
+      "causes": [
+        "Economic hardship due to overpopulation and famines.",
+        "Discontent with Qing corruption and foreign influence after the Opium Wars.",
+        "Hong Xiuquan's religious movement claiming to establish a Christian 'Heavenly Kingdom' in China."
+      ],
+      "events_leading_up_to_war": [
+        "1843: Hong Xiuquan has visions declaring himself the brother of Jesus.",
+        "1850: Qing government cracks down on Taiping followers.",
+        "1851: Taiping forces defeat Qing troops and declare the 'Heavenly Kingdom' in Nanjing."
+      ]
+    },
+    "result": {
+      "general": "Qing Dynasty victory (with heavy foreign military support).",
+      "territorial_changes": "Complete destruction of the Taiping Heavenly Kingdom.",
+      "political_changes": [
+        "Qing Dynasty implemented **military and administrative reforms**.",
+        "Rise of **regional warlords**, weakening central authority.",
+        "Increased **foreign control over China**, as Western nations exploited Qing vulnerability."
+      ]
+    },
+    "belligerents": {
+      "Taiping_Heavenly_Kingdom": {
+        "allies": [
+          "Various Chinese rebel factions",
+          "Some secret societies"
+        ]
+      },
+      "Qing_Dynasty": {
+        "allies": [
+          "British Empire",
+          "French Empire",
+          "Private military groups (Ever Victorious Army)"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Taiping_Heavenly_Kingdom": [
+        "Hong Xiuquan (Self-proclaimed 'Heavenly King')",
+        "Li Xiucheng (Military commander)",
+        "Feng Yunshan (Early leader, strategist)"
+      ],
+      "Qing_Dynasty": [
+        "Zeng Guofan (Qing general, architect of victory)",
+        "Li Hongzhang (Later key leader)",
+        "Frederick Townsend Ward (American mercenary leader of the Ever Victorious Army)",
+        "Charles 'Chinese' Gordon (British commander of the Ever Victorious Army)"
+      ]
+    },
+    "strength": {
+      "Taiping_Heavenly_Kingdom": {
+        "troops": "Up to 2 million at its peak",
+        "navy": "Captured Qing vessels, limited naval strength",
+        "weapons": "Primarily traditional weapons, some Western firearms"
+      },
+      "Qing_Dynasty_and_Allies": {
+        "troops": "Over 1.5 million soldiers",
+        "navy": "Qing fleet and Western naval support",
+        "private_military_support": "Ever Victorious Army (~5,000 Western-trained mercenaries)"
+      }
+    },
+    "casualties_and_losses": {
+      "Taiping_Heavenly_Kingdom": {
+        "dead": "20-30 million (including civilians)",
+        "wounded": "Unknown, but massive"
+      },
+      "Qing_Dynasty_and_Allies": {
+        "dead": "Hundreds of thousands",
+        "wounded": "Unknown"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Nanjing",
+        "date": "1853–1864",
+        "description": "Taiping forces captured Nanjing and made it their capital, holding it for over a decade before the Qing recaptured it.",
+        "outcome": "Qing victory, destruction of Taiping capital."
+      },
+      {
+        "name": "Battle of Shanghai",
+        "date": "1862",
+        "description": "Western-backed 'Ever Victorious Army' crushed Taiping forces attempting to take Shanghai.",
+        "outcome": "Western-Qing alliance victory."
+      },
+      {
+        "name": "Battle of Anqing",
+        "date": "1861",
+        "description": "One of the largest battles, Qing forces retook Anqing, cutting off Taiping supply lines.",
+        "outcome": "Qing victory, start of Taiping decline."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "historical_documents": [
+        {
+          "name": "Taiping Religious Edicts",
+          "type": "Propaganda",
+          "location": "Chinese archives",
+          "details": "Documents where Hong Xiuquan declared himself the brother of Jesus and justified rebellion."
+        },
+        {
+          "name": "Qing Military Records",
+          "type": "Official war reports",
+          "location": "Beijing Archives",
+          "details": "Detailed accounts of battles, casualties, and strategies used by the Qing forces."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Battlefield Excavations",
+          "description": "Weapons, remains, and fortifications from major battles like Nanjing and Anqing."
+        },
+        {
+          "type": "Taiping Coins",
+          "description": "Unique currency issued by the Taiping Heavenly Kingdom."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Qing Dynasty **weakened**, leading to further instability.",
+        "Rise of **regional warlords**, undermining central power.",
+        "Foreign influence over China increased, setting the stage for the Opium Wars and later the fall of the Qing."
+      ],
+      "long_term_effects": [
+        "One of the **deadliest conflicts in history**, shaping Chinese modern history.",
+        "Showed the **power of private militaries**, with the Ever Victorious Army influencing later Chinese warlord armies.",
+        "Contributed to Qing Dynasty's **eventual collapse** in 1912."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Early use of **Western-trained private mercenaries in China**.",
+        "Massive, prolonged guerrilla and conventional warfare."
+      ],
+      "economic": [
+        "Massive economic devastation, especially in southern China.",
+        "Increased foreign trade as Qing sought Western support."
+      ],
+      "cultural": [
+        "Religious aspect made it unique among civil wars.",
+        "Legacy remains in modern Chinese historical narratives."
+      ]
+    }
+  }
+}
