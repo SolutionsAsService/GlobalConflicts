@@ -1,0 +1,127 @@
+{
+  "Qing_Invasion_of_Taiwan_1662_1683": {
+    "alternate_names": [
+      "Qing Conquest of Taiwan",
+      "Qing-Tungning War"
+    ],
+    "part_of": [
+      "Qing Dynasty Expansion",
+      "Qing Consolidation of Power",
+      "Taiwanese Resistance"
+    ],
+    "date_range": "1662–1683 CE",
+    "location": [
+      "Taiwan",
+      "Taiwan Strait"
+    ],
+    "background": {
+      "causes": [
+        "Qing Dynasty sought to bring Taiwan under control after the defeat of the Dutch and Koxinga's resistance.",
+        "Koxinga's descendants controlled the Kingdom of Tungning and posed a challenge to Qing authority.",
+        "The Qing wanted to eliminate piracy and expand their maritime trade."
+      ],
+      "events_leading_up_to_war": [
+        "After Koxinga's death, his son Zheng Keshuang ruled the Kingdom of Tungning but was in a precarious position.",
+        "Qing Dynasty forces, led by Admiral Shi Lang, were preparing to invade Taiwan and remove the remaining resistance."
+      ]
+    },
+    "result": {
+      "general": "Qing Dynasty victory",
+      "territorial_changes": "Taiwan became part of the Qing Empire, ending the kingdom of Tungning."
+    },
+    "belligerents": {
+      "Qing_Dynasty": {
+        "entities": ["Qing Imperial Army", "Navy"],
+        "allies": []
+      },
+      "Kingdom_of_Tungning": {
+        "entities": ["Kingdom of Tungning", "Zheng Keshuang"],
+        "allies": ["Pirate forces"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Qing_Dynasty": ["Admiral Shi Lang"],
+      "Kingdom_of_Tungning": ["Zheng Keshuang"]
+    },
+    "strength": {
+      "Qing_Dynasty": {
+        "troops": "30,000+",
+        "ships": "100+ warships",
+        "weapons": "Advanced cannons, navy, and infantry"
+      },
+      "Kingdom_of_Tungning": {
+        "troops": "10,000+",
+        "ships": "Limited naval forces",
+        "weapons": "Traditional infantry, cannons, and pirate vessels"
+      }
+    },
+    "casualties_and_losses": {
+      "Qing_Dynasty": {
+        "dead": "1,000+",
+        "wounded": "500+"
+      },
+      "Kingdom_of_Tungning": {
+        "dead": "2,000+",
+        "wounded": "Many captured or executed"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of the Bay of Dajia",
+        "date": "1683 CE",
+        "description": "A decisive naval battle where Qing forces destroyed the Tungning fleet, forcing the surrender of Zheng Keshuang.",
+        "outcome": "Qing victory, leading to the fall of the Kingdom of Tungning."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Qing Annals",
+          "type": "Historical record",
+          "location": "Chinese archives",
+          "details": "Describes the campaigns and victories of Qing forces in Taiwan."
+        },
+        {
+          "name": "Tungning Chronicles",
+          "type": "Kingdom records",
+          "location": "Taiwan archives",
+          "details": "Document the kingdom's defense efforts and final surrender."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Qing military equipment",
+          "description": "Artifacts from Qing forces, including cannons and naval equipment found along Taiwan’s coastline."
+        },
+        {
+          "type": "Zheng family memorials",
+          "description": "Monuments and memorials erected in Taiwan commemorating the legacy of Koxinga and his descendants."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Taiwan was annexed by the Qing Empire and became part of the Fujian province.",
+        "The Zheng family’s rule over Taiwan was dismantled, and the island was opened up to Qing settlers."
+      ],
+      "long_term_effects": [
+        "Qing rule over Taiwan would last until the late 19th century, shaping its future political structure.",
+        "The conquest marked the end of major Chinese resistance in the Taiwan Strait."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Marked the Qing's strategic control over the Taiwan Strait, helping to secure trade routes.",
+        "Signaled the end of powerful maritime resistance in the region."
+      ],
+      "political": [
+        "Consolidated Qing control over an important maritime region and laid the groundwork for the island’s future integration into China.",
+        "Ended the last vestige of the Ming loyalist resistance in Taiwan."
+      ],
+      "cultural": [
+        "Promoted Chinese settlement and agricultural development in Taiwan.",
+        "Led to the spread of Chinese culture and the integration of Taiwan into the Qing Empire’s broader sphere of influence."
+      ]
+    }
+  }
+}
