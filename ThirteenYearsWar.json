@@ -1,0 +1,141 @@
+{
+  "Thirteen_Years_War_1454_1466": {
+    "alternate_names": [
+      "War of the Cities",
+      "Prussian War of Independence"
+    ],
+    "part_of": [
+      "Polish-Teutonic Wars",
+      "Decline of the Teutonic Order"
+    ],
+    "date_range": "February 1454 – October 19, 1466",
+    "location": "Prussia (modern-day Poland)",
+    "background": {
+      "causes": [
+        "The Teutonic Order imposed high taxes and restricted trade, angering Prussian merchants and nobles.",
+        "The Prussian Confederation rebelled against the Order’s rule and sought aid from Poland.",
+        "Poland, ruled by King Casimir IV Jagiellon, saw an opportunity to expand its influence over Prussia."
+      ],
+      "events_leading_up_to_war": [
+        "The Prussian Confederation formally requested Polish protection in 1454.",
+        "King Casimir IV declared war on the Teutonic Order and invaded Prussia.",
+        "The war turned into a long and costly conflict with shifting battlefronts."
+      ]
+    },
+    "result": {
+      "general": "Polish victory; Teutonic Order forced to accept Polish overlordship.",
+      "treaty": "Second Peace of Thorn (1466)",
+      "territorial_changes": "Western Prussia (Royal Prussia) became part of Poland, while Eastern Prussia remained under Teutonic control as a Polish vassal."
+    },
+    "belligerents": {
+      "Prussian_Confederation_and_Poland": {
+        "entities": ["Kingdom of Poland", "Prussian rebel cities"],
+        "allies": ["Polish nobility", "Danzig (Gdańsk) merchants"]
+      },
+      "Teutonic_Order": {
+        "entities": ["Teutonic Knights", "Mercenaries from Germany and Bohemia"],
+        "allies": ["Holy Roman Empire (limited support)"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Poland_and_Prussian_Confederation": ["King Casimir IV Jagiellon", "Grand Chancellor Jan Koniecpolski"],
+      "Teutonic_Order": ["Grand Master Ludwig von Erlichshausen", "Bohemian mercenary commanders"]
+    },
+    "strength": {
+      "Prussian_Confederation_and_Poland": {
+        "troops": "Over 30,000, including Polish knights and urban militias",
+        "navy": "Merchant ships used for blockades",
+        "mercenaries": "Hired German and Bohemian mercenaries"
+      },
+      "Teutonic_Order": {
+        "troops": "Around 25,000, mostly professional knights and mercenaries",
+        "navy": "Teutonic fleet blockaded ports",
+        "mercenaries": "German, Swiss, and Bohemian knights"
+      }
+    },
+    "casualties_and_losses": {
+      "Prussian_Confederation_and_Poland": {
+        "dead": "Estimated 10,000–15,000",
+        "wounded": "Thousands",
+        "long_term_effect": "Cities devastated but gained independence from the Order."
+      },
+      "Teutonic_Order": {
+        "dead": "Estimated 12,000–18,000",
+        "wounded": "Heavy losses among mercenaries",
+        "tactical_failure": "Mass desertions and loss of major fortresses"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Chojnice",
+        "date": "September 18, 1454",
+        "description": "Polish forces suffered a devastating defeat due to the superior Teutonic cavalry.",
+        "outcome": "Teutonic victory"
+      },
+      {
+        "name": "Siege of Malbork",
+        "date": "1457",
+        "description": "Polish forces failed to capture the Teutonic capital but weakened its defenses.",
+        "outcome": "Stalemate"
+      },
+      {
+        "name": "Battle of Świecino",
+        "date": "September 17, 1462",
+        "description": "Polish forces crushed a Teutonic army, turning the tide of the war.",
+        "outcome": "Polish victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Chronicles of Jan Długosz",
+          "type": "Historical account",
+          "location": "Polish archives",
+          "details": "A detailed record of the war, including battles and diplomatic negotiations."
+        },
+        {
+          "name": "Teutonic Order War Reports",
+          "type": "Military records",
+          "location": "Berlin State Library",
+          "details": "Correspondence between Teutonic commanders detailing battlefield conditions."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Remains of Malbork Castle fortifications",
+          "description": "Damage from Polish bombardment still visible."
+        },
+        {
+          "type": "Weaponry",
+          "description": "Recovered Teutonic Order swords and cannon fragments."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Teutonic Order lost much of its power and became a Polish vassal.",
+        "Royal Prussia became an autonomous province under Polish rule.",
+        "The war marked the rise of Poland as a dominant force in the Baltic."
+      ],
+      "long_term_effects": [
+        "Teutonic Order never fully recovered and would later secularize into the Duchy of Prussia (1525).",
+        "Gdańsk and other cities gained economic prosperity under Polish rule.",
+        "Weakened the influence of knightly orders in Europe, signaling the decline of medieval crusader states."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Marked the increasing use of mercenaries in European conflicts.",
+        "Demonstrated the decline of knightly orders against centralized state armies."
+      ],
+      "political": [
+        "Shifted power in the Baltic from the Teutonic Order to Poland.",
+        "Laid the groundwork for future Polish-Lithuanian dominance in Eastern Europe."
+      ],
+      "cultural": [
+        "The war led to significant architectural developments in Prussian cities.",
+        "Inspired later conflicts over Prussian independence."
+      ]
+    }
+  }
+}
