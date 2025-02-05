@@ -1,114 +1,152 @@
 {
-    "South_African_Border_War": {
-      "context": {
-        "part_of": ["Cold War", "Decolonisation of Africa"]
-      },
-      "date": "26 August 1966 – 15 January 1990",
-      "duration": "23 years, 4 months, 2 weeks and 6 days",
-      "location": [
-        "South West Africa (Namibia)",
-        "Angola",
-        "Zambia"
+  "Rhodesian_Bush_War": {
+    "context": {
+      "part_of": ["Cold War", "Decolonisation of Africa"],
+      "background": [
+        "The Rhodesian Bush War was part of the wider struggle for independence in Southern Africa, taking place during the broader context of anti-colonial movements across the continent.",
+        "It was a culmination of racial tensions, the legacy of colonialism, and the fight for self-determination by African nationalists against the minority white government of Rhodesia.",
+        "The war was also heavily influenced by the Cold War geopolitics, with the Rhodesian government receiving backing from South Africa and facing opposition from the Soviet-backed African nationalist movements, primarily Zimbabwe African National Union (ZANU) and Zimbabwe African People's Union (ZAPU)."
+      ]
+    },
+    "alternate_names": [
+      "Second Chimurenga",
+      "Zimbabwean War of Liberation",
+      "Rhodesian War of Independence",
+      "Rhodesian Civil War"
+    ],
+    "date_range": "4 July 1964 – 12 December 1979",
+    "location": [
+      "Rhodesia (now Zimbabwe)",
+      "Zambia",
+      "Mozambique",
+      "Botswana"
+    ],
+    "result": {
+      "general": [
+        "Lancaster House Agreement signed in December 1979, marking the formal end to armed hostilities and paving the way for democratic elections.",
+        "Free elections were held in early 1980, with the participation of both ZANU and ZAPU, as well as the establishment of a unified government.",
+        "Zimbabwe gained internationally recognized independence in April 1980, with Robert Mugabe becoming the first Prime Minister."
       ],
-      "result": {
-        "outcome": "Military stalemate",
-        "consequences": [
-          "Angolan Tripartite Accord",
-          "Withdrawal of South African forces from Namibia; withdrawal of Cuban forces from Angola",
-          "1989 Namibian parliamentary elections",
-          "SWAPO government assuming power in Namibia"
-        ],
-        "territorial_changes": "South West Africa gains independence from South Africa as the Republic of Namibia"
+      "territorial_changes": [
+        "Zimbabwe (formerly Rhodesia) became an independent, internationally recognized state, with its new boundaries reflecting the pre-war borders of Rhodesia.",
+        "The end of white-minority rule, as well as the establishment of political and civil rights for the indigenous African population."
+      ]
+    },
+    "belligerents": {
+      "Rhodesian_Forces": [
+        "Southern Rhodesia (1964–1965)",
+        "Rhodesia (1965–1979)",
+        "Zimbabwe Rhodesia (1979)",
+        "South Africa (from 1967)"
+      ],
+      "Opposition_Forces": [
+        "ZANU (ZANLA)",
+        "Mozambique",
+        "ZAPU (ZIPRA)",
+        "ANC (MK)"
+      ]
+    },
+    "commanders_and_leaders": {
+      "Rhodesia": [
+        "Ian Smith (Prime Minister, Leader of Rhodesia)",
+        "P. K. van der Byl (Minister of Defence)",
+        "Peter Walls (Commander of the Rhodesian Army)",
+        "Mick McLaren (Rhodesian Army Officer)",
+        "Frank Mussell (Rhodesian Army Officer)",
+        "Ronald Reid-Daly (Commander of Selous Scouts)",
+        "Ken Flower (Head of Rhodesian Intelligence Service)",
+        "Abel Muzorewa (Leader of UANC)",
+        "Ndabaningi Sithole (Leader of ZANU)",
+        "James Chikerema (Leader of ZAPU)"
+      ],
+      "South_Africa": [
+        "B. J. Vorster (Prime Minister of South Africa)",
+        "P. W. Botha (Minister of Defence and later President)"
+      ],
+      "Opposition": [
+        "Robert Mugabe (Leader of ZANU, later Prime Minister and President of Zimbabwe)",
+        "Herbert Chitepo (ZANU Leader, killed in 1975)",
+        "Josiah Tongogara (Commander of ZANLA)",
+        "Ndabaningi Sithole (Leader of ZANU)",
+        "Edgar Tekere (ZANU Leader)",
+        "Solomon Mujuru (ZANU/ZANLA Commander)",
+        "Samora Machel (President of Mozambique, supported ZANU)",
+        "Joshua Nkomo (Leader of ZAPU, later Vice President of Zimbabwe)",
+        "Jason Moyo (ZAPU Leader, killed in 1977)",
+        "Lookout Masuku (ZAPU Military Leader)",
+        "Dumiso Dabengwa (ZAPU Military Leader)",
+        "Oliver Tambo (ANC Leader, aligned with ZANU and ZAPU)",
+        "Joe Slovo (Commander of MK, ANC military wing)"
+      ]
+    },
+    "strength": {
+      "Rhodesia_1979": {
+        "regulars": 10800,
+        "reservists": 15000,
+        "police": 8000,
+        "police_reservists": 19000,
+        "total_strength": 50,000
       },
-      "belligerents": {
-        "South_Africa_and_Allies": {
-          "main": ["South Africa", "TGNU (1985–1989)", "Portugal (until 1974)", "UNITA (from 1975)", "FNLA (1975)"],
-          "support": null
-        },
-        "Rebels_and_Support": {
-          "main": [
-            "SWAPO (PLAN)",
-            "MPLA (FAPLA)",
-            "Cuba",
-            "SWANU",
-            "ANC (MK)",
-            "Zambia"
-          ],
-          "support": [
-            "Soviet Union",
-            "China (until 1975)",
-            "East Germany",
-            "Poland",
-            "Hungary",
-            "Czechoslovakia",
-            "Bulgaria",
-            "Romania",
-            "North Korea",
-            "Egypt",
-            "Ghana",
-            "Nigeria",
-            "Algeria",
-            "Libya",
-            "Tanzania"
-          ]
-        }
+      "South_Africa": {
+        "regulars": 4000,
+        "police": 1500,
+        "total_strength": 5500
       },
-      "commanders_and_leaders": {
-        "South_Africa_and_Allies": [
-          "Gerrit Viljoen",
-          "Willie van Niekerk",
-          "Louis Pienaar",
-          "B. J. Vorster",
-          "P. W. Botha",
-          "F. W. de Klerk",
-          "Constand Viljoen",
-          "Johannes Geldenhuys",
-          "Magnus Malan",
-          "Andreas Liebenberg",
-          "Georg Meiring",
-          "Cornelius Ndjoba †",
-          "Jonas Savimbi",
-          "Holden Roberto"
-        ],
-        "Rebels_and_Support": [
-          "Sam Nujoma",
-          "Tobias Hainyeko †",
-          "Peter Nanyemba",
-          "Dimo Hamaambo",
-          "Peter Mweshihange",
-          "Solomon Huwala",
-          "Agostinho Neto",
-          "José Eduardo dos Santos",
-          "António Franca",
-          "Iko Carreira",
-          "Fidel Castro"
-        ]
-      },
-      "strength": {
-        "South_Africa_and_Allies": {
-          "1988": "c. 71,000",
-          "details": {
-            "South_Africa": "30,743 SADF troops in Angola and Namibia",
-            "South_West_Africa": "22,000 SWATF troops, 8,300 SWAPOL police"
-          }
-        },
-        "Rebels_and_Support": {
-          "1988": "c. 122,000",
-          "details": {
-            "SWAPO": "32,000 PLAN guerrillas",
-            "Cuba": "40,000 FAR troops in southern Angola",
-            "Angola": "50,000 FAPLA troops"
-          }
-        }
-      },
-      "casualties_and_losses": {
-        "South_Africa_and_Allies": "2,365–2,500 dead",
-        "Rebels_and_Support": {
-          "dead": "11,335",
-          "Angolan_Civil_War_deaths": "2,016–5,000",
-          "Namibian_civilians": "947–1,087"
-        }
+      "Opposition_1979": {
+        "ZANU_ZANLA": 25500,
+        "ZAPU_ZIPRA": 20000,
+        "total_strength": 45500
       }
+    },
+    "casualties_and_losses": {
+      "Rhodesian_security_forces": {
+        "dead": "1,361 killed",
+        "wounded": "2,000 wounded",
+        "civilian_deaths": "Over 5,000 Rhodesian civilians killed"
+      },
+      "Opposition_forces": {
+        "guerrillas": "~10,000 killed",
+        "wounded": "More than 20,000 wounded",
+        "civilian_deaths": "At least 10,000 African civilians died due to direct fighting and military actions"
+      },
+      "Overall": {
+        "total_deaths": "Around 20,000 people killed, including soldiers and civilians on both sides"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "The Battle of Sinoia (1976)",
+        "date": "1976",
+        "description": "A major battle between Rhodesian forces and ZANLA guerrillas, it was part of a larger series of engagements designed to disrupt Rhodesian military operations.",
+        "outcome": "ZANLA forces inflicted heavy losses on the Rhodesian forces, leading to a temporary retreat. The battle was an example of the increasing capabilities of the opposition forces."
+      },
+      {
+        "name": "The Battle of Chimoio (1977)",
+        "date": "1977",
+        "description": "A key battle in Mozambique, where ZANLA forces suffered heavy losses due to an attack by Rhodesian forces on their base.",
+        "outcome": "Rhodesian forces were able to destroy a significant portion of the ZANLA infrastructure, weakening the opposition for a short period."
+      },
+      {
+        "name": "Operation Gatling (1977)",
+        "date": "1977",
+        "description": "A series of operations aimed at disrupting ZANLA supply lines and preventing the movement of guerrilla forces from Mozambique into Rhodesia.",
+        "outcome": "Although Rhodesian forces had some success in disrupting the opposition, the operation highlighted the vulnerability of the border regions and the significant support ZANLA received from Mozambique."
+      }
+    ],
+    "treaties_and_agreements": {
+      "Lancaster_House_Agreement": {
+        "date": "December 1979",
+        "description": "The Lancaster House Agreement was a peace treaty signed in London, marking the official end of the war. It included provisions for free elections, an end to white-minority rule, and the creation of an independent Zimbabwe.",
+        "impact": "The agreement brought about the formation of the new nation of Zimbabwe, with Robert Mugabe of ZANU becoming Prime Minister. It also led to the establishment of a new multi-racial democracy, although many of the challenges related to land reform and economic disparities remained unresolved."
+      }
+    },
+    "legacy": {
+      "impact_on_new_nation": "The Rhodesian Bush War's end resulted in the formation of Zimbabwe as an independent nation, marking the end of over 90 years of colonial and settler rule. Despite achieving independence, the new nation faced a variety of challenges, including economic difficulties, land reform issues, and political instability that would shape Zimbabwe’s future under Robert Mugabe's rule.",
+      "long_term_impact": [
+        "The Lancaster House Agreement left many unresolved issues, particularly the question of land redistribution, which would become a central issue during Mugabe's later presidency.",
+        "The war also entrenched the political influence of ZANU-PF, the party led by Robert Mugabe, and set the stage for the authoritarian governance that would follow in the years to come.",
+        "The experience of the war and its aftermath also had a profound effect on the region, with the involvement of neighboring countries like Mozambique and Zambia, who hosted refugee populations and supported the liberation movements."
+      ]
     }
   }
-  
+}
