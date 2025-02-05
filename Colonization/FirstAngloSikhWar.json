@@ -1,0 +1,138 @@
+{
+  "First_Anglo-Sikh_War": {
+    "alternate_names": [
+      "Sikh-British War",
+      "The Battle for Punjab"
+    ],
+    "date_range": "1845–1846",
+    "location": [
+      "Punjab",
+      "India"
+    ],
+    "belligerents": {
+      "British_East_India_Company": {
+        "entities": [
+          "British East India Company",
+          "British Army",
+          "Sikh Maharaja Gulab Singh (neutral after initial engagement)"
+        ],
+        "allies": [
+          "Indian Sepoys",
+          "Dogra Rajputs"
+        ]
+      },
+      "Sikh_Empire": {
+        "entities": [
+          "Sikh Khalsa Army",
+          "Maharaja Gulab Singh",
+          "Maharaja Sher Singh"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "British_East_India_Company": [
+        "Sir Hugh Gough",
+        "Sir Henry Hardinge"
+      ],
+      "Sikh_Empire": [
+        "Maharaja Gulab Singh",
+        "Maharaja Sher Singh",
+        "Chattar Singh Attariwalla"
+      ]
+    },
+    "strength": {
+      "British_East_India_Company": {
+        "troops": "30,000",
+        "weapons": "Artillery, cavalry, muskets"
+      },
+      "Sikh_Empire": {
+        "troops": "50,000+",
+        "weapons": "Artillery, cavalry, infantry, advanced weaponry for the period"
+      }
+    },
+    "casualties_and_losses": {
+      "British_East_India_Company": {
+        "dead": "2,000+",
+        "wounded": "4,000+"
+      },
+      "Sikh_Empire": {
+        "dead": "3,000+",
+        "wounded": "5,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Ferozeshah",
+        "date": "21–22 December 1845",
+        "location": "Ferozeshah, Punjab",
+        "description": "A major battle between the British East India Company and the Sikh Khalsa Army, which saw heavy casualties on both sides. It was an indecisive battle but a tactical victory for the British, forcing the Sikhs to retreat.",
+        "outcome": "British tactical victory"
+      },
+      {
+        "name": "Battle of Aliwal",
+        "date": "28 January 1846",
+        "location": "Aliwal, Punjab",
+        "description": "A decisive British victory where British forces defeated the Sikh army, securing control of the region and forcing the Sikh Empire to submit to British authority.",
+        "outcome": "British decisive victory"
+      },
+      {
+        "name": "Battle of Sobraon",
+        "date": "10 February 1846",
+        "location": "Sobraon, Punjab",
+        "description": "The final battle of the First Anglo-Sikh War, which resulted in the complete defeat of the Sikh forces. The Sikh Army was decisively crushed, leading to the end of the war and the annexation of Punjab into the British Empire.",
+        "outcome": "British decisive victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The History of the First Anglo-Sikh War",
+          "type": "Military History",
+          "location": "British Library",
+          "details": "A detailed historical record describing the key events, battles, and military strategies employed during the First Anglo-Sikh War."
+        },
+        {
+          "name": "The Punjab Campaigns",
+          "type": "British Army Report",
+          "location": "National Army Museum, London",
+          "details": "An official military report by the British East India Company on the war, focusing on the British perspective and strategy."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Sikh weapons and armor",
+          "description": "Artifacts recovered from the battlefields of Ferozeshah, Aliwal, and Sobraon, including Sikh muskets, swords, and armor."
+        },
+        {
+          "type": "British military relics",
+          "description": "Weapons and military equipment such as cannons, bayonets, and muskets used by the British East India Company forces."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The defeat of the Sikh Empire led to the annexation of Punjab into British India, consolidating British power in the region.",
+        "The Treaty of Lahore was signed in March 1846, which formally ended the war and saw the British take control of Kashmir, a strategic region."
+      ],
+      "long_term_effects": [
+        "The British victory laid the groundwork for further British control over the Punjab region and the eventual annexation of the entire Sikh Empire into British India.",
+        "It marked the decline of Sikh independence and the beginning of a new era of British colonial dominance in India."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war demonstrated the effectiveness of British artillery and military strategy, which proved decisive against the larger Sikh forces.",
+        "The war also marked a turning point in the use of European-style military tactics against indigenous forces in India."
+      ],
+      "political": [
+        "The First Anglo-Sikh War led directly to the integration of Punjab into the British Empire, a region that would become crucial in maintaining British dominance in India.",
+        "The war highlighted the weaknesses of the Sikh Empire, especially the internal divisions and lack of centralized leadership."
+      ],
+      "cultural": [
+        "The war and subsequent British victory led to significant changes in the cultural and social landscape of Punjab, as the British began to impose their systems of governance, law, and education in the region.",
+        "The Sikh community, despite losing political power, continued to maintain its cultural identity and religious influence in the region."
+      ]
+    }
+  }
+}
