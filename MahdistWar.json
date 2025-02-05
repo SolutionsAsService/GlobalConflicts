@@ -1,0 +1,142 @@
+{
+  "Mahdist_War": {
+    "alternate_names": [
+      "Mahdist Rebellion",
+      "Sudanese Mahdist Revolt"
+    ],
+    "date_range": "1881–1899",
+    "location": [
+      "Sudan",
+      "Egypt"
+    ],
+    "background": {
+      "causes": [
+        "Religious revolt led by Muhammad Ahmad, who proclaimed himself the Mahdi (the prophesied redeemer of Islam).",
+        "Desire to establish an independent Sudan free from Egyptian and British rule.",
+        "Grievances over Egyptian taxation, corruption, and oppression of the Sudanese people."
+      ],
+      "events_leading_up_to_war": [
+        "In 1881, Muhammad Ahmad declared himself the Mahdi and started a religious and military campaign against the ruling forces in Sudan.",
+        "The Mahdist forces began gathering followers from the Sudanese tribes, quickly gaining momentum."
+      ]
+    },
+    "result": {
+      "general": "Victory for Mahdist forces",
+      "territorial_changes": "Sudan became an independent state under the rule of the Mahdi, although it was later reconquered by British forces."
+    },
+    "belligerents": {
+      "Mahdist_Army": {
+        "entities": [
+          "Mahdist Fighters",
+          "Muhammad Ahmad (Mahdi)"
+        ],
+        "allies": [
+          "Various Sudanese tribal groups"
+        ]
+      },
+      "Egyptian_Khedive": {
+        "entities": [
+          "Egyptian Army",
+          "British Imperial Forces (after 1882)"
+        ],
+        "allies": [
+          "Local Sudanese elites loyal to the Khedive"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Mahdist_Army": [
+        "Muhammad Ahmad (Mahdi)",
+        "Abdallahi ibn Muhammad (successor after Mahdi’s death)"
+      ],
+      "Egyptian_Khedive": [
+        "General Charles Gordon (British officer leading Egyptian forces)"
+      ]
+    },
+    "strength": {
+      "Mahdist_Army": {
+        "troops": "40,000–50,000",
+        "weapons": "Spears, swords, muskets (some captured from the Egyptians)"
+      },
+      "Egyptian_Khedive": {
+        "troops": "10,000–15,000",
+        "ships": "Naval forces (including British support after 1882)",
+        "weapons": "Modern firearms, artillery"
+      }
+    },
+    "casualties_and_losses": {
+      "Mahdist_Army": {
+        "dead": "30,000+",
+        "wounded": "Unknown"
+      },
+      "Egyptian_Khedive": {
+        "dead": "20,000+",
+        "wounded": "4,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of El Obeid",
+        "date": "1883",
+        "description": "A pivotal battle in which Mahdist forces decisively defeated Egyptian and British troops, securing the region of Kordofan.",
+        "outcome": "Mahdist victory, solidifying their control over much of Sudan."
+      },
+      {
+        "name": "Siege of Khartoum",
+        "date": "1884–1885",
+        "description": "A famous siege where Mahdist forces surrounded the British-led Egyptian garrison, eventually leading to the fall of Khartoum and the death of General Charles Gordon.",
+        "outcome": "Mahdist victory, marking the high point of their power in Sudan."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The Mahdi’s Proclamation",
+          "type": "Religious and Political Document",
+          "location": "Sudanese archives",
+          "details": "Document outlining Muhammad Ahmad's claim to be the Mahdi and his vision for an independent Sudan."
+        },
+        {
+          "name": "British Military Reports",
+          "type": "Historical records",
+          "location": "British National Archives",
+          "details": "Official reports documenting the British and Egyptian military response to the Mahdist threat."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Mahdist weaponry",
+          "description": "Artifacts, including captured Egyptian arms, Mahdist blades, and muskets, are found throughout Sudan and surrounding regions."
+        },
+        {
+          "type": "Battlefield sites",
+          "description": "Remnants from the Siege of Khartoum and other key battles, including British artillery and Mahdist fortifications."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Mahdist State controlled Sudan for several years, with Muhammad Ahmad’s successor, Abdallahi ibn Muhammad, becoming the new ruler.",
+        "The Mahdist State was eventually overthrown in 1898 by a British-Egyptian military campaign led by General Herbert Kitchener."
+      ],
+      "economic": [
+        "Sudan fell into instability after the Mahdist victory but was later economically disrupted by British colonial rule."
+      ],
+      "long_term_effects": [
+        "The Mahdist War shaped Sudan’s political landscape, marking a significant phase of resistance to imperial forces.",
+        "The conflict contributed to British domination of Sudan, which remained under British-Egyptian rule until 1956."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Mahdist War marked a major indigenous resistance against European imperialism in Africa, showcasing the ability of local forces to resist advanced military powers."
+      ],
+      "political": [
+        "It temporarily disrupted the influence of the Egyptian Khedive and the British Empire in the region, highlighting the potential for indigenous political movements to alter the balance of power."
+      ],
+      "cultural": [
+        "The Mahdist War left a legacy in Sudanese history, where the figure of the Mahdi remains a central symbol of Sudanese independence and resistance."
+      ]
+    }
+  }
+}
