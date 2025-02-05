@@ -1,0 +1,123 @@
+{
+  "Burmese_Siamese_War_1824_1826": {
+    "alternate_names": [
+      "First Anglo-Burmese War",
+      "First Burmese-Siamese War"
+    ],
+    "date_range": "1824–1826",
+    "location": "Southeast Asia, particularly Burma (Myanmar) and parts of Siam (Thailand)",
+    "background": {
+      "causes": [
+        "Rivalry between the Burmese Kingdom of Konbaung and the Siamese Kingdom of Rattanakosin over control of trade routes and territorial disputes in Southeast Asia.",
+        "Siam was strategically important for both the Burmese and the British Empire, who sought influence in the region.",
+        "The conflict was aggravated by the British East India Company’s interest in Burma's territory and resources, which led to British intervention."
+      ],
+      "events_leading_up_to_battle": [
+        "Burmese expansion into territories traditionally held by Siam in the region around Tenasserim, which alarmed the Siamese kingdom.",
+        "In retaliation, Siamese forces entered Burma, and the conflict escalated into a full-scale war, with British forces intervening to support Burma."
+      ]
+    },
+    "result": {
+      "general": "The war led to a decisive victory for the British, who were aligned with the Kingdom of Siam. However, this conflict played a crucial role in weakening Burma and setting the stage for the eventual annexation of Burma by Britain.",
+      "territorial_changes": [
+        "Burma ceded large portions of its territory to Britain, including the important provinces of Tenasserim, Arakan, and Pegu, which later became part of British Burma."
+      ]
+    },
+    "belligerents": {
+      "British_and_Siamese_Alliance": {
+        "entities": [
+          "British East India Company",
+          "Siam"
+        ],
+        "allies": []
+      },
+      "Burma": {
+        "entities": [
+          "Burmese Kingdom of Konbaung"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "British_and_Siamese_Alliance": [
+        "General Archibald Campbell (British East India Company)",
+        "King Rama III (Siam)"
+      ],
+      "Burma": [
+        "King Bagyidaw (Burma)"
+      ]
+    },
+    "strength": {
+      "British_and_Siamese_Alliance": {
+        "troops": "About 11,000 British troops and 5,000 Siamese forces.",
+        "estimated_strength": "Around 16,000 combined forces of Britain and Siam."
+      },
+      "Burma": {
+        "troops": "Approximately 25,000 soldiers from the Konbaung army.",
+        "estimated_strength": "25,000 soldiers fighting against British and Siamese forces."
+      }
+    },
+    "casualties_and_losses": {
+      "British_and_Siamese_Alliance": {
+        "dead": "1,000–1,500 British soldiers and Siamese forces combined.",
+        "wounded": "About 2,500 wounded."
+      },
+      "Burma": {
+        "dead": "Estimates suggest 10,000–15,000 dead, including civilians.",
+        "wounded": "Many more wounded, especially during the sieges and subsequent civil unrest."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Maungdaw",
+        "date": "March 1825",
+        "description": "A major engagement where British forces successfully captured the key Burmese stronghold of Maungdaw.",
+        "outcome": "British and Siamese victory."
+      },
+      {
+        "name": "Siege of Rangoon",
+        "date": "April 1825",
+        "description": "British forces, aided by Siamese troops, laid siege to the Burmese capital, Rangoon, ultimately securing its fall.",
+        "outcome": "British victory, signaling the collapse of Burmese resistance."
+      }
+    ],
+    "treaties_and_agreements": {
+      "Treaty_of_Yandabo": {
+        "date_signed": "February 24, 1826",
+        "signatories": [
+          "British East India Company",
+          "Kingdom of Burma"
+        ],
+        "terms": [
+          "Burma was forced to cede significant territories to the British, including the coastal regions of Tenasserim and the province of Arakan.",
+          "Burma agreed to pay reparations, open several ports to British trade, and recognize British control over the newly acquired territories."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "The Treaty of Yandabo ended the war, but it also marked the beginning of Burma’s gradual decline as a sovereign power. Burma became increasingly dependent on British policies and military presence."
+      ],
+      "economic": [
+        "With the cession of valuable coastal territories, Burma’s economy weakened significantly, while the British gained control of key trade routes and ports."
+      ],
+      "long_term_effects": [
+        "The loss of territory and military power pushed Burma towards the eventual British colonization of the entire country, leading to the formation of British Burma in the late 19th century."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The conflict highlighted the growing British influence in Southeast Asia and the weakening of the Burmese Kingdom in the face of modern European colonial military strategies."
+      ],
+      "political": [
+        "The war marked the decline of the Konbaung dynasty’s power and paved the way for the eventual colonization of Burma by Britain, solidifying British control over the region for decades."
+      ],
+      "social": [
+        "The war caused significant social upheaval in Burma, including displacement, the breakdown of traditional governance, and economic collapse."
+      ],
+      "cultural": [
+        "The conflict also influenced Burmese culture, as the British introduced new legal and educational systems which shaped the country’s development under colonial rule."
+      ]
+    }
+  }
+}
