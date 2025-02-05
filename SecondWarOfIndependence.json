@@ -1,0 +1,127 @@
+{
+  "Second_Italian_War_of_Independence": {
+    "alternate_names": [
+      "Franco-Piedmontese War",
+      "Second War of Italian Unification"
+    ],
+    "date_range": "1859",
+    "location": "Northern Italy, primarily in the regions of Lombardy and Piedmont.",
+    "background": {
+      "causes": [
+        "The desire of Italian states to unify and expel Austrian control from the northern Italian territories.",
+        "The growing influence of nationalist movements, led by figures like Giuseppe Mazzini and Count Cavour, who wanted a unified Italian state.",
+        "The French government under Napoleon III was seeking to expand its influence and saw an opportunity to weaken Austria's grip on Italy."
+      ],
+      "events_leading_up_to_battle": [
+        "Austrians had dominated northern Italy for decades, and the Kingdom of Sardinia, led by King Victor Emmanuel II and Prime Minister Count Cavour, sought to expel them and unify Italy.",
+        "The Kingdom of Sardinia formed an alliance with France, led by Napoleon III, to launch a military campaign against Austria."
+      ]
+    },
+    "result": {
+      "general": "Victory for the Franco-Piedmontese alliance, which led to the cession of Lombardy from Austria to France and Sardinia.",
+      "territorial_changes": [
+        "Austria ceded Lombardy to France, which then passed it on to Sardinia.",
+        "Piedmont-Sardinia expanded, and Lombardy was incorporated into the Kingdom of Sardinia, helping to pave the way for a unified Italy."
+      ]
+    },
+    "belligerents": {
+      "Sardinia-Piedmont": {
+        "entities": [
+          "The Kingdom of Sardinia, led by King Victor Emmanuel II and Prime Minister Count Cavour, with military support from French forces."
+        ],
+        "allies": [
+          "France (Napoleon III), which provided critical military support."
+        ]
+      },
+      "Austria": {
+        "entities": [
+          "The Austrian Empire, led by Emperor Franz Joseph I, with forces stationed in northern Italy to maintain its control over Lombardy and Venetia."
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Sardinia-Piedmont": [
+        "King Victor Emmanuel II (King of Sardinia and later the first king of a united Italy).",
+        "Count Camillo di Cavour (Prime Minister of Sardinia-Piedmont and architect of Italian unification).",
+        "Napoleon III (Emperor of France, who provided military support)."
+      ],
+      "Austria": [
+        "Emperor Franz Joseph I (Austrian Emperor).",
+        "Field Marshal Franz von Gyulai (Austrian commander in Italy)."
+      ]
+    },
+    "strength": {
+      "Sardinia-Piedmont": {
+        "troops": "Sardinian military forces, bolstered by French support.",
+        "estimated_strength": "About 200,000 troops, including French forces."
+      },
+      "Austria": {
+        "troops": "Austrian army stationed in northern Italy.",
+        "estimated_strength": "Around 140,000 Austrian troops."
+      }
+    },
+    "casualties_and_losses": {
+      "Sardinia-Piedmont": {
+        "dead": "About 2,000 casualties.",
+        "wounded": "Many wounded during the battles, particularly during the conflict near Magenta and Solferino."
+      },
+      "Austria": {
+        "dead": "Around 4,500 casualties.",
+        "wounded": "Many wounded, especially during the battles of Magenta and Solferino."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Magenta",
+        "date": "June 4, 1859",
+        "description": "A significant battle where French and Sardinian forces defeated the Austrians, which opened the path to the capture of Lombardy.",
+        "outcome": "Franco-Sardinian victory"
+      },
+      {
+        "name": "Battle of Solferino",
+        "date": "June 24, 1859",
+        "description": "A pivotal battle where the French and Sardinians decisively defeated the Austrian forces, leading to the collapse of Austrian defenses in Italy.",
+        "outcome": "Franco-Sardinian victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Treaty_of_Zurich": {
+        "date_signed": "November 10, 1859",
+        "signatories": [
+          "France",
+          "Sardinia-Piedmont",
+          "Austria"
+        ],
+        "terms": [
+          "Austria ceded Lombardy to France, which then transferred it to Sardinia.",
+          "Sardinia was further recognized as a key player in the Italian unification process."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "The defeat of Austria and the acquisition of Lombardy greatly enhanced Sardinia-Piedmont's stature and influence in Italy.",
+        "Although Italy was not fully unified yet, this victory set the stage for the subsequent unification of Italy in 1861, with Victor Emmanuel II becoming the first king of Italy."
+      ],
+      "economic": [
+        "The victory solidified Sardinia-Piedmont’s role as a dominant economic and military force in northern Italy.",
+        "Lombardy's incorporation into Sardinia boosted economic ties within the region."
+      ],
+      "long_term_effects": [
+        "The war was one of the key conflicts that contributed to the unification of Italy, which was completed by 1871."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war demonstrated the importance of modern warfare, with large-scale battles like Solferino influencing future military strategies and leading to the creation of the Red Cross."
+      ],
+      "political": [
+        "It was a critical turning point in the Italian unification process, positioning Sardinia-Piedmont as the central power in Italy."
+      ],
+      "cultural": [
+        "The success of the war and the eventual unification fostered a sense of national identity and pride among Italians."
+      ]
+    }
+  }
+}
