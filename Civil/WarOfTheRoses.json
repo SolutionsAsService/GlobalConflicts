@@ -1,0 +1,152 @@
+{
+  "War_of_the_Roses": {
+    "alternate_names": [
+      "The English Civil War",
+      "The Cousins' War"
+    ],
+    "date_range": "1455–1487",
+    "location": [
+      "England",
+      "Wales"
+    ],
+    "belligerents": {
+      "Lancastrians": {
+        "entities": [
+          "House of Lancaster",
+          "King Henry VI",
+          "Duke of Somerset",
+          "Earl of Northumberland"
+        ],
+        "allies": [
+          "Ireland",
+          "Wales (mostly)"
+        ]
+      },
+      "Yorkists": {
+        "entities": [
+          "House of York",
+          "Edward IV",
+          "Richard III",
+          "Duke of Gloucester"
+        ],
+        "allies": [
+          "Scotland",
+          "French Mercenaries"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Lancastrians": [
+        "King Henry VI",
+        "Duke of Somerset",
+        "Earl of Northumberland",
+        "Margaret of Anjou"
+      ],
+      "Yorkists": [
+        "Edward IV",
+        "Richard III",
+        "Richard Neville (Warwick the Kingmaker)"
+      ]
+    },
+    "strength": {
+      "Lancastrians": {
+        "troops": "50,000+",
+        "weapons": "Longbows, crossbows, spears, and cavalry"
+      },
+      "Yorkists": {
+        "troops": "60,000+",
+        "weapons": "Longbows, crossbows, spears, and cavalry"
+      }
+    },
+    "casualties_and_losses": {
+      "Lancastrians": {
+        "dead": "40,000+",
+        "wounded": "20,000+"
+      },
+      "Yorkists": {
+        "dead": "30,000+",
+        "wounded": "15,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of St. Albans",
+        "date": "22 May 1455",
+        "location": "St. Albans, Hertfordshire",
+        "description": "The first battle of the War of the Roses, where the Yorkists secured a decisive victory, marking the beginning of the conflict.",
+        "outcome": "Yorkist victory"
+      },
+      {
+        "name": "Battle of Towton",
+        "date": "29 March 1461",
+        "location": "Towton, Yorkshire",
+        "description": "The largest and bloodiest battle of the War of the Roses, where Edward IV decisively defeated King Henry VI's forces, claiming the throne for himself.",
+        "outcome": "Yorkist victory"
+      },
+      {
+        "name": "Battle of Barnet",
+        "date": "14 April 1471",
+        "location": "Barnet, Hertfordshire",
+        "description": "A significant battle where Edward IV defeated the Lancastrians, leading to the death of Warwick the Kingmaker and further solidifying Yorkist control over England.",
+        "outcome": "Yorkist victory"
+      },
+      {
+        "name": "Battle of Bosworth Field",
+        "date": "22 August 1485",
+        "location": "Bosworth Field, Leicestershire",
+        "description": "The final decisive battle of the War of the Roses, where Richard III was defeated by Henry Tudor (Henry VII), effectively ending the conflict and establishing the Tudor dynasty.",
+        "outcome": "Tudor victory, beginning of the Tudor dynasty"
+      }
+    },
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The Chronicles of England",
+          "type": "Historical Record",
+          "location": "British Library",
+          "details": "A record detailing major events, battles, and political figures involved in the War of the Roses."
+        },
+        {
+          "name": "The History of the Reign of King Henry VII",
+          "type": "Royal History",
+          "location": "Royal Archives",
+          "details": "A historical account written by Francis Bacon about the final stages of the War of the Roses and the rise of the Tudor dynasty."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Weapons and Armor",
+          "description": "Artifacts found on battlefields such as Towton and Bosworth, including weapons, armor, and other military equipment."
+        },
+        {
+          "type": "Tudor Coins",
+          "description": "Coins minted during the reign of Henry VII, marking the political shift after the war."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The war ended with the establishment of the Tudor dynasty under Henry VII, marking the end of Plantagenet rule.",
+        "The conflict drastically changed the English monarchy and led to the implementation of more centralized royal power."
+      ],
+      "long_term_effects": [
+        "The War of the Roses contributed to the development of the English Parliament and its growing power over the monarchy.",
+        "The conflict led to social upheaval, shifting the balance of power between the nobility and the monarchy."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "It marked the end of the medieval period in England and the rise of the early modern state.",
+        "The war saw the use of large-scale battles and the involvement of common soldiers alongside knights, changing the nature of warfare in England."
+      ],
+      "political": [
+        "The war solidified the authority of the Tudor family, who would rule England for over a century.",
+        "The result of the war altered English politics for generations, leading to the establishment of a more stable monarchy under Henry VII."
+      ],
+      "cultural": [
+        "The War of the Roses deeply influenced English literature, with works like Shakespeare’s plays drawing from its themes of political conflict and legitimacy.",
+        "The war left a lasting impact on the social fabric of England, leading to a long period of relative stability under the Tudors."
+      ]
+    }
+  }
+}
