@@ -1,0 +1,137 @@
+{
+  "Javanese_War_1825_1830": {
+    "alternate_names": [
+      "Diponegoro War",
+      "Java War"
+    ],
+    "part_of": [
+      "Dutch Colonial Expansion in Indonesia"
+    ],
+    "date_range": "July 1825 – March 28, 1830",
+    "location": [
+      "Java, Dutch East Indies (present-day Indonesia)"
+    ],
+    "background": {
+      "causes": [
+        "Dutch colonial policies, including land reforms that disrupted Javanese nobility.",
+        "Prince Diponegoro's opposition to Dutch interference in Javanese royal succession.",
+        "Heavy Dutch taxation and economic exploitation angered the Javanese population."
+      ],
+      "events_leading_up_to_war": [
+        "Dutch authorities placed boundary markers on Diponegoro’s family land without permission.",
+        "Diponegoro, claiming divine guidance, declared war against the Dutch.",
+        "Thousands of Javanese peasants and nobles joined the rebellion."
+      ]
+    },
+    "result": {
+      "general": "Dutch victory after prolonged guerrilla warfare.",
+      "treaty": "No formal treaty, but Java was fully brought under Dutch control.",
+      "territorial_changes": "Dutch strengthened direct colonial rule over Java."
+    },
+    "belligerents": {
+      "Netherlands": {
+        "entities": ["Royal Netherlands East Indies Army (KNIL)"],
+        "allies": ["Javanese nobles loyal to the Dutch"]
+      },
+      "Javanese_Rebels": {
+        "entities": ["Followers of Prince Diponegoro"],
+        "allies": ["Various local Javanese warlords"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Netherlands": ["General Hendrik Merkus de Kock"],
+      "Javanese_Rebels": ["Prince Diponegoro"]
+    },
+    "strength": {
+      "Netherlands": {
+        "troops": "More than 50,000 Dutch and native KNIL troops",
+        "ships": "Naval support along Javanese coastlines"
+      },
+      "Javanese_Rebels": {
+        "troops": "200,000 warriors at peak, mostly irregular forces",
+        "weapons": "Traditional weapons (kris, spears), some firearms"
+      }
+    },
+    "casualties_and_losses": {
+      "Netherlands": {
+        "dead": "8,000–15,000 Dutch and native troops",
+        "wounded": "Thousands"
+      },
+      "Javanese_Rebels": {
+        "dead": "200,000+ (including civilians due to famine and disease)",
+        "wounded": "Unknown"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Yogyakarta",
+        "date": "1825",
+        "description": "Prince Diponegoro's forces besieged Yogyakarta but were repelled by Dutch reinforcements.",
+        "outcome": "Dutch victory, but rebellion spread across Java."
+      },
+      {
+        "name": "Battle of Magelang",
+        "date": "1830",
+        "description": "Prince Diponegoro was tricked into negotiations and captured by the Dutch.",
+        "outcome": "Dutch victory, ending the war."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Dutch Military Records",
+          "type": "Official documents",
+          "location": "Dutch National Archives",
+          "details": "Records detailing the military campaign and guerrilla resistance."
+        },
+        {
+          "name": "Javanese Royal Chronicles",
+          "type": "Local manuscripts",
+          "location": "Yogyakarta archives",
+          "details": "Accounts of Diponegoro’s divine mission and the war’s impact on Java."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Dutch fortifications",
+          "description": "Remains of Dutch forts and outposts used during the war."
+        },
+        {
+          "type": "Javanese weapons",
+          "description": "Kris daggers and spears used by rebel fighters."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Prince Diponegoro’s Memoirs",
+          "type": "Historical text",
+          "details": "Diponegoro's own writings about the war, written in exile."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Dutch fully consolidated their rule over Java.",
+        "Prince Diponegoro was exiled to Sulawesi, ending the last major Javanese resistance."
+      ],
+      "long_term_effects": [
+        "Strengthened Dutch military rule in Indonesia.",
+        "Deepened anti-colonial sentiment, influencing later independence movements."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Highlighted the effectiveness of guerrilla warfare against colonial powers.",
+        "Showcased Dutch counterinsurgency tactics, later used in other colonies."
+      ],
+      "political": [
+        "Proved that Dutch rule in Java required direct military intervention, not just local alliances.",
+        "Weakened the traditional Javanese nobility, making them dependent on Dutch authority."
+      ],
+      "cultural": [
+        "Prince Diponegoro became a symbol of Indonesian resistance and nationalism.",
+        "War stories became part of Indonesian folklore and history."
+      ]
+    }
+  }
+}
