@@ -1,0 +1,187 @@
+{
+  "Italian_Unification_War": {
+    "alternate_names": [
+      "Risorgimento",
+      "Italian Wars of Independence",
+      "Italian Unification",
+      "Second Italian War of Independence"
+    ],
+    "date_range": "1848–1871",
+    "location": "Italy, including key battles in Lombardy, Sicily, and the Papal States",
+    "background": {
+      "causes": [
+        "Widespread dissatisfaction with foreign rule (Austrian Empire in the north, Papal rule in central Italy, and the Kingdom of Naples in the south).",
+        "The rise of nationalist and liberal movements, inspired by earlier revolutions in Europe and the success of the French Revolution.",
+        "The desire to unify the fragmented Italian peninsula into a single, independent nation-state, spurred by intellectuals, revolutionaries, and military leaders."
+      ],
+      "events_leading_up_to_battle": [
+        "The failure of earlier revolutionary movements (1848) spurred by widespread uprisings across Europe, particularly in the Kingdom of Sardinia (Piedmont).",
+        "The successful leadership of figures like Giuseppe Mazzini, Giuseppe Garibaldi, and Count Camillo di Cavour, who advocated for unity and independence from foreign rule.",
+        "The end of Austrian domination in northern Italy, particularly after the Second Italian War of Independence (1859)."
+      ]
+    },
+    "result": {
+      "general": "Victory for the Italian nationalists, leading to the unification of Italy under the Kingdom of Sardinia (later the Kingdom of Italy).",
+      "territorial_changes": [
+        "The annexation of various Italian states, including Lombardy, Sicily, the Papal States, and the Kingdom of Naples, into the Kingdom of Sardinia, eventually creating the Kingdom of Italy in 1861."
+      ]
+    },
+    "belligerents": {
+      "Italian_Nationalists": {
+        "entities": [
+          "Kingdom of Sardinia, led by King Victor Emmanuel II.",
+          "Nationalist forces and revolutionaries like Giuseppe Garibaldi, Giuseppe Mazzini, and other patriotic figures."
+        ],
+        "allies": [
+          "France, under Napoleon III, provided military support in the Second Italian War of Independence (1859)."
+        ]
+      },
+      "Austrian_Empire": {
+        "entities": [
+          "Austrian Empire, which controlled northern Italy, particularly Lombardy and Venetia."
+        ],
+        "allies": []
+      },
+      "Papal_States": {
+        "entities": [
+          "Papal States, which controlled central Italy and were allied with the Austrian Empire to maintain the status quo."
+        ],
+        "allies": []
+      },
+      "Kingdom_of_Naples": {
+        "entities": [
+          "Kingdom of Naples (also called the Kingdom of the Two Sicilies), which was the dominant power in the south of Italy before unification."
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Italian_Nationalists": [
+        "Giuseppe Garibaldi (Revolutionary leader and military general)",
+        "Giuseppe Mazzini (Nationalist leader)",
+        "Camillo di Cavour (Prime Minister of Sardinia and key architect of the unification)",
+        "Victor Emmanuel II (King of Sardinia, later first King of Italy)"
+      ],
+      "Austrian_Empire": [
+        "Franz Joseph I (Emperor of Austria)"
+      ],
+      "Papal_States": [
+        "Pope Pius IX (Pope during much of the unification period)"
+      ],
+      "Kingdom_of_Naples": [
+        "Francis II (King of the Two Sicilies)"
+      ]
+    },
+    "strength": {
+      "Italian_Nationalists": {
+        "troops": "Varied throughout the campaigns, with significant contributions from Sardinia, Garibaldi’s forces, and volunteers.",
+        "estimated_strength": "Up to 200,000 men at the height of the unification wars."
+      },
+      "Austrian_Empire": {
+        "troops": "Around 200,000 men in northern Italy during the wars against Sardinia in 1859 and later conflicts."
+      },
+      "Papal_States": {
+        "troops": "Around 10,000-15,000 men during the 1860s, mostly involved in defending the Papal territories in central Italy."
+      },
+      "Kingdom_of_Naples": {
+        "troops": "Around 60,000 men in the southern campaigns, particularly against Garibaldi in 1860."
+      }
+    },
+    "casualties_and_losses": {
+      "Italian_Nationalists": {
+        "dead": "Around 100,000-150,000 casualties, including combat deaths and those lost to disease.",
+        "wounded": "Tens of thousands wounded."
+      },
+      "Austrian_Empire": {
+        "dead": "Around 20,000-25,000 casualties.",
+        "wounded": "Numerous wounded, with many soldiers affected by disease."
+      },
+      "Papal_States": {
+        "dead": "Estimated 1,000–2,000 casualties, particularly in the battles against the Italian unification forces in central Italy."
+      },
+      "Kingdom_of_Naples": {
+        "dead": "Around 10,000-15,000 casualties, including both military losses and civilian deaths due to the conflict."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Magenta",
+        "date": "June 4, 1859",
+        "description": "A major victory for the Sardinians and French against the Austrians in Lombardy, which paved the way for the unification of northern Italy.",
+        "outcome": "Revolutionary victory"
+      },
+      {
+        "name": "Battle of Solferino",
+        "date": "June 24, 1859",
+        "description": "The decisive battle in the Second Italian War of Independence, where the Austrians were defeated by the Franco-Sardinian forces.",
+        "outcome": "Revolutionary victory"
+      },
+      {
+        "name": "Expedition of the Thousand",
+        "date": "May–July 1860",
+        "description": "Garibaldi’s military campaign to conquer southern Italy, resulting in the fall of the Kingdom of the Two Sicilies and the unification of the south with Sardinia.",
+        "outcome": "Revolutionary victory"
+      },
+      {
+        "name": "Battle of Castelfidardo",
+        "date": "September 18, 1860",
+        "description": "A key battle in the Marche region that led to the collapse of Papal resistance to the unification efforts.",
+        "outcome": "Revolutionary victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Treaty_of_Villafranca": {
+        "date_signed": "July 11, 1859",
+        "signatories": [
+          "France",
+          "Austria"
+        ],
+        "terms": [
+          "Austria ceded Lombardy to Sardinia, and the Kingdom of Sardinia gained further influence in northern Italy."
+        ]
+      },
+      "Treaty_of_Florence": {
+        "date_signed": "March 23, 1860",
+        "signatories": [
+          "France",
+          "Kingdom of Sardinia"
+        ],
+        "terms": [
+          "The French agreed to withdraw from central Italy, paving the way for the annexation of the Papal States."
+        ]
+      },
+      "Proclamation_of_Kingdom_of_Italy": {
+        "date_signed": "March 17, 1861",
+        "signatories": [
+          "King Victor Emmanuel II"
+        ],
+        "terms": [
+          "The Kingdom of Italy was formally proclaimed, uniting most of the Italian peninsula under one monarchy."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "The Kingdom of Italy was established in 1861, with Victor Emmanuel II as the first king.",
+        "The unification process continued with the annexation of the Papal States and Venetia in the following years, culminating in the capture of Rome in 1870."
+      ],
+      "economic": [
+        "The newly unified Italy faced economic challenges, including disparities between the industrialized north and the agrarian south."
+      ],
+      "long_term_effects": [
+        "The unification of Italy had a profound impact on the Italian peninsula, consolidating power under a single state and establishing a constitutional monarchy."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Italian unification wars, particularly the victories at Magenta, Solferino, and Castelfidardo, were key in dismantling Austrian and Papal control over Italy."
+      ],
+      "political": [
+        "The creation of the Kingdom of Italy laid the foundation for modern Italian political and national identity, although regional tensions persisted."
+      ],
+      "cultural": [
+        "The Risorgimento fostered a sense of national pride and identity, although regional divisions remained significant throughout Italy's history."
+      ]
+    }
+  }
+}
