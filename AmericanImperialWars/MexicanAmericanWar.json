@@ -1,46 +1,137 @@
 {
-    "Mexican-American War": {
-      "date_range": "April 25, 1846 – February 2, 1848",
-      "location": ["Texas", "New Mexico", "California", "Northern, Central, and Eastern Mexico", "Mexico City"],
-      "result": {
-        "general": "American victory",
-        "treaty": "Treaty of Guadalupe Hidalgo",
-        "recognition": "Mexican recognition of U.S. sovereignty over Texas (among other territories)",
-        "end_of_conflict": "End of the conflict between Mexico and Texas"
+  "Mexican_American_War": {
+    "alternate_names": [
+      "Invasion of Mexico",
+      "The Mexican War"
+    ],
+    "date_range": "April 25, 1846 – February 2, 1848",
+    "location": "Mexico and the southwestern United States, including California, Arizona, New Mexico, Texas",
+    "background": {
+      "causes": [
+        "The annexation of Texas by the United States in 1845, which Mexico considered a violation of its sovereignty.",
+        "The desire of the U.S. to expand its territory under the concept of Manifest Destiny, which justified American territorial expansion across North America.",
+        "Border disputes between the U.S. and Mexico, especially concerning the southern boundary of Texas.",
+        "Mexico’s inability to pay reparations for previous conflicts and instability in the region."
+      ],
+      "events_leading_up_to_battle": [
+        "After Texas declared independence from Mexico in 1836 and was annexed by the United States in 1845, tensions escalated between the two nations.",
+        "Mexico viewed the annexation of Texas as an act of aggression and refused to recognize the U.S. claim to the territory.",
+        "Following a series of skirmishes along the Rio Grande, President James K. Polk of the United States declared war on Mexico in 1846, citing the attack on American soil."
+      ]
+    },
+    "result": {
+      "general": "American victory",
+      "territorial_changes": [
+        "The Treaty of Guadalupe Hidalgo in 1848 resulted in the U.S. gaining control over vast territories, including present-day California, Nevada, Utah, Arizona, New Mexico, and parts of Colorado, Wyoming, and Texas.",
+        "This massive land acquisition is known as the Mexican Cession, shaping the borders of modern-day United States."
+      ]
+    },
+    "belligerents": {
+      "United_States": {
+        "entities": [
+          "United States Army",
+          "United States Navy"
+        ],
+        "allies": []
       },
-      "territorial_changes": {
-        "general": "Mexican Cession",
-        "details": "Mexico cedes to the U.S. present-day California, Texas, New Mexico, Utah, Nevada, Arizona, and parts of Colorado, Oklahoma, Kansas, Nebraska, and Wyoming for $15 million"
-      },
-      "belligerents": {
-        "United_States": "United States",
-        "California_Republic": "California Republic",
-        "Mexico": "Mexico"
-      },
-      "commanders_and_leaders": {
-        "United_States": ["James K. Polk", "George M. Dallas", "George Bancroft", "John E. Wool", "John Y. Mason", "William L. Marcy", "Winfield Scott", "Zachary Taylor", "Stephen W. Kearny", "John D. Sloat", "William J. Worth", "Robert F. Stockton", "Joseph Lane", "Franklin Pierce", "David Conner", "Matthew C. Perry", "John C. Frémont", "Thomas Childs", "Henry Burton", "Edward Baker", "Jefferson Davis", "Robert E. Lee", "Ulysses S. Grant", "Henry Clay Jr. †"],
-        "California_Republic": ["William B. Ide"],
-        "Mexico": ["Antonio López de Santa Anna", "Mariano Paredes", "Manuel Peña", "Mariano Arista", "Pedro de Ampudia", "José Flores", "Mariano Vallejo", "Nicolás Bravo", "José de Herrera", "Andrés Pico", "Manuel Armijo", "Martín Perfecto de Cos", "Pedro de Anaya", "Agustín de Iturbide", "Joaquín Rea", "Manuel Muñoz", "Gabriel Valencia †", "José de Urrea", "Juan Almonte", "Manuel Micheltorena", "John Riley", "Juan Seguín"]
-      },
-      "strength": {
-        "United_States": "73,532 soldiers",
-        "Mexico": "82,000 soldiers"
-      },
-      "casualties_and_losses": {
-        "United_States": {
-          "killed": 1733,
-          "wounded": 4152,
-          "dead_from_disease": 11550,
-          "missing": 695,
-          "total": "Approximately 13,283"
-        },
-        "Mexico": {
-          "killed": 5000,
-          "wounded": 20000,
-          "missing": 10000,
-          "total_civilian_and_military": "Approximately 25,000"
-        }
+      "Mexico": {
+        "entities": [
+          "Mexican Army",
+          "Mexican Navy"
+        ],
+        "allies": []
       }
+    },
+    "commanders_and_leaders": {
+      "United_States": [
+        "General Zachary Taylor",
+        "General Winfield Scott",
+        "General Stephen W. Kearny"
+      ],
+      "Mexico": [
+        "General Antonio López de Santa Anna",
+        "General Mariano Arista",
+        "General Pedro de Ampudia"
+      ]
+    },
+    "strength": {
+      "United_States": {
+        "troops": "Approx. 70,000 soldiers",
+        "navy": "Strong naval presence in the Pacific and Gulf of Mexico"
+      },
+      "Mexico": {
+        "troops": "Approx. 40,000 soldiers",
+        "navy": "Limited naval capability"
+      }
+    },
+    "casualties_and_losses": {
+      "United_States": {
+        "dead": "Approximately 13,000",
+        "wounded": "Over 10,000"
+      },
+      "Mexico": {
+        "dead": "Approximately 25,000",
+        "wounded": "Unknown, but significant"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Palo Alto",
+        "date": "May 8, 1846",
+        "description": "The first major battle of the war, where General Zachary Taylor's forces clashed with Mexican forces along the Rio Grande.",
+        "outcome": "American victory"
+      },
+      {
+        "name": "Battle of Buena Vista",
+        "date": "February 22–23, 1847",
+        "description": "A decisive battle where General Taylor's forces successfully repelled a larger Mexican army, securing northern Mexico for the U.S.",
+        "outcome": "American victory"
+      },
+      {
+        "name": "Battle of Chapultepec",
+        "date": "September 12–13, 1847",
+        "description": "A significant battle for control of Mexico City, where U.S. forces captured the Mexican military academy at Chapultepec Castle.",
+        "outcome": "American victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Treaty_of_Guadalupe_Hidalgo": {
+        "date_signed": "February 2, 1848",
+        "signatories": [
+          "U.S. Ambassador Nicholas Trist",
+          "Mexican representatives"
+        ],
+        "terms": [
+          "Mexico ceded a vast amount of land (about 525,000 square miles) to the United States in exchange for $15 million.",
+          "The Rio Grande was recognized as the border between Texas and Mexico."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "The Treaty of Guadalupe Hidalgo ended the war and resulted in a significant territorial expansion for the United States, which altered the political landscape of North America.",
+        "The Mexican government, weakened by the war, struggled to regain control over its territories, and Mexico faced political instability in the years following the conflict."
+      ],
+      "economic": [
+        "The U.S. gained access to valuable land that was rich in natural resources, including gold in California, which helped fuel the U.S. economy during the California Gold Rush.",
+        "Mexico, on the other hand, was left with a diminished economy and an ongoing struggle to rebuild after the loss of its northern territories."
+      ],
+      "long_term_effects": [
+        "The war accelerated U.S. expansion across North America and played a major role in the fulfillment of Manifest Destiny.",
+        "The Mexican-American War contributed to the growing tensions between the North and South in the United States over the issue of slavery, particularly as new territories were incorporated into the Union."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war marked the first major military conflict fought on foreign soil for the United States.",
+        "The conflict provided valuable experience for future military leaders, including Robert E. Lee and Ulysses S. Grant, who would later play key roles in the American Civil War."
+      ],
+      "political": [
+        "The war had profound effects on U.S. foreign policy, cementing the idea of territorial expansion and setting the stage for the future development of the American West."
+      ],
+      "cultural": [
+        "The Mexican-American War had lasting cultural impacts on both countries, particularly in terms of immigration, as large numbers of Mexicans moved to the newly acquired U.S. territories, influencing the demographic makeup of states like California and Texas."
+      ]
     }
   }
-  
+}
