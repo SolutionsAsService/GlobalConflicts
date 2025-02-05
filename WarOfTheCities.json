@@ -1,0 +1,136 @@
+{
+  "War_of_the_Cities_1387_1389": {
+    "alternate_names": [
+      "Hanseatic-Teutonic War",
+      "Prussian Revolt of 1387"
+    ],
+    "part_of": [
+      "Conflicts of the Teutonic Order",
+      "Hanseatic League Power Struggles"
+    ],
+    "date_range": "1387–1389",
+    "location": [
+      "Prussia",
+      "Baltic Coast"
+    ],
+    "background": {
+      "causes": [
+        "High taxes and trade restrictions imposed by the Teutonic Order on Prussian cities.",
+        "Growing economic power of Hanseatic League cities clashing with feudal control.",
+        "Discontent among urban elites, who wanted more autonomy from the Order."
+      ],
+      "events_leading_up_to_war": [
+        "Hanseatic merchants in Prussia demanded lower tariffs, which the Teutonic Order refused.",
+        "Prussian cities formed the Prussian Confederation in defiance of Teutonic rule.",
+        "Armed skirmishes and embargoes escalated into open rebellion."
+      ]
+    },
+    "result": {
+      "general": "Teutonic victory",
+      "treaty": "Cities forced to accept Teutonic control but gained trade concessions.",
+      "territorial_changes": "Teutonic Order maintained control over Prussia, but trade regulations were loosened."
+    },
+    "belligerents": {
+      "Teutonic_Order": {
+        "entities": ["Teutonic Knights", "Feudal Nobility"],
+        "allies": ["Loyalist towns in Prussia"]
+      },
+      "Prussian_Confederation_and_Hanseatic_League": {
+        "entities": ["Merchant Cities", "Hanseatic League"],
+        "allies": ["Dissident nobles", "Coastal trading ports"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Teutonic_Order": ["Grand Master Konrad von Wallenrode"],
+      "Prussian_Cities": ["Bürgermeister of Danzig", "Hanseatic Fleet Commanders"]
+    },
+    "strength": {
+      "Teutonic_Order": {
+        "troops": "10,000+",
+        "navy": "Limited fleet, mainly coastal galleys",
+        "mercenaries": "Hired German and Livonian knights"
+      },
+      "Prussian_Cities_and_Hanseatic_League": {
+        "troops": "7,000+ militia and mercenaries",
+        "navy": "Hanseatic warships",
+        "mercenaries": "Hired Baltic mercenaries"
+      }
+    },
+    "casualties_and_losses": {
+      "Teutonic_Order": {
+        "dead": "Moderate losses",
+        "wounded": "Several hundred",
+        "ships_lost": "Minimal"
+      },
+      "Prussian_Cities_and_Hanseatic_League": {
+        "dead": "Heavy losses in city sieges",
+        "wounded": "Unknown",
+        "ships_lost": "Several merchant fleets destroyed"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Danzig",
+        "date": "1388",
+        "description": "Teutonic forces besieged Danzig (modern Gdańsk), forcing its surrender after several months.",
+        "outcome": "Teutonic victory"
+      },
+      {
+        "name": "Naval Battle of the Vistula Estuary",
+        "date": "1389",
+        "description": "Hanseatic warships clashed with Teutonic coastal defenses; the Order repelled the attack.",
+        "outcome": "Teutonic victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Teutonic Order Financial Records",
+          "type": "Medieval documents",
+          "location": "Berlin and Malbork archives",
+          "details": "Lists of war expenses, mercenary payments, and city fines."
+        },
+        {
+          "name": "Hanseatic Merchant Letters",
+          "type": "Trade records",
+          "location": "Hanseatic archives",
+          "details": "Letters discussing trade restrictions and war preparations."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Destroyed city walls",
+          "description": "Ruins of fortifications in Danzig showing cannon damage."
+        },
+        {
+          "type": "Recovered shipwrecks",
+          "description": "Hanseatic League trade ships sunk during naval engagements."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Cities remained under Teutonic control but won greater trade rights.",
+        "Hanseatic League continued challenging feudal rulers in later conflicts."
+      ],
+      "long_term_effects": [
+        "Weakened the Teutonic Order’s grip on urban economies.",
+        "Set the stage for the Prussian Confederation’s later revolt in 1454, leading to Poland’s intervention."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Showed the power of merchant militias and private fleets against knightly orders.",
+        "Highlighted the effectiveness of economic warfare (embargoes, trade blockades)."
+      ],
+      "political": [
+        "Marked a turning point where trade-based coalitions challenged military rulers.",
+        "Set a precedent for future merchant city revolts in the Holy Roman Empire."
+      ],
+      "cultural": [
+        "Strengthened Hanseatic League unity against feudal control.",
+        "Helped develop the identity of Prussian cities as semi-independent trading hubs."
+      ]
+    }
+  }
+}
