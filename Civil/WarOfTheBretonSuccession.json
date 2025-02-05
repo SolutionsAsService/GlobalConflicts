@@ -1,0 +1,132 @@
+{
+  "War_of_the_Breton_Succession": {
+    "alternate_names": [
+      "Breton Civil War",
+      "The War for Brittany's Throne"
+    ],
+    "date_range": "1341–1364",
+    "location": [
+      "Brittany",
+      "France"
+    ],
+    "belligerents": {
+      "House_of_Montfort": {
+        "entities": [
+          "John IV of Montfort",
+          "House of Montfort",
+          "English supporters"
+        ],
+        "allies": [
+          "Kingdom of England",
+          "Flanders"
+        ]
+      },
+      "House_of_Blois": {
+        "entities": [
+          "Charles of Blois",
+          "House of Blois",
+          "French supporters"
+        ],
+        "allies": [
+          "Kingdom of France"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "House_of_Montfort": [
+        "John IV of Montfort",
+        "Sir Thomas de Arundel"
+      ],
+      "House_of_Blois": [
+        "Charles of Blois",
+        "Bertrand du Guesclin"
+      ]
+    },
+    "strength": {
+      "House_of_Montfort": {
+        "troops": "15,000–20,000",
+        "weapons": "Knights, longbowmen, crossbowmen, and mercenaries"
+      },
+      "House_of_Blois": {
+        "troops": "20,000+",
+        "weapons": "Knights, mercenaries, crossbowmen, and French men-at-arms"
+      }
+    },
+    "casualties_and_losses": {
+      "House_of_Montfort": {
+        "dead": "Several thousand",
+        "wounded": "Many more, especially during key battles"
+      },
+      "House_of_Blois": {
+        "dead": "Thousands",
+        "wounded": "Large number of casualties, with many French nobles killed"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Saint-Aubin-du-Cormier",
+        "date": "1345",
+        "location": "Saint-Aubin-du-Cormier, Brittany",
+        "description": "A decisive battle where English and Montfort forces defeated the French-backed Blois faction. The defeat weakened the French position in Brittany.",
+        "outcome": "Montfort/English victory"
+      },
+      {
+        "name": "Battle of Auray",
+        "date": "1364",
+        "location": "Auray, Brittany",
+        "description": "The final decisive battle of the war. John IV of Montfort, supported by English forces, defeated Charles of Blois, who was killed in the battle. This marked the end of the war, securing Brittany for the Montfort family.",
+        "outcome": "Montfort/English victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Chronicle of the War of Breton Succession",
+          "type": "Medieval Historical Record",
+          "location": "Archives of Brittany",
+          "details": "A record detailing the events of the Breton Succession War, written by contemporary chroniclers in Brittany."
+        },
+        {
+          "name": "Letters of Charles of Blois",
+          "type": "Royal Correspondence",
+          "location": "National Library of France",
+          "details": "A collection of letters written by Charles of Blois that provides insight into his strategies, alliances, and personal perspective on the conflict."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Battlefield remnants",
+          "description": "Artifacts from the Battle of Saint-Aubin-du-Cormier and the Battle of Auray, including weapons, armor, and remnants of fortifications."
+        },
+        {
+          "type": "Montfort and Blois family insignia",
+          "description": "Various relics and family symbols associated with both the Montfort and Blois factions, recovered from key battle sites."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "John IV of Montfort was recognized as the Duke of Brittany, consolidating Montfort control over the region.",
+        "The French Crown retained suzerainty over Brittany, but the Duchy of Brittany remained semi-independent under Montfort control."
+      ],
+      "long_term_effects": [
+        "The Montfort family gained lasting power in Brittany, though tensions between Brittany and France continued for decades.",
+        "The war also reinforced the influence of England in French affairs, particularly in Breton politics, as the Montforts remained aligned with the English Crown."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war showcased the influence of medieval feudal politics, where noble houses and monarchies sought to extend their influence through armed conflict.",
+        "It was one of the last significant conflicts where the English intervened directly in French internal politics, foreshadowing the more famous Hundred Years' War."
+      ],
+      "political": [
+        "The war highlighted the political and dynastic struggles within Brittany, a region caught between French and English influences during the period.",
+        "The Montfort victory set the stage for the eventual decline of French control over Brittany and the emergence of a more independent Breton Duchy."
+      ],
+      "cultural": [
+        "The war had lasting impacts on Breton culture, as Montfort’s reign led to greater Anglo-Breton cultural exchanges, influencing the region's art, language, and politics.",
+        "Brittany would continue to maintain its unique cultural identity, despite being ultimately absorbed into the Kingdom of France later."
+      ]
+    }
+  }
+}
