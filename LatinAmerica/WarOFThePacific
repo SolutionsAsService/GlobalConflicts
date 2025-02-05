@@ -1,0 +1,158 @@
+{
+  "War_of_the_Pacific_1879_1884": {
+    "alternate_names": [
+      "Saltpeter War",
+      "Guerra del Pacífico"
+    ],
+    "part_of": [
+      "South American Territorial Conflicts",
+      "Nitrate Trade Wars"
+    ],
+    "date_range": "1879–1884",
+    "location": [
+      "Atacama Desert (modern-day Chile, Bolivia, and Peru)",
+      "Pacific coastline of South America",
+      "Andes Mountains"
+    ],
+    "background": {
+      "causes": [
+        "Disputes over lucrative nitrate and guano-rich territories.",
+        "British and Chilean mining interests clashed with Bolivian and Peruvian claims.",
+        "Bolivia attempted to increase taxes on Chilean companies, triggering war."
+      ],
+      "events_leading_up_to_war": [
+        "1873: Peru and Bolivia secretly signed a military alliance against Chile.",
+        "1878: Bolivia attempted to nationalize nitrate mines, provoking Chile.",
+        "1879: Chile occupied Antofagasta, leading to full-scale war."
+      ]
+    },
+    "result": {
+      "general": "Chilean victory",
+      "territorial_changes": "Chile annexed coastal territories from both Bolivia and Peru.",
+      "political_changes": [
+        "Bolivia became a **landlocked nation**, losing access to the Pacific.",
+        "Peru suffered major economic collapse and political instability.",
+        "Chile became the dominant **military and economic power** in the region."
+      ]
+    },
+    "belligerents": {
+      "Chile": {
+        "allies": [
+          "British mining companies (economic support)"
+        ]
+      },
+      "Bolivia_and_Peru": {
+        "allies": [
+          "France (diplomatic but limited military aid)",
+          "Private Peruvian naval contractors"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Chile": [
+        "Manuel Baquedano (Army General)",
+        "Arturo Prat (Naval Hero)"
+      ],
+      "Peru": [
+        "Miguel Grau (Admiral, legendary naval commander)",
+        "Andrés Avelino Cáceres (Guerrilla leader in the final stage)"
+      ],
+      "Bolivia": [
+        "Hilarión Daza (Bolivian President and General)"
+      ]
+    },
+    "strength": {
+      "Chile": {
+        "troops": "40,000+",
+        "navy": "Modern ironclad warships (British-built)",
+        "artillery": "State-of-the-art Krupp cannons"
+      },
+      "Bolivia_and_Peru": {
+        "troops": "50,000+",
+        "navy": "Older wooden warships",
+        "private_military_support": "Peruvian guerrilla forces funded by nitrate elites"
+      }
+    },
+    "casualties_and_losses": {
+      "Chile": {
+        "dead": "14,000",
+        "wounded": "30,000"
+      },
+      "Bolivia_and_Peru": {
+        "dead": "25,000+",
+        "wounded": "50,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Iquique",
+        "date": "May 21, 1879",
+        "description": "Famous naval battle where Chilean Captain Arturo Prat was killed but became a national hero.",
+        "outcome": "Peruvian naval victory, but Chile ultimately dominated the sea."
+      },
+      {
+        "name": "Battle of Arica",
+        "date": "June 7, 1880",
+        "description": "Chilean forces stormed and captured the Peruvian fortress at Arica, securing a key port.",
+        "outcome": "Chilean victory, major Peruvian casualties."
+      },
+      {
+        "name": "Battle of Lima",
+        "date": "1881",
+        "description": "Chilean troops occupied Peru’s capital, leading to guerrilla resistance for three more years.",
+        "outcome": "Chilean occupation of Lima, marking the collapse of Peruvian conventional forces."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "historical_documents": [
+        {
+          "name": "The Treaty of Ancón",
+          "type": "Peace treaty",
+          "location": "Peruvian and Chilean archives",
+          "details": "Official document where Peru ceded Tarapacá to Chile."
+        },
+        {
+          "name": "British Nitrate Company Records",
+          "type": "Corporate archives",
+          "location": "London",
+          "details": "Records detailing how British firms backed Chilean expansion for mining rights."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Sunken Warships",
+          "description": "Remains of the ironclad warships used during the conflict, found off the coast of Iquique."
+        },
+        {
+          "type": "Battlefield Excavations",
+          "description": "Artifacts from guerrilla resistance in the Andean highlands."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Chile emerged as a dominant regional power.",
+        "Peru and Bolivia faced decades of economic instability and internal conflicts."
+      ],
+      "long_term_effects": [
+        "Bolivia's **permanent loss of coastline**, leading to long-standing diplomatic tensions.",
+        "Chile gained **immense wealth from nitrate exports**, fueling its industrialization.",
+        "Inspired later **resource-based conflicts** in Latin America."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "First major **industrialized war** in South America.",
+        "Showcased the importance of **modern navies and artillery**."
+      ],
+      "economic": [
+        "Control of **nitrates gave Chile enormous economic growth**, shaping its modern economy.",
+        "Foreign corporate interests played a key role, foreshadowing **future resource-driven wars**."
+      ],
+      "cultural": [
+        "Arturo Prat became a **Chilean national hero**, symbolizing patriotism.",
+        "Bolivian national identity remains shaped by the loss of its coastline."
+      ]
+    }
+  }
+}
