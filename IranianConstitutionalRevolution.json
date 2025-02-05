@@ -1,0 +1,112 @@
+{
+  "Iranian_Constitutional_Revolution_1905_1911": {
+    "alternate_names": [
+      "Persian Constitutional Revolution",
+      "The Constitutional Revolution of Iran"
+    ],
+    "date_range": "1905–1911",
+    "location": "Persia (Modern Iran)",
+    "background": {
+      "causes": [
+        "Growing discontent with the autocratic rule of the Qajar Dynasty, which had ruled Persia for over a century.",
+        "The influence of Western political ideologies, including constitutionalism and democracy, inspired by the successes of the Constitutional Revolution in other parts of the world.",
+        "Economic hardship, widespread corruption, and foreign interference in Persian affairs (mainly by Russia and Britain) created resentment among intellectuals, merchants, and the general population.",
+        "The Constitutional movement was also driven by a desire to establish a system of government based on laws and a constitution, rather than the absolute monarchy."
+      ],
+      "events_leading_up_to_battle": [
+        "In 1905, protests erupted in Tehran and other major cities against the despotic regime of Shah Mozaffar ad-Din Shah Qajar, demanding constitutional reforms, free press, and more power for elected representatives.",
+        "A popular movement began, attracting various social groups, including religious leaders, intellectuals, merchants, and the working class. The creation of a parliament (Majles) became a key demand of the revolutionaries."
+      ]
+    },
+    "result": {
+      "general": "The Iranian Constitutional Revolution led to the establishment of a constitutional monarchy in Iran. While initially gaining the support of both the people and the elite, the revolution ultimately resulted in the creation of the first Persian constitution and the Majles (parliament), although later political instability and foreign intervention would continue to shape the country’s trajectory.",
+      "territorial_changes": [
+        "The revolution did not lead to territorial changes but altered the political structure of the country, establishing a system of laws, civil rights, and parliamentary elections."
+      ]
+    },
+    "belligerents": {
+      "Qajar_Dynasty": {
+        "entities": [
+          "Qajar loyalists",
+          "Royalists"
+        ],
+        "allies": [
+          "Russian Empire",
+          "British Empire"
+        ]
+      },
+      "Constitutionalists": {
+        "entities": [
+          "Revolutionaries",
+          "Intellectuals",
+          "Clergy",
+          "Merchants",
+          "Common people"
+        ],
+        "allies": [
+          "Liberal groups"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Qajar_Dynasty": [
+        "Mozaffar ad-Din Shah Qajar",
+        "Mohammad Ali Shah Qajar (later Shah)"
+      ],
+      "Constitutionalists": [
+        "Seyyed Ziaeddin Tabatabai",
+        "Mirza Malkom Khan",
+        "Ayatollah Abol-Ghasem Kashani",
+        "Sheikh Fazlollah Nouri"
+      ]
+    },
+    "strength": {
+      "Qajar_Dynasty": {
+        "troops": "Around 20,000 loyal soldiers and police forces were deployed to suppress uprisings.",
+        "estimated_strength": "The Qajar dynasty had the loyalty of some military forces but was losing control over key urban centers and the support of the general population."
+      },
+      "Constitutionalists": {
+        "troops": "While there wasn’t a well-organized army, the revolutionaries had the support of urban crowds, intellectuals, and clerics.",
+        "estimated_strength": "Revolutionary groups had tens of thousands of supporters, including a significant portion of Tehran’s population, who were mobilized during protests and demonstrations."
+      }
+    },
+    "casualties_and_losses": {
+      "Qajar_Dynasty": {
+        "dead": "Several thousand royalist soldiers and supporters were killed in clashes with constitutionalists.",
+        "wounded": "Hundreds of royalist forces were wounded during the revolution's numerous battles and skirmishes."
+      },
+      "Constitutionalists": {
+        "dead": "Thousands of constitutionalist revolutionaries and civilians were killed, especially during the battles of Tehran and other regions.",
+        "wounded": "Many more were wounded, with estimates ranging in the thousands."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Tehran (1909)",
+        "date": "1909",
+        "description": "A key battle during the Constitutional Revolution when constitutionalist forces, supported by armed merchants and revolutionaries, laid siege to the Qajar stronghold of Tehran. The siege was a turning point in the revolution, leading to the abdication of Mohammad Ali Shah.",
+        "outcome": "Constitutionalist victory, Mohammad Ali Shah was forced to abdicate and flee to Russia."
+      },
+      {
+        "name": "Battle of Tabriz (1909)",
+        "date": "1909",
+        "description": "The battle between constitutionalist forces and royalist forces in Tabriz was another critical moment. Constitutionalists, supported by armed merchants, seized Tabriz, a major city in the revolution.",
+        "outcome": "Constitutionalist victory, significant territorial gains, and a blow to royalist influence in northern Persia."
+      }
+    ],
+    "treaties_and_agreements": {
+      "Constitution_of_1906": {
+        "date": "1906",
+        "description": "The 1906 Constitution of Persia established a constitutional monarchy with a bicameral parliament (Majles) and civil rights for the citizens. It marked the end of absolute monarchy in Persia and introduced reforms to limit royal power.",
+        "impact": "Although there were many setbacks, this was the first step toward the creation of a modern nation-state in Iran. It laid the foundation for democratic principles, even though real power would remain contested."
+      },
+      "Treaty_of_Friends_with_the_British_Empire_1907": {
+        "date": "1907",
+        "description": "A treaty between Britain, Russia, and Persia that divided Persia into spheres of influence. This led to external pressures on the constitutional government and contributed to the political instability of the time."
+      }
+    },
+    "legacy": {
+      "impact_on_new_nation": "The Iranian Constitutional Revolution marked the first significant step toward a modern Iranian state, laying the foundation for the establishment of democratic principles in the country, though the country would continue to face internal turmoil and foreign intervention throughout the 20th century. It also marked the beginning of the end for the Qajar Dynasty, which would be replaced by the Pahlavi Dynasty in 1925."
+    }
+  }
+}
