@@ -1,0 +1,140 @@
+{
+  "Second_Congo_War": {
+    "context": {
+      "part_of": ["Post-Colonial Conflicts", "African Regional Wars", "Resource Wars"],
+      "background": [
+        "The Second Congo War was a large-scale conflict involving nine African countries and numerous armed groups. It was primarily driven by the struggle for control over the vast mineral resources of the Democratic Republic of Congo (DRC), and the political instability that followed the overthrow of Mobutu Sese Seko in 1997.",
+        "Private military contractors (PMCs) played a significant role in this conflict, particularly in the areas of security, resource extraction, and logistical support. Countries like Angola, Rwanda, and Uganda, as well as multinational corporations, hired PMCs to help secure their interests in the DRC's mineral-rich regions.",
+        "The war also saw the involvement of companies like **Executive Outcomes**, **Sandline International**, and **Starr Group**."
+      ]
+    },
+    "alternate_names": [
+      "Great War of Africa",
+      "African World War",
+      "Congo War"
+    ],
+    "date_range": "2 August 1998 – 18 July 2003",
+    "location": [
+      "Democratic Republic of Congo (DRC)",
+      "Angola",
+      "Rwanda",
+      "Uganda",
+      "Burundi",
+      "Central African Republic"
+    ],
+    "result": {
+      "general": [
+        "End of large-scale combat in 2003 with the signing of the Pretoria Accord.",
+        "The war resulted in the death of over 5 million people, mostly from disease and starvation.",
+        "The DRC's political situation remained unstable, with ongoing insurgency and militia activity in certain regions, though the official large-scale hostilities ceased after the peace agreement."
+      ],
+      "territorial_changes": [
+        "The DRC remained divided, with certain regions under the control of various foreign-backed militias and the government's authority being weak outside the capital, Kinshasa.",
+        "Several mineral-rich provinces, particularly Katanga and the eastern regions, saw heavy foreign interest and control, where PMCs were often tasked with securing these areas."
+      ]
+    },
+    "belligerents": {
+      "DRC_Government": [
+        "Democratic Republic of Congo",
+        "Laurent-Désiré Kabila's government",
+        "Congolese Armed Forces (FAC)"
+      ],
+      "Opposition_Forces": [
+        "Rwanda",
+        "Uganda",
+        "Angola",
+        "Burundi",
+        "Congolese rebels (RCD, MLC)",
+        "Various militias (Interahamwe, Mai-Mai)"
+      ],
+      "Private_Military_Contractors": [
+        "Executive Outcomes",
+        "Sandline International",
+        "Starr Group",
+        "Diamonex",
+        "Concordia"
+      ]
+    },
+    "commanders_and_leaders": {
+      "DRC": [
+        "Laurent-Désiré Kabila (President of DRC)",
+        "Joseph Kabila (Son of Laurent, later President)",
+        "A. Kabila's generals"
+      ],
+      "Opposition_Forces": [
+        "Paul Kagame (President of Rwanda)",
+        "Yoweri Museveni (President of Uganda)",
+        "José Eduardo dos Santos (President of Angola)"
+      ],
+      "Private_Military_Contractors": [
+        "Tony Buckingham (Founder of Executive Outcomes)",
+        "Tim Spicer (Founder of Sandline International)",
+        "Adrian Starr (CEO of Starr Group)"
+      ]
+    },
+    "strength": {
+      "DRC_Government_Forces": {
+        "regulars": 80,000,
+        "militias": 15,000
+      },
+      "Opposition_Forces": {
+        "Rwandan_Forces": 20,000,
+        "Ugandan_Forces": 15,000,
+        "Angolan_Forces": 10,000,
+        "Rebel_Forces": 30,000
+      },
+      "Private_Military_Contractors": {
+        "total_strength": 2,000-5,000
+      }
+    },
+    "casualties_and_losses": {
+      "DRC_Government_Forces": "Over 10,000 killed",
+      "Opposition_Forces": "Over 100,000 killed",
+      "Private_Military_Contractors": "Approx. 50-100 killed",
+      "Civilian_Casualties": "Over 5 million (majority due to disease and starvation)",
+      "Overall_Casualties": "Approx. 5.4 million killed"
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Kisangani (2000)",
+        "date": "2000",
+        "description": "A major battle fought between Rwandan and Ugandan forces for control of Kisangani, a strategically important city in the eastern DRC.",
+        "outcome": "A stalemate after several bloody encounters, with both sides suffering heavy casualties. The city changed hands multiple times, and the battle is considered one of the largest of the war."
+      },
+      {
+        "name": "Battle of Mbuji-Mayi (2002)",
+        "date": "2002",
+        "description": "A key battle for control over the diamond-rich city of Mbuji-Mayi, with both the DRC government and rebel forces receiving significant backing from international actors.",
+        "outcome": "The government forces, supported by Angolan and Zimbabwean troops, ultimately regained control, but the area continued to be a major point of conflict due to its valuable resources."
+      }
+    ],
+    "private_military_involvement": {
+      "role": [
+        "PMCs played a crucial role in securing mineral extraction sites, providing armed security for foreign corporations and local militias involved in resource exploitation, particularly in diamond and gold mining.",
+        "Executive Outcomes, one of the most infamous PMCs, was involved in direct combat operations to assist the DRC government, including air support, logistical coordination, and troop training.",
+        "Tim Spicer's Sandline International was hired by the DRC government to assist in combat against rebel groups, and it was involved in operations around the diamond fields and mineral-rich areas of the country.",
+        "PMCs also provided diplomatic security for officials, escorted convoys, and trained local military forces."
+      ],
+      "notable_incidents": [
+        {
+          "incident": "Executive Outcomes intervention in Kisangani (1999)",
+          "outcome": "Executive Outcomes played a pivotal role in preventing the collapse of DRC forces during a major offensive against Rwandan-backed rebels in Kisangani. The PMC's involvement was critical in stabilizing the DRC's position in key territories."
+        },
+        {
+          "incident": "Sandline International's illegal arms shipment (2000)",
+          "outcome": "In 2000, Sandline International was involved in a controversial arms shipment to the DRC government, leading to political scandal and accusations of violating international embargoes. The incident resulted in public outcry and scrutiny of PMCs' activities in the region."
+        }
+      ]
+    },
+    "legacy": {
+      "impact_on_new_nation": [
+        "The war destabilized the region, and while the formal conflict ended in 2003 with the Pretoria Accord, the DRC continued to face challenges with rebel groups and militias, many of which still had external backing.",
+        "The legacy of resource control wars and the involvement of PMCs in Africa's conflicts continues to shape modern warfare, with corporations and foreign governments still playing a significant role in securing resources."
+      ],
+      "long_term_impact": [
+        "The role of PMCs in Africa led to an increase in private security forces in later conflicts, with such companies providing logistical, combat, and intelligence services.",
+        "The Second Congo War highlighted the strategic role of resource control in conflict, with PMCs often acting as intermediaries between local factions, foreign governments, and multinational corporations seeking access to the region's mineral wealth."
+      ]
+    }
+  }
+}
