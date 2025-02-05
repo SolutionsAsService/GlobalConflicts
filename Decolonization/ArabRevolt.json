@@ -1,0 +1,108 @@
+{
+  "Arab_Revolt_1916_1918": {
+    "alternate_names": [
+      "Great Arab Revolt",
+      "Arab Uprising against Ottoman Empire"
+    ],
+    "date_range": "1916–1918",
+    "location": "Arabian Peninsula, Levant, Mesopotamia",
+    "background": {
+      "causes": [
+        "Arab dissatisfaction with Ottoman Turkish rule during World War I, and the desire for independence from the Ottoman Empire.",
+        "Influence of the Hashemite family, led by Sharif Hussein of Mecca, who claimed the right to lead a unified Arab state.",
+        "Secret agreements such as the Sykes-Picot Agreement (1916) between Britain and France, which divided the Ottoman territories in the Middle East, further antagonizing Arab aspirations for independence."
+      ],
+      "events_leading_up_to_battle": [
+        "The British, seeking to undermine the Ottoman Empire's control during World War I, supported the Arab revolt by providing resources, arms, and military advisers.",
+        "Sharif Hussein bin Ali, the Hashemite ruler of Mecca, declared the revolt against the Ottomans in 1916, seeking independence for the Arabs and the establishment of a unified Arab state."
+      ]
+    },
+    "result": {
+      "general": "The Arab Revolt helped weaken Ottoman control in the Arabian Peninsula, leading to the eventual creation of new Arab states after World War I. This revolt contributed to the foundation of modern Saudi Arabia, as well as the political and territorial reshaping of the Middle East.",
+      "territorial_changes": [
+        "The Arabian Peninsula was left largely in control of various local leaders, including the Saudis, after the collapse of the Ottoman Empire.",
+        "The British and French took control of former Ottoman territories, creating mandates in places like Iraq, Palestine, and Syria. The Sauds later established the Kingdom of Saudi Arabia in 1932."
+      ]
+    },
+    "belligerents": {
+      "Ottoman_Empire": {
+        "entities": [
+          "Ottoman Army"
+        ],
+        "allies": []
+      },
+      "Arab_Revolting_Forces": {
+        "entities": [
+          "Hashemite Arabs",
+          "Bedouin tribes",
+          "British military advisers"
+        ],
+        "allies": [
+          "United Kingdom"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Ottoman_Empire": [
+        "Enver Pasha",
+        "Djemal Pasha"
+      ],
+      "Arab_Revolting_Forces": [
+        "Sharif Hussein bin Ali",
+        "Prince Faisal (son of Hussein)",
+        "T.E. Lawrence (Lawrence of Arabia)"
+      ]
+    },
+    "strength": {
+      "Ottoman_Empire": {
+        "troops": "Around 100,000 Ottoman soldiers were stationed in the Arabian Peninsula and surrounding regions.",
+        "estimated_strength": "The Ottomans had the advantage in terms of professional army size but were overstretched due to their involvement in World War I."
+      },
+      "Arab_Revolting_Forces": {
+        "troops": "Initially small, the Arab forces, led by Hussein, consisted of Bedouin tribesmen and Hashemite forces with increasing British support over time.",
+        "estimated_strength": "The forces grew to around 10,000–20,000, but their main advantage was guerrilla tactics, intelligence, and the backing of British advisers."
+      }
+    },
+    "casualties_and_losses": {
+      "Ottoman_Empire": {
+        "dead": "Around 10,000 soldiers and civilians died, though the exact number is debated due to the guerrilla nature of the conflict.",
+        "wounded": "Several thousand wounded, particularly in the protracted desert warfare against irregular Arab forces."
+      },
+      "Arab_Revolting_Forces": {
+        "dead": "An estimated 5,000–7,000 Arab soldiers and civilians died.",
+        "wounded": "Many more wounded, but Arab forces had fewer resources to manage casualties."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Capture of Aqaba (1917)",
+        "date": "July 6, 1917",
+        "description": "The capture of the strategic port city of Aqaba on the Red Sea, a key victory for the Arab Revolt and T.E. Lawrence's efforts. It opened up access for the Arab forces to launch attacks on the Ottomans further inland.",
+        "outcome": "Arab victory, which was crucial in strengthening the revolt and gaining further British support."
+      },
+      {
+        "name": "Battle of Mecca (1916)",
+        "date": "June 1916",
+        "description": "The first major military action in the revolt, as Sharif Hussein bin Ali led an attack on Ottoman-controlled Mecca. The battle was significant as it symbolized the beginning of the formal rebellion against Ottoman rule.",
+        "outcome": "Arab victory, with the city of Mecca falling into the hands of the Hashemite-led forces."
+      }
+    ],
+    "treaties_and_agreements": {
+      "McMahon-Hussein_Correspondence_1915": {
+        "date": "July 14, 1915",
+        "description": "A series of letters between Sharif Hussein and British High Commissioner Sir Henry McMahon, in which the British promised support for Arab independence in exchange for rebellion against the Ottoman Empire. This became a key factor leading to the Arab Revolt."
+      },
+      "Sykes-Picot_Agreement_1916": {
+        "date": "May 16, 1916",
+        "description": "A secret agreement between Britain and France (with Russian support) to divide the Ottoman Empire’s Middle Eastern territories into spheres of influence, which ultimately conflicted with promises made to the Arabs during the Revolt."
+      },
+      "Treaty_of_Versailles_1919": {
+        "date": "June 28, 1919",
+        "description": "The formal treaty ending World War I, which led to the dismantling of the Ottoman Empire and the creation of new states and mandates in the Middle East."
+      }
+    },
+    "legacy": {
+      "impact_on_new_nation": "The Arab Revolt contributed significantly to the establishment of the Kingdom of Saudi Arabia. The revolt weakened Ottoman influence in the Arabian Peninsula, allowing local powers like the Al Saud family to rise in prominence. By 1932, Abdulaziz Ibn Saud unified the territories into the Kingdom of Saudi Arabia."
+    }
+  }
+}
