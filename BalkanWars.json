@@ -1,0 +1,147 @@
+{
+  "Balkan_Wars": {
+    "alternate_names": [
+      "First Balkan War",
+      "Second Balkan War"
+    ],
+    "date_range": "1912–1913",
+    "location": "Balkans (Modern-day Greece, Serbia, Bulgaria, Montenegro, and Albania)",
+    "background": {
+      "causes": [
+        "The weakening Ottoman Empire and the rise of nationalist movements in the Balkans.",
+        "The desire of Balkan states to expand their territories at the expense of the Ottoman Empire.",
+        "The ambitions of Serbia and Greece to carve out more land and create a greater national unity.",
+        "The role of external powers (especially Austria-Hungary and Russia) supporting or opposing Balkan ambitions."
+      ],
+      "events_leading_up_to_battle": [
+        "The First Balkan War saw the Balkan League (Serbia, Montenegro, Greece, and Bulgaria) uniting to expel the Ottomans from Europe.",
+        "The war successfully forced the Ottoman Empire out of most of its European holdings.",
+        "However, disputes over the division of the spoils of war between the League members led to the Second Balkan War, where Bulgaria fought its former allies."
+      ]
+    },
+    "result": {
+      "general": "The Balkan League's victory against the Ottoman Empire in the First Balkan War and the subsequent reorganization of the region led to the establishment of Albania as an independent state.",
+      "territorial_changes": [
+        "Albania declared independence from the Ottoman Empire in 1912 amidst the chaos of the Balkan Wars.",
+        "While it faced immediate challenges to its borders, including by Serbia, Montenegro, and Greece, Albania was recognized as a sovereign nation at the end of the wars."
+      ]
+    },
+    "belligerents": {
+      "Balkan_League": {
+        "entities": [
+          "Serbia",
+          "Greece",
+          "Montenegro",
+          "Bulgaria"
+        ],
+        "allies": []
+      },
+      "Ottoman_Empire": {
+        "entities": [
+          "The Ottoman Empire, which had controlled much of the Balkans for centuries."
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Balkan_League": [
+        "King Nicholas I of Montenegro.",
+        "King Peter I of Serbia.",
+        "Prime Minister Eleftherios Venizelos of Greece.",
+        "Tsar Ferdinand I of Bulgaria."
+      ],
+      "Ottoman_Empire": [
+        "Sultan Mehmed V of the Ottoman Empire.",
+        "Enver Pasha (Ottoman general)."
+      ]
+    },
+    "strength": {
+      "Balkan_League": {
+        "troops": "An alliance of around 500,000 troops from Serbia, Montenegro, Greece, and Bulgaria.",
+        "estimated_strength": "Approx. 500,000 soldiers in the First Balkan War."
+      },
+      "Ottoman_Empire": {
+        "troops": "The Ottoman Empire's forces in the Balkans were considerably smaller after years of internal struggles and external pressures.",
+        "estimated_strength": "Around 150,000 troops."
+      }
+    },
+    "casualties_and_losses": {
+      "Balkan_League": {
+        "dead": "Approximately 100,000 casualties in the First Balkan War, with significant losses in the Second Balkan War.",
+        "wounded": "Many casualties, especially during the intense fighting with the Ottomans and later among the Balkan League members."
+      },
+      "Ottoman_Empire": {
+        "dead": "Over 100,000 casualties during the wars, with many killed, wounded, or taken prisoner.",
+        "wounded": "A significant portion of the Ottoman military was incapacitated."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Kumanovo",
+        "date": "October 1912",
+        "description": "One of the major engagements of the First Balkan War, where Serbian forces decisively defeated the Ottomans, leading to the capture of significant territories.",
+        "outcome": "Serbian victory"
+      },
+      {
+        "name": "Battle of Lule Burgas",
+        "date": "November 1912",
+        "description": "A decisive victory for the Bulgarian forces during the First Balkan War that led to the collapse of Ottoman defenses in the region.",
+        "outcome": "Bulgarian victory"
+      },
+      {
+        "name": "Battle of Bregalnica",
+        "date": "June 1913",
+        "description": "A key battle in the Second Balkan War, where Serbian and Greek forces defeated the Bulgarian army, forcing Bulgaria to retreat.",
+        "outcome": "Serbian-Greek victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Treaty_of_London": {
+        "date_signed": "May 30, 1913",
+        "signatories": [
+          "Balkan League members (Serbia, Montenegro, Greece, Bulgaria)",
+          "The Ottoman Empire"
+        ],
+        "terms": [
+          "The Ottoman Empire was forced to surrender almost all of its remaining European territories except for Istanbul and a few coastal areas.",
+          "Albania was recognized as an independent state, though its borders were left uncertain."
+        ]
+      },
+      "Treaty_of_Bukarest": {
+        "date_signed": "August 10, 1913",
+        "signatories": [
+          "Bulgaria",
+          "Serbia",
+          "Greece",
+          "Montenegro"
+        ],
+        "terms": [
+          "Bulgaria was forced to cede significant territories to Serbia, Greece, and Montenegro after its defeat in the Second Balkan War."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "Albania’s independence was officially recognized, although its borders were disputed by neighboring countries.",
+        "The conflict significantly altered the balance of power in the Balkans, leading to future tensions that would contribute to the outbreak of World War I."
+      ],
+      "economic": [
+        "The Balkan region, including Albania, faced significant economic hardship after the wars, with large parts of the region devastated by the fighting."
+      ],
+      "long_term_effects": [
+        "Albania’s independence marked the establishment of a new European state in the early 20th century, though its borders remained contested for years."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Balkan Wars were some of the first large-scale conflicts in the modern era in Europe, utilizing newer technologies such as machine guns and artillery."
+      ],
+      "political": [
+        "The wars contributed to the decline of the Ottoman Empire in Europe and set the stage for further conflicts in the Balkans in the coming decades."
+      ],
+      "cultural": [
+        "The establishment of Albania as a modern nation-state was an important cultural milestone for the Albanian people."
+      ]
+    }
+  }
+}
