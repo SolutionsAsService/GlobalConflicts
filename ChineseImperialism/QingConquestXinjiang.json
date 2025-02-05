@@ -1,0 +1,148 @@
+{
+  "Qing_Expansion_into_Xinjiang_1755_1759": {
+    "alternate_names": [
+      "Qing Conquest of Xinjiang",
+      "Dzungar Genocide",
+      "Pacification of Xinjiang"
+    ],
+    "part_of": [
+      "Qing Expansion",
+      "Dzungar-Qing Wars",
+      "Central Asian Campaigns"
+    ],
+    "date_range": "1755–1759 CE",
+    "location": [
+      "Xinjiang",
+      "Dzungaria",
+      "Tarim Basin",
+      "Kashgar"
+    ],
+    "background": {
+      "causes": [
+        "The Qing Dynasty sought to secure its western borders and eliminate the threat posed by the Dzungar Khanate.",
+        "The Dzungar Mongols had resisted Qing control and engaged in multiple conflicts with Qing forces.",
+        "Emperor Qianlong aimed to integrate the western frontier into the empire and establish direct Qing rule over Xinjiang.",
+        "The Dzungars had launched raids into Qing territory, provoking military retaliation."
+      ],
+      "events_leading_up_to_war": [
+        "The Qing had previously fought the Dzungars in earlier conflicts but had not fully subdued them.",
+        "Dzungar ruler Amursana rebelled against Qing authority, prompting a large-scale military campaign.",
+        "The Qing mobilized a vast army, including Han Chinese, Manchu Bannermen, and Mongol auxiliaries, to crush the Dzungars."
+      ]
+    },
+    "result": {
+      "general": "Qing Dynasty victory",
+      "territorial_changes": "Xinjiang was fully incorporated into the Qing Empire, with Qing rule extending over the Tarim Basin."
+    },
+    "belligerents": {
+      "Qing_Dynasty": {
+        "entities": ["Qing Imperial Army", "Mongol Allies", "Uyghur Collaborators"],
+        "allies": ["Uyghur Khokand Khanate", "Kyrgyz Tribes"]
+      },
+      "Dzungar_Khanate": {
+        "entities": ["Dzungar Mongol Forces"],
+        "allies": ["Some Central Asian factions opposed to Qing rule"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Qing_Dynasty": [
+        "Emperor Qianlong",
+        "General Zhaohui",
+        "Fu De",
+        "Aksu Amban Mingrui"
+      ],
+      "Dzungar_Khanate": [
+        "Amursana",
+        "Dawachi",
+        "Khoja Brothers (Burhan al-Din and Khwaja Jihan)"
+      ]
+    },
+    "strength": {
+      "Qing_Dynasty": {
+        "troops": "50,000+",
+        "weapons": "Firearms, cannons, cavalry, traditional Qing military formations"
+      },
+      "Dzungar_Khanate": {
+        "troops": "30,000+",
+        "weapons": "Mongol cavalry, bows, spears, limited firearms"
+      }
+    },
+    "casualties_and_losses": {
+      "Qing_Dynasty": {
+        "dead": "Estimated 10,000+",
+        "wounded": "Several thousand"
+      },
+      "Dzungar_Khanate": {
+        "dead": "Estimated 200,000–600,000 (including civilians)",
+        "wounded": "Unknown",
+        "captured": "Tens of thousands executed or deported"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Ili",
+        "date": "1755 CE",
+        "description": "A decisive Qing victory that led to the collapse of Dzungar resistance in northern Xinjiang.",
+        "outcome": "Dzungar forces defeated, Amursana fled."
+      },
+      {
+        "name": "Siege of Kashgar",
+        "date": "1759 CE",
+        "description": "Qing forces besieged and captured the key city of Kashgar, ending major resistance in southern Xinjiang.",
+        "outcome": "Qing occupation of Kashgar and full consolidation of Xinjiang."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Qing Imperial Edicts",
+          "type": "Historical record",
+          "location": "Chinese National Archives",
+          "details": "Official documents detailing Emperor Qianlong’s orders for the campaign."
+        },
+        {
+          "name": "Uyghur Chronicles",
+          "type": "Local historical writings",
+          "location": "Xinjiang Archives",
+          "details": "Records describing the impact of the Qing conquest on the Uyghur population."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Qing military artifacts",
+          "description": "Qing weapons, banners, and fortifications discovered in Xinjiang."
+        },
+        {
+          "type": "Dzungar ruins",
+          "description": "Destroyed Dzungar settlements found across the region, indicating large-scale devastation."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Xinjiang was fully integrated into the Qing Empire, with direct administration from Beijing.",
+        "Dzungar Mongols were largely exterminated or assimilated, ending their dominance in the region.",
+        "The Qing established a system of military garrisons to maintain control over Xinjiang."
+      ],
+      "long_term_effects": [
+        "The demographic landscape of Xinjiang was permanently altered, with a dramatic decline in the Dzungar population.",
+        "Uyghur Muslim leaders were placed under Qing administration, leading to long-term tensions in the region.",
+        "Xinjiang became a crucial frontier for Qing interactions with Central Asia and Russia."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Showcased Qing military superiority in large-scale campaigns against nomadic powers.",
+        "Used a combination of direct military conquest and political manipulation to subjugate Xinjiang."
+      ],
+      "political": [
+        "Marked the beginning of Qing dominance over Central Asia, shaping China’s western frontier.",
+        "Established policies that would influence later Chinese governance of Xinjiang."
+      ],
+      "cultural": [
+        "Led to increased Chinese presence in Xinjiang, influencing its political and cultural development.",
+        "Qing policies reshaped the ethnic composition of the region, leading to future conflicts."
+      ]
+    }
+  }
+}
