@@ -1,0 +1,143 @@
+{
+  "Colombian_Independence_War": {
+    "alternate_names": [
+      "Colombian War of Independence",
+      "Gran Colombia War of Independence",
+      "Spanish American Wars of Independence"
+    ],
+    "date_range": "1810–1819",
+    "location": "Colombia, Venezuela, Ecuador, and Panama (Gran Colombia)",
+    "background": {
+      "causes": [
+        "Growing discontent with Spanish colonial rule, driven by desires for autonomy and self-determination.",
+        "The influence of the French and American revolutions, which inspired Latin American leaders to seek independence.",
+        "Economic restrictions imposed by Spain that hindered trade and growth of the local economies.",
+        "Political instability in Spain after Napoleon's invasion, which created a power vacuum in Spanish colonies."
+      ],
+      "events_leading_up_to_battle": [
+        "The French invasion of Spain (1808) and the subsequent abdication of King Ferdinand VII led to confusion and uncertainty in Spain’s American colonies.",
+        "The initial rebellion in Bogotá in 1810 sparked by economic grievances and a desire for greater autonomy.",
+        "The formation of the first independent junta in Bogotá and other major cities of the Viceroyalty of New Granada (modern-day Colombia)."
+      ]
+    },
+    "result": {
+      "general": "Victory for the revolutionary forces, leading to the independence of Colombia from Spain and the creation of Gran Colombia.",
+      "territorial_changes": [
+        "The dissolution of the Spanish Viceroyalty of New Granada and the creation of Gran Colombia, which included present-day Colombia, Venezuela, Ecuador, and Panama."
+      ]
+    },
+    "belligerents": {
+      "Revolutionaries": {
+        "entities": [
+          "Revolutionary forces from New Granada (modern-day Colombia), led by figures like Simón Bolívar, Francisco de Miranda, and Antonio Nariño.",
+          "Local militias and volunteers from various parts of Gran Colombia, including Venezuela and Ecuador."
+        ],
+        "allies": [
+          "Some revolutionary movements in neighboring territories (Venezuela and Ecuador) supported the cause."
+        ]
+      },
+      "Spanish_Empire": {
+        "entities": [
+          "Spanish colonial authorities and loyalist forces in the Viceroyalty of New Granada.",
+          "Spanish regular troops and mercenaries, backed by royalist forces from other colonies like Peru and Mexico."
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Revolutionaries": [
+        "Simón Bolívar (Leader, revolutionary general)",
+        "Francisco de Miranda (Revolutionary leader)",
+        "Antonio Nariño (Patriot leader)",
+        "José Antonio Páez (Venezuelan leader)"
+      ],
+      "Spanish_Empire": [
+        "Pedro de Ospina (Royalist General)",
+        "Juan de Sámano (Royalist General)",
+        "Mariano Montilla (Royalist General)"
+      ]
+    },
+    "strength": {
+      "Revolutionaries": {
+        "troops": "Varied, fluctuating as more regions joined the independence movement."
+      },
+      "Spanish_Empire": {
+        "troops": "Around 50,000 at the height of Spanish loyalist forces."
+      }
+    },
+    "casualties_and_losses": {
+      "Revolutionaries": {
+        "dead": "Estimated 10,000-20,000 casualties during the conflict",
+        "wounded": "Tens of thousands injured or maimed"
+      },
+      "Spanish_Empire": {
+        "dead": "Around 10,000-15,000 casualties",
+        "wounded": "Substantial casualties, though exact numbers are difficult to ascertain"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Boyacá",
+        "date": "August 7, 1819",
+        "description": "A decisive victory by Bolívar’s forces, which led to the liberation of Bogotá and paved the way for the creation of Gran Colombia.",
+        "outcome": "Revolutionary victory"
+      },
+      {
+        "name": "Battle of Carabobo",
+        "date": "June 24, 1821",
+        "description": "A key battle in Venezuela that was instrumental in securing independence for the Gran Colombian region.",
+        "outcome": "Revolutionary victory"
+      },
+      {
+        "name": "Battle of Ayacucho",
+        "date": "December 9, 1824",
+        "description": "The final decisive battle of the Spanish American wars of independence, ensuring the collapse of Spanish authority in South America.",
+        "outcome": "Revolutionary victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Treaty_of_Cúcuta": {
+        "date_signed": "May 24, 1821",
+        "signatories": [
+          "Simón Bolívar (Gran Colombia)",
+          "Spanish representatives (though negotiations were complicated)"
+        ],
+        "terms": [
+          "The establishment of Gran Colombia as a new nation, combining Colombia, Venezuela, Ecuador, and Panama under Bolívar's leadership."
+        ]
+      },
+      "Gran_Colombia_Constitution": {
+        "date_enacted": "1819",
+        "signatories": [
+          "Simón Bolívar (President of Gran Colombia)"
+        ],
+        "terms": [
+          "Gran Colombia was officially recognized as a republic, with Bolívar as president, and a constitutional framework aimed at uniting the territories of former Spanish colonies."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "The creation of Gran Colombia, a union of several former Spanish colonies in South America. Bolívar was elected as the first president.",
+        "Gran Colombia struggled with internal divisions and regional conflicts, leading to its eventual dissolution in 1831."
+      ],
+      "economic": [
+        "The economy of Gran Colombia initially struggled, with continued wars and economic dislocation following independence."
+      ],
+      "long_term_effects": [
+        "The war led to the emergence of several new nations in South America, including Colombia, Venezuela, Ecuador, and Panama (the latter would gain independence in 1903)."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The war was part of the broader Spanish American wars of independence, which resulted in the dismantling of the Spanish Empire in the Americas."
+      ],
+      "political": [
+        "The creation of Gran Colombia as a major new nation-state in South America, although it would later dissolve due to regional conflicts."
+      ],
+      "cultural": [
+        "The war had a significant cultural impact, fostering a sense of national identity in the region and contributing to the rise of new leadership in the post-colonial period."
+      ]
+    }
+  }
+}
