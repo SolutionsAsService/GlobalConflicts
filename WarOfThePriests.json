@@ -1,0 +1,135 @@
+{
+  "War_of_the_Priests_1467_1469": {
+    "alternate_names": [
+      "The Warmian War",
+      "Bishop’s War in Prussia"
+    ],
+    "part_of": [
+      "Conflicts of the Teutonic Order",
+      "Polish-Teutonic Wars"
+    ],
+    "date_range": "1467–1469",
+    "location": [
+      "Warmia (Modern Poland)",
+      "Prussia"
+    ],
+    "background": {
+      "causes": [
+        "Teutonic Order’s attempts to control the Prince-Bishopric of Warmia.",
+        "Bishop Nicholas von Tüngen’s alignment with Poland against Teutonic rule.",
+        "The weakening of the Teutonic Order following its defeat in the Thirteen Years’ War (1454–1466)."
+      ],
+      "events_leading_up_to_war": [
+        "The Second Peace of Thorn (1466) forced the Teutonic Order to recognize Polish overlordship over Royal Prussia.",
+        "The Teutonic Order refused to accept the Polish-nominated bishop in Warmia.",
+        "The Order launched military campaigns to regain Warmia’s independence from Polish influence."
+      ]
+    },
+    "result": {
+      "general": "Polish victory",
+      "treaty": "Second Peace of Thorn (confirmed in 1479)",
+      "territorial_changes": "Warmia fully integrated into the Polish Crown’s sphere of influence."
+    },
+    "belligerents": {
+      "Teutonic_Order": {
+        "entities": ["Teutonic Knights", "Hired Mercenaries"],
+        "allies": ["Pro-Teutonic Warmian Nobility"]
+      },
+      "Poland_and_Warmia": {
+        "entities": ["Kingdom of Poland", "Prince-Bishopric of Warmia"],
+        "allies": ["Polish Nobility", "Royal Prussian Forces"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Teutonic_Order": ["Henry Reffle von Richtenberg (Grand Master)", "Teutonic Captains"],
+      "Poland_and_Warmia": ["King Casimir IV of Poland", "Bishop Nicholas von Tüngen"]
+    },
+    "strength": {
+      "Teutonic_Order": {
+        "troops": "8,000+",
+        "artillery": "Limited siege weapons",
+        "mercenaries": "Hired German and Bohemian knights"
+      },
+      "Poland_and_Warmia": {
+        "troops": "10,000+",
+        "artillery": "Polish heavy cannons",
+        "mercenaries": "Royal Prussian city militias"
+      }
+    },
+    "casualties_and_losses": {
+      "Teutonic_Order": {
+        "dead": "Unknown, but significant",
+        "wounded": "Several hundred",
+        "prisoners": "Captured knights and officers"
+      },
+      "Poland_and_Warmia": {
+        "dead": "Moderate losses",
+        "wounded": "Unknown"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Lidzbark",
+        "date": "1468",
+        "description": "Polish forces besieged and captured the stronghold of Lidzbark, cutting off Teutonic supply lines.",
+        "outcome": "Polish victory"
+      },
+      {
+        "name": "Battle of Heilsberg",
+        "date": "1469",
+        "description": "A decisive battle where Polish and Warmian forces crushed Teutonic reinforcements.",
+        "outcome": "Polish victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Chronicles of Jan Długosz",
+          "type": "Medieval historical text",
+          "location": "Polish archives",
+          "details": "Detailed accounts of the conflict from a Polish perspective."
+        },
+        {
+          "name": "Teutonic Military Records",
+          "type": "Order archives",
+          "location": "Berlin and Malbork archives",
+          "details": "Documents on Teutonic troop movements and mercenary payments."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Medieval weapons",
+          "description": "Recovered swords, crossbows, and armor from battle sites in Warmia."
+        },
+        {
+          "type": "Castle ruins",
+          "description": "Damaged fortifications at Lidzbark and Heilsberg showing cannon fire impact."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Teutonic Order lost influence over Warmia permanently.",
+        "Strengthened Polish control over Prussia."
+      ],
+      "long_term_effects": [
+        "Further decline of the Teutonic Order as a political and military force.",
+        "Contributed to the eventual transformation of the Teutonic State into the secular Duchy of Prussia."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Demonstrated the growing power of Poland over the Teutonic Order.",
+        "Marked one of the last medieval conflicts between religious orders and secular states."
+      ],
+      "political": [
+        "Helped solidify Polish dominance over Royal Prussia and Warmia.",
+        "Weakened the legitimacy of military orders as territorial rulers."
+      ],
+      "cultural": [
+        "Contributed to the decline of chivalric knighthood in Central Europe.",
+        "Affected the development of Prussian identity and Polish-German relations."
+      ]
+    }
+  }
+}
