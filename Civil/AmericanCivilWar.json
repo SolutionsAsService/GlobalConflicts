@@ -1,0 +1,284 @@
+{
+  "American_Civil_War": {
+    "alternate_names": [
+      "The War Between the States",
+      "The Rebellion",
+      "The War of the Union"
+    ],
+    "date_range": "1861–1865",
+    "location": "United States",
+    "background": {
+      "causes": [
+        "Tensions between the North and South regarding the issues of slavery, states' rights, and economic differences.",
+        "The election of Abraham Lincoln in 1860, who was opposed to the expansion of slavery, led Southern states to secede from the Union.",
+        "Economic and social differences between the industrialized North and the agrarian South, particularly concerning tariffs, trade, and slavery."
+      ],
+      "events_leading_up_to_battle": [
+        "Southern states, beginning with South Carolina, seceded from the Union following Lincoln's election, forming the Confederate States of America (CSA).",
+        "Confederate forces attacked Fort Sumter in South Carolina in April 1861, marking the start of the war.",
+        "The conflict escalated as more states joined the Confederacy, while the Union, led by President Abraham Lincoln, fought to preserve the United States."
+      ]
+    },
+    "result": {
+      "general": "Union victory and the abolition of slavery.",
+      "territorial_changes": [
+        "The Confederacy was defeated and re-integrated into the Union.",
+        "The 13th Amendment was passed, abolishing slavery in the United States."
+      ]
+    },
+    "belligerents": {
+      "Union": {
+        "entities": [
+          "United States of America (Union)",
+          "Federal Government",
+          "Union Army"
+        ],
+        "allies": []
+      },
+      "Confederacy": {
+        "entities": [
+          "Confederate States of America",
+          "Southern states' militias",
+          "Confederate Army"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Union": [
+        "Abraham Lincoln (President)",
+        "Ulysses S. Grant (General)",
+        "William Tecumseh Sherman (General)",
+        "George McClellan (General)"
+      ],
+      "Confederacy": [
+        "Jefferson Davis (President)",
+        "Robert E. Lee (General)",
+        "Stonewall Jackson (General)",
+        "James Longstreet (General)"
+      ]
+    },
+    "strength": {
+      "Union": {
+        "troops": "Over 2 million",
+        "navy": "Union Navy, stronger and more industrialized"
+      },
+      "Confederacy": {
+        "troops": "Around 1 million",
+        "navy": "Limited and less industrialized"
+      }
+    },
+    "casualties_and_losses": {
+      "Union": {
+        "dead": "Approximately 360,000",
+        "wounded": "Over 280,000"
+      },
+      "Confederacy": {
+        "dead": "Approximately 260,000",
+        "wounded": "Over 200,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Gettysburg",
+        "date": "July 1–3, 1863",
+        "description": "A turning point in the war where Union forces, under General George Meade, decisively defeated Confederate forces under General Robert E. Lee.",
+        "outcome": "Union victory"
+      },
+      {
+        "name": "Battle of Antietam",
+        "date": "September 17, 1862",
+        "description": "The bloodiest single-day battle in American history, leading to a tactical draw but a strategic Union victory.",
+        "outcome": "Union victory"
+      },
+      {
+        "name": "Sherman's March to the Sea",
+        "date": "November–December 1864",
+        "description": "General William Tecumseh Sherman led Union forces on a devastating march through Georgia, weakening Confederate morale and infrastructure.",
+        "outcome": "Union victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Appomattox_Court_House": {
+        "date_signed": "April 9, 1865",
+        "signatories": [
+          "General Robert E. Lee (Confederate Army)",
+          "General Ulysses S. Grant (Union Army)"
+        ],
+        "terms": [
+          "General Lee surrendered the Confederate Army of Northern Virginia to General Grant, effectively ending the Civil War."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "The Confederate states were re-integrated into the Union, restoring national unity.",
+        "Abraham Lincoln was assassinated shortly after the war ended, leading to the controversial Reconstruction period under his successor, Andrew Johnson."
+      ],
+      "economic": [
+        "The South's economy was devastated by the war, with much of its infrastructure destroyed, leading to a difficult and prolonged rebuilding process.",
+        "The war helped solidify the industrial economy of the North, and the abolition of slavery radically changed the South's labor system."
+      ],
+      "long_term_effects": [
+        "The abolition of slavery through the 13th Amendment, followed by the passage of the 14th and 15th Amendments, which granted citizenship and voting rights to former slaves.",
+        "The war marked the permanent destruction of slavery as a system in the United States, and the Union’s victory solidified the United States as a single, unified nation."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Civil War is often cited as the first modern war due to its use of railroads, telegraphs, and advanced weaponry.",
+        "The war had profound implications for military tactics, with battles involving large-scale movements, entrenched positions, and devastating artillery."
+      ],
+      "political": [
+        "The war cemented the power of the federal government over the states, shifting the political balance in favor of centralized authority.",
+        "The victory ensured the continuation of the United States as a unified nation, which would later become a major world power."
+      ],
+      "cultural": [
+        "The Civil War deeply affected American society, particularly the South, where the legacies of slavery and the war’s devastation lasted well into the 20th century.",
+        "The war also played a pivotal role in defining the national identity of the United States, particularly the concepts of freedom, equality, and democracy."
+      ]
+    }
+  }
+}
+{
+  "American_Civil_War": {
+    "alternate_names": [
+      "The War Between the States",
+      "The Rebellion",
+      "The War of the Union"
+    ],
+    "date_range": "1861–1865",
+    "location": "United States",
+    "background": {
+      "causes": [
+        "Tensions between the North and South regarding the issues of slavery, states' rights, and economic differences.",
+        "The election of Abraham Lincoln in 1860, who was opposed to the expansion of slavery, led Southern states to secede from the Union.",
+        "Economic and social differences between the industrialized North and the agrarian South, particularly concerning tariffs, trade, and slavery."
+      ],
+      "events_leading_up_to_battle": [
+        "Southern states, beginning with South Carolina, seceded from the Union following Lincoln's election, forming the Confederate States of America (CSA).",
+        "Confederate forces attacked Fort Sumter in South Carolina in April 1861, marking the start of the war.",
+        "The conflict escalated as more states joined the Confederacy, while the Union, led by President Abraham Lincoln, fought to preserve the United States."
+      ]
+    },
+    "result": {
+      "general": "Union victory and the abolition of slavery.",
+      "territorial_changes": [
+        "The Confederacy was defeated and re-integrated into the Union.",
+        "The 13th Amendment was passed, abolishing slavery in the United States."
+      ]
+    },
+    "belligerents": {
+      "Union": {
+        "entities": [
+          "United States of America (Union)",
+          "Federal Government",
+          "Union Army"
+        ],
+        "allies": []
+      },
+      "Confederacy": {
+        "entities": [
+          "Confederate States of America",
+          "Southern states' militias",
+          "Confederate Army"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Union": [
+        "Abraham Lincoln (President)",
+        "Ulysses S. Grant (General)",
+        "William Tecumseh Sherman (General)",
+        "George McClellan (General)"
+      ],
+      "Confederacy": [
+        "Jefferson Davis (President)",
+        "Robert E. Lee (General)",
+        "Stonewall Jackson (General)",
+        "James Longstreet (General)"
+      ]
+    },
+    "strength": {
+      "Union": {
+        "troops": "Over 2 million",
+        "navy": "Union Navy, stronger and more industrialized"
+      },
+      "Confederacy": {
+        "troops": "Around 1 million",
+        "navy": "Limited and less industrialized"
+      }
+    },
+    "casualties_and_losses": {
+      "Union": {
+        "dead": "Approximately 360,000",
+        "wounded": "Over 280,000"
+      },
+      "Confederacy": {
+        "dead": "Approximately 260,000",
+        "wounded": "Over 200,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Gettysburg",
+        "date": "July 1–3, 1863",
+        "description": "A turning point in the war where Union forces, under General George Meade, decisively defeated Confederate forces under General Robert E. Lee.",
+        "outcome": "Union victory"
+      },
+      {
+        "name": "Battle of Antietam",
+        "date": "September 17, 1862",
+        "description": "The bloodiest single-day battle in American history, leading to a tactical draw but a strategic Union victory.",
+        "outcome": "Union victory"
+      },
+      {
+        "name": "Sherman's March to the Sea",
+        "date": "November–December 1864",
+        "description": "General William Tecumseh Sherman led Union forces on a devastating march through Georgia, weakening Confederate morale and infrastructure.",
+        "outcome": "Union victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Appomattox_Court_House": {
+        "date_signed": "April 9, 1865",
+        "signatories": [
+          "General Robert E. Lee (Confederate Army)",
+          "General Ulysses S. Grant (Union Army)"
+        ],
+        "terms": [
+          "General Lee surrendered the Confederate Army of Northern Virginia to General Grant, effectively ending the Civil War."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "The Confederate states were re-integrated into the Union, restoring national unity.",
+        "Abraham Lincoln was assassinated shortly after the war ended, leading to the controversial Reconstruction period under his successor, Andrew Johnson."
+      ],
+      "economic": [
+        "The South's economy was devastated by the war, with much of its infrastructure destroyed, leading to a difficult and prolonged rebuilding process.",
+        "The war helped solidify the industrial economy of the North, and the abolition of slavery radically changed the South's labor system."
+      ],
+      "long_term_effects": [
+        "The abolition of slavery through the 13th Amendment, followed by the passage of the 14th and 15th Amendments, which granted citizenship and voting rights to former slaves.",
+        "The war marked the permanent destruction of slavery as a system in the United States, and the Union’s victory solidified the United States as a single, unified nation."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Civil War is often cited as the first modern war due to its use of railroads, telegraphs, and advanced weaponry.",
+        "The war had profound implications for military tactics, with battles involving large-scale movements, entrenched positions, and devastating artillery."
+      ],
+      "political": [
+        "The war cemented the power of the federal government over the states, shifting the political balance in favor of centralized authority.",
+        "The victory ensured the continuation of the United States as a unified nation, which would later become a major world power."
+      ],
+      "cultural": [
+        "The Civil War deeply affected American society, particularly the South, where the legacies of slavery and the war’s devastation lasted well into the 20th century.",
+        "The war also played a pivotal role in defining the national identity of the United States, particularly the concepts of freedom, equality, and democracy."
+      ]
+    }
+  }
+}
