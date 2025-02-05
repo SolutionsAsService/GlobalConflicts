@@ -1,0 +1,151 @@
+{
+  "Expansion_into_Manchuria_1618_1626": {
+    "alternate_names": [
+      "Jurchen Rebellion against the Ming",
+      "Rise of the Manchu",
+      "Later Jin Conquest of Manchuria"
+    ],
+    "part_of": [
+      "Ming-Manchu Conflicts",
+      "Qing Dynasty Expansion",
+      "Prelude to the Fall of the Ming"
+    ],
+    "date_range": "1618–1626 CE",
+    "location": [
+      "Manchuria",
+      "Northeastern China",
+      "Liaodong Peninsula"
+    ],
+    "background": {
+      "causes": [
+        "The Jurchens sought to consolidate their power and unite under Nurhaci.",
+        "The Ming Dynasty imposed heavy taxes and military control over the Jurchen tribes, leading to resentment.",
+        "Nurhaci issued the 'Seven Grievances' against the Ming, declaring war and justifying his rebellion.",
+        "The weakening of the Ming military and internal corruption provided an opportunity for Jurchen expansion."
+      ],
+      "events_leading_up_to_war": [
+        "Nurhaci established the Later Jin state in 1616, consolidating Jurchen power.",
+        "Tensions between the Jurchens and the Ming escalated due to territorial disputes and trade restrictions.",
+        "The Ming's defensive strategies in Manchuria proved inadequate against Nurhaci’s growing military force."
+      ]
+    },
+    "result": {
+      "general": "Jurchen (Later Jin) victory",
+      "territorial_changes": "Large portions of Manchuria fell under Jurchen control, weakening Ming influence in the region."
+    },
+    "belligerents": {
+      "Later_Jin": {
+        "entities": ["Jurchen Tribes", "Nurhaci's Army"],
+        "allies": ["Mongol Tribes"]
+      },
+      "Ming_Dynasty": {
+        "entities": ["Ming Imperial Army"],
+        "allies": ["Korean Joseon Dynasty (initially neutral, later engaged)"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Later_Jin": [
+        "Nurhaci",
+        "Huang Taiji (future Qing Emperor)"
+      ],
+      "Ming_Dynasty": [
+        "Li Chengliang",
+        "Yang Hao",
+        "Duan Shixuan"
+      ]
+    },
+    "strength": {
+      "Later_Jin": {
+        "troops": "60,000+",
+        "weapons": "Matchlock muskets, bows, cavalry, siege weapons"
+      },
+      "Ming_Dynasty": {
+        "troops": "100,000+",
+        "weapons": "Gunpowder cannons, matchlock muskets, crossbows, cavalry"
+      }
+    },
+    "casualties_and_losses": {
+      "Later_Jin": {
+        "dead": "Estimated 10,000+",
+        "wounded": "Unknown"
+      },
+      "Ming_Dynasty": {
+        "dead": "Estimated 50,000+",
+        "wounded": "Thousands",
+        "captured": "Many Ming soldiers defected to the Jurchens"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Fushun",
+        "date": "1618 CE",
+        "description": "The Jurchens captured the Ming fortress of Fushun, marking the start of their campaign.",
+        "outcome": "Jurchen victory, Ming forces defeated."
+      },
+      {
+        "name": "Battle of Sarhu",
+        "date": "1619 CE",
+        "description": "A major battle where Nurhaci's forces decisively defeated a much larger Ming army using superior tactics.",
+        "outcome": "Jurchen victory, Ming suffered heavy losses."
+      },
+      {
+        "name": "Siege of Shenyang",
+        "date": "1621 CE",
+        "description": "The Jurchens besieged and captured the strategic city of Shenyang, making it their new capital.",
+        "outcome": "Jurchen victory, Shenyang became the Later Jin capital."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "The Seven Grievances",
+          "type": "Political manifesto",
+          "location": "Historical archives",
+          "details": "Nurhaci's declaration of war against the Ming, listing his justifications."
+        },
+        {
+          "name": "Ming Military Reports",
+          "type": "Official records",
+          "location": "Beijing Archives",
+          "details": "Ming generals’ accounts of battles fought against the Jurchens."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Weapons and Armor",
+          "description": "Matchlock muskets, Ming swords, and Jurchen bows found in Manchurian battle sites."
+        },
+        {
+          "type": "Fortress Ruins",
+          "description": "Remains of Ming defensive structures destroyed during the Jurchen conquest."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Ming Dynasty lost control over Manchuria, allowing the Jurchens to consolidate their power.",
+        "Nurhaci laid the foundation for the Qing Dynasty, which would later overthrow the Ming.",
+        "The Ming government suffered a loss of prestige, leading to internal instability."
+      ],
+      "long_term_effects": [
+        "Manchuria became the power base for the Qing Dynasty, which later ruled all of China.",
+        "Ming defenses weakened, accelerating their eventual collapse in 1644.",
+        "The Manchu military system, including the Eight Banners, was developed during this period and played a key role in future conquests."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Demonstrated the effectiveness of Jurchen military tactics, including mobility and psychological warfare.",
+        "Highlighted weaknesses in the Ming defensive strategy, particularly in Manchuria."
+      ],
+      "political": [
+        "Marked the beginning of Manchu dominance in Northeast Asia.",
+        "Weakened the Ming Dynasty, setting the stage for its downfall."
+      ],
+      "cultural": [
+        "Led to increased interaction between Mongols, Jurchens, and Han Chinese.",
+        "Influenced the development of Qing governance and military organization."
+      ]
+    }
+  }
+}
