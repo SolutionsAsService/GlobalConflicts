@@ -1,0 +1,166 @@
+{
+  "Zanzibar_War_of_Concessions_1888_1890": {
+    "alternate_names": [
+      "Swahili Concession War",
+      "DOAG-Zanzibar Conflict"
+    ],
+    "part_of": [
+      "Scramble for Africa",
+      "Private Colonial Conflicts"
+    ],
+    "date_range": "1888–1890",
+    "location": [
+      "Zanzibar (modern-day Tanzania)",
+      "Coastal East Africa",
+      "Indian Ocean trade routes"
+    ],
+    "background": {
+      "causes": [
+        "European private companies sought control over Zanzibar’s spice and ivory trade.",
+        "Sultanate of Zanzibar resisted unfair trade agreements with European firms.",
+        "German East Africa Company (DOAG) and British syndicates used mercenaries to enforce economic monopolies."
+      ],
+      "events_leading_up_to_war": [
+        "The Sultan of Zanzibar granted trading concessions to Germany and Britain under economic pressure.",
+        "European private companies began establishing **fortified trading posts** and **military outposts**.",
+        "Local Swahili leaders launched **resistance movements**, leading to full-scale conflict."
+      ]
+    },
+    "result": {
+      "general": "European private company victory",
+      "treaty": "Zanzibar forced into economic subjugation",
+      "territorial_changes": "Private companies gained control over Zanzibar’s ports and key trade routes."
+    },
+    "belligerents": {
+      "European_Private_Companies": {
+        "entities": [
+          "German East Africa Company (DOAG)",
+          "British Imperial Trade Syndicates"
+        ],
+        "allies": [
+          "European mercenary forces",
+          "Arab slave traders benefiting from trade monopolies"
+        ]
+      },
+      "Zanzibar_Sultanate": {
+        "entities": [
+          "Sultanate of Zanzibar",
+          "Swahili coastal militias",
+          "Omani Arab traders"
+        ],
+        "allies": [
+          "Local African tribal forces",
+          "Anti-slavery Swahili rebels"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "European_Private_Companies": [
+        "Carl Peters (DOAG leader)",
+        "Sir William Mackinnon (British syndicate financier)"
+      ],
+      "Zanzibar_Sultanate": [
+        "Sultan Khalifa bin Said",
+        "Swahili resistance leader Matumbi Mkwawa"
+      ]
+    },
+    "strength": {
+      "European_Private_Companies": {
+        "troops": "4,000 European mercenaries and Indian sepoy troops",
+        "artillery": "Naval cannons, Maxim machine guns",
+        "ships": "Privately owned gunboats and blockade ships"
+      },
+      "Zanzibar_Sultanate": {
+        "troops": "10,000 local fighters and Swahili tribal militias",
+        "artillery": "Old Ottoman cannons, limited modern firearms",
+        "ships": "Small wooden dhows, coastal defenses"
+      }
+    },
+    "casualties_and_losses": {
+      "European_Private_Companies": {
+        "dead": "900",
+        "wounded": "2,500"
+      },
+      "Zanzibar_Sultanate": {
+        "dead": "5,000",
+        "wounded": "8,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Bagamoyo",
+        "date": "November 1888",
+        "description": "The German East Africa Company launched a brutal assault on the coastal town of Bagamoyo, crushing Swahili resistance.",
+        "outcome": "German victory, securing a foothold in East Africa."
+      },
+      {
+        "name": "Siege of Zanzibar",
+        "date": "January 1890",
+        "description": "British-backed mercenaries and naval forces laid siege to Zanzibar’s capital, forcing the Sultan to surrender trade control.",
+        "outcome": "European victory, leading to British and German dominance over Zanzibar’s economy."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Private Trade Agreements",
+          "type": "Economic treaties",
+          "location": "British and German colonial archives",
+          "details": "Documents revealing how private firms negotiated monopolies over Zanzibar’s trade."
+        },
+        {
+          "name": "Swahili Rebellion Records",
+          "type": "Local resistance accounts",
+          "location": "Tanzanian historical archives",
+          "details": "Writings from Swahili leaders documenting their fight against European corporate armies."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Cannonball Fragments",
+          "description": "Remnants from British and German naval bombardments found near Zanzibar’s old fort."
+        },
+        {
+          "type": "Mercenary Weapons Cache",
+          "description": "European rifles, pistols, and ammunition stockpiles discovered in former trading posts."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Zanzibar’s Colonial Betrayal",
+          "type": "Historical memoir",
+          "details": "A firsthand account by a Swahili merchant detailing how private European firms took over Zanzibar’s trade."
+        },
+        {
+          "name": "Corporate Warfare in East Africa",
+          "type": "British economic records",
+          "details": "Reports from British financiers detailing how private investments led to military interventions."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Zanzibar lost economic independence to European trading firms.",
+        "Led to further British and German colonial control over East Africa."
+      ],
+      "long_term_effects": [
+        "Established the precedent of **private military intervention** in African trade.",
+        "Foreshadowed **corporate-backed colonial expansions** in Africa."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Demonstrated the effectiveness of **private military forces** in colonial warfare.",
+        "Showed how European companies could enforce economic monopolies with armed intervention."
+      ],
+      "political": [
+        "Enabled Britain and Germany to **expand colonial rule over East Africa**.",
+        "Marked the **beginning of Zanzibar’s decline as a trading power**."
+      ],
+      "cultural": [
+        "Sparked **long-lasting anti-colonial resistance** in East Africa.",
+        "Led to Zanzibar becoming a **center of nationalist movements** in the 20th century."
+      ]
+    }
+  }
+}
