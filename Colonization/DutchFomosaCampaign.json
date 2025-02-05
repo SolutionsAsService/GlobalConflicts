@@ -1,0 +1,129 @@
+{
+  "Dutch_Formosa_Campaign_1624_1662": {
+    "alternate_names": [
+      "Dutch Colonial War over Taiwan",
+      "Dutch East India Company's Campaign in Formosa",
+      "Siege of Fort Zeelandia"
+    ],
+    "part_of": [
+      "European Colonial Expansion in Asia",
+      "Dutch Colonial Wars",
+      "Ming-Qing Transition"
+    ],
+    "date_range": "1624–1662",
+    "location": [
+      "Taiwan",
+      "Formosa Island (modern-day Taiwan)"
+    ],
+    "background": {
+      "causes": [
+        "The Dutch East India Company (VOC) sought to expand its Asian trading empire, and Taiwan was an ideal location to control the trade routes between Japan, China, and Southeast Asia.",
+        "The Ming Dynasty's weakening grip over Chinese territories and the emergence of Qing forces prompted Ming loyalists to seek refuge in Taiwan, leading to the rise of resistance against Dutch rule."
+      ],
+      "events_leading_up_to_war": [
+        "The VOC established a base on the island of Formosa in 1624, building Fort Zeelandia and beginning the exploitation of Taiwan’s resources.",
+        "The Ming loyalist resistance, led by Koxinga (Zheng Chenggong), formed a growing threat to the Dutch position, culminating in a military campaign to expel them from Taiwan."
+      ]
+    },
+    "result": {
+      "general": "Dutch defeat, leading to the fall of Dutch colonial rule over Taiwan.",
+      "treaty": "No formal treaty, but the Dutch were expelled, and Koxinga established control over Taiwan.",
+      "territorial_changes": "Taiwan came under the control of Koxinga, who established the Kingdom of Tungning as a Ming loyalist state."
+    },
+    "belligerents": {
+      "Dutch_East_India_Company": {
+        "entities": ["Dutch East India Company (VOC)", "Dutch Navy"],
+        "allies": []
+      },
+      "Ming_Loyalists": {
+        "entities": ["Koxinga's Forces", "Ming Loyalist Military"],
+        "allies": ["Taiwan Indigenous Groups"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Dutch": ["Pieter de Lodewijk", "Gerrit de Houtman"],
+      "Ming_Loyalists": ["Koxinga (Zheng Chenggong)", "Fan Ruoquang"]
+    },
+    "strength": {
+      "Dutch": {
+        "troops": "2,000–3,000",
+        "ships": "Several warships stationed at Fort Zeelandia",
+        "weapons": "Cannons, firearms, small arms"
+      },
+      "Ming_Loyalists": {
+        "troops": "5,000+",
+        "ships": "Naval forces for assault",
+        "weapons": "Cannon, muskets, and siege equipment"
+      }
+    },
+    "casualties_and_losses": {
+      "Dutch": {
+        "dead": "600+",
+        "wounded": "Unknown",
+        "prisoners": "Many taken captive after the fall of Fort Zeelandia"
+      },
+      "Ming_Loyalists": {
+        "dead": "500+",
+        "wounded": "Unknown",
+        "prisoners": "None reported"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Fort Zeelandia",
+        "date": "1662",
+        "description": "Koxinga’s forces laid siege to the Dutch stronghold of Fort Zeelandia, the key Dutch base on the island. After several months of siege, the Dutch forces, weakened by disease and constant bombardment, surrendered.",
+        "outcome": "Koxinga's forces successfully captured Fort Zeelandia, expelling the Dutch from Taiwan."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Dutch East India Company Reports",
+          "type": "Military documents",
+          "location": "National Archives of the Netherlands",
+          "details": "Reports from VOC detailing the ongoing conflict with Ming loyalists, including military engagements and supply issues."
+        },
+        {
+          "name": "Koxinga's War Records",
+          "type": "Historical records",
+          "location": "Taiwan National Museum",
+          "details": "Records from Koxinga's administration, highlighting the reasons for the military campaign and the strategic importance of Taiwan."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Fort Zeelandia Ruins",
+          "description": "The remains of Fort Zeelandia on Taiwan, now a tourist site, serve as evidence of Dutch colonial efforts and the eventual Ming loyalist conquest."
+        },
+        {
+          "type": "Cannons and weapons",
+          "description": "Artifacts from the siege, including Dutch cannons and Ming military tools, can be found in local museums."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Taiwan fell under the control of Koxinga, who established the Kingdom of Tungning. His regime marked the continuation of the Ming resistance against the Qing Dynasty.",
+        "The Dutch were expelled, and Taiwan would not be colonized by a European power again until the late 19th century under the Qing and later Japanese empires."
+      ],
+      "long_term_effects": [
+        "The Dutch defeat marked a turning point in Taiwan’s colonial history, as it shifted from European control to a Chinese-based governance under Koxinga.",
+        "The impact of the Dutch colonial period can still be seen in the architecture, names, and trade practices in Taiwan today."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Dutch use of fortifications and artillery in this campaign set a precedent for European military efforts in Asia.",
+        "Koxinga’s effective use of naval and siege tactics during the siege of Fort Zeelandia led to one of the most successful expulsions of a European power in Asia at the time."
+      ],
+      "political": [
+        "The victory marked the decline of Dutch colonial ambitions in Taiwan, while boosting the reputation of Koxinga as a military leader and symbol of Ming resistance against the Qing."
+      ],
+      "cultural": [
+        "The defeat of the Dutch was a symbol of resistance for the local Chinese population, who would later form the core of Taiwan’s political identity.",
+        "The remnants of Dutch colonial influence can still be seen in Taiwan's infrastructure, language, and culture, though they were eventually overshadowed by Chinese and later Japanese influences."
+      ]
+    }
+  }
+}
