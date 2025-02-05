@@ -1,0 +1,125 @@
+{
+  "Battle_of_the_Qarqar": {
+    "alternate_names": [
+      "Battle of Qarqar",
+      "Qarqar Campaign"
+    ],
+    "date_range": "853 BCE",
+    "location": [
+      "Qarqar (Modern-day Syria)",
+      "Near the Orontes River"
+    ],
+    "belligerents": {
+      "Assyrian_Empire": {
+        "entities": [
+          "King Shalmaneser III",
+          "Assyrian Army"
+        ],
+        "allies": [
+          "Allied kingdoms from Mesopotamia and Asia Minor"
+        ]
+      },
+      "Anti-Assyrian_Coalition": {
+        "entities": [
+          "King Hadadezer of Aram-Damascus",
+          "King Ahab of Israel",
+          "King Gindibu of Arabia",
+          "King Irhuleni of Hamath",
+          "King of Edom",
+          "King of Cilicia",
+          "King of Carchemish",
+          "Other regional kings and private armies"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Assyrian_Empire": [
+        "Shalmaneser III"
+      ],
+      "Anti-Assyrian_Coalition": [
+        "Hadadezer of Aram-Damascus",
+        "Ahab of Israel",
+        "Gindibu of Arabia",
+        "Irhuleni of Hamath"
+      ]
+    },
+    "strength": {
+      "Assyrian_Empire": {
+        "troops": "Approx. 100,000 soldiers",
+        "weapons": "Chariots, infantry, siege weapons, archers"
+      },
+      "Anti-Assyrian_Coalition": {
+        "troops": "Over 100,000 (estimates vary)",
+        "weapons": "Chariots, cavalry, infantry, and private mercenaries"
+      }
+    },
+    "casualties_and_losses": {
+      "Assyrian_Empire": {
+        "dead": "Unknown",
+        "wounded": "Unknown"
+      },
+      "Anti-Assyrian_Coalition": {
+        "dead": "Heavy casualties reported",
+        "wounded": "Many, particularly from the combined forces"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Qarqar",
+        "date": "853 BCE",
+        "location": "Near the Orontes River, Qarqar",
+        "description": "A major battle where Shalmaneser III of Assyria faced a large coalition of regional kings and their private armies. Although the battle was indecisive, it prevented the Assyrians from gaining complete control over the region. The coalition forces were able to maintain a strategic hold, despite Assyrian superiority in the region.",
+        "outcome": "Tactical draw, with neither side achieving a decisive victory"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Annals of Shalmaneser III",
+          "type": "Royal Assyrian records",
+          "location": "British Museum (or Nineveh archives)",
+          "details": "Detailed records by Shalmaneser III describing his campaign, including the Battle of Qarqar and the kings he fought against."
+        },
+        {
+          "name": "Israelite Records",
+          "type": "Historical documents",
+          "location": "The Bible and various archaeological findings",
+          "details": "References to the involvement of King Ahab of Israel in the coalition against Assyria."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Assyrian inscriptions",
+          "description": "Cuneiform inscriptions that describe the battle and Shalmaneser III’s campaigns, including the names of the kings involved."
+        },
+        {
+          "type": "Battlefield remains",
+          "description": "Artifacts, chariot remains, and weaponry found in the region surrounding Qarqar that correlate with ancient records of the battle."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Assyrian Empire, although unable to claim a decisive victory, continued its expansion into Syria and the Levant, although the coalition had prevented further immediate Assyrian annexations.",
+        "The kingdoms that opposed Assyria, including Israel and Aram-Damascus, were able to maintain some autonomy for a time, but Assyria’s future dominance in the region remained inevitable."
+      ],
+      "long_term_effects": [
+        "Assyria eventually did manage to subdue the region in the following decades, though Qarqar marked a temporary halt to their expansion into Syria.",
+        "The involvement of private mercenaries and coalitions of different kings and regional powers reflected the complicated nature of warfare in the ancient Near East, where alliances were often based on immediate political goals."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The Battle of Qarqar was significant for its scale and the participation of a wide range of mercenaries and private armies, highlighting the role of regional coalitions in ancient warfare.",
+        "It was one of the largest battles of the ancient Near East, with an estimated 100,000 soldiers on each side, and it demonstrated the difficulty of decisively defeating a coalition of kingdoms."
+      ],
+      "political": [
+        "The war and the battle showed the power dynamics of the ancient Near East, where a powerful empire like Assyria could be slowed by regional alliances, but the underlying pressure of Assyrian power would continue to shape the region."
+      ],
+      "cultural": [
+        "The battle also had long-lasting cultural implications, as the Assyrians and their king Shalmaneser III were forced to contend with the diverse and complex cultures of the Levant, which influenced their administrative and military strategies in future campaigns."
+      ]
+    }
+  }
+}
