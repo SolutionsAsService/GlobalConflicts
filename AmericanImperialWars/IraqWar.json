@@ -1,0 +1,187 @@
+{
+  "Iraq_War": {
+    "context": {
+      "part_of": ["War on Terror", "U.S. Invasion of Iraq", "Middle Eastern Conflicts"],
+      "background": [
+        "The Iraq War was a conflict that began with the U.S.-led invasion of Iraq in March 2003, ostensibly to dismantle weapons of mass destruction (WMDs) and end the regime of Saddam Hussein.",
+        "Private military contractors (PMCs) played a significant role during the conflict, with companies like **Blackwater**, **DynCorp**, and **Triple Canopy** providing security, logistics, and combat operations.",
+        "The war had major implications for Iraq, the Middle East, and international geopolitics, resulting in the eventual destabilization of Iraq, a rise in insurgent groups, and the formation of the Islamic State (ISIS)."
+      ]
+    },
+    "alternate_names": [
+      "Second Gulf War",
+      "Iraq Conflict",
+      "Invasion of Iraq",
+      "Operation Iraqi Freedom (2003–2010)",
+      "Iraqi Insurgency (2003–2011)"
+    ],
+    "date_range": "20 March 2003 – 18 December 2011",
+    "location": [
+      "Iraq",
+      "Kuwait",
+      "Jordan",
+      "Syria",
+      "Saudi Arabia"
+    ],
+    "result": {
+      "general": [
+        "Overthrow of Saddam Hussein's government by U.S. and coalition forces.",
+        "Establishment of an interim Iraqi government and the eventual creation of the new Iraqi Republic.",
+        "Ongoing sectarian violence, insurgencies, and the rise of extremist groups like ISIS, which would continue destabilizing Iraq long after the official withdrawal of U.S. forces in 2011."
+      ],
+      "territorial_changes": [
+        "U.S. occupation of Iraq from 2003–2011.",
+        "The withdrawal of U.S. forces in 2011 left Iraq in a fragile state, leading to significant security challenges."
+      ]
+    },
+    "belligerents": {
+      "Coalition_Forces": [
+        "United States",
+        "United Kingdom",
+        "Australia",
+        "Poland",
+        "Kuwait",
+        "Other Coalition Partners"
+      ],
+      "Iraq": [
+        "Saddam Hussein's government",
+        "Iraqi Army",
+        "Iraqi Security Forces",
+        "Fedayeen Saddam",
+        "Ba'ath Party loyalists"
+      ],
+      "Opposition_Forces": [
+        "Iraqi Insurgents (Al-Qaeda in Iraq, Mahdi Army, Sunni insurgent groups)",
+        "Saddam loyalists",
+        "Shiite militias (e.g., Badr Brigades, Mahdi Army)",
+        "Al-Qaeda affiliates"
+      ],
+      "Private_Military_Contractors": [
+        "Blackwater (now Academi)",
+        "DynCorp International",
+        "Triple Canopy",
+        "Aegis Defence Services",
+        "Stern Group"
+      ]
+    },
+    "commanders_and_leaders": {
+      "Coalition": [
+        "George W. Bush (U.S. President)",
+        "Tony Blair (UK Prime Minister)",
+        "John Howard (Australian Prime Minister)",
+        "I. K. J. S. D. W. (Coalition General Commander)"
+      ],
+      "Iraq": [
+        "Saddam Hussein (President of Iraq, until 2003)",
+        "Izzat Ibrahim al-Douri (Vice President, leading loyalists)",
+        "Ali Hassan al-Majid (Chemical Ali, key figure in military operations)"
+      ],
+      "Private_Military_Contractors": [
+        "Erik Prince (Founder of Blackwater)",
+        "Gary Jackson (President of Blackwater)",
+        "David R. Green (CEO of DynCorp)"
+      ]
+    },
+    "strength": {
+      "Coalition_Forces": {
+        "United_States": {
+          "regulars": 150000,
+          "contractors": 20000,
+          "police": 10000,
+          "total_strength": 180000
+        },
+        "United_Kingdom": {
+          "regulars": 4500,
+          "contractors": 1500,
+          "total_strength": 6000
+        },
+        "Australia": {
+          "regulars": 2000,
+          "contractors": 500,
+          "total_strength": 2500
+        },
+        "Private_Military_Contractors": {
+          "total_strength": 20000
+        }
+      },
+      "Iraq": {
+        "Iraqi_Army": 40000,
+        "Iraqi_Police": 130000,
+        "Iraqi_Militias": 25000
+      },
+      "Opposition_Forces": {
+        "Iraqi_Insurgents": 25000,
+        "Mahdi_Army": 15000,
+        "Al-Qaeda_in_Iraq": 5000
+      }
+    },
+    "casualties_and_losses": {
+      "Coalition_Forces": {
+        "dead": 4,500,
+        "wounded": 30,000
+      },
+      "Iraq": {
+        "military": 10,000,
+        "civilians": 200,000+
+      },
+      "Private_Military_Contractors": {
+        "dead": 1,000,
+        "wounded": 3,000
+      },
+      "Opposition_Forces": {
+        "dead": 30,000
+      },
+      "Overall": {
+        "total_deaths": "200,000+",
+        "wounded": "500,000+"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Fallujah (2004)",
+        "date": "2004",
+        "description": "The Battle of Fallujah was one of the most significant and bloody battles in the Iraq War, where U.S. and Iraqi forces fought against the insurgent stronghold of Fallujah, which had been under the control of Sunni insurgents.",
+        "outcome": "The battle resulted in heavy losses for both sides, with U.S. forces retaking Fallujah but suffering significant casualties. It marked a turning point in the conflict as it signified the intensity and complexity of the insurgent resistance."
+      },
+      {
+        "name": "Second Battle of Fallujah (2004)",
+        "date": "2004",
+        "description": "Another major battle between U.S. forces and insurgents in Fallujah, considered one of the most intense urban combat operations since the Vietnam War.",
+        "outcome": "The battle resulted in a decisive U.S. victory but with massive destruction of the city, leading to widespread displacement of civilians."
+      },
+      {
+        "name": "Operation Phantom Fury (2004)",
+        "date": "2004",
+        "description": "A U.S.-led military offensive to regain control of Fallujah from insurgents.",
+        "outcome": "After intense fighting, U.S. forces regained control of the city but suffered heavy casualties and significant civilian damage."
+      }
+    ],
+    "private_military_involvement": {
+      "role": [
+        "PMCs like Blackwater, DynCorp, and Triple Canopy were heavily involved in security services for U.S. officials, convoys, and infrastructure protection.",
+        "PMCs were deployed to protect key military bases, important installations, and even diplomatic personnel in Iraq.",
+        "The use of PMCs increased the strain on traditional military forces and contributed to the privatization of warfare, blurring the lines between military and civilian roles."
+      ],
+      "notable_incidents": [
+        {
+          "incident": "Blackwater contractors killed Iraqi civilians in Nisour Square (2004)",
+          "outcome": "The incident led to a major controversy and public backlash over the use of PMCs in military operations, leading to legal and political reforms in U.S. PMC regulations."
+        },
+        {
+          "incident": "DynCorp involvement in operations to combat insurgents in Basra",
+          "outcome": "While effective in some areas, DynCorp's operations raised concerns about accountability and the lack of oversight, especially in civilian-targeted missions."
+        }
+      ]
+    },
+    "legacy": {
+      "impact_on_new_nation": [
+        "The Iraq War ultimately led to the fall of Saddam Hussein and the destabilization of Iraq, creating an unstable political environment for years to come.",
+        "The war demonstrated the increasing role of PMCs in modern conflicts, setting the stage for future conflicts where private contractors play a large role in security operations."
+      ],
+      "long_term_impact": [
+        "The widespread use of PMCs has led to debates about the accountability of private contractors in wartime, especially after incidents like the Nisour Square massacre.",
+        "The Iraq War and the involvement of private security firms also showcased the role of contractors in modern warfare, influencing military policy and strategies around the globe."
+      ]
+    }
+  }
+}
