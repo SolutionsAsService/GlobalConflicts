@@ -1,0 +1,136 @@
+{
+  "Qing_Expansion_Into_Tibet_1720": {
+    "alternate_names": [
+      "Qing Intervention in Tibet",
+      "Qing-Tibetan Conflict",
+      "Kangxi's Tibet Expedition"
+    ],
+    "part_of": [
+      "Qing Dynasty Expansion",
+      "Chinese Imperial Consolidation",
+      "Central Asian Military Campaigns"
+    ],
+    "date_range": "1720 CE",
+    "location": [
+      "Tibet",
+      "Himalayan Region"
+    ],
+    "background": {
+      "causes": [
+        "The Qing Dynasty sought to reassert its dominance over Tibet and consolidate control over the region.",
+        "Tibet had maintained independence and a separate political and religious identity, despite occasional tributary relations with China.",
+        "Qing Emperor Kangxi aimed to strengthen the empire's borders and secure the strategically significant Tibetan Plateau."
+      ],
+      "events_leading_up_to_war": [
+        "The Tibetan government had experienced internal divisions, which weakened their resistance to external influence.",
+        "The Qing Emperor Kangxi, after securing China’s eastern borders, focused on expanding the empire's control over its western frontiers, including Tibet.",
+        "Qing forces moved into Tibet to install a government loyal to the emperor, marking the beginning of Qing control over the region."
+      ]
+    },
+    "result": {
+      "general": "Qing Dynasty victory",
+      "territorial_changes": "Tibet became a protectorate of the Qing Empire, marking the beginning of Qing political influence in the region."
+    },
+    "belligerents": {
+      "Qing_Dynasty": {
+        "entities": [
+          "Qing Imperial Army",
+          "Qing Military Commanders",
+          "Qing Central Government"
+        ],
+        "allies": []
+      },
+      "Tibetan_Government": {
+        "entities": [
+          "Tibetan Buddhist Lamas",
+          "Regional Tibetan Rulers"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Qing_Dynasty": ["Emperor Kangxi", "General Zhang Gui"],
+      "Tibetan_Government": ["Lama Changkya"]
+    },
+    "strength": {
+      "Qing_Dynasty": {
+        "troops": "30,000+",
+        "ships": "None",
+        "weapons": "Advanced firearms, cannons, cavalry, and infantry"
+      },
+      "Tibetan_Government": {
+        "troops": "10,000+",
+        "ships": "None",
+        "weapons": "Traditional weapons, some firearms"
+      }
+    },
+    "casualties_and_losses": {
+      "Qing_Dynasty": {
+        "dead": "1,000+",
+        "wounded": "500+"
+      },
+      "Tibetan_Government": {
+        "dead": "2,000+",
+        "wounded": "Many captured, some executed"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Lhasa",
+        "date": "1720 CE",
+        "description": "A decisive engagement between Qing forces and Tibetan forces that resulted in Qing victory and the establishment of a protectorate over Tibet.",
+        "outcome": "Qing victory, leading to the formal annexation of Tibet as a Qing protectorate."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Qing Annals",
+          "type": "Historical record",
+          "location": "Chinese archives",
+          "details": "Describes the Qing military campaign in Tibet and the subsequent political consolidation."
+        },
+        {
+          "name": "Tibetan Chronicles",
+          "type": "Historical record",
+          "location": "Tibetan archives",
+          "details": "Provides insight into Tibetan resistance and the political dynamics of the time."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Qing military artifacts",
+          "description": "Cannons, rifles, and Qing-era military insignia found in Tibet."
+        },
+        {
+          "type": "Tibetan Buddhist relics",
+          "description": "Artifacts related to Tibetan culture, documenting the impact of Qing rule on Tibetan religious life."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Tibet was officially annexed by the Qing Dynasty and became a protectorate of China.",
+        "The Dalai Lama’s role was formalized under Qing sovereignty, while the Tibetan nobility retained some local authority under Qing oversight."
+      ],
+      "long_term_effects": [
+        "Tibet remained a part of the Qing Empire for the next century, significantly influencing its political, cultural, and religious landscape.",
+        "This intervention set the stage for later Qing conflicts and negotiations with foreign powers, particularly in the 19th century when Tibet became a point of interest for British imperial ambitions."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Marked the beginning of Qing military presence in Tibet, which lasted until the end of the Qing Dynasty.",
+        "Tibet’s integration into the Qing Empire shaped China’s frontier defense strategy."
+      ],
+      "political": [
+        "The Qing Empire’s expansion into Tibet helped solidify its control over China’s western borders, influencing future Sino-Tibetan relations.",
+        "Tibet's incorporation helped to maintain stability in the empire's southwestern regions."
+      ],
+      "cultural": [
+        "This event had a profound impact on Tibetan Buddhism, with Qing patronage of monasteries and temples.",
+        "The establishment of Qing rule in Tibet led to greater integration of Tibetan cultural elements into the broader Chinese imperial identity."
+      ]
+    }
+  }
+}
