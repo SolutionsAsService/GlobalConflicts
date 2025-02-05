@@ -1,0 +1,102 @@
+{
+  "Coconut_War": {
+    "alternate_names": [
+      "The War of the Coconuts",
+      "La Guerra de los Cocos"
+    ],
+    "date_range": "1932",
+    "location": [
+      "El Salvador",
+      "Honduras",
+      "The Gulf of Fonseca"
+    ],
+    "belligerents": {
+      "El_Salvador": {
+        "entities": [
+          "El Salvador Armed Forces"
+        ],
+        "allies": []
+      },
+      "Honduras": {
+        "entities": [
+          "Honduras Armed Forces"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "El_Salvador": [
+        "Maximiliano Hernández Martínez"
+      ],
+      "Honduras": [
+        "Francisco Alvarado"
+      ]
+    },
+    "strength": {
+      "El_Salvador": {
+        "troops": "3,000+",
+        "weapons": "Small arms, artillery"
+      },
+      "Honduras": {
+        "troops": "1,000+",
+        "weapons": "Small arms, artillery"
+      }
+    },
+    "casualties_and_losses": {
+      "El_Salvador": {
+        "dead": "12",
+        "wounded": "Unknown"
+      },
+      "Honduras": {
+        "dead": "30",
+        "wounded": "Unknown"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "The Battle of the Coconut Islands",
+        "date": "April 1932",
+        "location": "Gulf of Fonseca",
+        "description": "A naval skirmish occurred between El Salvador and Honduras after both nations claimed ownership of a group of islands in the Gulf, important for strategic and economic reasons, particularly for coconut trade.",
+        "outcome": "El Salvador defeated the Honduran forces, but tensions persisted despite a ceasefire."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "El Salvador Ministry of War Reports",
+          "type": "Government documentation",
+          "location": "National Archives of El Salvador",
+          "details": "These reports describe the skirmish and its aftermath."
+        },
+        {
+          "name": "Honduran Diplomatic Records",
+          "type": "Government documents",
+          "location": "National Archives of Honduras",
+          "details": "The Honduran records focus on the conflict's implications for national security and economic loss."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Naval remnants",
+          "description": "Small remnants of naval artillery and other equipment from the brief naval skirmish have been found around the islands."
+        },
+        {
+          "type": "Coconut trade artifacts",
+          "description": "Artifacts related to the coconut trade and plantation activities in the Gulf of Fonseca region from the early 20th century."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Although the war lasted for only a few days, it escalated political tensions between the two nations. El Salvador retained control of the disputed islands."
+      ],
+      "economic": [
+        "The war had minimal economic effects on the broader region but did temporarily disrupt the coconut trade, a significant industry in the Gulf of Fonseca."
+      ],
+      "historical_significance": [
+        "The Coconut War is an example of a conflict over relatively minor territorial disputes leading to military action, highlighting the volatility in Central American geopolitics during the early 20th century."
+      ]
+    }
+  }
+}
