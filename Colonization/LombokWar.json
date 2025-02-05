@@ -1,0 +1,131 @@
+{
+  "Lombok_War_1894": {
+    "alternate_names": [
+      "Dutch Invasion of Lombok",
+      "War of Lombok"
+    ],
+    "part_of": [
+      "Dutch Colonial Expansion in Indonesia"
+    ],
+    "date_range": "June – November 1894",
+    "location": [
+      "Lombok, Dutch East Indies (present-day Indonesia)"
+    ],
+    "background": {
+      "causes": [
+        "Dutch desire to consolidate control over the East Indies.",
+        "Internal conflicts between the ruling Balinese elite and the Sasak people.",
+        "Dutch intervention justified as protecting Sasak rebels against Balinese rule."
+      ],
+      "events_leading_up_to_war": [
+        "The Sasak people rebelled against the Balinese rulers of Lombok and sought Dutch assistance.",
+        "The Dutch, seeing an opportunity, launched a military expedition.",
+        "Negotiations failed, leading to an all-out invasion."
+      ]
+    },
+    "result": {
+      "general": "Dutch victory.",
+      "treaty": "Dutch annexation of Lombok into the Dutch East Indies.",
+      "territorial_changes": "Lombok incorporated into the Dutch colonial system."
+    },
+    "belligerents": {
+      "Netherlands": {
+        "entities": ["Royal Netherlands East Indies Army (KNIL)"],
+        "allies": ["Sasak rebels"]
+      },
+      "Balinese_Kingdom_of_Lombok": {
+        "entities": ["Balinese aristocracy of Lombok"],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "Netherlands": ["General P.P.H. van Ham"],
+      "Balinese_Kingdom_of_Lombok": ["Anak Agung Gde Ngurah Karangasem"]
+    },
+    "strength": {
+      "Netherlands": {
+        "troops": "2,500 Dutch and indigenous KNIL soldiers",
+        "ships": "Several warships including HNLMS Koningin Emma"
+      },
+      "Balinese_Kingdom_of_Lombok": {
+        "troops": "10,000 Balinese warriors",
+        "weapons": "Traditional kris daggers, spears, and some firearms"
+      }
+    },
+    "casualties_and_losses": {
+      "Netherlands": {
+        "dead": "100+",
+        "wounded": "Several hundred"
+      },
+      "Balinese_Kingdom_of_Lombok": {
+        "dead": "Thousands",
+        "wounded": "Unknown"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Mataram",
+        "date": "October 1894",
+        "description": "Dutch forces besieged and bombarded the Balinese stronghold of Mataram, forcing its surrender.",
+        "outcome": "Dutch victory, major casualties among Balinese forces."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Dutch Military Reports",
+          "type": "Official documents",
+          "location": "Dutch National Archives",
+          "details": "Detailed accounts of the Dutch campaign and logistical reports."
+        },
+        {
+          "name": "Balinese Court Records",
+          "type": "Local manuscripts",
+          "location": "Bali and Lombok historical archives",
+          "details": "Records detailing resistance efforts and communication among Balinese leaders."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Dutch artillery remains",
+          "description": "Cannon fragments and bullets found in battle sites around Mataram."
+        },
+        {
+          "type": "Balinese ceremonial weapons",
+          "description": "Kris daggers and traditional armor from fallen warriors."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Dutch Colonial Accounts",
+          "type": "Historical texts",
+          "details": "Eyewitness accounts from Dutch officers describing the conflict and aftermath."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The Dutch established full control over Lombok.",
+        "The Balinese elite in Lombok were removed or forced into submission."
+      ],
+      "long_term_effects": [
+        "Further Dutch expansion in Indonesia, solidifying colonial rule.",
+        "Loss of indigenous governance in Lombok for decades."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Showcased Dutch colonial warfare tactics.",
+        "Highlighted resistance strategies of Southeast Asian kingdoms."
+      ],
+      "political": [
+        "Marked a turning point in the consolidation of Dutch rule over Indonesia.",
+        "Demonstrated the role of indigenous factions (Sasak rebels) in colonial conquests."
+      ],
+      "cultural": [
+        "Symbolized the fall of indigenous Balinese rule in Lombok.",
+        "Balinese resistance stories became part of regional folklore."
+      ]
+    }
+  }
+}
