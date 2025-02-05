@@ -1,0 +1,120 @@
+{
+  "Sino_Khotanese_War_747_751": {
+    "alternate_names": [
+      "Tang Conquest of Khotan",
+      "Chinese Expansion in Central Asia"
+    ],
+    "part_of": [
+      "Tang Dynasty's Western Expansion",
+      "Silk Road Conflicts",
+      "Tang-Tibetan Wars"
+    ],
+    "date_range": "747–751 CE",
+    "location": [
+      "Khotan (Modern Xinjiang, China)",
+      "Tarim Basin"
+    ],
+    "background": {
+      "causes": [
+        "Tang Dynasty sought control over Silk Road trade routes.",
+        "Khotan allied with the Tibetan Empire, resisting Tang authority.",
+        "General Gao Xianzhi led a Chinese campaign to bring the region under Tang rule."
+      ],
+      "events_leading_up_to_war": [
+        "Tang military victories in Central Asia emboldened their expansion.",
+        "Khotan resisted Tang influence and supported Tibetan incursions.",
+        "China launched a full-scale military campaign to subdue Khotan."
+      ]
+    },
+    "result": {
+      "general": "Tang Dynasty victory; Khotan brought under Tang rule.",
+      "territorial_changes": "Khotan and surrounding regions became vassals of Tang China."
+    },
+    "belligerents": {
+      "Tang_Dynasty": {
+        "entities": ["Tang Imperial Army"],
+        "allies": ["Uyghur allies", "Turkic vassals"]
+      },
+      "Khotan_Kingdom": {
+        "entities": ["Khotanese Army"],
+        "allies": ["Tibetan Empire"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Tang_Dynasty": ["General Gao Xianzhi"],
+      "Khotan_Kingdom": ["Unknown Khotanese King", "Tibetan Commanders"]
+    },
+    "strength": {
+      "Tang_Dynasty": {
+        "troops": "30,000+ soldiers, including cavalry and auxiliary forces",
+        "weapons": "Composite bows, swords, crossbows, siege equipment"
+      },
+      "Khotan_Kingdom": {
+        "troops": "Estimated 15,000–20,000 including Tibetan reinforcements",
+        "weapons": "Spears, bows, cavalry units"
+      }
+    },
+    "casualties_and_losses": {
+      "Tang_Dynasty": {
+        "dead": "Moderate losses",
+        "wounded": "Thousands"
+      },
+      "Khotan_Kingdom": {
+        "dead": "Heavy losses",
+        "captured": "Khotanese leadership captured or executed"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Khotan",
+        "date": "747 CE",
+        "description": "Tang forces under Gao Xianzhi besieged and stormed Khotan, crushing local resistance.",
+        "outcome": "Decisive Tang victory."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Tang Annals",
+          "type": "Historical text",
+          "location": "China",
+          "details": "Describes Gao Xianzhi's campaigns in Central Asia."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Tang military documents",
+          "description": "Records found in Dunhuang detailing garrison reports from the region."
+        },
+        {
+          "type": "Khotanese Buddhist texts",
+          "description": "Evidence of Chinese influence on Khotanese culture post-war."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Khotan was integrated into the Tang protectorate system.",
+        "Weakened Tibetan influence in the Tarim Basin."
+      ],
+      "long_term_effects": [
+        "Boosted Chinese control over Silk Road trade.",
+        "Set the stage for future clashes with Tibet and Arab forces."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Highlighted Tang China's military reach deep into Central Asia.",
+        "Used cavalry and siege tactics to dominate local kingdoms."
+      ],
+      "political": [
+        "Expanded Chinese power over key trade routes.",
+        "Strengthened Tang diplomatic relations with other Central Asian states."
+      ],
+      "cultural": [
+        "Spread Chinese administrative practices into Central Asia.",
+        "Influenced Buddhist art and culture in the region."
+      ]
+    }
+  }
+}
