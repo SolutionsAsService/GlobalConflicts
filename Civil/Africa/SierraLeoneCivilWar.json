@@ -1,0 +1,123 @@
+{
+  "Sierra_Leone_Civil_War": {
+    "context": {
+      "part_of": ["African Civil Wars", "Post-Colonial Conflicts", "Resource Wars"],
+      "background": [
+        "The Sierra Leone Civil War was fought between the Sierra Leone government, backed by foreign mercenaries, and the Revolutionary United Front (RUF), a rebel group supported by external actors. The war was fueled by a variety of factors, including economic instability, political corruption, and control over the country's diamond resources, which played a central role in the conflict.",
+        "Private military contractors (PMCs) like **Executive Outcomes** and **Sandline International** became heavily involved, providing training, strategic advice, combat support, and resource security. Their role in the war marked one of the clearest examples of PMCs operating in a conflict driven by resource control."
+      ]
+    },
+    "alternate_names": [
+      "Sierra Leone Civil Conflict",
+      "The RUF Rebellion",
+      "Diamond War"
+    ],
+    "date_range": "23 March 1991 – 18 January 2002",
+    "location": [
+      "Sierra Leone",
+      "Liberia"
+    ],
+    "result": {
+      "general": [
+        "The Sierra Leone Civil War ended with the defeat of the RUF and the signing of the Lomé Peace Agreement in 1999, though violence sporadically continued until 2002.",
+        "The involvement of private military contractors was instrumental in stabilizing the government forces, particularly in the later years of the conflict."
+      ],
+      "territorial_changes": [
+        "The RUF and other rebel groups had control of significant territories in the country, especially diamond-rich areas, until the intervention of mercenary forces and UN peacekeepers."
+      ]
+    },
+    "belligerents": {
+      "Sierra_Leone_Government": [
+        "Government of Sierra Leone",
+        "Sierra Leone Armed Forces (SLA)",
+        "Civil Defence Forces (CDF)"
+      ],
+      "Opposition_Forces": [
+        "Revolutionary United Front (RUF)",
+        "Armed Forces Revolutionary Council (AFRC)"
+      ],
+      "Private_Military_Contractors": [
+        "Executive Outcomes",
+        "Sandline International",
+        "Diamonex"
+      ]
+    },
+    "commanders_and_leaders": {
+      "Sierra_Leone_Government": [
+        "Ahmed Tejan Kabbah (President)",
+        "Johnny Paul Koroma (AFRC leader)",
+        "Hinga Norman (CDF leader)"
+      ],
+      "Opposition_Forces": [
+        "Foday Sankoh (RUF leader)",
+        "Johnny Paul Koroma (AFRC leader)"
+      ],
+      "Private_Military_Contractors": [
+        "Tony Buckingham (Founder of Executive Outcomes)",
+        "Tim Spicer (Founder of Sandline International)"
+      ]
+    },
+    "strength": {
+      "Sierra_Leone_Government_Forces": {
+        "regulars": 10,000,
+        "paramilitary": 5,000,
+        "civil_defence_forces": 3,000
+      },
+      "Opposition_Forces": {
+        "RUF": 5,000,
+        "AFRC": 2,000
+      },
+      "Private_Military_Contractors": {
+        "total_strength": 200-500
+      }
+    },
+    "casualties_and_losses": {
+      "Sierra_Leone_Government_Forces": "Approx. 20,000 killed",
+      "Opposition_Forces": "Approx. 10,000 killed",
+      "Private_Military_Contractors": "Approx. 10 killed",
+      "Civilian_Casualties": "50,000–200,000 killed",
+      "Overall_Casualties": "Approx. 100,000–250,000 killed, with thousands of amputees and displaced persons"
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Freetown (1999)",
+        "date": "January 1999",
+        "description": "A key battle where RUF forces, aided by the AFRC, laid siege to Sierra Leone's capital, Freetown. The city saw extensive urban warfare and massive civilian casualties. The intervention of Executive Outcomes helped the government forces regain control of the capital.",
+        "outcome": "The RUF and AFRC were pushed out of Freetown, but the war continued for several more years."
+      },
+      {
+        "name": "Operation Iron Fist (1995)",
+        "date": "1995",
+        "description": "A major military operation launched by the Sierra Leone government and led by Executive Outcomes to dislodge RUF forces from key diamond-mining regions in the east.",
+        "outcome": "The operation successfully reclaimed territory and weakened the RUF’s control over the diamond-rich areas, giving the government forces a significant strategic advantage."
+      }
+    ],
+    "private_military_involvement": {
+      "role": [
+        "PMCs played an instrumental role in helping the Sierra Leone government regain control of key regions, particularly those rich in diamonds, which were a primary financial resource for the RUF.",
+        "Executive Outcomes, led by Tony Buckingham, provided direct combat support to government forces, assisting in several military operations against the RUF. They trained Sierra Leonean forces, provided logistical support, and even engaged in direct combat.",
+        "Sandline International, led by Tim Spicer, was hired in 1998 to assist in the final years of the conflict, providing advice, security, and logistical assistance, particularly for diamond mining operations under government control."
+      ],
+      "notable_incidents": [
+        {
+          "incident": "Executive Outcomes’ intervention in 1995",
+          "outcome": "Executive Outcomes played a decisive role in the government’s successful recapture of diamond mining regions, using its expertise in counterinsurgency tactics and military logistics."
+        },
+        {
+          "incident": "Sandline International arms scandal (1998)",
+          "outcome": "In 1998, Sandline was involved in the controversial shipment of arms to Sierra Leone's government. This act sparked international scandal and a political crisis, as it violated UN sanctions on arms shipments to Sierra Leone."
+        }
+      ]
+    },
+    "legacy": {
+      "impact_on_new_nation": [
+        "While the war officially ended with the Lomé Peace Agreement in 1999 and the cessation of hostilities in 2002, Sierra Leone faced long-term instability, particularly due to the widespread influence of rebel groups and the control of diamond resources by private contractors.",
+        "The role of PMCs during the Sierra Leone Civil War helped pave the way for the increasing use of mercenaries and private security forces in African conflicts, particularly in resource-driven wars."
+      ],
+      "long_term_impact": [
+        "The Sierra Leone Civil War demonstrated the growing trend of PMCs being used in post-colonial African conflicts to secure resources for multinational companies, often with limited oversight or accountability.",
+        "The war also led to greater international attention to the issue of **blood diamonds**, where diamonds were used to fund armed conflicts. This issue remains a significant aspect of global trade and conflict resolution."
+      ]
+    }
+  }
+}
