@@ -1,0 +1,99 @@
+{
+  "Egyptian_Revolution_1952": {
+    "alternate_names": [
+      "The 1952 Egyptian Coup d'État",
+      "The July 23 Revolution"
+    ],
+    "date_range": "1952",
+    "location": "Egypt",
+    "background": {
+      "causes": [
+        "Widespread dissatisfaction with the British-backed monarchy of King Farouk I, who was seen as corrupt and ineffective.",
+        "Economic instability, poverty, and high unemployment plagued Egypt, leading to public unrest.",
+        "Growing nationalist sentiments and the desire for independence from British influence, which had persisted despite Egypt's nominal independence.",
+        "The influence of Pan-Arabism and the desire to unite the Arab world under strong leadership."
+      ],
+      "events_leading_up_to_battle": [
+        "The Free Officers Movement, led by young military officers including Gamal Abdel Nasser, was formed in secret to oppose King Farouk's rule.",
+        "The movement's leaders were influenced by anti-colonial and nationalist ideas, seeking to overthrow the monarchy and establish a republic.",
+        "Tensions increased between the monarchy and the army as Egypt faced increased pressure from Britain and internal political instability.",
+        "On July 23, 1952, a group of military officers led a coup against the monarchy, taking control of key government institutions in Cairo and forcing King Farouk to abdicate and leave Egypt."
+      ]
+    },
+    "result": {
+      "general": "The revolution led to the abolition of the Egyptian monarchy and the establishment of a republic. Gamal Abdel Nasser emerged as the key leader, and the country began a new era of political, economic, and social reforms.",
+      "territorial_changes": [
+        "No territorial changes occurred, but the political structure of Egypt was radically altered, moving away from monarchy to republican governance."
+      ]
+    },
+    "belligerents": {
+      "Egyptian_Monarchy": {
+        "entities": [
+          "King Farouk's government",
+          "Loyalist military forces",
+          "Monarchy supporters"
+        ],
+        "allies": [
+          "United Kingdom (indirect support)"
+        ]
+      },
+      "Free_Officers_Movement": {
+        "entities": [
+          "Military officers",
+          "Civilian supporters"
+        ],
+        "allies": [
+          "Various nationalist and anti-colonial groups"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Egyptian_Monarchy": [
+        "King Farouk I"
+      ],
+      "Free_Officers_Movement": [
+        "Gamal Abdel Nasser",
+        "Mohamed Naguib",
+        "Anwar Sadat"
+      ]
+    },
+    "strength": {
+      "Egyptian_Monarchy": {
+        "troops": "The monarchy's military was composed of a range of forces loyal to King Farouk but was divided and lacked strong coordination after the coup began.",
+        "estimated_strength": "The loyalist forces numbered in the thousands, but they were undermined by defections and lack of popular support."
+      },
+      "Free_Officers_Movement": {
+        "troops": "The movement had the support of a significant portion of the Egyptian military, especially the army and air force, which had grown disillusioned with the monarchy.",
+        "estimated_strength": "Around 3,000 military officers and soldiers participated in the coup, alongside civilian supporters and organizations."
+      }
+    },
+    "casualties_and_losses": {
+      "Egyptian_Monarchy": {
+        "dead": "Very few casualties occurred on the monarchy's side, as the coup was carried out with minimal resistance from the armed forces.",
+        "wounded": "A small number of loyalist military personnel were wounded during the coup, but there were no major battles or violent clashes."
+      },
+      "Free_Officers_Movement": {
+        "dead": "Around 3-5 soldiers from the Free Officers Movement were killed during the coup, and some minor confrontations occurred in certain regions.",
+        "wounded": "The casualties were limited, as most of the movement's forces met little resistance and took key positions quickly."
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Coup against King Farouk (July 23, 1952)",
+        "date": "July 23, 1952",
+        "description": "The coup involved the occupation of strategic locations, including military bases and government institutions in Cairo, Alexandria, and other major cities. King Farouk was forced to abdicate and flee the country, marking the end of the Egyptian monarchy.",
+        "outcome": "Victory for the Free Officers Movement, leading to the overthrow of the monarchy and the establishment of a republic."
+      }
+    ],
+    "treaties_and_agreements": {
+      "Constitution_of_1953": {
+        "date": "1953",
+        "description": "A new republican constitution was introduced that abolished the monarchy and established a provisional government led by the Free Officers Movement.",
+        "impact": "The constitution laid the groundwork for the formation of a republican Egypt, paving the way for Nasser's eventual presidency."
+      }
+    },
+    "legacy": {
+      "impact_on_new_nation": "The Egyptian Revolution of 1952 ended the monarchy and established a republic, fundamentally reshaping Egypt's political landscape. Gamal Abdel Nasser, one of the leaders of the revolution, would become the president and institute a series of reforms that sought to modernize the country and reduce foreign influence. This revolution also inspired other nationalist movements across the Arab world, leading to a wave of independence and reform movements in the region."
+    }
+  }
+}
