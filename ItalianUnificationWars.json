@@ -1,0 +1,176 @@
+{
+  "Italian_Unification_Wars": {
+    "alternate_names": [
+      "Risorgimento",
+      "Second Italian War of Independence",
+      "Franco-Prussian War"
+    ],
+    "date_range": "1848–1871",
+    "location": "Italy",
+    "background": {
+      "causes": [
+        "The fragmentation of Italy into multiple kingdoms and states, many of which were under foreign control (Austrian, French, Spanish).",
+        "The rise of nationalism in Europe, inspired by the French Revolution and the Revolutions of 1848, leading to desires for unification and independence among Italians.",
+        "The weakening of foreign powers that controlled parts of Italy, including Austria and France.",
+        "The role of prominent figures like Giuseppe Garibaldi, Count Cavour, and King Victor Emmanuel II, who spearheaded the movement for Italian unification."
+      ],
+      "events_leading_up_to_battle": [
+        "The first major push for Italian unification began with the 1848 revolutions, which saw uprisings across Italian states but were largely suppressed by Austrian and French forces.",
+        "The idea of unification continued to grow, driven by efforts like the formation of the Kingdom of Sardinia, a key player in the unification process under King Victor Emmanuel II and his prime minister, Count Cavour.",
+        "The pivotal moment came in 1859, with the Second Italian War of Independence, when Sardinia allied with France to fight against Austria, resulting in the liberation of Lombardy and a shift toward unification."
+      ]
+    },
+    "result": {
+      "general": "Victory for Italian nationalists, leading to the unification of Italy.",
+      "territorial_changes": [
+        "The creation of the Kingdom of Italy in 1861, incorporating most of the Italian peninsula under one monarchy.",
+        "The final incorporation of the Papal States in 1870, including the city of Rome, which became the capital of the newly unified nation."
+      ]
+    },
+    "belligerents": {
+      "Kingdom_of_Sardinia": {
+        "entities": [
+          "Kingdom of Sardinia",
+          "Italian Nationalists"
+        ],
+        "allies": [
+          "France (initially)"
+        ]
+      },
+      "Austrian_Empire": {
+        "entities": [
+          "Austrian Army"
+        ],
+        "allies": []
+      },
+      "Papacy": {
+        "entities": [
+          "Papal States"
+        ],
+        "allies": []
+      },
+      "France": {
+        "entities": [
+          "French Empire"
+        ],
+        "allies": [
+          "Kingdom of Sardinia"
+        ]
+      }
+    },
+    "commanders_and_leaders": {
+      "Kingdom_of_Sardinia": [
+        "King Victor Emmanuel II",
+        "Count Camillo di Cavour",
+        "Giuseppe Garibaldi"
+      ],
+      "Austrian_Empire": [
+        "Emperor Franz Joseph I",
+        "Field Marshal Franz von Gyulai"
+      ],
+      "France": [
+        "Napoleon III"
+      ],
+      "Papal_States": [
+        "Pope Pius IX"
+      ]
+    },
+    "strength": {
+      "Kingdom_of_Sardinia": {
+        "troops": "About 200,000 troops in the 1859 war",
+        "navy": "Limited naval forces"
+      },
+      "Austrian_Empire": {
+        "troops": "Over 300,000 in the 1859 war",
+        "navy": "Strong naval forces, particularly in the Adriatic Sea"
+      },
+      "France": {
+        "troops": "About 200,000 soldiers",
+        "navy": "Strong naval presence in the Mediterranean"
+      },
+      "Papal_States": {
+        "troops": "Limited force, supported by French troops"
+      }
+    },
+    "casualties_and_losses": {
+      "Kingdom_of_Sardinia": {
+        "dead": "Around 4,000",
+        "wounded": "Approximately 15,000"
+      },
+      "Austrian_Empire": {
+        "dead": "Around 10,000",
+        "wounded": "Over 20,000"
+      },
+      "France": {
+        "dead": "1,000",
+        "wounded": "3,000"
+      },
+      "Papal_States": {
+        "dead": "Around 1,500",
+        "wounded": "Unspecified"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Solferino",
+        "date": "June 24, 1859",
+        "description": "A decisive battle during the Second Italian War of Independence where the Kingdom of Sardinia and France defeated Austrian forces, resulting in the loss of Lombardy to Sardinia.",
+        "outcome": "Sardinian-French victory"
+      },
+      {
+        "name": "Battle of Magenta",
+        "date": "June 4, 1859",
+        "description": "A major victory for French and Sardinian forces over the Austrians, contributing to the success of the Second Italian War of Independence.",
+        "outcome": "Sardinian-French victory"
+      }
+    ],
+    "treaties_and_agreements": {
+      "Treaty_of_Villafranca": {
+        "date_signed": "July 11, 1859",
+        "signatories": [
+          "France",
+          "Austria"
+        ],
+        "terms": [
+          "Lombardy was ceded to the Kingdom of Sardinia, but Austria retained control over Venetia and other territories.",
+          "The treaty allowed for the expansion of the Kingdom of Sardinia but stopped short of full Italian unification."
+        ]
+      },
+      "Treaty_of_Frankfurt": {
+        "date_signed": "May 10, 1871",
+        "signatories": [
+          "Germany",
+          "France"
+        ],
+        "terms": [
+          "Incorporated the city of Rome and the Papal States into the Kingdom of Italy, finalizing the unification process."
+        ]
+      }
+    },
+    "aftermath": {
+      "political": [
+        "The Kingdom of Italy was proclaimed in 1861, with Victor Emmanuel II as king. Cavour became the first prime minister of Italy.",
+        "Rome was incorporated into the kingdom in 1870 after the Franco-Prussian War led to the withdrawal of French troops protecting the Papacy."
+      ],
+      "economic": [
+        "The unification of Italy brought economic reforms but also created significant regional disparities, particularly between the industrialized north and the agrarian south.",
+        "Italy faced challenges in modernizing its infrastructure and economy, which took decades to fully address."
+      ],
+      "long_term_effects": [
+        "Italy became a unified modern nation-state, though its political, economic, and social challenges continued for decades.",
+        "The Italian unification also sparked nationalist movements in other regions of Europe, including Germany, and reshaped the political map of the continent."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "The wars were instrumental in unifying Italy and demonstrated the importance of military strategy, alliances, and diplomacy in shaping modern nation-states."
+      ],
+      "political": [
+        "The unification of Italy marked the emergence of a unified Italian state, which later played a significant role in European and world politics."
+      ],
+      "cultural": [
+        "Italian unification inspired national pride and a sense of identity across the various Italian states, despite regional divisions that persisted."
+      ]
+    }
+  }
+}
