@@ -1,0 +1,118 @@
+{
+  "Han_Nanyue_War_111_BCE": {
+    "alternate_names": [
+      "Han Conquest of Nanyue",
+      "First Chinese Invasion of Vietnam"
+    ],
+    "part_of": [
+      "Han Dynasty’s Southern Expansion",
+      "Early Chinese-Vietnamese Conflicts"
+    ],
+    "date_range": "112 BCE – 111 BCE",
+    "location": [
+      "Nanyue Kingdom (modern Guangdong, Guangxi, and Northern Vietnam)"
+    ],
+    "background": {
+      "causes": [
+        "Han Dynasty sought direct control over Nanyue’s trade routes.",
+        "Nanyue rulers oscillated between submission and rebellion against Han authority.",
+        "Han envoys were killed by Nanyue's ruling court, prompting Emperor Wu to launch a full-scale invasion."
+      ],
+      "events_leading_up_to_war": [
+        "Han China sent envoys to demand loyalty, but Nanyue resisted.",
+        "Han mobilized a massive invasion force under General Lu Bode."
+      ]
+    },
+    "result": {
+      "general": "Han Dynasty victory; Nanyue was annexed as a Han province.",
+      "territorial_changes": "Nanyue became part of Han China as Jiaozhi Commandery (modern Northern Vietnam)."
+    },
+    "belligerents": {
+      "Han_Dynasty": {
+        "entities": ["Han Imperial Army"],
+        "allies": ["Loyalist factions within Nanyue"]
+      },
+      "Nanyue_Kingdom": {
+        "entities": ["Nanyue Royal Army", "Yue tribal warriors"],
+        "allies": ["Local Vietnamese resistance"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Han_Dynasty": ["General Lu Bode", "General Yang Pu"],
+      "Nanyue_Kingdom": ["King Zhao Jiande", "Lü Jia (Prime Minister)"]
+    },
+    "strength": {
+      "Han_Dynasty": {
+        "troops": "100,000+ Han infantry and cavalry",
+        "weapons": "Crossbows, swords, spears, siege weapons, river boats"
+      },
+      "Nanyue_Kingdom": {
+        "troops": "Likely 30,000-50,000, including Yue tribal warriors",
+        "weapons": "Short swords, bows, jungle warfare tactics"
+      }
+    },
+    "casualties_and_losses": {
+      "Han_Dynasty": {
+        "dead": "Unknown but moderate losses due to resistance and disease",
+        "wounded": "Thousands"
+      },
+      "Nanyue_Kingdom": {
+        "dead": "High; capital fell to Han forces",
+        "wounded": "Thousands",
+        "captured": "Royal family captured or executed"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Panyu (Guangzhou)",
+        "date": "112 BCE",
+        "description": "Han forces besieged and stormed Nanyue’s capital, capturing its ruling elite.",
+        "outcome": "Decisive Han victory."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Records of the Grand Historian (Shiji)",
+          "type": "Historical text",
+          "location": "China",
+          "details": "Sima Qian’s account of the war and annexation."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Nanyue Royal Tomb artifacts",
+          "description": "Includes jade burial suits and Han-style seals, showing cultural integration."
+        },
+        {
+          "type": "Bronze weapons",
+          "description": "Excavated in Vietnam, indicating battles between Han and Yue forces."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Nanyue was fully annexed into the Han Dynasty as Jiaozhi Commandery.",
+        "Han administration established Chinese governance over Northern Vietnam."
+      ],
+      "long_term_effects": [
+        "Began nearly 1,000 years of Chinese rule over Vietnam.",
+        "Led to future Vietnamese resistance movements, including the Trung Sisters’ Rebellion."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Showed Han China's ability to conduct large-scale amphibious warfare.",
+        "Demonstrated early use of naval forces to support land campaigns."
+      ],
+      "political": [
+        "Expanded Han rule deep into Southeast Asia.",
+        "Integrated Nanyue into Chinese bureaucracy, influencing Vietnam’s future governance."
+      ],
+      "cultural": [
+        "Led to Sinicization of Northern Vietnam, introducing Confucianism and Chinese writing.",
+        "Inspired centuries of Vietnamese resistance against Chinese rule."
+      ]
+    }
+  }
+}
