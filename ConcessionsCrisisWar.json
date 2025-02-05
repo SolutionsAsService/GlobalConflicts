@@ -1,0 +1,163 @@
+{
+  "Concessions_Crisis_War_1856_1858": {
+    "alternate_names": [
+      "Anglo-Russian Concession War",
+      "Persian Economic Rebellion"
+    ],
+    "part_of": [
+      "Great Game Conflicts",
+      "Persian Economic Wars"
+    ],
+    "date_range": "1856–1858",
+    "location": [
+      "Persia (modern-day Iran)",
+      "Caspian Sea trade zones",
+      "Persian Gulf concessions"
+    ],
+    "background": {
+      "causes": [
+        "European companies acquired resource and trade monopolies in Persia.",
+        "Persian resentment over foreign economic control.",
+        "British and Russian-backed firms began enforcing private armies to secure their operations."
+      ],
+      "events_leading_up_to_war": [
+        "The British East India Company secured a monopoly over Persian silk and opium production.",
+        "Russian traders expanded fur and caviar exports in northern Persia, displacing local markets.",
+        "The Persian government attempted to revoke unfair treaties, leading to violent clashes."
+      ]
+    },
+    "result": {
+      "general": "European economic victory",
+      "treaty": "Forced Persian economic concessions",
+      "territorial_changes": "Persian Gulf and Caspian trade zones remain under foreign control."
+    },
+    "belligerents": {
+      "European_Trading_Companies": {
+        "entities": [
+          "British East India Company",
+          "Russian Fur Traders",
+          "Dutch Trading Houses"
+        ],
+        "allies": [
+          "Local mercenaries",
+          "Armenian and Georgian traders"
+        ]
+      },
+      "Qajar_Persia": {
+        "entities": [
+          "Persian Imperial Army",
+          "Local Persian tribes"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "European_Companies": [
+        "Sir John Lawrence (EIC Governor)",
+        "Count Alexander Golitsyn (Russian trading leader)"
+      ],
+      "Qajar_Persia": [
+        "Naser al-Din Shah",
+        "Abdol Samad Khan (Persian military leader)"
+      ]
+    },
+    "strength": {
+      "European_Companies": {
+        "troops": "5,000 private soldiers, mercenaries, and company militias",
+        "artillery": "Privately owned cannons and British-supplied rifles",
+        "ships": "Trade vessels converted into warships"
+      },
+      "Qajar_Persia": {
+        "troops": "20,000 Persian troops and local militias",
+        "artillery": "Limited Persian field cannons",
+        "ships": "Minimal naval presence"
+      }
+    },
+    "casualties_and_losses": {
+      "European_Companies": {
+        "dead": "1,200",
+        "wounded": "3,000"
+      },
+      "Qajar_Persia": {
+        "dead": "5,500",
+        "wounded": "9,000"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Battle of Bandar Abbas",
+        "date": "April 1857",
+        "description": "Persian forces attempted to seize back a key trading post, but were repelled by European private militias.",
+        "outcome": "European victory, reinforcing control over the Persian Gulf."
+      },
+      {
+        "name": "Siege of Rasht",
+        "date": "January 1858",
+        "description": "Russian-backed traders and private soldiers defended their outposts from a major Persian counterattack.",
+        "outcome": "Russian victory, securing Caspian Sea trade routes."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Anglo-Persian Trade Treaties",
+          "type": "Diplomatic documents",
+          "location": "British and Russian archives",
+          "details": "These documents outline European companies’ economic rights in Persia and the conflict's aftermath."
+        },
+        {
+          "name": "Persian Military Reports",
+          "type": "Government records",
+          "location": "Iranian National Archives",
+          "details": "Reports describing battles against European-backed forces and failed attempts to reclaim lost land."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Remains of Company Forts",
+          "description": "Ruins of British and Russian trading outposts fortified during the conflict."
+        },
+        {
+          "type": "Battlefield Relics",
+          "description": "Bullets, cannons, and broken Persian banners found near Rasht and Bandar Abbas."
+        }
+      ],
+      "historical_texts": [
+        {
+          "name": "Persian Resistance Chronicles",
+          "type": "Persian historical accounts",
+          "details": "Records from Persian officials describing resistance efforts and European interference."
+        },
+        {
+          "name": "Company War Logs",
+          "type": "Military and economic records",
+          "details": "Private correspondence between European traders and military officers discussing strategy."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Persia was forced to accept more European economic control.",
+        "Led to increased resentment and later anti-foreign uprisings."
+      ],
+      "long_term_effects": [
+        "Foreshadowed future Persian conflicts with European powers over economic sovereignty.",
+        "Weakened Persia’s economy and military control over trade zones."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Showed the power of private military forces in shaping colonial and economic policy.",
+        "Demonstrated the weakness of Persia’s military against modernized private armies."
+      ],
+      "political": [
+        "Expanded European dominance in Persian trade.",
+        "Led to future uprisings against foreign economic control."
+      ],
+      "cultural": [
+        "Persian nationalism grew in response to the conflict.",
+        "Led to later Persian constitutional reforms to resist foreign influence."
+      ]
+    }
+  }
+}
