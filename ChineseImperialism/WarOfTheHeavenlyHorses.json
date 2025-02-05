@@ -1,0 +1,118 @@
+{
+  "War_of_the_Heavenly_Horses_104_101_BCE": {
+    "alternate_names": [
+      "Han-Ferghana War",
+      "Battle for the Heavenly Horses"
+    ],
+    "part_of": [
+      "Han Dynasty’s Expansion into Central Asia",
+      "Early Silk Road Conflicts"
+    ],
+    "date_range": "104 BCE – 101 BCE",
+    "location": [
+      "Ferghana Valley, Central Asia (modern Uzbekistan, Kyrgyzstan, Tajikistan)"
+    ],
+    "background": {
+      "causes": [
+        "Emperor Wu of Han sought superior 'Heavenly Horses' from Ferghana to improve Chinese cavalry.",
+        "Dayuan refused to sell horses to Han envoys, killing the Chinese delegation.",
+        "Han China launched a military campaign to take the horses by force."
+      ],
+      "events_leading_up_to_war": [
+        "Han envoys were humiliated and murdered in Ferghana.",
+        "Emperor Wu ordered a punitive military expedition led by General Li Guangli."
+      ]
+    },
+    "result": {
+      "general": "Han Dynasty victory after siege of Ferghana’s capital.",
+      "treaty": "Ferghana agreed to send horses to China as tribute.",
+      "territorial_changes": "Han gained control over trade routes in the region."
+    },
+    "belligerents": {
+      "Han_Dynasty": {
+        "entities": ["Chinese Imperial Army"],
+        "allies": ["Xiongnu defectors"]
+      },
+      "Dayuan_Ferghana": {
+        "entities": ["Ferghana city-state forces"],
+        "allies": ["Other Central Asian kingdoms"]
+      }
+    },
+    "commanders_and_leaders": {
+      "Han_Dynasty": ["General Li Guangli"],
+      "Dayuan_Ferghana": ["Unknown Ferghana king"]
+    },
+    "strength": {
+      "Han_Dynasty": {
+        "troops": "30,000+ elite Han cavalry and infantry",
+        "weapons": "Crossbows, spears, swords, siege equipment"
+      },
+      "Dayuan_Ferghana": {
+        "troops": "Possibly 20,000, including heavy cavalry",
+        "weapons": "Hellenistic-style armor, lances, bows"
+      }
+    },
+    "casualties_and_losses": {
+      "Han_Dynasty": {
+        "dead": "Over half of the original army due to battles and starvation",
+        "wounded": "Thousands"
+      },
+      "Dayuan_Ferghana": {
+        "dead": "Unknown but significant, city besieged and defeated",
+        "wounded": "Thousands"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Siege of Ershi",
+        "date": "101 BCE",
+        "description": "Han forces surrounded and starved out Ferghana’s capital before storming the city.",
+        "outcome": "Decisive Han victory."
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "Records of the Grand Historian (Shiji)",
+          "type": "Historical text",
+          "location": "China",
+          "details": "Detailed accounts of the war from Sima Qian."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Hellenistic-style armor",
+          "description": "Found in Xinjiang, suggesting Greek influences in Ferghana."
+        },
+        {
+          "type": "Horse skeletons",
+          "description": "Excavated remains of Ferghana warhorses in China."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "Strengthened Han control over trade routes in Central Asia.",
+        "Ferghana became a tributary state to China."
+      ],
+      "long_term_effects": [
+        "Heavenly Horses bred with Chinese stock, improving cavalry.",
+        "Expanded Chinese presence in the Silk Road trade network."
+      ]
+    },
+    "historical_significance": {
+      "military": [
+        "Showcased Han China's ability to project power far beyond its borders.",
+        "Demonstrated importance of siege warfare in ancient Central Asia."
+      ],
+      "political": [
+        "Solidified Han influence over Central Asian city-states.",
+        "Marked the beginning of China’s long engagement with the Silk Road."
+      ],
+      "cultural": [
+        "Ferghana’s Greek-influenced culture introduced new artistic styles to China.",
+        "Led to the glorification of cavalry in Han military tradition."
+      ]
+    }
+  }
+}
