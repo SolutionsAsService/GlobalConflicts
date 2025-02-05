@@ -1,0 +1,103 @@
+{
+  "Pastry_War": {
+    "alternate_names": [
+      "La Guerre de la Pâtisserie",
+      "French-Mexican War"
+    ],
+    "date_range": "1838",
+    "location": [
+      "Mexico City, Mexico",
+      "Gulf Coast of Mexico"
+    ],
+    "belligerents": {
+      "France": {
+        "entities": [
+          "Kingdom of France",
+          "French Navy"
+        ],
+        "allies": []
+      },
+      "Mexico": {
+        "entities": [
+          "Mexican Republic",
+          "Mexican Army"
+        ],
+        "allies": []
+      }
+    },
+    "commanders_and_leaders": {
+      "France": [
+        "Admiral Charles Baudin"
+      ],
+      "Mexico": [
+        "Antonio López de Santa Anna"
+      ]
+    },
+    "strength": {
+      "France": {
+        "troops": "About 4,000 French troops",
+        "weapons": "Naval ships, cannons, muskets, artillery"
+      },
+      "Mexico": {
+        "troops": "Around 6,000 Mexican soldiers",
+        "weapons": "Old cannons, small arms"
+      }
+    },
+    "casualties_and_losses": {
+      "France": {
+        "dead": "None",
+        "wounded": "Few"
+      },
+      "Mexico": {
+        "dead": "Around 50–100",
+        "wounded": "Minor casualties"
+      }
+    },
+    "major_battles": [
+      {
+        "name": "Bombardment of Veracruz",
+        "date": "November 1838",
+        "location": "Veracruz, Mexico",
+        "description": "The French Navy blockaded and bombarded the port city of Veracruz after Mexico failed to settle a financial dispute regarding damage to French property (including a pastry shop owned by a French national). The bombardment led to significant Mexican civilian casualties and the eventual surrender of Veracruz.",
+        "outcome": "French victory, Mexico forced to pay reparations"
+      }
+    ],
+    "artifacts_and_evidence": {
+      "texts": [
+        {
+          "name": "French Government Dispatches",
+          "type": "Official military and diplomatic dispatches",
+          "location": "French National Archives",
+          "details": "The dispatches explain France's reasoning for the attack, including details of the grievances about the damage to French property."
+        },
+        {
+          "name": "Mexican Records",
+          "type": "Government records",
+          "location": "National Archives of Mexico",
+          "details": "The records describe the Mexican perspective, which focused on the absurdity of a war being fought over a minor commercial dispute and pastry shop damages."
+        }
+      ],
+      "archaeological_evidence": [
+        {
+          "type": "Artifacts from Veracruz",
+          "description": "Artifacts from the bombardment, including remnants of cannonballs and fragments from damaged buildings, have been recovered in Veracruz."
+        },
+        {
+          "type": "Historical monuments",
+          "description": "Commemorative plaques in Veracruz recall the event, humorously noting how the war began over a pastry shop dispute."
+        }
+      ]
+    },
+    "aftermath": {
+      "political": [
+        "The war ended with Mexico agreeing to pay a large financial settlement to France, essentially resolving the pastry-related dispute. Mexico’s president, Santa Anna, was politically weakened by the event, but it did little to hinder his long-term rule."
+      ],
+      "economic": [
+        "The war placed a financial strain on Mexico and became a symbolic humiliation for the country, contributing to the country’s long-term economic struggles."
+      ],
+      "historical_significance": [
+        "The Pastry War is often considered one of the most absurd conflicts in history, involving a minor grievance between a pastry chef and a country. It illustrates the volatile relationships between European powers and Latin American countries in the 19th century."
+      ]
+    }
+  }
+}
