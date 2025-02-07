@@ -10,14 +10,21 @@ async function loadWarData() {
         'BeaverWars.json',
         'ProxyWars/ModernProxyWars.json',
         'ProxyWars/InterwarProxyWars.json',
-        'QingDzungarWars.json'
-        
+        'QingDzungarWars.json',
+        'NapoleonicWars/NapoleonicWars.json',
+        'YugoslavWars/YugoslavWars.json',
+        'Colonization/AngloDutchWars.json',
+    
     ];
 
     for (const file of warFiles) {
-        const response = await fetch(file);
-        const data = await response.json();
-        wars.push(data);
+        try {
+            const response = await fetch(file);
+            const data = await response.json();
+            wars.push(data);
+        } catch (error) {
+            console.error(`Failed to load ${file}:`, error);
+        }
     }
 
     displayTimeline();
