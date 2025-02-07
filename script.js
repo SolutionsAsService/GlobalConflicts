@@ -11,6 +11,7 @@ async function loadWarData() {
         'ProxyWars/ModernProxyWars.json',
         'ProxyWars/InterwarProxyWars.json',
         'QingDzungarWars.json'
+        
     ];
 
     for (const file of warFiles) {
